@@ -1,0 +1,483 @@
+{
+ "titulo": "Cómo escoger y aprovechar los alimentos",
+ "subtitulo": "Guía para revisar frutas y verduras antes de usarlas",
+ "ideaClave": {
+  "titulo": "Lo que importa no es cómo se ve, sino si está sano.",
+  "texto": "Un alimento muy grande, muy pequeño o de forma poco común sigue teniendo el mismo sabor y los mismos nutrientes. Muchas manchas secas de la cáscara tampoco avanzan ni dañan el alimento. Lo que sí obliga a descartarlo es la pudrición, el moho, el mal olor o el daño que llegó al interior."
+ },
+ "criterios": [
+  {
+   "icono": "s_sano",
+   "titulo": "Que esté sano",
+   "texto": "Sin podredumbre, fermentación ni partes echadas a perder."
+  },
+  {
+   "icono": "s_tierra",
+   "titulo": "Sin cosas que no se comen",
+   "texto": "Casi sin tierra, piedras, plásticos u otros restos visibles."
+  },
+  {
+   "icono": "s_plagas",
+   "titulo": "Sin plagas",
+   "texto": "Sin insectos, larvas ni huevos a la vista, ni rastros de plagas."
+  },
+  {
+   "icono": "s_humedad",
+   "titulo": "Seco por fuera",
+   "texto": "Seco al tacto. La humedad de más ayuda a que crezcan hongos y bacterias."
+  },
+  {
+   "icono": "s_olor",
+   "titulo": "Sin olores raros",
+   "texto": "Sin olor a fermentado, moho, descompuesto o a químicos."
+  },
+  {
+   "icono": "s_forma",
+   "titulo": "Forma y tamaño: no importan",
+   "texto": "Muy grande, muy pequeño o torcido: se puede aprovechar si está sano."
+  },
+  {
+   "icono": "s_firmeza",
+   "titulo": "Que esté firme",
+   "texto": "Si está blando, aguado o perdió firmeza, se descarta."
+  },
+  {
+   "icono": "s_roedores",
+   "titulo": "Sin huellas de roedores",
+   "texto": "Mordidas, excrementos o rastros de ratas o ratones: se descarta. Pueden transmitir enfermedades como la leptospirosis y la salmonelosis."
+  }
+ ],
+ "semaforo": [
+  {
+   "tipo": "aprovechar",
+   "icono": "s_aprovechar",
+   "titulo": "Se aprovecha",
+   "texto": "Forma o tamaño poco comunes, y manchas secas y superficiales (golpes, roces o cicatrices de la cosecha) que no se hunden, no se ablandan y no huelen mal."
+  },
+  {
+   "tipo": "recortar",
+   "icono": "s_recortar",
+   "titulo": "Se recorta",
+   "texto": "Un daño pequeño y localizado en un alimento firme. Lo que queda debe conservar su forma, color, olor y sabor normales."
+  },
+  {
+   "tipo": "descartar",
+   "icono": "s_descartar",
+   "titulo": "Se descarta",
+   "texto": "Pudrición, moho algodonoso o de colores, partes blandas y aguadas, mal olor, daño que llegó al interior o señales de roedores."
+  }
+ ],
+ "recorte": {
+  "titulo": "Cómo recortar con seguridad",
+  "pasos": [
+   "Confirme que el daño es superficial y no llegó al interior.",
+   "Corte al menos 2,5 cm (1 pulgada) alrededor y por debajo de la zona dañada.",
+   "Procure que el cuchillo no toque la parte dañada, para no pasarla a la parte sana.",
+   "Si hay mal olor, fermentación o el alimento perdió firmeza, no recorte: descarte todo.",
+   "Lave y desinfecte lo que queda antes de usarlo (vea la tarjeta de Limpieza y desinfección).",
+   "Esta práctica se plantea para alimentos que luego se van a preparar o transformar, según el manual de origen."
+  ]
+ },
+ "siRecorta": {
+  "titulo": "Alimentos que sí se pueden recortar",
+  "texto": "Son firmes y con poca agua, así que un daño pequeño no suele avanzar hacia adentro.",
+  "items": [
+   "Ahuyama",
+   "Cidra (cidrayota)",
+   "Col y repollo",
+   "Coliflor",
+   "Brócoli (si el daño está localizado, por ejemplo en el tallo)",
+   "Pepino",
+   "Rábano",
+   "Remolacha",
+   "Yuca blanca",
+   "Zanahoria",
+   "Calabacín",
+   "Cebolla blanca, cebolla de rama y puerro",
+   "Maíz",
+   "Tomate de árbol"
+  ]
+ },
+ "noRecorta": [
+  {
+   "titulo": "Blandos o con mucha agua",
+   "texto": "El daño puede estar por debajo de la superficie sin verse. Si tienen una parte dañada, se descartan completos.",
+   "items": [
+    "Tomate",
+    "Berenjena",
+    "Habichuela",
+    "Fríjol",
+    "Lulo",
+    "Melón y sandía",
+    "Papaya",
+    "Mango y guayaba maduros",
+    "Maracuyá muy maduro",
+    "Plátano maduro"
+   ]
+  },
+  {
+   "titulo": "Los que se oscurecen al cortarlos",
+   "texto": "Al cortarlos se activa una sustancia del propio alimento (una enzima) que los pone color café. Pierden aspecto y parte de sus cualidades.",
+   "items": [
+    "Manzana",
+    "Banano",
+    "Aguacate",
+    "Papa",
+    "Arracacha"
+   ]
+  }
+ ],
+ "advertencia": {
+  "titulo": "Ante la duda, no lo consuma",
+  "puntos": [
+   "Algunas toxinas de los hongos no tienen olor ni sabor, así que no se notan al probar el alimento, y la mayoría resiste la cocción.",
+   "Las personas con defensas bajas deben tener más cuidado: los alimentos en mal estado pueden causarles enfermedades más graves.",
+   "Las frutas y verduras que se comen crudas deben lavarse y desinfectarse bien; la cocción ayuda a eliminar gérmenes, pero no las toxinas de los hongos.",
+   "Esta guía orienta, pero no reemplaza la asesoría de un profesional de la salud."
+  ]
+ },
+ "nota": "Los criterios provienen del manual de selección de alimentos de la Plaza de Mercado José María Villa (ESAN, 2026), elaborado para el aprovechamiento de excedentes. La regla del recorte se basa en recomendaciones del Servicio de Inocuidad e Inspección de Alimentos del USDA.",
+ "bibliografia": [
+  "Arroyave Barreto MP, Vargas Tamayo MJ, Bustamante S. Manual de selección de alimentos recolectados en la Plaza de Mercado José María Villa en el proyecto de experiencias gastronómicas y aprovechamiento de alimentos [manual de práctica profesional]. Asesora: Rivillas JA. Medellín: Universidad de Antioquia, Escuela de Nutrición y Dietética; 2026.",
+  "United States Department of Agriculture, Food Safety and Inspection Service. Molds on food: are they dangerous? [Internet]. Washington, D.C.: USDA-FSIS; [citado 7 nov 2026]. Disponible en: https://www.fsis.usda.gov/es/node/3303"
+ ],
+ "alimentos": {
+  "tomate_chonto": {
+   "nombre": "Tomate",
+   "aprovechar": [
+    "Tomates de forma o tamaño poco comunes.",
+    "Manchas pequeñas y secas en la piel que no se hunden ni se ablandan."
+   ],
+   "recortar": [],
+   "descartar": [
+    "Lesiones hundidas y húmedas, con masas blancas o rosadas encima.",
+    "Zonas oscuras y hundidas alrededor del pedúnculo (donde sale el tallo) que se juntan y se pudren.",
+    "Moho gris sobre una zona blanda y hundida.",
+    "Manchas pequeñas, oscuras y ligeramente hundidas.",
+    "Grietas en la piel, superficiales o profundas.",
+    "Parte blanda y aguada que suelta un líquido blanquecino y huele fuerte y desagradable.",
+    "Manchas oscuras y firmes que, con humedad, se cubren de moho blanco."
+   ],
+   "nota": "El tomate es blando y con mucha agua: no se recorta. Si tiene una parte dañada, se descarta completo."
+  },
+  "zanahoria": {
+   "nombre": "Zanahoria",
+   "aprovechar": [
+    "Zanahorias torcidas, con ramificaciones, muy grandes o muy pequeñas."
+   ],
+   "recortar": [],
+   "descartar": [
+    "Pudrición con moho blanco algodonoso y masas de color salmón en su interior.",
+    "Manchas secas y oscuras en la superficie que empiezan blancas o grises y se vuelven negras."
+   ],
+   "nota": "La zanahoria es firme, pero las dos alteraciones que describe el manual (moho blanco algodonoso con pudrición, y manchas secas oscuras que se vuelven negras) obligan a descartar la raíz afectada, para que no se extienda a las demás."
+  },
+  "lechuga_crespa": {
+   "nombre": "Lechuga",
+   "aprovechar": [
+    "Lechugas de tamaño o forma poco comunes."
+   ],
+   "recortar": [
+    "Hojas secas o muy marchitas: se retiran. Si son varias capas, es mejor descartar toda la lechuga.",
+    "Hojas con golpes o heridas fuertes: se retiran."
+   ],
+   "descartar": [
+    "Lesiones blandas y aguadas cubiertas de moho blanco algodonoso, que con el tiempo muestran puntos negros o marrones.",
+    "Parte blanda y aguada que suelta un líquido blanquecino y huele fuerte y desagradable."
+   ],
+   "nota": ""
+  },
+  "lechuga_romana": {
+   "nombre": "Lechuga",
+   "aprovechar": [
+    "Lechugas de tamaño o forma poco comunes."
+   ],
+   "recortar": [
+    "Hojas secas o muy marchitas: se retiran. Si son varias capas, es mejor descartar toda la lechuga.",
+    "Hojas con golpes o heridas fuertes: se retiran."
+   ],
+   "descartar": [
+    "Lesiones blandas y aguadas cubiertas de moho blanco algodonoso, que con el tiempo muestran puntos negros o marrones.",
+    "Parte blanda y aguada que suelta un líquido blanquecino y huele fuerte y desagradable."
+   ],
+   "nota": ""
+  },
+  "brocoli": {
+   "nombre": "Brócoli",
+   "aprovechar": [
+    "Cabezas pequeñas o de forma poco común."
+   ],
+   "recortar": [
+    "Floretes amarillentos o color café en la superficie: se retira la parte superficial del brote y se usa el tallo. Conviene usarlo pronto, porque por ahí puede entrar la pudrición.",
+    "Hojas con manchas oscuras o amarillas e irregulares: se retiran."
+   ],
+   "descartar": [
+    "Pudrición blanda y aguada que empieza en la superficie o en la base, se descompone rápido y huele fuerte y desagradable.",
+    "Moho gris: flores quemadas y pudrición de color grisáceo en flores y tallos."
+   ],
+   "nota": "Si la parte blanda es grande, huele mal o el brócoli perdió firmeza, se descarta completo."
+  },
+  "aji_picante": {
+   "nombre": "Ají",
+   "aprovechar": [
+    "Ajíes de forma o tamaño poco comunes."
+   ],
+   "recortar": [],
+   "descartar": [
+    "Manchas blandas en el fruto con moho gris encima.",
+    "Manchas pequeñas, oscuras y hundidas en el centro del fruto, a veces con un hongo rosado en la humedad.",
+    "Manchas marrones o negras con anillos de tono verdoso y partes secas y muertas en el fruto."
+   ],
+   "nota": "Si el ají tiene alguna de estas señales, se descarta completo; no se recorta."
+  },
+  "ajo": {
+   "nombre": "Ajo",
+   "aprovechar": [
+    "Cabezas de ajo pequeñas, grandes o de forma poco común."
+   ],
+   "recortar": [],
+   "descartar": [
+    "Moho blanco y suave sobre la cabeza.",
+    "Pudrición semihúmeda: el diente pierde su textura y se vuelve color café.",
+    "Manchas amarillo pálido con moho blanco que luego se vuelve azul verdoso y polvoriento; dientes blandos cubiertos de ese polvo."
+   ],
+   "nota": "El ajo no se recorta: si la cabeza o un diente tiene moho o está blando, se descarta."
+  },
+  "apio": {
+   "nombre": "Apio",
+   "aprovechar": [
+    "Matas de apio pequeñas o de forma poco común."
+   ],
+   "recortar": [
+    "Ramas con manchas café claro y moho blanco algodonoso, o con manchas hundidas y moho gris: se retira la rama afectada y se revisan las demás. Si el moho llegó a varias ramas o a la base, se descarta todo."
+   ],
+   "descartar": [
+    "Tejido que se descompone rápido y suelta líquido."
+   ],
+   "nota": ""
+  },
+  "calabacin": {
+   "nombre": "Calabacín",
+   "aprovechar": [
+    "Calabacines de forma o tamaño poco comunes."
+   ],
+   "recortar": [
+    "Una zona con moho gris localizada, en un calabacín firme: se corta al menos 2,5 cm alrededor y por debajo."
+   ],
+   "descartar": [
+    "Calabacín blando, aguado o con mal olor, o con el moho extendido por buena parte del fruto."
+   ],
+   "nota": ""
+  },
+  "cebolla_de_rama": {
+   "nombre": "Cebolla de rama",
+   "aprovechar": [
+    "Matas de cebolla de rama pequeñas o de forma poco común."
+   ],
+   "recortar": [
+    "Puntas amarillas o partes con daño: se retiran solo esas partes."
+   ],
+   "descartar": [
+    "Cuando la pudrición ya llegó a la base y a las raíces: se ponen blandas y aguadas, y se vuelven blancas y negras con textura suave."
+   ],
+   "nota": "El manual permite retirar las partes afectadas; por prudencia, si el daño llegó a la base se descarta toda la mata."
+  },
+  "cidra": {
+   "nombre": "Cidra",
+   "aprovechar": [
+    "Cidras de forma o tamaño poco comunes."
+   ],
+   "recortar": [
+    "Manchas circulares oscuras, hundidas y húmedas, o zonas oscuras y hundidas, localizadas: se corta la parte afectada si el resto de la cidra sigue firme y sin mal olor."
+   ],
+   "descartar": [
+    "Moho algodonoso o velloso de color amarillo verdoso.",
+    "Manchas aguadas y blandas con moho blanco algodonoso, que se descomponen rápido."
+   ],
+   "nota": "Si el daño se extiende o la cidra se ablanda, se descarta."
+  },
+  "cilantro": {
+   "nombre": "Cilantro",
+   "aprovechar": [
+    "Manojos pequeños o de hojas irregulares."
+   ],
+   "recortar": [
+    "Hojas con manchas café entre las nervaduras, amarillas o secas: se retiran."
+   ],
+   "descartar": [
+    "Manchas aguadas que se vuelven café oscuro o negras en hojas y tallos.",
+    "Base de los tallos con lesiones acuosas que se vuelven blandas, hundidas y café.",
+    "Muchos insectos pequeños verdes o amarillos (pulgones), con hojas deformes y cubiertas de moho negro."
+   ],
+   "nota": "Ante la duda, se descarta el manojo."
+  },
+  "col": {
+   "nombre": "Col y repollo",
+   "aprovechar": [
+    "Coles o repollos pequeños, grandes o de forma poco común."
+   ],
+   "recortar": [
+    "Hojas exteriores marchitas, o con manchas de borde amarillo y centro café oscuro: se retiran. Si el daño llegó al interior, se descarta."
+   ],
+   "descartar": [
+    "Lesiones blandas y aguadas en hojas o tallo, cubiertas de moho blanco algodonoso que avanza rápido y llega al interior."
+   ],
+   "nota": ""
+  },
+  "espinaca": {
+   "nombre": "Espinaca",
+   "aprovechar": [
+    "Hojas de espinaca de tamaño o forma poco comunes."
+   ],
+   "recortar": [
+    "Hojas con manchas amarillas por encima y moho gris azulado por debajo, con manchas café claro en anillos, o con manchas grises circulares: se retiran esas hojas."
+   ],
+   "descartar": [
+    "Manchas pequeñas e irregulares, café oscuro o negras, que crecen y dañan sobre todo las hojas maduras.",
+    "Raíces y base del tallo blandas, que se descomponen y pierden su forma."
+   ],
+   "nota": ""
+  },
+  "frijol_cargamanto": {
+   "nombre": "Fríjol",
+   "aprovechar": [
+    "Fríjoles y vainas de tamaño o forma poco comunes."
+   ],
+   "recortar": [],
+   "descartar": [
+    "Manchas redondas café con borde definido y moho gris oscuro encima.",
+    "Vainas con lesiones aguadas y moho blanco algodonoso con puntos negros y duros; se deshacen y huelen a rancio.",
+    "Manchas circulares café oscuro, ligeramente hundidas y con borde negro, con puntos negros y masas rosadas."
+   ],
+   "nota": "El fríjol no se recorta: si tiene alguna de estas señales, se descarta."
+  },
+  "maiz_amarillo": {
+   "nombre": "Maíz",
+   "aprovechar": [
+    "Mazorcas pequeñas, grandes o de forma poco común."
+   ],
+   "recortar": [],
+   "descartar": [
+    "Granos con color blanco o rosado y moho de esos mismos tonos.",
+    "Granos negros de aspecto aguado.",
+    "Moho algodonoso sobre y entre los granos.",
+    "Moho grisáceo en la base, con mazorca seca, liviana y de aspecto momificado.",
+    "Moho polvoriento azul verdoso sobre y entre los granos, sobre todo cerca de la punta."
+   ],
+   "nota": "Con moho en los granos no se recorta: el moho puede alcanzar toda la mazorca, y algunas toxinas de los hongos no tienen olor ni sabor."
+  },
+  "papa_criolla": {
+   "nombre": "Papa criolla",
+   "aprovechar": [
+    "Papas pequeñas, grandes o de forma poco común."
+   ],
+   "recortar": [],
+   "descartar": [
+    "Manchas café ligeramente hundidas, con el interior café, seco y duro.",
+    "Lesiones oscuras y hundidas que crecen y arrugan la papa; pulpa seca, corchosa y café por debajo.",
+    "Lesiones ásperas o costras negras adheridas a la cáscara; manchas plateadas o grises.",
+    "Partes blandas, aguadas y con mal olor, a veces con líquido blanquecino.",
+    "Interior violeta o negro, o con un hueco en el centro.",
+    "Poros blancos agrandados y sobresalientes, heridas o rajaduras en la cáscara.",
+    "Color verde en la cáscara."
+   ],
+   "nota": "La papa se oscurece al cortarla y no se recorta: si tiene alguna de estas señales, se descarta."
+  },
+  "perejil_crespo": {
+   "nombre": "Perejil",
+   "aprovechar": [
+    "Manojos pequeños o de hojas irregulares."
+   ],
+   "recortar": [
+    "Hojas con manchas café de borde rojizo y puntos negros, manchas amarillas con puntos naranja por debajo, o con polvo blanco: se retiran y el perejil se seca si está húmedo."
+   ],
+   "descartar": [
+    "Manojo blando, aguado o con mal olor."
+   ],
+   "nota": ""
+  },
+  "pimenton_rojo": {
+   "nombre": "Pimentón",
+   "aprovechar": [
+    "Pimentones de forma o tamaño poco comunes."
+   ],
+   "recortar": [
+    "Moho blanco y denso en el tallo del fruto: se retira la parte afectada, si el resto está firme y sin mal olor."
+   ],
+   "descartar": [
+    "Lesiones aguadas con moho blanco algodonoso que se extiende rápido; el pimentón pierde firmeza y huele mal.",
+    "Lesiones hundidas, redondas y negras cerca del tallo, a veces con hongo blanco en el borde.",
+    "Lesiones aguadas en la unión con el tallo, con moho gris, y el tallo se desprende."
+   ],
+   "nota": ""
+  },
+  "platano_harton_verde": {
+   "nombre": "Plátano",
+   "aprovechar": [
+    "Plátanos de tamaño o forma poco comunes."
+   ],
+   "recortar": [
+    "Manchas negras irregulares cerca de la corona (donde se juntan los frutos): si el resto del plátano está firme y en buen estado, se retira la parte afectada."
+   ],
+   "descartar": [
+    "Manchas negras que ya se extendieron por buena parte del fruto, o con moho encima en ambientes húmedos.",
+    "Plátano blando, aguado o con mal olor."
+   ],
+   "nota": "Si el plátano está muy maduro y blando, no se recorta."
+  },
+  "rabano": {
+   "nombre": "Rábano",
+   "aprovechar": [
+    "Rábanos pequeños, grandes o de forma poco común."
+   ],
+   "recortar": [
+    "Vellosidad blanca (moho) en una zona pequeña de la raíz firme: se corta al menos 2,5 cm alrededor y por debajo."
+   ],
+   "descartar": [
+    "Moho blanco que cubre buena parte de la raíz, o rábano blando, aguado o con mal olor."
+   ],
+   "nota": ""
+  },
+  "remolacha": {
+   "nombre": "Remolacha",
+   "aprovechar": [
+    "Remolachas pequeñas, grandes o de forma poco común."
+   ],
+   "recortar": [
+    "Si conserva su firmeza y no cambió de olor, se retira solo la parte afectada. Si hay cambio de color sin hundimiento, se retira la parte con el cambio de color."
+   ],
+   "descartar": [
+    "Remolacha marchita, que perdió agua y peso.",
+    "Manchas oscuras y aguadas que crecen rápido; el tejido se vuelve blando y viscoso, con mal olor.",
+    "Manchas oscuras y hundidas, sobre todo en la punta de la raíz, que se vuelven negras."
+   ],
+   "nota": ""
+  },
+  "fresa": {
+   "nombre": "Fresa",
+   "aprovechar": [
+    "Fresas de tamaño o forma poco comunes, si están firmes, secas y con olor normal."
+   ],
+   "recortar": [],
+   "descartar": [
+    "Fresas blandas, aguadas o que sueltan líquido.",
+    "Cualquier vellosidad o moho (blanco, gris u otro color).",
+    "Olor a fermentado, a moho o a descompuesto."
+   ],
+   "nota": "Este alimento no está descrito en el manual de origen. Esta tarjeta aplica los criterios generales de la guía. Las frutas blandas y con mucha agua no se recortan, porque el moho puede estar por debajo de la superficie sin verse (USDA-FSIS): si una fresa tiene moho, se descarta completa."
+  },
+  "arveja": {
+   "nombre": "Arveja",
+   "aprovechar": [
+    "Vainas y granos de tamaño o forma poco comunes, si están firmes y con olor normal."
+   ],
+   "recortar": [],
+   "descartar": [
+    "Moho en la vaina o en los granos.",
+    "Vainas blandas, aguadas o con mal olor.",
+    "Insectos, larvas o rastros de plagas en la vaina o en los granos."
+   ],
+   "nota": "Este alimento no está descrito en el manual de origen. Esta tarjeta aplica los criterios generales de la guía. Las leguminosas con moho se descartan (USDA-FSIS), igual que el manual indica para el fríjol y la habichuela: no se recortan."
+  }
+ }
+}

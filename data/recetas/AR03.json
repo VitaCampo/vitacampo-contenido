@@ -1,0 +1,200 @@
+{
+  "codigo": "AR03",
+  "nombre": "Ensalada de habichuela y arveja dulce",
+  "imagenSize": {
+    "width": 600,
+    "height": 116
+  },
+  "imagenCredito": "Imagen: recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ, PASO Colombia, CEIBA)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Ensalada de habichuela y arveja dulce\" del recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈½ pocillo, ≈132 g)",
+  "tiempo": "20 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina C",
+    "Buena fuente de vitamina A"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "149 kcal",
+      "597 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "2,4 g",
+      "9,4 g",
+      "3,3 %",
+      "3,1 %"
+    ],
+    [
+      "Carbohidratos",
+      "22,2 g",
+      "88,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "5,7 g",
+      "22,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "2,6 g",
+      "10,3 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "2,9 g",
+      "11,6 g",
+      "10,5 %",
+      "8,8 %"
+    ],
+    [
+      "Vitamina A*",
+      "218,5 µg ER",
+      "873,8 µg ER",
+      "31,2 %",
+      "24,3 %"
+    ],
+    [
+      "Vitamina C*",
+      "59,5 mg",
+      "238,0 mg",
+      "79,3 %",
+      "66,1 %"
+    ],
+    [
+      "Sodio",
+      "45,7 mg",
+      "182,9 mg",
+      "3,3 %",
+      "3,3 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Habichuela",
+      "28,9 g",
+      "115,6 g",
+      "¼ pocillo",
+      "1 pocillo"
+    ],
+    [
+      "Arveja dulce",
+      "14,4 g",
+      "57,8 g",
+      "2 cucharadas",
+      "½ pocillo"
+    ],
+    [
+      "Mantequilla",
+      "4,7 g",
+      "18,7 g",
+      "1 cucharadita",
+      "1 cucharada + ¼ cucharadita"
+    ],
+    [
+      "Aceite",
+      "1,6 g",
+      "6,2 g",
+      "⅓ cucharadita",
+      "½ cucharada"
+    ],
+    [
+      "Pimentón rojo",
+      "26,7 g",
+      "106,7 g",
+      "¼ unidad mediana",
+      "1 unidad mediana"
+    ],
+    [
+      "Cebolla blanca",
+      "24,4 g",
+      "97,8 g",
+      "¼ unidad mediana",
+      "1 unidad mediana"
+    ],
+    [
+      "Tomate",
+      "16,7 g",
+      "66,7 g",
+      "⅛ unidad grande",
+      "½ unidad grande"
+    ],
+    [
+      "Panela raspada",
+      "7,2 g",
+      "28,9 g",
+      "½ cucharada",
+      "2 cucharadas"
+    ],
+    [
+      "Miel",
+      "7,2 g",
+      "28,9 g",
+      "½ cucharada",
+      "2 cucharadas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** muy bien la habichuela, la arveja, el pimentón, la cebolla y el tomate (ver la tarjeta de limpieza y desinfección).",
+    "**Corte** la habichuela en trozos pequeños.",
+    "**Cocine al vapor** durante 10 minutos, baje del fuego y reserve.",
+    "**Pique** el pimentón, la cebolla y el tomate.",
+    "En una sartén, **haga** un guiso (sofrito) con el aceite, la cebolla, el tomate y el pimentón.",
+    "**Agregue** la miel, la panela raspada, la mantequilla, la habichuela y la arveja. **Deje** que se incorporen bien los ingredientes, sin caramelizar, por 3 minutos.",
+    "**Baje** del fuego y **sirva** caliente o tibio."
+  ],
+  "usoSugerido": "Sirva como acompañamiento de carnes o fríjoles, o como plato principal ligero.",
+  "nutriConsejo": {
+    "icono": "🫛",
+    "titulo": "Ensalada de habichuela y arveja dulce: color y vitaminas",
+    "cuerpo": "Esta preparación combina habichuela y arveja con pimentón y tomate, una buena fuente de vitamina A y excelente fuente de vitamina C. Al llevar panela y miel, aporta una cantidad considerable de azúcares: las personas con diabetes pueden ajustar la porción o reducir estos dos ingredientes, en conjunto con hábitos alimentarios y estilos de vida saludables."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica 8-10 porciones de ½ pocillo cada una; se escaló a 4 porciones VitaCampo con un factor de 4/9 (tomando 9 como punto medio del rango 8-10), dando 1 porción de ≈132 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son técnicas básicas (cocinar al vapor, sofreír, mezclar)."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Ensalada de habichuela y arveja dulce\", del recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ), p. 36."
+    },
+    {
+      "label": "Sobre las medidas caseras:",
+      "texto": "el libro da las cantidades en pocillos y cucharadas (1 pocillo ≈150 mL/120-140 g) y en unidades medianas de pimentón, cebolla y tomate (se estimaron en ≈120 g, ≈110 g y ≈150 g respectivamente, pesos típicos de una unidad mediana de cada hortaliza)."
+    },
+    {
+      "label": "Sobre el azúcar añadido:",
+      "texto": "la panela y la miel aportan 14,4 g de azúcares por porción. No es un valor excesivo frente al umbral de \"bajo en azúcares\" de la Resolución 810 de 2021 (que se calcula por 100 g de producto, no por porción), pero se documenta para que las personas con diabetes puedan tenerlo en cuenta dentro de su consumo diario."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina C (≥30 % VDR en ambos sexos) y \"buena fuente\" de vitamina A se calcularon por porción (Res. 810 de 2021); la vitamina A llega a 31,2 % VDR en mujeres (umbral de \"excelente\") pero solo 24,3 % en hombres, por lo que se declara el nivel que cumplen ambos sexos: \"buena fuente\"."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Gobernación de Antioquia, Gerencia de Seguridad Alimentaria y Nutricional (MANÁ), en alianza con PASO Colombia (Paz Sostenible para Colombia, programa de One Earth Future) y CEIBA. De la huerta a la mesa: recetas saludables del campo para tu vida. Estrategia Del Campo para el Campo. 1a ed. Medellín: Gobernación de Antioquia; [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/AR03.jpg"
+}

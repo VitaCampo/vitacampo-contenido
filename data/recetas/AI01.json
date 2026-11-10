@@ -1,0 +1,183 @@
+{
+  "codigo": "AI01",
+  "nombre": "Encurtido de ají picante",
+  "imagenSize": {
+    "width": 600,
+    "height": 429
+  },
+  "imagenCredito": "Imagen: Kris Tian, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa de un encurtido de ají picante y verduras)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "1 cucharada (≈15 g de encurtido)",
+  "tiempo": "20 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Libre de grasa"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "4 kcal",
+      "15 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,2 g",
+      "0,7 g",
+      "0,3 %",
+      "0,3 %"
+    ],
+    [
+      "Carbohidratos",
+      "0,7 g",
+      "2,9 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,0 g",
+      "0,1 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "0,2 g",
+      "0,7 g",
+      "0,6 %",
+      "0,5 %"
+    ],
+    [
+      "Vitamina C",
+      "10,3 mg",
+      "41,1 mg",
+      "13,7 %",
+      "11,4 %"
+    ],
+    [
+      "Vitamina A",
+      "49,3 µg ER",
+      "197,2 µg ER",
+      "7,0 %",
+      "5,5 %"
+    ],
+    [
+      "Sodio",
+      "118,0 mg",
+      "472,0 mg",
+      "8,6 %",
+      "8,6 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Cilantro",
+      "2 g",
+      "8 g",
+      "1 ramita",
+      "4 ramitas"
+    ],
+    [
+      "Cebolla de rama",
+      "1,5 g",
+      "6 g",
+      "1 trozo pequeño",
+      "4 trozos"
+    ],
+    [
+      "Cebolla blanca",
+      "1 g",
+      "4 g",
+      "1 trozo pequeño",
+      "4 trozos"
+    ],
+    [
+      "Ají picante rojo",
+      "4 g",
+      "16 g",
+      "½ unidad pequeña",
+      "2 unidades"
+    ],
+    [
+      "Vinagre blanco",
+      "5 mL",
+      "20 mL",
+      "1 cucharadita",
+      "1 cucharada + 1 cucharadita"
+    ],
+    [
+      "Sal",
+      "0,3 g",
+      "1,2 g",
+      "2 pizcas",
+      "8 pizcas"
+    ],
+    [
+      "Azúcar",
+      "0,1 g",
+      "0,4 g",
+      "1 pizca",
+      "4 pizcas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** las verduras, incluido el ají (ver la tarjeta de limpieza y desinfección).",
+    "**Seque** bien el cilantro con papel o paño limpio, pique finamente y reserve.",
+    "**Pique** finamente la cebolla de rama, sin licuar, y reserve.",
+    "**Pique** finamente la cebolla blanca y reserve.",
+    "**Abra** y pique finamente la mitad del ají picante; puede retirar las semillas si lo prefiere.",
+    "**Licúe** la otra mitad del ají con un poco del vinagre.",
+    "**Mezcle** en un recipiente todos los ingredientes procesados, agregue la sal y el azúcar.",
+    "**Almacene** en un frasco de vidrio hermético, limpio y seco. Mantenga en refrigeración y consuma en máximo 7 días."
+  ],
+  "usoSugerido": "Sirva como acompañamiento picante para arepas, fríjoles, carnes asadas, guisos campesinos, nachos o como parte de un hummus de leguminosas.",
+  "nutriConsejo": {
+    "icono": "🌶️",
+    "titulo": "Ají picante y salud",
+    "cuerpo": "El ají picante aporta vitamina C y vitamina A, además de capsaicina, el compuesto que da la sensación de picor. Estudios recientes han explorado la relación entre la capsaicina y la salud cardiovascular, encontrando reducciones modestas en colesterol total y LDL con suplementos concentrados (Wang et al., 2025; Ao et al., 2022). Aunque estos efectos no se esperan en las pequeñas cantidades usadas como condimento, el ají puede contribuir a una dieta variada y rica en antioxidantes."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con 15 g de encurtido (1 cucharada)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son 7 pasos con técnicas básicas (lavar, picar finamente, licuar, mezclar), sin cocción ni equipos especiales."
+    },
+    {
+      "label": "Sobre la conservación:",
+      "texto": "el vinagre acidifica el medio y ayuda a prevenir el crecimiento de bacterias dañinas; se recomienda mantener refrigerado y consumir en máximo 7 días."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"Libre de grasa\" se calculó por 100 g de producto (0,18 g/100 g), por debajo del límite de 0,5 g/100 g que exige la norma. Ni la vitamina C ni la vitamina A alcanzan el 15 % del valor diario recomendado por porción, así que no se declaran como \"buena fuente\"."
+    },
+    {
+      "label": "Sobre la fibra:",
+      "texto": "se sumó la fibra total de las verduras, aunque en el ají predomina la fracción insoluble."
+    },
+    {
+      "label": "Sobre el aporte de sodio:",
+      "texto": "la receta aporta aproximadamente 0,3 g de sal por porción (118 mg de sodio), una cantidad baja que permite dar sabor. Se recomienda moderar su uso en personas con esquemas de restricción estricta de sodio."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. El % VDR indica qué tanto de una recomendación de \"llegar a\" cubre una porción, algo que tiene sentido para nutrientes como las vitaminas. La recomendación de energía, en cambio, es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso las calorías, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Escuela de Nutrición y Dietética, Universidad de Antioquia; 2019.",
+    "Instituto Colombiano de Bienestar Familiar. Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018.",
+    "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Onions, spring or scallions (includes tops and bulb), raw (FDC #170005). Beltsville (MD): USDA; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Wang N, Zhou X, Zhang T, Jian W, Sun Z, Qi P, et al. Capsaicin from chili peppers and its analogues and their valued applications: An updated literature review. Food Research International. 2025;208:116034.",
+    "Ao Z, Huang Z, Liu H. Spicy food and chili peppers and multiple health outcomes: umbrella review. Molecular Nutrition & Food Research. 2022;66(23):e2200167."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/AI01.jpg"
+}

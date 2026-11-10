@@ -1,0 +1,258 @@
+{
+  "codigo": "CD02",
+  "nombre": "Guiso la cidra",
+  "imagenSize": {
+    "width": 600,
+    "height": 269
+  },
+  "imagenCredito": "Imagen: recetario \"Preparaciones: cocinando ando... ando cocinando...\" (Libreta 1, 2010)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Guiso la cidra\" del recetario \"Preparaciones: cocinando ando... ando cocinando...\" (Libreta 1, 2010) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 taza, ≈289 g)",
+  "tiempo": "35 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de proteína",
+    "Buena fuente de hierro",
+    "Buena fuente de zinc",
+    "Buena fuente de vitamina C",
+    "Buena fuente de vitamina A"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "432 kcal",
+      "1728 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "21,6 g",
+      "86,4 g",
+      "29,9 %",
+      "27,8 %"
+    ],
+    [
+      "Carbohidratos",
+      "11,8 g",
+      "47,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "33,1 g",
+      "132,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "13,2 g",
+      "52,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina A*",
+      "145,5 µg ER",
+      "582,1 µg ER",
+      "20,8 %",
+      "16,2 %"
+    ],
+    [
+      "Vitamina C*",
+      "25,2 mg",
+      "100,7 mg",
+      "33,6 %",
+      "28,0 %"
+    ],
+    [
+      "Hierro*",
+      "4,0 mg",
+      "16,0 mg",
+      "20,5 %",
+      "30,7 %"
+    ],
+    [
+      "Zinc*",
+      "4,2 mg",
+      "16,6 mg",
+      "52,0 %",
+      "29,7 %"
+    ],
+    [
+      "Sodio",
+      "377,4 mg",
+      "1509,4 mg",
+      "27,4 %",
+      "27,4 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Aceite",
+      "1,3 g (1,3 mL)",
+      "5,3 g (5,3 mL)",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Cebolla larga (rama)",
+      "2,5 g",
+      "10,0 g",
+      "¼ rama",
+      "1 rama"
+    ],
+    [
+      "Cebolla cabezona blanca",
+      "18,3 g",
+      "73,3 g",
+      "⅙ unidad",
+      "⅔ unidad"
+    ],
+    [
+      "Ajo",
+      "1,0 g",
+      "4,0 g",
+      "¼ diente",
+      "1-2 dientes"
+    ],
+    [
+      "Panela",
+      "2,3 g",
+      "9,3 g",
+      "¾ cucharadita",
+      "¾ cucharada"
+    ],
+    [
+      "Tomate maduro",
+      "33,3 g",
+      "133,3 g",
+      "⅓ unidad",
+      "1⅓ unidades"
+    ],
+    [
+      "Laurel, orégano, tomillo",
+      "—",
+      "—",
+      "al gusto",
+      "al gusto"
+    ],
+    [
+      "Zapallo (auyama)",
+      "25,0 g",
+      "100,0 g",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Cidra (chayote)",
+      "33,3 g",
+      "133,3 g",
+      "⅓ unidad",
+      "1⅓ unidades"
+    ],
+    [
+      "Caldo de carne",
+      "20,8 g (20,8 mL)",
+      "83,3 g (83,3 mL)",
+      "¼ pocillo",
+      "⅔ taza"
+    ],
+    [
+      "Jugo de naranja",
+      "20,8 mL",
+      "83,3 mL",
+      "¼ pocillo",
+      "⅓ taza"
+    ],
+    [
+      "Sal",
+      "0,5 g",
+      "2,0 g",
+      "1 pizca",
+      "⅓ cucharadita"
+    ],
+    [
+      "Pimienta negra",
+      "0,1 g",
+      "0,4 g",
+      "1 pizca",
+      "1 pizca generosa"
+    ],
+    [
+      "Carne de res",
+      "125,0 g",
+      "500,0 g",
+      "¾ taza en cubos",
+      "3 tazas en cubos"
+    ],
+    [
+      "Acelga",
+      "5,0 g",
+      "20,0 g",
+      "1 rama pequeña",
+      "2 ramas pequeñas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** las cebollas, el ajo, el tomate, el zapallo, la cidra y la acelga (ver la tarjeta de limpieza y desinfección).",
+    "**Caliente** el aceite y **saltee** las cebollas y el ajo finamente picados hasta que se doren.",
+    "**Añada** la panela rallada, el tomate cortado en cubos, el laurel y el tomillo, y **continúe** la cocción.",
+    "**Adicione** el zapallo y la cidra cortados en cubos y cocine hasta que se ablanden.",
+    "**Adicione** el caldo de carne, el jugo de naranja, la sal y la pimienta, y **deje reducir** a fuego bajo.",
+    "En otro sartén, en aceite caliente, **selle** (dore bien) la carne cortada en cubos durante 3-4 minutos por lado, hasta dorar, y **salpimente**.",
+    "**Incorpore** la carne a la mezcla de verduras. Por último, **agregue** el orégano y la acelga."
+  ],
+  "usoSugerido": "Sirva caliente, acompañado de arroz blanco.",
+  "nutriConsejo": {
+    "icono": "🍲",
+    "titulo": "Guiso la cidra: proteína y micronutrientes de sobra",
+    "cuerpo": "Este guiso de carne con cidra es excelente fuente de proteína y buena fuente de hierro, zinc, vitamina A y vitamina C. Por su contenido de carne de res, aporta una cantidad considerable de grasa saturada: las personas con dislipidemias pueden preferir un corte más magro. También aporta una cantidad considerable de sodio (27,4 % de la ingesta adecuada diaria por porción): las personas con hipertensión arterial pueden tenerlo en cuenta dentro de su consumo diario. Por su contenido de potasio, las personas con enfermedad renal deben consultar con su nutricionista antes de consumirla con frecuencia."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica 6 porciones; se escaló a 4 porciones VitaCampo con un factor de 4/6, dando 1 porción de ≈289 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque combina sofreír, guisar y sellar la carne por separado."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Guiso la cidra\", del recetario \"Preparaciones: cocinando ando... ando cocinando...\" (Libreta 1, 2010), p. 34."
+    },
+    {
+      "label": "Sobre el aceite, la sal y las especias \"al gusto\":",
+      "texto": "el libro no cuantifica el aceite, el orégano, el laurel ni el tomillo (\"al gusto\"); se estimó una cantidad razonable de aceite (5,3 g para 4 porciones) y de sal (2 g para 4 porciones) para el cálculo nutricional, documentado aquí por transparencia. El orégano, el laurel y el tomillo no se incluyeron en el cálculo por aportar cantidades nutricionalmente insignificantes."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de proteína (≥20 % VRN en ambos sexos) y \"buena fuente\" de hierro, zinc, vitamina A y vitamina C se calcularon por porción (Res. 810 de 2021). El zinc llega a 52,0 % VDR en mujeres (umbral de \"excelente\") pero solo 29,7 % en hombres (justo bajo el 30 % de \"excelente\"), por lo que se declara el nivel que cumplen ambos sexos."
+    },
+    {
+      "label": "Sobre la cocción segura:",
+      "texto": "cocine la carne y el pollo hasta que no queden partes rosadas y sus jugos salgan claros; en sopas y guisos, lleve el líquido a ebullición, con lo cual se alcanzan unos 70 °C (Organización Mundial de la Salud, ver bibliografía). Sirva caliente y refrigere los sobrantes dentro de las 2 horas siguientes."
+    },
+    {
+      "label": "Sobre el potasio y la enfermedad renal:",
+      "texto": "la cidra contiene potasio de forma natural. Las personas con enfermedad renal o con hiperpotasemia (potasio alto en la sangre) deben vigilar su consumo de potasio y consultar con su nutricionista antes de consumir esta preparación con frecuencia."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Equipo Cocinando Ando. Preparaciones: cocinando ando... ando cocinando... Libreta 1. Medellín; 2010.",
+    "World Health Organization. Five keys to safer food manual. Geneva: WHO; 2006."
+  ],
+  "imagen": "assets/img/recetas/CD02.jpg"
+}

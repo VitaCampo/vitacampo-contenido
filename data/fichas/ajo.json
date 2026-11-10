@@ -1,0 +1,133 @@
+{
+  "slug": "ajo",
+  "nombreComun": "Ajo",
+  "nombreCientifico": "Allium sativum L.",
+  "subtitulo": "Pequeño en tamaño, con compuestos que se activan al machacarlo",
+  "imagen": "assets/img/fichas/ajo.jpg",
+  "creditoImagen": "Tomada de Pixabay, licencia gratuita. https://pixabay.com/es/photos/ajo-dientes-de-ajo-cocina-comida-545223/",
+  "introduccion": "El ajo se ha cultivado y valorado por más de 5.000 años, desde su origen en Asia Central. En el Antiguo Egipto se consideraba una ofrenda sagrada asociada a la fortaleza física, y su uso se extendió por el mundo junto con las rutas comerciales de la antigüedad, mucho antes de que la ciencia moderna estudiara sus compuestos.",
+  "porcionReferencia": "1 diente de ajo crudo (≈3 g)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "4,9 kcal",
+      "vdrMujer": "0,25%",
+      "vdrHombre": "0,21%"
+    },
+    {
+      "nutriente": "Vitamina B6",
+      "cantidad": "0,037 mg",
+      "vdrMujer": "2,66%",
+      "vdrHombre": "2,48%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "0,93 mg",
+      "vdrMujer": "1,24%",
+      "vdrHombre": "1,03%"
+    },
+    {
+      "nutriente": "Cobre",
+      "cantidad": "9 mcg",
+      "vdrMujer": "1,0%",
+      "vdrHombre": "1,0%"
+    },
+    {
+      "nutriente": "Selenio",
+      "cantidad": "0,29 mcg",
+      "vdrMujer": "0,53%",
+      "vdrHombre": "0,53%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "el ajo no está incluido en la Lista de Intercambio de Alimentos UdeA, ya que se consume como condimento y no como alimento de volumen. Se usó 1 diente (≈3 g) como porción de referencia, siguiendo el estándar internacional para este alimento. En una preparación es común usar 2 a 3 dientes; para estimar el aporte de una cantidad mayor, los valores de esta tabla pueden multiplicarse proporcionalmente."
+    },
+    {
+      "titulo": "Sobre las fuentes de los datos",
+      "texto": "los valores de Vitamina B6, Vitamina C y Cobre provienen de las RINAs (Ajo, crudo, parte comestible 87%), ya que ofrecen un perfil de micronutrientes más completo que el TCAC-ICBF para este alimento. El Selenio no está reportado en TCAC-ICBF ni en RINAs, por lo que se usó USDA FoodData Central (FDC ID 1104647)."
+    },
+    {
+      "titulo": "Sobre las declaraciones de “fuente de”",
+      "texto": "según la Resolución 810 de 2021, ningún nutriente de esta tabla alcanza el umbral de “buena fuente” (≥15% del VRN) en esta porción — el más alto (Vitamina B6) llega solo a 2,66%. Esto es coherente con el uso real del ajo como condimento, en cantidades pequeñas, y no como alimento de consumo en volumen."
+    }
+  ],
+  "nutriDato": null,
+  "descripcion": "El ajo debe su aroma y sabor característicos a compuestos organosulfurados (compuestos que contienen azufre), como la alicina, que se forma al cortar o machacar el diente crudo. Estos compuestos han sido estudiados por sus propiedades antioxidantes, antimicrobianas y su posible papel en la salud cardiovascular.",
+  "beneficios": [
+    {
+      "icono": "🧬",
+      "titulo": "Antioxidante",
+      "texto": "sus compuestos organosulfurados pueden ayudar a proteger las células del daño por radicales libres (sustancias que se producen de forma natural en el cuerpo, y en exceso pueden dañarlas)."
+    },
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas",
+      "texto": "se ha estudiado su posible papel en el funcionamiento del sistema inmunitario y frente a microorganismos."
+    },
+    {
+      "icono": "⚡",
+      "titulo": "Cofactor antioxidante",
+      "texto": "el selenio y el cobre que aporta funcionan como antioxidantes (sustancias que ayudan a proteger las células del daño natural del metabolismo del cuerpo)."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "verdad",
+      "titulo": "¿El ajo previene o cura el resfriado?",
+      "texto": "Es uno de los remedios caseros más repetidos de generación en generación — pero la ciencia detrás es más delgada de lo que parece. Solo un estudio clínico de buena calidad ha puesto esta creencia a prueba: 146 personas tomaron a diario, durante 12 semanas, un suplemento concentrado de ajo o un placebo. El resultado llamó la atención: el grupo con ajo tuvo 24 resfriados en total, frente a 65 en el grupo placebo. Suena contundente, pero hay un problema: es el único estudio de calidad suficiente que existe sobre el tema, así que no es suficiente para afirmar con certeza que el ajo previene resfriados — la ciencia necesita que un hallazgo se repita en más de una investigación antes de darlo por confirmado. Mientras tanto, el ajo puede ser parte de una alimentación saludable, pero no reemplaza el descanso, la hidratación ni la consulta médica si los síntomas persisten."
+    },
+    {
+      "tipo": "capsula",
+      "titulo": "¿Por qué el ajo crudo y recién cortado?",
+      "texto": "La alicina, el compuesto más estudiado del ajo, no existe en el diente entero — se forma solo cuando se corta o machaca, por acción de una enzima (la alilinasa) que se activa al romper sus células. El calor puede degradar este compuesto. Por eso, dejar reposar el ajo picado o machacado unos 10 minutos antes de cocinarlo puede ayudar a conservar mejor sus compuestos activos."
+    },
+    {
+      "tipo": "capsula",
+      "titulo": "Ajo y salud del corazón",
+      "texto": "El ajo se ha estudiado por su posible efecto en la salud cardiovascular (del corazón y los vasos sanguíneos). Varios estudios encontraron que consumirlo de forma regular —generalmente en forma de suplemento concentrado— se asocia con niveles más bajos de colesterol y triglicéridos (dos tipos de grasa en la sangre) y con una presión arterial más controlada, con un efecto que en algunos casos fue similar al de ciertos medicamentos para la hipertensión. Esta evidencia proviene principalmente de suplementos en dosis mayores a las de una porción habitual de ajo en la comida, por lo que no reemplaza ningún tratamiento médico."
+    },
+    {
+      "tipo": "capsula",
+      "titulo": "Un aliado natural frente a microorganismos",
+      "texto": "El ajo se ha estudiado por su capacidad para inhibir el crecimiento de bacterias y hongos, principalmente por acción de la alicina y otros compuestos organosulfurados. Esta propiedad ha sido tradicionalmente aprovechada como conservante natural de alimentos, y sigue siendo objeto de investigación científica actual frente a distintos microorganismos. Esta evidencia proviene mayormente de estudios de laboratorio, no de tratamientos en personas, y no reemplaza ningún medicamento antibiótico o antifúngico recetado por un profesional de la salud."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "¿Le preocupa el aliento a ajo?",
+      "texto": "Comer una manzana cruda, un poco de lechuga cruda o unas hojas de menta justo después del ajo puede ayudar a reducir el olor — sus compuestos actúan sobre las sustancias responsables del “aliento a ajo”."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Precaución antes de cirugías o con anticoagulantes",
+      "texto": "El ajo, especialmente en cantidades mayores a las de uso culinario habitual, puede aumentar el riesgo de sangrado. Se recomienda informar a su médico si toma anticoagulantes o si tiene programada una cirugía, ya que algunos profesionales sugieren suspender su consumo en suplementos 1 a 2 semanas antes de un procedimiento quirúrgico."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Trichoderma contra la pudrición blanca del ajo",
+      "texto": "La pudrición blanca (causada por el hongo Sclerotium cepivorum) es la principal enfermedad del ajo a nivel mundial, capaz de causar pérdidas de hasta el 100% de la cosecha, ya que el hongo puede sobrevivir en el suelo por más de 20 años. Un estudio de AGROSAVIA (Colombia) encontró que aplicar Trichoderma koningiopsis al momento de la siembra y 15 días después logró un 65% de eficacia en el control de la enfermedad — superior al 35% obtenido con un fungicida químico convencional. El mismo estudio encontró que este manejo, además de controlar la enfermedad, favoreció un mejor crecimiento de la planta. El Trichoderma se consigue en Colombia como bioinsumo agrícola o puede producirse de forma artesanal como biopreparado."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "5. U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Garlic, raw [Internet]. Beltsville: USDA; 2019 [citado 2026]. Disponible en: https://fdc.nal.usda.gov/food-details/1104647/nutrients",
+    "6. Yaniv Bachrach Z. Garlic as a medicine throughout the ages (Review). World Acad Sci J. 2025;7(3):49.",
+    "7. Verma T, Aggarwal A, Dey P, Chauhan AK, Rashid S, Chen KT, et al. Medicinal and therapeutic properties of garlic, garlic essential oil, and garlic-based snack food: An updated review. Front Nutr. 2023;10:1120377.",
+    "8. Bandyopadhyay R, Pattnaik S. A Comparative Review of Phytochemical Composition, Bioactivity, and Health Implications of Single- and Multiple-Clove Garlic. ACS Omega. 2026;11(15):22393-22406.",
+    "9. Fu Z, Lv J, Gao X, Zheng H, Shi S, Xu X, et al. Effects of garlic supplementation on components of metabolic syndrome: a systematic review, meta-analysis, and meta-regression of randomized controlled trials. BMC Complement Med Ther. 2023;23:260.",
+    "10. Ried K. Garlic lowers blood pressure in hypertensive subjects, improves arterial stiffness and gut microbiota: A review and meta-analysis. Exp Ther Med. 2019;19(2):1472-1478.",
+    "11. Elvir Lazo OL, White PF, Lee C, Cruz Eng H, Matin JM, Lin C, et al. Use of herbal medication in the perioperative period: Potential adverse drug interactions. J Clin Anesth. 2024;95:111473.",
+    "12. Mirondo R, Barringer S. Deodorization of Garlic Breath by Foods, and the Role of Polyphenol Oxidase and Phenolic Compounds. J Food Sci. 2016;81(10):C2425-C2430.",
+    "13. Lissiman E, Bhasale AL, Cohen M. Garlic for the common cold. Cochrane Database Syst Rev. 2014;(11):CD006206.",
+    "14. Zapata-Narváez YA, Gómez-Marroquín MR. Control de Sclerotium cepivorum y promoción del crecimiento en ajo (Allium sativum) con microorganismos antagonistas. Agron Mesoam. 2022;33(2):46462."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "fresa",
+  "nombreComun": "Fresa",
+  "nombreCientifico": "Fragaria × ananassa Duch.",
+  "subtitulo": "La fruta más joven de su plato: un cruce de espías y jardines franceses",
+  "imagen": "assets/img/fichas/fresa.jpg",
+  "creditoImagen": "Elaboración propia",
+  "introduccion": "La fresa que conocemos hoy es una de las frutas cultivadas más recientes: nació en el siglo XVIII en Francia, del cruce accidental entre una variedad chilena —traída por un ingeniero francés que también actuaba como espía— y una variedad de Virginia. El botánico Antoine Nicolas Duchesne documentó este cruce en 1766, y por eso su nombre científico lleva su apellido: Duch.",
+  "porcionReferencia": "161 g (9 unidades medianas)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "52 kcal",
+      "vdrMujer": "2,64%",
+      "vdrHombre": "2,23%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "97 mg",
+      "vdrMujer": "129,3%",
+      "vdrHombre": "107,8%"
+    },
+    {
+      "nutriente": "Fibra dietética",
+      "cantidad": "3,7 g",
+      "vdrMujer": "13,5%",
+      "vdrHombre": "11,3%"
+    },
+    {
+      "nutriente": "Vitamina B5 (ácido pantoténico)",
+      "cantidad": "0,55 mg",
+      "vdrMujer": "11%",
+      "vdrHombre": "11%"
+    },
+    {
+      "nutriente": "Hierro",
+      "cantidad": "1,3 mg",
+      "vdrMujer": "6,67%",
+      "vdrHombre": "10%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "161 g (9 unidades medianas) según la Lista de Intercambio de Alimentos de la Universidad de Antioquia, con buena consistencia frente a las RINAs y el TCAC-ICBF."
+    },
+    {
+      "titulo": "Sobre la elección del hierro como 4º nutriente",
+      "texto": "aunque no es el valor más alto entre los candidatos, se priorizó por su relevancia en salud pública: la deficiencia de hierro es una de las carencias nutricionales más documentadas en niños y mujeres en edad fértil en Colombia."
+    },
+    {
+      "titulo": "Sobre el manganeso",
+      "texto": "la fresa es también una fuente notable de manganeso (un mineral que participa en el metabolismo óseo y antioxidante del cuerpo), pero no se incluye en la tabla porque el RIEN no reporta un valor de referencia diario para este nutriente en Colombia."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "esta porción aporta 3,7 g de fibra dietética, equivalentes al 11,3% (hombres) y 13,5% (mujeres) del requerimiento diario. La fibra dietética tiene dos tipos principales: la fibra insoluble, que no se disuelve en agua y actúa como una especie de \"escoba natural\" en el intestino, acelerando el tránsito intestinal; y la fibra soluble, que sí se disuelve en agua formando una sustancia similar a un gel, asociada con una absorción más lenta de azúcares y grasas. La fresa contiene fibra predominantemente insoluble (como la lignina, en la que es una de las frutas con mayor contenido), junto con una porción de fibra soluble en forma de pectina, presente especialmente en su piel y semillas.."
+    },
+    {
+      "titulo": "Sobre la declaración de “excelente fuente de Vitamina C”",
+      "texto": "con 107,8-129,3% del VRN, la fresa supera ampliamente el umbral de 30% exigido por la Resolución 810 de 2021."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía que 9 fresas medianas (161 g) aportan más del 100% de su requerimiento diario de vitamina C, superando incluso a muchos cítricos en la misma cantidad de fruta? Además de apoyar las defensas, la vitamina C ayuda al cuerpo a absorber mejor el hierro de origen vegetal (como el de las legumbres o las verduras de hoja) cuando se consumen juntos en la misma comida."
+  },
+  "descripcion": "La fresa es rica en vitamina C y en polifenoles (compuestos vegetales con función antioxidante), como las antocianinas (responsables de su color rojo) y los elagitaninos (otro tipo de compuesto polifenólico, presente también en frutos como la granada). Estos compuestos se han estudiado por su papel en la protección de las células frente al estrés oxidativo (un desequilibrio que ocurre, entre otras causas, cuando las mitocondrias —las estructuras que producen energía dentro de las células— no funcionan de forma óptima).",
+  "beneficios": [
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas y piel",
+      "texto": "su vitamina C contribuye al funcionamiento normal del sistema inmunitario y a la formación de colágeno (una proteína que da estructura y firmeza a la piel, los huesos y las articulaciones)."
+    },
+    {
+      "icono": "🌾",
+      "titulo": "Digestión y saciedad",
+      "texto": "su fibra favorece un tránsito intestinal saludable y ayuda a la sensación de saciedad."
+    },
+    {
+      "icono": "⚡",
+      "titulo": "Metabolismo energético",
+      "texto": "su vitamina B5 (ácido pantoténico) participa en el proceso que el cuerpo usa para obtener energía de los alimentos."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "capsula",
+      "titulo": "Fresa, corazón y memoria",
+      "texto": "El consumo regular de fresa se ha estudiado en ensayos con personas (no solo en laboratorio o animales) por su posible relación con la salud cardiovascular: algunos encontraron cambios favorables relacionados con el colesterol menos saludable (el que tiende a acumularse en las arterias), además de mejoras en triglicéridos y en la función de los vasos sanguíneos. Estos efectos parecen ser especialmente relevantes en mujeres después de la menopausia, etapa en la que el riesgo cardiovascular aumenta. Por otro lado, algunos estudios han relacionado el consumo de flavonoides (un tipo de polifenol, presente en frutas de colores intensos como la fresa) con un deterioro cognitivo (la pérdida gradual de capacidades como la memoria y la concentración, algo esperable con la edad) más lento en el tiempo. En ambos casos, esto no significa que la fresa sea un tratamiento ni una cura — es un hallazgo interesante que refuerza el valor de una alimentación variada, no un sustituto de ningún manejo médico."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Alergia",
+      "texto": "La fresa es uno de los alimentos vegetales con mayor potencial alergénico conocido, especialmente en niños. La reacción suele manifestarse con picazón o hinchazón en la boca y los labios, enrojecimiento de la piel, o en casos más intensos, urticaria (ronchas en la piel). Si presenta alguno de estos síntomas al comer fresa, consulte con un profesional de la salud."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Fresa y manejo agroecológico",
+      "texto": "La fresa es una de las frutas que más residuos de agroquímicos puede retener, porque su piel es delgada y su superficie es irregular. Esto no significa que sea un alimento riesgoso: es una razón más para apostarle al manejo agroecológico del cultivo. Usar biopreparados, cuidar el manejo de insectos y enfermedades de forma natural, y aplicar una buena fertilización, ayuda a producir fresas de mejor calidad y con menor dependencia de químicos — cuidando tanto a quien las cultiva como a quien las come. Al momento de consumirla, remojarla durante 10-15 minutos en agua con bicarbonato de sodio (una cucharadita disuelta en un vaso de agua) y enjuagarla bien después ha mostrado ser una forma efectiva y segura de reducir los residuos de agroquímicos en la superficie, más adecuada para la fresa que el hipoclorito usado en otras hortalizas."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo conservar mejor su vitamina C",
+      "texto": "La vitamina C de la fresa es sensible al calor: se conserva razonablemente bien en la nevera (con pérdidas moderadas incluso después de 8 días), pero se degrada mucho más rápido a temperatura ambiente. Guarde las fresas refrigeradas y consúmalas en los primeros días después de comprarlas para aprovechar mejor su contenido de vitamina C."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "3. Universidad de Antioquia - Grupo de Investigación Alimentación y Nutrición Humana (GIANH). Lista de intercambios de alimentos. 5.ª ed. Medellín: Universidad de Antioquia; 2023.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "5. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "6. Hummer KE, Bassil N, Njuguna W. Fragaria: A genus with deep historical roots and ripe for evolutionary and ecological insights. Am J Bot. 2014;101(10):1597-1608.",
+    "7. Oviedo-Solís CI, Cornejo-Manzo S, Murillo-Ortiz BO, Guzmán-Barrón MM, Ramírez-Emiliano J. Los polifenoles de la fresa disminuyen el estrés oxidativo en enfermedades crónicas. Gac Med Mex. 2018;154:80-86.",
+    "8. Miller K, Feucht W, Schmid M. Bioactive Compounds of Strawberry and Blueberry and Their Potential Health Effects Based on Human Intervention Studies: A Brief Overview. Nutrients. 2019;11(7):1510.",
+    "9. Newerli-Guz J, Śmiechowska M, Drzewiecka A, Tylingo R. Bioactive Ingredients with Health-Promoting Properties of Strawberry Fruit (Fragaria x ananassa Duchesne). Molecules. 2023;28(6):2711.",
+    "10. Zhao L, Ma T, Wang X, Wang H, Liu Y, Wu S, et al. Food-Pollen Cross-Reactivity and its Molecular Diagnosis in China. Curr Allergy Asthma Rep. 2024;24(9):497-508.",
+    "11. Kouam ID, Moungang S, Koulagna IH, Ntsoli GP, Titti RW, Yaouba A. Influence of organic and mineral fertilizers and a foliar biostimulant on the yield and nutritional quality of strawberries (Fragaria ×ananassa Duch.) under field conditions. Biochem Syst Ecol. 2024;117:104917.",
+    "12. Nunes MCN, Brecht JK, Morais AMMB, Sargent SA. Controlling Temperature and Water Loss to Maintain Ascorbic Acid Levels in Strawberries During Postharvest Handling. J Food Sci. 1998;63(6):1033-1036.",
+    "13. Yang T, Doherty J, Zhao B, Kinchla AJ, Clark JM, He L. Effectiveness of Commercial and Homemade Washing Agents in Removing Pesticide Residues on and in Apples. J Agric Food Chem. 2017;65(44):9744-9752.",
+    "14. Łozowicka B, et al. Removal of 16 pesticide residues from strawberries by washing with tap and ozone water, ultrasonic cleaning and boiling. Environ Monit Assess. 2016;188(1):51."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

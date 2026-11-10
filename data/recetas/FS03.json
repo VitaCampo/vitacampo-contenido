@@ -1,0 +1,158 @@
+{
+  "codigo": "FS03",
+  "nombre": "Batido de remolacha y fresa",
+  "imagenSize": {
+    "width": 397,
+    "height": 193
+  },
+  "imagenCredito": "Imagen: recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Batido de remolacha y fresa\" del recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 vaso, ≈162 g)",
+  "tiempo": "10 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "25 kcal",
+      "98 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,3 g",
+      "1,1 g",
+      "0,4 %",
+      "0,4 %"
+    ],
+    [
+      "Carbohidratos",
+      "5,6 g",
+      "22,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,1 g",
+      "0,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina C",
+      "9,4 mg",
+      "37,6 mg",
+      "12,5 %",
+      "10,4 %"
+    ],
+    [
+      "Potasio",
+      "66,8 mg",
+      "267,4 mg",
+      "1,4 %",
+      "1,4 %"
+    ],
+    [
+      "Sodio",
+      "8,0 mg",
+      "31,9 mg",
+      "0,6 %",
+      "0,6 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Remolacha",
+      "10,0 g",
+      "40,0 g",
+      "1 trozo pequeño",
+      "⅓ unidad mediana"
+    ],
+    [
+      "Fresa",
+      "10,0 g",
+      "40,0 g",
+      "2 unidades pequeñas",
+      "7 unidades pequeñas"
+    ],
+    [
+      "Manzana roja",
+      "10,0 g",
+      "40,0 g",
+      "1 trozo pequeño",
+      "⅓ unidad mediana"
+    ],
+    [
+      "Limón tahití (zumo)",
+      "5,0 mL",
+      "20,0 mL",
+      "1 cucharadita",
+      "1 cucharada + 1 cucharadita"
+    ],
+    [
+      "Azúcar",
+      "2,0 g",
+      "8,0 g",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ],
+    [
+      "Hierbabuena fresca",
+      "0,5 g",
+      "2,0 g",
+      "1 hoja",
+      "4 hojas"
+    ],
+    [
+      "Agua",
+      "125,0 mL",
+      "500,0 mL",
+      "½ taza",
+      "2 tazas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** la remolacha, la fresa, la manzana y la hierbabuena (ver la tarjeta de limpieza y desinfección).",
+    "**Pique** en trozos grandes la remolacha, la manzana y la fresa.",
+    "**Lleve** todos los ingredientes a la licuadora y **procese** hasta homogeneizar. No cuele.",
+    "**Sirva** con hielo."
+  ],
+  "usoSugerido": "Sirva frío, como bebida refrescante entre comidas.",
+  "nutriConsejo": {
+    "icono": "🍓",
+    "titulo": "Batido de remolacha y fresa: hidratación con sabor natural",
+    "cuerpo": "Este batido combina remolacha, fresa y manzana en una bebida ligera y refrescante, con pocas calorías añadidas. Al diluirse con agua, su aporte de vitaminas y minerales por porción es modesto."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro no especifica el número de porciones y la cantidad de frutas es pequeña (rinde para 1-2 vasos); se duplicó la receta completa para llegar a 4 porciones VitaCampo razonables, dando 1 porción de ≈162 g (≈1 vaso)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son pasos sencillos de licuar, sin cocción."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Batido de remolacha y fresa\", del recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025). Imagen oficial del mismo recetario."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "al ser una bebida diluida con agua, ningún nutriente alcanza el 15 % del valor diario recomendado por porción, por lo que la ficha no lleva insignias de \"fuente\"."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Vanegas Piedrahíta L. Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos. Medellín: Alcaldía de Medellín, Distrito de Ciencia, Tecnología e Innovación; 2025."
+  ],
+  "imagen": "assets/img/recetas/FS03.png"
+}

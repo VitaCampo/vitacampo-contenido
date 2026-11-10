@@ -1,0 +1,168 @@
+{
+  "codigo": "AI03",
+  "nombre": "Salsa de mango y ají",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Laura oliveira, Pexels — Licencia Pexels (uso libre). Fotografía \"Fresh Mango Salsa Preparation with Ingredients\": https://www.pexels.com/photo/34429485/ (Imagen ilustrativa de una salsa fresca de mango)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de la \"Salsa de mango y ají\" que acompaña la receta \"Quipaza\" del recetario \"Preparaciones: cocinando ando... ando cocinando...\" (Libreta 1, 2010) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈⅔ taza, ≈108 g)",
+  "tiempo": "15 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina C",
+    "Buena fuente de vitamina A"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "92 kcal",
+      "368 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,9 g",
+      "3,4 g",
+      "1,2 %",
+      "1,2 %"
+    ],
+    [
+      "Carbohidratos",
+      "10,9 g",
+      "43,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "4,9 g",
+      "19,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina C*",
+      "28,4 mg",
+      "113,8 mg",
+      "37,9 %",
+      "31,6 %"
+    ],
+    [
+      "Vitamina A*",
+      "217,0 µg ER",
+      "867,9 µg ER",
+      "31,0 %",
+      "24,1 %"
+    ],
+    [
+      "Sodio",
+      "135,7 mg",
+      "542,6 mg",
+      "9,9 %",
+      "9,9 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Tomate",
+      "33,3 g",
+      "133,3 g",
+      "⅓ unidad",
+      "1⅓ unidades"
+    ],
+    [
+      "Mango maduro",
+      "41,7 g",
+      "166,7 g",
+      "⅓ unidad mediana",
+      "1⅓ unidades medianas"
+    ],
+    [
+      "Cebolla cabezona",
+      "18,3 g",
+      "73,3 g",
+      "⅙ unidad",
+      "⅔ unidad"
+    ],
+    [
+      "Ají picante (sin semilla)",
+      "2,5 g",
+      "10,0 g",
+      "¼ unidad pequeña",
+      "1 unidad pequeña"
+    ],
+    [
+      "Limón (jugo)",
+      "5,0 mL",
+      "20,0 mL",
+      "1 cucharadita",
+      "1 cucharada + 1 cucharadita"
+    ],
+    [
+      "Aceite",
+      "4,7 g (4,7 mL)",
+      "18,7 g (18,7 mL)",
+      "1 cucharadita",
+      "1½ cucharadas"
+    ],
+    [
+      "Cebollín picado",
+      "1,7 g",
+      "6,7 g",
+      "1 pizca",
+      "1½ cucharaditas"
+    ],
+    [
+      "Sal, pimienta",
+      "0,3 g",
+      "1,3 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** el tomate, el mango, la cebolla, el ají y el cebollín (ver la tarjeta de limpieza y desinfección).",
+    "**Corte** en cubos pequeños e iguales el tomate, el mango, la cebolla y el ají sin semilla.",
+    "**Mezcle** todo e **incorpore** el jugo de limón, el aceite y el cebollín picado.",
+    "**Sazone** con sal y pimienta."
+  ],
+  "usoSugerido": "Sirva como acompañamiento fresco de carnes, pescado, arroz o patacones, en pequeñas cantidades.",
+  "nutriConsejo": {
+    "icono": "🌶️",
+    "titulo": "Salsa de mango y ají: excelente fuente de vitamina C",
+    "cuerpo": "Esta salsa fresca combina mango, tomate y ají picante en un condimento colorido, excelente fuente de vitamina C y buena fuente de vitamina A. Es una forma de aprovechar el ají como protagonista, no solo como ingrediente secundario."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "la receta original (\"Quipaza\") indica 6 porciones; se escaló a 4 porciones VitaCampo con un factor de 4/6, dando 1 porción de ≈108 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son pasos sencillos de picar y mezclar, sin cocción."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de la \"Salsa de mango y ají\", sub-receta que acompaña a \"Quipaza\" (puré de quínua, papa y zapallo) en el recetario \"Preparaciones: cocinando ando... ando cocinando...\" (Libreta 1, 2010), p. 76. Se tomó como receta propia porque el ají es un ingrediente real y cuantificado de la salsa."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina C y \"buena fuente\" de vitamina A se calcularon por porción (Res. 810 de 2021). La vitamina A llega a 31,0 % VDR en mujeres (umbral de \"excelente\") pero solo 24,1 % en hombres, por lo que se declara el nivel que cumplen ambos sexos."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Equipo Cocinando Ando. Preparaciones: cocinando ando... ando cocinando... Libreta 1. Medellín; 2010."
+  ],
+  "imagen": "assets/img/recetas/AI03.jpg"
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "arveja",
+  "nombreComun": "Arveja",
+  "nombreCientifico": "Pisum sativum",
+  "subtitulo": "Una gran aliada para su digestión",
+  "imagen": "assets/img/fichas/arveja.jpg",
+  "creditoImagen": "Tomada de pixabay, licencia gratuita. Enlace: https://pixabay.com/es/photos/search/guisantes/",
+  "introduccion": "Es una leguminosa de clima templado que se cultiva y consume en muchos países del mundo. Sus semillas pueden encontrarse en diferentes colores, desde verde hasta tonos amarillos o marrones dependiendo del entorno del cultivo.",
+  "porcionReferencia": "42 gramos, (3 cucharadas soperas colmadas)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "35 kcal",
+      "vdrMujer": "1,8%",
+      "vdrHombre": "1,5%"
+    },
+    {
+      "nutriente": "Fibra dietética",
+      "cantidad": "2,3 g",
+      "vdrMujer": "8,4%",
+      "vdrHombre": "7,0%"
+    },
+    {
+      "nutriente": "Tiamina (B1)",
+      "cantidad": "0,11 mg",
+      "vdrMujer": "10,0%",
+      "vdrHombre": "9,2%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "6 mg",
+      "vdrMujer": "8,0%",
+      "vdrHombre": "6,7%"
+    },
+    {
+      "nutriente": "Fósforo",
+      "cantidad": "49 mg",
+      "vdrMujer": "7,0%",
+      "vdrHombre": "7,0%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "Corresponde a arveja verde fresca, cruda, según la Lista de Intercambio UdeA (5.ª ed., 2023). Se descartó la presentación \"arveja seca cocida\" por corresponder a un producto procesado distinto."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "Sobre la fibra: esta porción aporta 2,3 g de fibra dietética, equivalentes al 7,0% (hombres) y 8,4% (mujeres) del requerimiento diario. La fibra dietética tiene dos tipos principales: la fibra insoluble, que no se disuelve en agua y actúa como una especie de \"escoba natural\" en el intestino, acelerando el tránsito intestinal; y la fibra soluble, que sí se disuelve en agua formando una sustancia similar a un gel, asociada con una absorción más lenta de azúcares y grasas. En la arveja predomina la fibra insoluble, aunque no encontramos un estudio específico en arveja fresca (a diferencia de seca o procesada) que precise la proporción exacta entre ambos tipos."
+    },
+    {
+      "titulo": "Sobre la proteína",
+      "texto": "aunque la arveja aporta proteína vegetal, no se incluyó como uno de los 4 nutrientes destacados de la tabla. Usando la referencia del RIEN (1,11 g/kg/día) con un peso de referencia estándar (70 kg hombres, 65 kg mujeres), la porción de esta ficha (42 g) aporta 2,3 g de proteína — equivalente a 2,96% (hombres) y 3,19% (mujeres) del requerimiento diario, un valor bajo en comparación con otros nutrientes de la tabla. Esto es coherente con que esta ficha usa arveja verde fresca (más cercana nutricionalmente a un vegetal), y no arveja seca madura, que sí concentra una cantidad de proteína mucho mayor."
+    },
+    {
+      "titulo": "Sobre los porcentajes",
+      "texto": "Se calcularon con base en las recomendaciones RIEN (Resolución 3803 de 2016) para adultos sanos de 19 a 70+ años. La fibra se calculó con la fórmula (Energía RIEN ÷ 1000) × 14 g."
+    },
+    {
+      "titulo": "Sobre el potasio y el sodio",
+      "texto": "No existe una recomendación diaria exacta (RDA); el valor corresponde a Ingesta Adecuada (AI)."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía que 3 cucharadas soperas colmadas (42 g) de arveja aportan 0,11 mg de tiamina (vitamina B1), cubriendo el 10% de la recomendación diaria para mujeres y el 9% para hombres? La tiamina participa en el proceso que el cuerpo usa para obtener energía de los carbohidratos, y es importante para el funcionamiento normal del sistema nervioso."
+  },
+  "descripcion": "La arveja aporta proteína vegetal, fibra, vitaminas y compuestos bioactivos (sustancias naturales que pueden favorecer la salud). Su fibra es principalmente insoluble, lo que favorece una buena salud intestinal. Combinarla con cereales, como el arroz, mejora la calidad de su proteína. Además, contiene polifenoles, compuestos que pueden ayudar a proteger las células del cuerpo.",
+  "beneficios": [
+    {
+      "icono": "🌿",
+      "titulo": "Digestión",
+      "texto": "Su fibra puede contribuir al funcionamiento normal del intestino."
+    },
+    {
+      "icono": "❤️",
+      "titulo": "Colesterol y glucosa",
+      "texto": "Su fibra puede ayudar a mantener niveles saludables de colesterol y glucosa."
+    },
+    {
+      "icono": "🛡️",
+      "titulo": "Protección celular",
+      "texto": "Contiene polifenoles, que pueden ayudar a proteger las células del organismo."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "capsula",
+      "titulo": "",
+      "texto": "Los polifenoles de la arveja son compuestos naturales que, según estudios científicos, pueden contribuir a proteger las células del cuerpo frente al daño oxidativo (causado por sustancias reactivas del organismo)."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómala con arroz o arepa para una proteína más completa",
+      "texto": "La proteína de la arveja es rica en lisina, pero tiene menos cantidad de metionina y cisteína (dos aminoácidos que el cuerpo no puede fabricar y debe obtener de los alimentos). Los cereales, como el arroz o el maíz de la arepa, tienen el patrón contrario: son ricos en esos aminoácidos que le faltan a la arveja, pero más limitados en lisina. Por eso, combinarla con arroz o arepa —como se hace tradicionalmente en muchas preparaciones colombianas— logra un perfil de aminoácidos más completo que si se comieran por separado."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "",
+      "texto": "La arveja aporta potasio. En personas con enfermedad renal o hiperpotasemia, se recomienda mantener un consumo moderado y controlado, y consultar con un profesional de la salud sobre la cantidad adecuada para su condición."
+    }
+  ],
+  "bibliografia": [
+    "1. ICBF. Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF; 2015 [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Universidad de Antioquia - Grupo de Investigación Alimentación y Nutrición Humana (GIANH). Lista de intercambios de alimentos. 5.ª ed. Medellín: Universidad de Antioquia; 2023.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes - RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Wu DT, Li WX, Wan JJ, Hu YC, Gan RY, Zou L. A comprehensive review of pea (Pisum sativum L.): chemical composition, processing, health benefits, and food applications. Foods. 2023;12(13):2527.",
+    "5. Dahl WJ, Foster LM, Tyler RT. Review of the health benefits of peas (Pisum sativum L.). Br J Nutr. 2012;108(Suppl 1):S3-10.",
+    "6. Haider JCMC, Vian I, Bonfante JW, Gonçalves JS, Hoffmann CL. Potassium quantification and sensory analysis in plant food cooking processes in heart disease patients. Clin Nutr ESPEN. 2025;69:350-357."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

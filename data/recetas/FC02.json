@@ -1,0 +1,244 @@
+{
+  "codigo": "FC02",
+  "nombre": "Ensalada Europa-América",
+  "imagenSize": {
+    "width": 486,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: recetario \"Preparaciones: cocinando ando... ando cocinando...\" (Acción Social, ReSA, PROSEAN, Universidad de Antioquia, Alcaldía de Medellín; 2010)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta del recetario \"Preparaciones: cocinando ando... ando cocinando...\" (Libreta 1, 2010) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 taza, ≈223 g)",
+  "tiempo": "40 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de proteína",
+    "Excelente fuente de folato (B9)",
+    "Buena fuente de zinc"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "523 kcal",
+      "2090 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "21,7 g",
+      "87,0 g",
+      "30,1 %",
+      "28,0 %"
+    ],
+    [
+      "Carbohidratos",
+      "94,8 g",
+      "379,1 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "6,3 g",
+      "25,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,9 g",
+      "3,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "0,0 mg",
+      "0,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "27,3 g",
+      "109,3 g",
+      "99,3 %",
+      "83,5 %"
+    ],
+    [
+      "Folato (B9)*",
+      "407,2 µg",
+      "1628,8 µg",
+      "101,8 %",
+      "101,8 %"
+    ],
+    [
+      "Zinc*",
+      "3,8 mg",
+      "15,2 mg",
+      "47,4 %",
+      "27,1 %"
+    ],
+    [
+      "Hierro",
+      "5,2 mg",
+      "20,9 mg",
+      "26,8 %",
+      "40,2 %"
+    ],
+    [
+      "Sodio",
+      "79,0 mg",
+      "316,0 mg",
+      "5,7 %",
+      "5,7 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Frijol cargamanto rojo, seco",
+      "61,7 g",
+      "246,7 g",
+      "⅓ taza",
+      "1⅓ taza"
+    ],
+    [
+      "Habichuela",
+      "16,7 g",
+      "66,7 g",
+      "⅙ taza",
+      "⅔ taza"
+    ],
+    [
+      "Cebada perlada, cruda",
+      "66,7 g",
+      "266,7 g",
+      "⅓ taza",
+      "1⅓ taza"
+    ],
+    [
+      "Berenjena",
+      "21,3 g",
+      "85 g",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Tomate",
+      "20 g",
+      "80 g",
+      "⅙ unidad",
+      "⅔ unidad"
+    ],
+    [
+      "Cebolla cabezona blanca",
+      "13,3 g",
+      "53,3 g",
+      "⅙ unidad",
+      "⅔ unidad"
+    ],
+    [
+      "Cebolla larga (de rama)",
+      "2,5 g",
+      "10 g",
+      "⅙ unidad",
+      "⅔ unidad"
+    ],
+    [
+      "Vinagre",
+      "5,1 g (5 mL)",
+      "20,2 g (20 mL)",
+      "⅓ cucharada",
+      "1⅓ cucharada"
+    ],
+    [
+      "Limón, jugo",
+      "10 g (10 mL)",
+      "40 g (40 mL)",
+      "⅔ cucharada",
+      "2⅔ cucharadas"
+    ],
+    [
+      "Hierbabuena o perejil",
+      "0,5 g",
+      "2 g",
+      "al gusto",
+      "al gusto"
+    ],
+    [
+      "Aceite de girasol",
+      "4,6 g (5 mL)",
+      "18,4 g (20 mL)",
+      "⅓ cucharada",
+      "1⅓ cucharada"
+    ],
+    [
+      "Sal",
+      "0,17 g",
+      "0,67 g",
+      "al gusto",
+      "al gusto"
+    ],
+    [
+      "Pimienta negra molida",
+      "0,05 g",
+      "0,2 g",
+      "al gusto",
+      "al gusto"
+    ]
+  ],
+  "pasos": [
+    "**Cocine** los frijoles (previamente remojados) y la cebada, cada uno por aparte, hasta que estén a punto (tiernos pero firmes, para que conserven el grano entero).",
+    "**Lave y desinfecte** las habichuelas, la berenjena, el tomate, las cebollas y la hierbabuena o el perejil (ver la tarjeta de limpieza y desinfección). **Blanquee** las habichuelas tiernas: sumérjalas en agua hirviendo con sal y retírelas en corto tiempo para que conserven su textura y color.",
+    "**Fría** la berenjena cortada en cubos hasta que esté dorada.",
+    "En un recipiente hondo, **coloque** el tomate, la cebolla cabezona y la cebolla larga cortadas en cubos pequeños. **Adicione** los frijoles, la cebada, las habichuelas y la berenjena.",
+    "Aparte, **mezcle** el vinagre, el zumo de limón, la hierbabuena o el perejil, y el aceite.",
+    "**Mezcle** todos los ingredientes y **salpimente** al gusto."
+  ],
+  "notaPasos": "Sirva fría o a temperatura ambiente, recién preparada.",
+  "usoSugerido": "Sirva como plato principal ligero o como acompañamiento abundante.",
+  "nutriConsejo": {
+    "icono": "🥗",
+    "titulo": "Ensalada Europa-América: frijol, cebada y vegetales en un solo plato",
+    "cuerpo": "Esta ensalada es excelente fuente de proteína y de folato, y buena fuente de zinc, gracias a la combinación del frijol cargamanto rojo con la cebada. Es una opción completa y muy rica en fibra para el almuerzo."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción (≈1 taza, ≈223 g), escalada también a 4 porciones. La receta original del libro rinde 6 porciones del mismo tamaño; para el formato estándar de VitaCampo de 4 porciones, todas las cantidades se escalaron proporcionalmente (factor 4/6)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\" porque las técnicas de base (cocinar, blanquear, freír, mezclar) son sencillas, aunque tiene varios pasos."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de \"Ensalada Europa - América\", primera receta de la sección \"Preparaciones a base de fríjol\" del recetario \"Preparaciones: cocinando ando... ando cocinando...\" (Libreta 1, 2010), p.39 (ver bibliografía)."
+    },
+    {
+      "label": "Sobre el frijol y la cebada secos:",
+      "texto": "ambos se tomaron como medida en seco (antes de cocinar), siguiendo el primer paso de la receta. Se calcularon con RINAs-UdeA 2019 (fríjol cargamanto rojo seco crudo y cebada perlada cruda, respectivamente), usando equivalencias de ≈185 g y ≈200 g por taza seca."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de proteína (≥20 % del valor de referencia nutricional) y de folato (≥30 % VDR en ambos sexos), y \"buena fuente\" de zinc (≥15 % VDR en ambos sexos) se calcularon por porción (Res. 810 de 2021). El hierro también es \"buena fuente\", pero no se incluyó entre las 3 etiquetas principales."
+    },
+    {
+      "label": "Sobre la sal y la pimienta:",
+      "texto": "el libro indica \"al gusto\" sin cantidad; se usó una cantidad moderada estimada para el cálculo, documentada en la tabla de ingredientes. El resultado final de sodio es bajo (5,7 % VDR por porción) incluso con esta estimación."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018.",
+    "Agencia Presidencial para la Acción Social y la Cooperación Internacional (Acción Social), Red de Seguridad Alimentaria (ReSA), Proyecto de Fortalecimiento a la Seguridad Alimentaria y Nutricional (PROSEAN), Universidad de Antioquia, Alcaldía de Medellín (Secretaría de Bienestar Social). Preparaciones: cocinando ando... ando cocinando... Libreta 1. Medellín: Acción Social; 2010. ISBN 978-958-98962-8-0."
+  ],
+  "imagen": "assets/img/recetas/FC02.jpg"
+}

@@ -1,0 +1,150 @@
+{
+  "codigo": "AP02",
+  "nombre": "Jugo de piña, naranja, apio y hierbabuena",
+  "imagenSize": {
+    "width": 294,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos, Equipo de Seguridad Alimentaria)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación del jugo que acompaña la receta \"Suflé de atún con moneditas de plátano verde\" del recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 vaso, ≈210 g)",
+  "tiempo": "10 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina C"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "53 kcal",
+      "210 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,6 g",
+      "2,5 g",
+      "0,8 %",
+      "0,8 %"
+    ],
+    [
+      "Carbohidratos",
+      "11,8 g",
+      "47,3 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,3 g",
+      "1,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina C*",
+      "32,9 mg",
+      "131,6 mg",
+      "43,9 %",
+      "36,6 %"
+    ],
+    [
+      "Potasio",
+      "185,2 mg",
+      "740,8 mg",
+      "3,9 %",
+      "3,9 %"
+    ],
+    [
+      "Sodio",
+      "9,7 mg",
+      "38,8 mg",
+      "0,7 %",
+      "0,7 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Agua",
+      "100,0 mL",
+      "400,0 mL",
+      "½ vaso",
+      "2 vasos"
+    ],
+    [
+      "Piña",
+      "50,0 g",
+      "200,0 g",
+      "1 rodaja gruesa",
+      "4 rodajas gruesas"
+    ],
+    [
+      "Naranja",
+      "50,0 g",
+      "200,0 g",
+      "½ unidad",
+      "2 unidades"
+    ],
+    [
+      "Apio (tallo)",
+      "10,0 g",
+      "40,0 g",
+      "½ rama",
+      "2 ramas"
+    ],
+    [
+      "Hierbabuena",
+      "10,0 g",
+      "40,0 g",
+      "½ manojo pequeño",
+      "2 manojos pequeños"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** la piña, la naranja, el apio y la hierbabuena (ver la tarjeta de limpieza y desinfección).",
+    "**Pele** la piña y la naranja, y **retire** las semillas si tiene.",
+    "**Lleve** la piña, la naranja, el apio y la hierbabuena a la licuadora junto con el agua.",
+    "**Licue** hasta obtener una mezcla homogénea. **Sirva** frío."
+  ],
+  "usoSugerido": "Sirva frío, como bebida refrescante para acompañar el almuerzo.",
+  "nutriConsejo": {
+    "icono": "🍍",
+    "titulo": "Jugo de piña, naranja, apio y hierbabuena: excelente fuente de vitamina C",
+    "cuerpo": "Esta bebida fresca es excelente fuente de vitamina C, gracias a la piña y la naranja. El apio y la hierbabuena aportan un toque herbal refrescante, sin azúcar añadida."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "la receta original (dentro de \"Suflé de atún con moneditas de plátano verde\") indica \"2 personas\"; se escaló a 4 porciones VitaCampo con un factor de 2, dando 1 porción de ≈210 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son pasos sencillos de licuar, sin cocción."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó el jugo que forma parte de la receta \"Suflé de atún con moneditas de plátano verde\" (receta 13) del recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín), en el que el apio es un ingrediente nombrado en el título del jugo. Se adaptó únicamente el componente del jugo, dejando aparte el suflé de atún y las monedas de plátano."
+    },
+    {
+      "label": "Sobre la hierbabuena:",
+      "texto": "no tiene una entrada propia en RINAs ni en TCAC-ICBF; dada su función principalmente aromática, no se incluyó en el cálculo nutricional por aportar una cantidad insignificante."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina C se calculó por porción (Res. 810 de 2021), cumpliendo el umbral en ambos sexos."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos, Equipo de Seguridad Alimentaria. Preparaciones semillas ancestrales. Medellín: Alcaldía de Medellín [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/AP02.jpg"
+}

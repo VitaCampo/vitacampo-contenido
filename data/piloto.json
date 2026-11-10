@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "nota": "Instrumentos de la prueba piloto de VitaCampo 2.3 (10-24 nov 2026). Se publica firmado por la nube; cada respuesta guarda esta version. Tipos: si_no, escala (1-5), utilidad (varias partes, 1-5 o No la use), abierta.",
+  "ventana": { "inicio": "2026-11-10", "fin": "2026-11-24" },
+  "minutos_para_invitar": 3,
+  "hora_recordatorio": 17,
+  "consentimiento": {
+    "titulo": "Cuéntenos qué le parece VitaCampo",
+    "parrafos": [
+      "Estamos probando VitaCampo con sus primeras personas usuarias y su opinión nos ayuda a mejorarla. Son unas preguntas cortas: toman cerca de 3 minutos.",
+      "Es voluntario. Puede responder ahora, dejarlo para después o no participar, y VitaCampo seguirá funcionando igual.",
+      "No le pedimos nombre, documento, teléfono ni correo. Sus respuestas son anónimas y se guardan junto con datos generales: su perfil, su zona y qué partes de la aplicación abrió. Se usarán solo para mejorar VitaCampo y para el informe de la práctica profesional de Nutrición y Dietética de la Universidad de Antioquia, siempre en conjunto, nunca de forma individual.",
+      "Puede salir en cualquier momento: no se envía nada hasta que usted toque Enviar, y lo que haya respondido se conserva en su teléfono para retomarlo."
+    ],
+    "aceptar": "Acepto responder",
+    "despues": "Más tarde",
+    "rechazar": "No participar"
+  },
+  "tarjeta": {
+    "titulo": "¿Nos cuenta qué le parece VitaCampo?",
+    "texto": "Son unas preguntas cortas, cerca de 3 minutos. Su opinión nos ayuda a mejorarla."
+  },
+  "recordatorios": [
+    "¿Nos cuenta cómo le va con VitaCampo? Son 3 minutos y su opinión nos ayuda a mejorarla.",
+    "Una cosa más: ¿nos regala 3 minutos para contarnos qué le ha parecido VitaCampo?",
+    "Su opinión cuenta. Cuando pueda, respóndanos unas preguntas cortas sobre VitaCampo.",
+    "¡Hola! Estamos probando VitaCampo y queremos saber qué mejorar. ¿Nos ayuda?",
+    "Las preguntas sobre VitaCampo cierran el 24 de noviembre. ¿Nos cuenta qué le pareció?"
+  ],
+  "gracias": "¡Gracias por contarnos! Su opinión nos ayuda a mejorar VitaCampo. Siga explorando con toda confianza.",
+  "gracias_no": "Gracias, no hay problema. VitaCampo sigue a su disposición.",
+  "partes": [
+    { "id": "fichas", "texto": "Información de los alimentos (fichas)", "plataformas": ["android", "web"] },
+    { "id": "recetas", "texto": "Recetas", "plataformas": ["android", "web"] },
+    { "id": "escoger", "texto": "Escoger y aprovechar los alimentos", "plataformas": ["android", "web"] },
+    { "id": "clima", "texto": "Clima y calendario de la luna", "plataformas": ["android", "web"] },
+    { "id": "huerta", "texto": "Huerta: labores, abonos y plantas aromáticas", "plataformas": ["android", "web"] },
+    { "id": "escaner", "texto": "Escáner con la cámara", "plataformas": ["android"] },
+    { "id": "voz", "texto": "Lectura en voz alta", "plataformas": ["android", "web"] },
+    { "id": "recordatorios", "texto": "Recordatorios", "plataformas": ["android"] }
+  ],
+  "instrumentos": {
+    "A": {
+      "nombre": "Población general",
+      "perfiles": ["productor", "huerta", "publico"],
+      "preguntas": [
+        { "id": "edad18", "tipo": "si_no", "texto": "¿Tiene 18 años o más?", "fin_si": "no", "mide": "Criterio de inclusión (mayoría de edad)." },
+        { "id": "uso_previo", "tipo": "si_no", "texto": "¿Había usado VitaCampo antes de noviembre de 2026?", "mide": "Caracterización: conocimiento previo de la aplicación (no excluye)." },
+        { "id": "facil", "tipo": "escala", "texto": "En general, ¿qué tan fácil o difícil le resultó usar VitaCampo?", "polos": ["Muy difícil", "Muy fácil"], "mide": "Usabilidad: facilidad de uso (ítem de facilidad del UMUX-Lite; pregunta única de facilidad)." },
+        { "id": "necesito", "tipo": "escala", "texto": "¿Qué tanto de lo que necesita para aprender sobre alimentación y huerta encuentra en VitaCampo?", "polos": ["Casi nada", "Casi todo"], "mide": "Usabilidad: capacidades que cubren sus necesidades (ítem de capacidades del UMUX-Lite)." },
+        { "id": "utilidad", "tipo": "utilidad", "texto": "¿Qué tan útil o inútil le resultó cada parte de VitaCampo? Si no la usó, toque «No la usé».", "polos": ["Nada útil", "Muy útil"], "mide": "Utilidad percibida por función (marco TAM)." },
+        { "id": "receta_vio", "tipo": "si_no", "texto": "¿Alcanzó a ver alguna receta?", "salta_si_no": ["receta_claro", "receta_prepararia"], "mide": "Filtro del bloque de Recetas." },
+        { "id": "receta_claro", "tipo": "escala", "texto": "¿Qué tan claro o confuso le pareció el paso a paso de las recetas?", "polos": ["Muy confuso", "Muy claro"], "mide": "Recetas: claridad del procedimiento." },
+        { "id": "receta_prepararia", "tipo": "escala", "texto": "¿Qué tan probable o improbable es que prepare alguna de estas recetas?", "polos": ["Nada probable", "Muy probable"], "mide": "Recetas: intención de uso." },
+        { "id": "huerta_vio", "tipo": "si_no", "texto": "¿Alcanzó a ver el calendario de la luna o la Huerta?", "salta_si_no": ["h_cuando", "h_abonos", "h_aplicaria"], "mide": "Filtro del bloque Siembra y huerta." },
+        { "id": "h_cuando", "tipo": "escala", "texto": "¿Qué tan claro o confuso le resultó saber cuándo sembrar según la luna y la época de lluvias de su zona?", "polos": ["Muy confuso", "Muy claro"], "mide": "Siembra: claridad del calendario lunar y de la época de lluvias." },
+        { "id": "h_abonos", "tipo": "escala", "texto": "¿Qué tan fácil o difícil le resultó entender cómo preparar un abono o hacer una labor de la huerta?", "polos": ["Muy difícil", "Muy fácil"], "mide": "Huerta: comprensión de abonos y labores." },
+        { "id": "h_aplicaria", "tipo": "escala", "texto": "¿Qué tan probable o improbable es que ponga en práctica algo de lo que vio (sembrar, abonar, cuidar las plantas)?", "polos": ["Nada probable", "Muy probable"], "mide": "Siembra y huerta: intención de aplicar." },
+        { "id": "satisfaccion", "tipo": "escala", "texto": "En general, ¿qué tan satisfactoria o insatisfactoria fue su experiencia con VitaCampo?", "polos": ["Nada satisfactoria", "Muy satisfactoria"], "mide": "Satisfacción general (ítem único)." },
+        { "id": "recomienda", "tipo": "escala", "texto": "¿Qué tan probable o improbable es que recomiende VitaCampo a otra persona?", "polos": ["Nada probable", "Muy probable"], "mide": "Recomendación (ítem tipo Net Promoter, adaptado a 5 niveles)." },
+        { "id": "abierta", "tipo": "abierta", "texto": "Si quiere, cuéntenos qué le gustó y qué cambiaría o no entendió.", "max": 1500, "mide": "Aspectos positivos, mejoras y dificultades (opcional)." }
+      ]
+    },
+    "B": {
+      "nombre": "Estudiantes y profesionales",
+      "perfiles": ["educacion", "profesional"],
+      "preguntas": [
+        { "id": "edad18", "tipo": "si_no", "texto": "¿Tiene 18 años o más?", "fin_si": "no", "mide": "Criterio de inclusión (mayoría de edad)." },
+        { "id": "uso_previo", "tipo": "si_no", "texto": "¿Había usado VitaCampo antes de noviembre de 2026?", "mide": "Caracterización: conocimiento previo de la aplicación (no excluye)." },
+        { "id": "facil", "tipo": "escala", "texto": "En general, ¿qué tan fácil o difícil le resultó usar VitaCampo?", "polos": ["Muy difícil", "Muy fácil"], "mide": "Usabilidad: facilidad de uso (ítem de facilidad del UMUX-Lite; pregunta única de facilidad)." },
+        { "id": "necesito", "tipo": "escala", "texto": "¿Qué tanto de lo que necesita para su estudio o trabajo en alimentación, nutrición o agroecología encuentra en VitaCampo?", "polos": ["Casi nada", "Casi todo"], "mide": "Usabilidad: capacidades que cubren sus necesidades (ítem de capacidades del UMUX-Lite)." },
+        { "id": "utilidad", "tipo": "utilidad", "texto": "¿Qué tan útil o inútil le resultó cada parte de VitaCampo? Si no la usó, toque «No la usé».", "polos": ["Nada útil", "Muy útil"], "mide": "Utilidad percibida por función (marco TAM)." },
+        { "id": "fuentes", "tipo": "escala", "texto": "¿Qué tan claras o confusas le parecen las fuentes y las cifras que cita la información de los alimentos?", "polos": ["Muy confusas", "Muy claras"], "mide": "Rigor percibido: claridad de fuentes y cifras." },
+        { "id": "receta_vio", "tipo": "si_no", "texto": "¿Alcanzó a ver alguna receta?", "salta_si_no": ["receta_claro", "receta_info"], "mide": "Filtro del bloque de Recetas." },
+        { "id": "receta_claro", "tipo": "escala", "texto": "¿Qué tan claro o confuso le pareció el paso a paso de las recetas?", "polos": ["Muy confuso", "Muy claro"], "mide": "Recetas: claridad del procedimiento." },
+        { "id": "receta_info", "tipo": "escala", "texto": "¿Qué tan adecuada o inadecuada le parece la información nutricional y de limpieza y desinfección de las recetas?", "polos": ["Nada adecuada", "Muy adecuada"], "mide": "Recetas: adecuación de la información nutricional y de inocuidad." },
+        { "id": "huerta_vio", "tipo": "si_no", "texto": "¿Alcanzó a ver el calendario de la luna o la Huerta?", "salta_si_no": ["h_cuando", "h_adecuada", "h_usaria"], "mide": "Filtro del bloque Siembra y huerta." },
+        { "id": "h_cuando", "tipo": "escala", "texto": "¿Qué tan claro o confuso le resultó saber cuándo sembrar según la luna y la época de lluvias de su zona?", "polos": ["Muy confuso", "Muy claro"], "mide": "Siembra: claridad del calendario lunar y de la época de lluvias." },
+        { "id": "h_adecuada", "tipo": "escala", "texto": "¿Qué tan adecuada o inadecuada le parece la forma en que se presenta el calendario lunar (como saber tradicional) y las recomendaciones de abonos y labores?", "polos": ["Nada adecuada", "Muy adecuada"], "mide": "Siembra y huerta: adecuación de la presentación y de las recomendaciones." },
+        { "id": "h_usaria", "tipo": "escala", "texto": "¿Qué tan probable o improbable es que use esta información con otras personas (comunidad, estudiantes, productores)?", "polos": ["Nada probable", "Muy probable"], "mide": "Siembra y huerta: intención de uso con terceros." },
+        { "id": "util_trabajo", "tipo": "escala", "texto": "¿Qué tan útil o inútil le resultaría VitaCampo en su estudio o trabajo?", "polos": ["Nada útil", "Muy útil"], "mide": "Utilidad percibida para su estudio o trabajo." },
+        { "id": "satisfaccion", "tipo": "escala", "texto": "En general, ¿qué tan satisfactoria o insatisfactoria fue su experiencia con VitaCampo?", "polos": ["Nada satisfactoria", "Muy satisfactoria"], "mide": "Satisfacción general (ítem único)." },
+        { "id": "recomienda", "tipo": "escala", "texto": "¿Qué tan probable o improbable es que recomiende VitaCampo a otra persona?", "polos": ["Nada probable", "Muy probable"], "mide": "Recomendación (ítem tipo Net Promoter, adaptado a 5 niveles)." },
+        { "id": "abierta", "tipo": "abierta", "texto": "Si quiere, cuéntenos qué le gustó y qué cambiaría o no entendió.", "max": 1500, "mide": "Aspectos positivos, mejoras y dificultades (opcional)." }
+      ]
+    }
+  }
+}

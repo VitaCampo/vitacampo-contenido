@@ -1,0 +1,123 @@
+{
+  "slug": "cebolla_de_rama",
+  "nombreComun": "Cebolla de rama",
+  "nombreCientifico": "Allium fistulosum L.",
+  "subtitulo": "Un mismo alimento, un nombre distinto en cada país",
+  "imagen": "assets/img/fichas/cebolla_de_rama.jpg",
+  "creditoImagen": "Elaboración propia. Plaza Minorista José María Villa, Medellín, 2026.",
+  "introduccion": "La cebolla de rama es originaria de Asia —posiblemente China o Siberia— donde se cultiva desde hace más de 2.000 años, siendo un ingrediente esencial de la cocina china y japonesa. Al llegar a América, tomó una identidad propia en cada región: se le conoce como cebollita china en Perú, cebolla de verdeo en Argentina y Uruguay, cebolla blanca en Ecuador, y cebolla de rama, cebolla junca o cebollín en distintas zonas de Colombia — el mismo alimento, con tantos nombres como países lo cultivan.",
+  "porcionReferencia": "20 gramos (aproximadamente 2 tallos medianos con hojas)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "8,2 kcal",
+      "vdrMujer": "0,4%",
+      "vdrHombre": "0,4%"
+    },
+    {
+      "nutriente": "Vitamina K",
+      "cantidad": "41,4 mcg",
+      "vdrMujer": "69%",
+      "vdrHombre": "59,1%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "3,0 mg",
+      "vdrMujer": "4,0%",
+      "vdrHombre": "3,3%"
+    },
+    {
+      "nutriente": "Folato",
+      "cantidad": "12,8 mcg EFD",
+      "vdrMujer": "3,2%",
+      "vdrHombre": "3,2%"
+    },
+    {
+      "nutriente": "Hierro",
+      "cantidad": "0,30 mg",
+      "vdrMujer": "1,5%",
+      "vdrHombre": "2,3%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "la cebolla de rama no figura en la Lista de Intercambio UdeA (5.ª ed., 2023). Se usa 20 g como porción de referencia, equivalente al uso habitual como condimento en preparaciones colombianas (aproximadamente 2 tallos medianos con hojas). Fuente nutricional: TCAC-ICBF, entrada \"Cebolla junca, hojas, cruda\"."
+    },
+    {
+      "titulo": "Sobre la vitamina K",
+      "texto": "no está reportada en TCAC-ICBF para este alimento. Se usó USDA FoodData Central (FDC #170005, \"Green Onions\"), que reporta 207 mcg/100 g."
+    },
+    {
+      "titulo": "Sobre las declaraciones",
+      "texto": "según la Resolución 810 de 2021, con 59,1-69% del VRN, esta porción califica como \"excelente fuente de Vitamina K\" (≥30% VRN) — un hallazgo notable considerando lo pequeña que es la porción habitual como condimento. ."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía que solo 20 g de cebolla de rama (2 tallos medianos) aportan cerca del 70% de su requerimiento diario de Vitamina K, un nutriente esencial para la coagulación de la sangre y la salud de los huesos?"
+  },
+  "descripcion": "La cebolla de rama es uno de los cultivos hortícolas más importantes en las zonas rurales de Antioquia, incluidos varios corregimientos del Distrito de Medellín, donde el clima frío de montaña favorece su desarrollo. A diferencia de la cebolla común (Allium cepa), nunca forma bulbo — su parte blanca es en realidad un falso tallo, formado por las bases envueltas de las hojas, y tanto esta como las hojas verdes son comestibles.",
+  "beneficios": [
+    {
+      "icono": "🦴",
+      "titulo": "Coagulación y huesos",
+      "texto": "su vitamina K participa en el proceso que detiene un sangrado y contribuye a la salud ósea."
+    },
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas",
+      "texto": "aporta vitamina C, que apoya las defensas del organismo."
+    },
+    {
+      "icono": "🌿",
+      "titulo": "Sistema nervioso",
+      "texto": "contiene folato, que apoya el sistema nervioso y la formación sanguínea."
+    },
+    {
+      "icono": "🩸",
+      "titulo": "Oxigenación",
+      "texto": "su hierro (de origen vegetal) contribuye a la formación de glóbulos rojos, las células encargadas de transportar oxígeno en la sangre."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "capsula",
+      "titulo": "Los compuestos detrás de su aroma",
+      "texto": "La cebolla de rama, como el ajo y la cebolla común, pertenece al género Allium y comparte con ellos compuestos organosulfurados (sustancias que contienen azufre), responsables del aroma característico de toda esta familia de plantas, con propiedades antioxidantes y antimicrobianas estudiadas en laboratorio. Curiosamente, un análisis específico de extracto acuoso de cebolla de rama encontró que el D-Limoneno (un compuesto distinto, más conocido por estar presente en la cáscara de cítricos) fue el más abundante en esa muestra, con propiedades antimicrobianas propias — un recordatorio de que el perfil exacto de compuestos puede variar según el método usado para analizar la planta"
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "",
+      "texto": "Esta hortaliza aporta una cantidad importante de vitamina K. Si usted toma medicamentos anticoagulantes (como la warfarina), mantenga un consumo controlado y consulte con un profesional de la salud."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo conservarla más tiempo",
+      "texto": "La cebolla de rama fresca se marchita rápido. Guárdela sin lavar, envuelta en un paño o papel absorbente dentro de una bolsa perforada en la nevera, y consúmala idealmente dentro de los primeros 5-7 días. Si compró más de la que va a usar pronto, pique los tallos y las hojas y congélelos en un recipiente hermético o bolsa con cierre — así los tendrá listos para agregar directamente a sopas y guisos sin necesidad de descongelar, conservando gran parte de su sabor y valor nutricional por varios meses."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Aliados naturales contra el trips",
+      "texto": "El trips (Thrips tabaci) es una de las plagas más importantes del cultivo de cebolla de rama, capaz de causar pérdidas de hasta el 70-100% de la producción si no se controla a tiempo — se alimenta de la savia de las hojas, dejando manchas plateadas características. Un estudio encontró que sembrar bordes o entrelíneas con plantas floríferas dentro y alrededor del cultivo atrae moscas sírfidas, insectos benéficos cuyas larvas depredan naturalmente al trips — una estrategia de manejo agroecológico."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF; 2015 [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Universidad de Antioquia - Grupo de Investigación Alimentación y Nutrición Humana (GIANH). Lista de intercambios de alimentos. 5.ª ed. Medellín: Universidad de Antioquia; 2023.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021.",
+    "5. Kim SH, Yoon JB, Han J, et al. Green Onion (Allium fistulosum): An Aromatic Vegetable Crop Esteemed for Food, Nutritional and Therapeutic Significance. Foods. 2023;12(24):4503.",
+    "6. Ajayi GO, Akinsanya MA. Phytochemical Profiles of Allium cepa and Allium fistulosum. Niger J Biochem Mol Biol. 2023;38(2):80-82.",
+    "7. U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Green Onions (FDC #170005).",
+    "8. Pinzón Ramírez H. La cebolla de rama (Allium fistulosum) y su cultivo. Bogotá: Corpoica; 2004.",
+    "9. Franco G, et al. Modelo tecnológico para el cultivo de cebolla de rama en el departamento de Antioquia (Allium fistulosum).",
+    "10. Control biológico natural de trips (Thrips tabaci) por sírfidos predadores en cultivo de cebolla, por el cultivo de borduras y/o entrelíneas. Universidad Nacional del Nordeste (UNNE), Argentina."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

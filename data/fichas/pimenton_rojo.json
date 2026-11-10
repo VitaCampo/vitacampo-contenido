@@ -1,0 +1,122 @@
+{
+  "slug": "pimenton_rojo",
+  "nombreComun": "Pimentón Rojo",
+  "nombreCientifico": "Capsicum annuum",
+  "subtitulo": "El fruto americano que conquistó el mundo entero",
+  "imagen": "assets/img/fichas/pimenton_rojo.jpg",
+  "creditoImagen": "Elaboración propia.",
+  "introduccion": "El pimentón se domesticó hace unos 6.000 años en México, aunque algunas fuentes técnicas colombianas también consideran a Colombia como un posible centro de origen adicional de esta especie. Junto con el maíz y el frijol, forma parte de los grandes aportes alimentarios de los pueblos originarios de América al resto del mundo — hoy es uno de los vegetales más cultivados y consumidos a nivel global.",
+  "porcionReferencia": "111 gramos (1 unidad mediana)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "36 kcal",
+      "vdrMujer": "1,83%",
+      "vdrHombre": "1,54%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "190 mg",
+      "vdrMujer": "253,3%",
+      "vdrHombre": "211%"
+    },
+    {
+      "nutriente": "Vitamina A",
+      "cantidad": "417 mcg ER",
+      "vdrMujer": "59,6%",
+      "vdrHombre": "46,3%"
+    },
+    {
+      "nutriente": "Vitamina B6",
+      "cantidad": "0,28 mg",
+      "vdrMujer": "20%",
+      "vdrHombre": "18,67%"
+    },
+    {
+      "nutriente": "Cobre",
+      "cantidad": "80 mcg",
+      "vdrMujer": "8,89%",
+      "vdrHombre": "8,89%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la variedad y el color",
+      "texto": "este dato es específico de pimentón rojo. Las variedades amarilla y verde tienen perfiles distintos — el rojo es, por mucho, el más rico en Vitamina A (570 ER en crudo, frente a apenas 24-63 ER en amarillo y verde) y también el de mayor Vitamina C, según las RINAs."
+    },
+    {
+      "titulo": "Sobre las fuentes de los datos",
+      "texto": "los valores de esta tabla provienen de la Lista de Intercambios UdeA (111 g, 1 unidad mediana), con buena consistencia frente al TCAC-ICBF y las RINAs."
+    },
+    {
+      "titulo": "Sobre las declaraciones",
+      "texto": "según la Resolución 810 de 2021, esta porción califica como “excelente fuente” (≥30% VRN) de Vitamina C, Vitamina A y Vitamina B6 — las tres al mismo tiempo, con una Vitamina C que supera ampliamente el 200% del requerimiento diario."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "esta porción aporta 1,3 g de fibra dietética, equivalentes al 3,98% (hombres) y 4,73% (mujeres) del requerimiento diario — un aporte modesto. La fibra dietética tiene dos tipos principales: la fibra insoluble, que no se disuelve en agua y actúa como una especie de “escoba natural” en el intestino, acelerando el tránsito intestinal; y la fibra soluble, que sí se disuelve en agua formando una sustancia similar a un gel, asociada con una absorción más lenta de azúcares y grasas."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía usted que una sola unidad mediana de pimentón rojo aporta más del 200% de su requerimiento diario de Vitamina C —más del doble que una naranja de tamaño similar—? Esta vitamina es clave para el funcionamiento normal del sistema inmunitario, participa en la formación de colágeno (una proteína que da estructura a la piel, los vasos sanguíneos y las articulaciones) y favorece la absorción del hierro proveniente de alimentos de origen vegetal."
+  },
+  "descripcion": "Aunque lo tratamos como vegetal en la cocina, el pimentón es botánicamente una fruta (un tipo de baya, ya que se desarrolla a partir de la flor y contiene semillas). Otro dato curioso: pertenece al mismo género que los ajíes picantes (Capsicum), pero a diferencia de ellos, casi no contiene capsaicina (el compuesto responsable del picor) — una variación genética natural que lo hizo dulce en vez de picante, sin perder el parentesco con sus primos más “intensos”.",
+  "beneficios": [
+    {
+      "icono": "👁️",
+      "titulo": "Visión",
+      "texto": "su vitamina A contribuye al mantenimiento de la visión y al funcionamiento normal del sistema de defensas."
+    },
+    {
+      "icono": "🧠",
+      "titulo": "Metabolismo y sistema nervioso",
+      "texto": "su vitamina B6 participa en el metabolismo de las proteínas (el proceso mediante el cual el cuerpo descompone y aprovecha la proteína de los alimentos) y en la formación de neurotransmisores (las sustancias que permiten la comunicación entre las neuronas)."
+    },
+    {
+      "icono": "🩸",
+      "titulo": "Formación de glóbulos rojos",
+      "texto": "su cobre participa en la formación de glóbulos rojos (las células que transportan oxígeno en la sangre) y en el funcionamiento del sistema nervioso."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "capsula",
+      "titulo": "El pigmento que distingue al pimentón rojo",
+      "texto": "No todos los pimentones son iguales por dentro: el rojo debe su color intenso a la capsantina, un compuesto que apenas empieza a aparecer cuando el fruto todavía está verde, y que se concentra cada vez más a medida que madura — por eso el pimentón rojo tiene mucha más cantidad que el amarillo o el verde de este pigmento en particular. Es uno de los antioxidantes más potentes conocidos dentro de su familia de compuestos (los carotenoides), y explica en buena parte por qué esta variedad se destaca tanto en nuestra tabla nutricional frente a las otras."
+    },
+    {
+      "tipo": "verdad",
+      "titulo": "¿El pimentón produce gastritis, gases o acidez?",
+      "texto": "Es una creencia muy extendida, pero la evidencia no la respalda con fuerza: el pimentón está clasificado como un alimento bajo en FODMAP (un grupo de carbohidratos fermentables que sí suelen producir gases y malestar digestivo en personas sensibles), lo que significa que, en general, es bien tolerado incluso por personas con síndrome de intestino irritable. Es posible que parte de esta creencia venga de confundirlo con los ajíes picantes (que sí contienen capsaicina, un compuesto que puede irritar el estómago de algunas personas), o de la dificultad que representa su cáscara para digerirlo en algunas personas particularmente sensibles. Si nota malestar después de comerlo, retirar la cáscara antes de prepararlo puede ayudar."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo conservarlo y cocinarlo para aprovecharlo al máximo",
+      "texto": "Guarde el pimentón entero y sin lavar en el cajón de frutas y verduras de la nevera —así puede durar entre 1 y 2 semanas. Si ya lo cortó, guárdelo en un recipiente cerrado y consúmalo en pocos días; también puede cortarlo en trozos y congelarlo directamente, sin necesidad de blanquearlo primero. Y antes de botar las semillas y el tejido blanco interno (la placenta), tenga en cuenta que se pueden consumir sin problema —de hecho, contienen compuestos beneficiosos que suelen desperdiciarse, así que aprovecharlos por completo reduce el desperdicio de alimentos sin ningún riesgo. Al momento de cocinarlo, tenga en cuenta que un estudio con pimentón rojo encontró que hervirlo o cocinarlo al vapor puede reducir su contenido de vitamina C entre un 24% y un 67%, mientras que saltearlo o asarlo genera pérdidas mucho menores (entre un 3% y un 26%), ya que la vitamina C es sensible al calor y se disuelve fácilmente en agua. Si busca aprovechar al máximo su aporte de vitamina C, considere consumirlo crudo, o si prefiere cocinarlo, priorice el salteado o el asado sobre el hervido, y mantenga los tiempos de cocción breves."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Control natural de áfidos con aceite de ajo",
+      "texto": "Los áfidos (pulgones) son una de las plagas más comunes en el cultivo de pimentón, y pueden transmitir enfermedades virales a la planta además de dañarla directamente. Un estudio encontró que el aceite esencial de ajo, combinado con aceite de soya, es una alternativa ecológica efectiva para repeler estos insectos — un biopreparado que se puede elaborar en la propia finca a partir de un cultivo tan cotidiano como el ajo, reduciendo la dependencia de insecticidas de síntesis química."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "3. Universidad de Antioquia - Grupo de Investigación Alimentación y Nutrición Humana (GIANH). Lista de intercambios de alimentos. 5.ª ed. Medellín: Universidad de Antioquia; 2023.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "5. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "6. Kraft KH, Brown CH, Nabhan GP, Luedeling E, Ruiz JD, d'Eeckenbrugge GC, et al. Multiple lines of evidence for the origin of domesticated chili pepper, Capsicum annuum, in Mexico. Proc Natl Acad Sci U S A. 2014;111(17):6165-6170.",
+    "7. Kennedy LE, Abraham A, Kulkarni G, Shettigar N, Dave T, Kulkarni M. Capsanthin, a Plant-Derived Xanthophyll: a Review of Pharmacology and Delivery Strategies. AAPS PharmSciTech. 2021;22(5):203.",
+    "8. Anaya-Esparza LM, Villagrán-de la Mora Z, Vázquez-Paulino O, Ascencio F, Villarruel-López A. Bell Peppers (Capsicum annum L.) Losses and Wastes: Source for Food and Pharmaceutical Applications. Molecules. 2021;26(17):5341.",
+    "9. Castresan JE, Rosenbaum J, González LA. Estudio de la efectividad de tres aceites esenciales para el control de áfidos en pimiento, Capsicum annuum L. Idesia. 2013;31(3):49-58.",
+    "10. Hwang IG, Shin YJ, Lee S, Lee J, Yoo SM. Effects of different cooking methods on the antioxidant properties of red pepper (Capsicum annuum L.). Prev Nutr Food Sci. 2012;17(4):286-292."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

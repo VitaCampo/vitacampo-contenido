@@ -1,0 +1,166 @@
+{
+  "codigo": "PL03",
+  "nombre": "Torta de plátano",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Rachel Loughman, Pexels — Licencia Pexels (uso libre). Fotografía \"Close-Up Photo of a Banana Bread\": https://www.pexels.com/photo/5441027/ (Imagen ilustrativa de una torta horneada similar)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Torta de plátano\" del recetario \"Deliciosas y nutritivas recetas\" (PDSAN, Gobernación de Antioquia) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 tajada, ≈146 g)",
+  "tiempo": "50 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Buena fuente de vitamina A",
+    "Buena fuente de folato (B9)"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "429 kcal",
+      "1717 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "6,0 g",
+      "24,2 g",
+      "8,3 %",
+      "7,7 %"
+    ],
+    [
+      "Carbohidratos",
+      "70,3 g",
+      "281,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "13,8 g",
+      "55,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "7,9 g",
+      "31,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina A*",
+      "173,2 µg ER",
+      "692,6 µg ER",
+      "24,7 %",
+      "19,2 %"
+    ],
+    [
+      "Folato (B9)*",
+      "91,4 µg",
+      "365,7 µg",
+      "22,9 %",
+      "22,9 %"
+    ],
+    [
+      "Sodio",
+      "143,9 mg",
+      "575,6 mg",
+      "10,5 %",
+      "10,5 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Plátano maduro",
+      "56,2 g",
+      "225,0 g",
+      "½ unidad mediana",
+      "1½ unidades medianas"
+    ],
+    [
+      "Huevo",
+      "18,8 g",
+      "75,0 g",
+      "⅓ unidad",
+      "1½ unidades"
+    ],
+    [
+      "Azúcar",
+      "28,4 g",
+      "113,5 g",
+      "2¾ cucharadas",
+      "¾ taza"
+    ],
+    [
+      "Mantequilla",
+      "14,2 g",
+      "56,8 g",
+      "1 cucharada",
+      "4 cucharadas"
+    ],
+    [
+      "Polvo de hornear",
+      "—",
+      "—",
+      "1 pizca",
+      "¼ cucharada"
+    ],
+    [
+      "Harina de trigo",
+      "28,4 g",
+      "113,5 g",
+      "¼ taza",
+      "¾ taza + 2 cucharadas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** los plátanos (ver la tarjeta de limpieza y desinfección). **Rállelos**.",
+    "**Bata** los huevos a punto de nieve.",
+    "**Mezcle** el azúcar con la mantequilla.",
+    "**Agregue** poco a poco la harina, el polvo de hornear y los plátanos rallados, y **bata** muy bien.",
+    "**Lleve** al horno a 250 °F (120 °C) durante 30 minutos."
+  ],
+  "usoSugerido": "Sirva como postre o merienda, sola o acompañada de una bebida caliente.",
+  "nutriConsejo": {
+    "icono": "🍰",
+    "titulo": "Torta de plátano: buena fuente de vitamina A y folato",
+    "cuerpo": "Esta torta tradicional es buena fuente de vitamina A y de folato, gracias al plátano maduro. Por la mantequilla y el azúcar que lleva, aporta una cantidad considerable de calorías: las personas con diabetes o que buscan controlar su peso pueden ajustar el tamaño de la porción, en conjunto con hábitos alimentarios y estilos de vida saludables. Por su contenido de potasio, las personas con enfermedad renal deben consultar con su nutricionista antes de consumirla con frecuencia."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro no especifica el número de porciones; dado el tamaño de la receta (6 plátanos, 1 libra cada uno de mantequilla, azúcar y harina), se estimó un rendimiento de 16 tajadas (tamaño estándar de torta), escalado a 4 porciones VitaCampo, dando 1 porción de ≈146 g (1 tajada)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque requiere batir los huevos a punto de nieve e integrar bien la mezcla antes de hornear."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Torta de plátano\", del recetario \"Deliciosas y nutritivas recetas\" (PDSAN, Gobernación de Antioquia)."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"buena fuente\" de vitamina A y de folato se calcularon por porción (Res. 810 de 2021), cumpliendo el umbral en ambos sexos."
+    },
+    {
+      "label": "Sobre el potasio y la enfermedad renal:",
+      "texto": "el plátano contiene potasio de forma natural. Las personas con enfermedad renal o con hiperpotasemia (potasio alto en la sangre) deben vigilar su consumo de potasio y consultar con su nutricionista antes de consumir esta preparación con frecuencia."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Gobernación de Antioquia, Programa de Desarrollo y Seguridad Alimentaria y Nutricional (PDSAN). Deliciosas y nutritivas recetas. Medellín: Gobernación de Antioquia [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/PL03.jpg"
+}

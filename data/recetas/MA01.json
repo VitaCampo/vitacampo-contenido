@@ -1,0 +1,225 @@
+{
+  "codigo": "MA01",
+  "nombre": "Crema azteca de maíz y verduras",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Valeria Boltneva, Pexels — Licencia Pexels (uso libre). Fotografía \"Shallow Focus Photography Of Squash Soup\": https://www.pexels.com/photo/1277483/ (Imagen ilustrativa de una crema de vegetales)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta del recetario \"Preparaciones: cocinando ando... ando cocinando...\" (Libreta 1, 2010) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 pocillo, ≈166 g de ingredientes sólidos más el caldo de cocción incorporado al licuar)",
+  "tiempo": "30 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina A",
+    "Buena fuente de vitamina C",
+    "Bajo en grasa"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "115 kcal",
+      "462 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "3,7 g",
+      "14,6 g",
+      "5,1 %",
+      "4,8 %"
+    ],
+    [
+      "Carbohidratos",
+      "22,7 g",
+      "90,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "1,1 g",
+      "4,3 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,2 g",
+      "0,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "0,0 mg",
+      "0,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "3,7 g",
+      "14,9 g",
+      "13,6 %",
+      "11,4 %"
+    ],
+    [
+      "Vitamina A*",
+      "699,6 µg ER",
+      "2798,4 µg ER",
+      "99,9 %",
+      "77,7 %"
+    ],
+    [
+      "Vitamina C*",
+      "15,6 mg",
+      "62,2 mg",
+      "20,7 %",
+      "17,3 %"
+    ],
+    [
+      "Folato (B9)",
+      "53,7 µg",
+      "214,8 µg",
+      "13,4 %",
+      "13,4 %"
+    ],
+    [
+      "Potasio",
+      "514,2 mg",
+      "2057,0 mg",
+      "10,9 %",
+      "10,9 %"
+    ],
+    [
+      "Sodio",
+      "225,9 mg",
+      "903,6 mg",
+      "16,4 %",
+      "16,4 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Maíz amarillo tierno (choclo), desgranado",
+      "75 g",
+      "300 g",
+      "½ taza desgranada",
+      "2 tazas desgranadas"
+    ],
+    [
+      "Auyama",
+      "40 g",
+      "160 g",
+      "1 trozo pequeño",
+      "4 trozos pequeños"
+    ],
+    [
+      "Zanahoria",
+      "18 g",
+      "72 g",
+      "2 cucharadas picada",
+      "½ taza picada"
+    ],
+    [
+      "Papa criolla",
+      "10 g",
+      "40 g",
+      "1 papa criolla pequeña",
+      "5 papas criollas pequeñas"
+    ],
+    [
+      "Cebolla cabezona blanca",
+      "7 g",
+      "28 g",
+      "1 cucharadita picada",
+      "2 cucharadas picada"
+    ],
+    [
+      "Perejil",
+      "1 g",
+      "4 g",
+      "¼ cucharadita picada",
+      "1 cucharadita picada"
+    ],
+    [
+      "Cilantro",
+      "1 g",
+      "4 g",
+      "¼ cucharadita picada",
+      "1 cucharadita picada"
+    ],
+    [
+      "Apio",
+      "13 g",
+      "52 g",
+      "⅓ tallo pequeño",
+      "1⅓ tallo pequeño"
+    ],
+    [
+      "Sal",
+      "0,5 g",
+      "2 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Agua o caldo de vegetales",
+      "300 mL",
+      "1200 mL",
+      "1¼ taza",
+      "5 tazas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** el maíz (desgránelo si está en mazorca), la auyama, la zanahoria, la papa criolla, la cebolla cabezona, el perejil, el cilantro y el apio (ver la tarjeta de limpieza y desinfección).",
+    "**Pele** y **pique** en trozos pequeños la auyama, la zanahoria, la papa criolla, la cebolla cabezona y el apio.",
+    "En una olla, **hierva** el agua o el caldo de vegetales. **Agregue** todas las verduras picadas junto con el maíz desgranado y la sal.",
+    "**Cocine** a fuego medio entre 20 y 25 minutos, hasta que todas las verduras estén blandas.",
+    "**Licue** la preparación (o macháquela con un tenedor si prefiere una textura más rústica) junto con el perejil y el cilantro picados, hasta obtener una crema homogénea.",
+    "**Caliente** brevemente de nuevo si es necesario y **sirva** caliente."
+  ],
+  "notaPasos": "Si prefiere una crema más espesa, licue con menos cantidad de caldo. Puede acompañar con arepa o una tajada de pan integral.",
+  "usoSugerido": "Sirva como entrada o como plato principal ligero, acompañada de una porción de proteína.",
+  "nutriConsejo": {
+    "icono": "🌽",
+    "titulo": "Crema azteca: una sopa de maíz y verduras del campo",
+    "cuerpo": "Esta crema es excelente fuente de vitamina A (aportada principalmente por la zanahoria y la auyama) y buena fuente de vitamina C, y es baja en grasa. El sodio proviene principalmente de la sal agregada: las personas con hipertensión arterial pueden reducir la cantidad."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción de crema (≈1 pocillo, ≈166 g de ingredientes sólidos, además del caldo de cocción incorporado al licuar), con los ingredientes escalados también a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\" porque las técnicas de base (picar, hervir, licuar) son sencillas y no requieren técnicas de cocción complejas."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de \"Crema azteca\", receta de la sección \"Maíz\" del recetario \"Preparaciones: cocinando ando... ando cocinando...\" (Libreta 1, Acción Social/ReSA/PROSEAN/Universidad de Antioquia/Alcaldía de Medellín, 2010) (ver bibliografía), ajustando las medidas caseras originales (tazas, trozos) al estándar de porción de VitaCampo."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina A (≥30 % VDR en ambos sexos, principalmente por la zanahoria y la auyama) y \"buena fuente\" de vitamina C (≥15 % VDR en ambos sexos) se calcularon por porción (Res. 810 de 2021). \"Bajo en grasa\" se calculó por 100 g de producto (0,65 g de grasa por 100 g), muy por debajo del límite de esa declaración; esta crema también queda por debajo del límite de \"bajo en grasa saturada\" (0,10 g por 100 g), aunque no se declaró aparte. No aplica \"bajo en sodio\": por 100 g de producto (136,5 mg de sodio), supera levemente ese límite, principalmente por la sal agregada."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 225,9 mg de sodio (16,4 % de la ingesta adecuada diaria), principalmente por la sal agregada. Las personas con hipertensión arterial o enfermedad renal pueden reducir la cantidad de sal."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Agencia Presidencial para la Acción Social y la Cooperación Internacional (Acción Social), Red de Seguridad Alimentaria (ReSA), Proyecto de Fortalecimiento a la Seguridad Alimentaria y Nutricional (PROSEAN), Universidad de Antioquia, Alcaldía de Medellín (Secretaría de Bienestar Social). Preparaciones: cocinando ando... ando cocinando... Libreta 1. Medellín: Acción Social; 2010. ISBN 978-958-98962-8-0."
+  ],
+  "imagen": "assets/img/recetas/MA01.jpg"
+}

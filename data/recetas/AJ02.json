@@ -1,0 +1,207 @@
+{
+  "codigo": "AJ02",
+  "nombre": "Sopa de ajo",
+  "imagenSize": {
+    "width": 300,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: MikeGz, Pexels — Licencia Pexels (uso libre). Fotografía \"Onions near Bowl with Soup\": https://www.pexels.com/photo/17764154/ (Imagen ilustrativa de una sopa de ajo con cabezas de ajo enteras)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una preparación tradicional de la gastronomía castellana (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 plato hondo, ≈338 g)",
+  "tiempo": "25 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Buena fuente de folato (B9)"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "246 kcal",
+      "983 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "8,1 g",
+      "32,5 g",
+      "11,2 %",
+      "10,4 %"
+    ],
+    [
+      "Carbohidratos",
+      "28,4 g",
+      "113,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "11,1 g",
+      "44,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "2,1 g",
+      "8,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "106,3 mg",
+      "425,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "1,7 g",
+      "6,9 g",
+      "6,3 %",
+      "5,3 %"
+    ],
+    [
+      "Folato (B9)*",
+      "89,7 µg",
+      "358,9 µg",
+      "22,4 %",
+      "22,4 %"
+    ],
+    [
+      "Hierro",
+      "1,9 mg",
+      "7,6 mg",
+      "9,8 %",
+      "14,9 %"
+    ],
+    [
+      "Sodio",
+      "574,7 mg",
+      "2298,6 mg",
+      "41,8 %",
+      "41,8 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Pan rústico o campesino, duro",
+      "50 g",
+      "200 g",
+      "2 tajadas",
+      "8 tajadas"
+    ],
+    [
+      "Ajo",
+      "4,5 g",
+      "18 g",
+      "1½ diente",
+      "6 dientes"
+    ],
+    [
+      "Caldo de pollo o de verduras",
+      "55 mL",
+      "220 mL",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Agua",
+      "195 mL",
+      "780 mL",
+      "¾ taza",
+      "3¼ tazas"
+    ],
+    [
+      "Huevo",
+      "25 g",
+      "100 g",
+      "½ unidad",
+      "2 unidades"
+    ],
+    [
+      "Aceite de oliva",
+      "6,9 g (7,5 mL)",
+      "27,6 g (30 mL)",
+      "½ cucharada",
+      "2 cucharadas"
+    ],
+    [
+      "Pimentón dulce (paprika)",
+      "0,5 g",
+      "2 g",
+      "1 pizca",
+      "½ cucharadita"
+    ],
+    [
+      "Perejil fresco",
+      "0,5 g",
+      "2 g",
+      "al gusto",
+      "al gusto"
+    ],
+    [
+      "Sal",
+      "0,15 g",
+      "0,6 g",
+      "1 pizca",
+      "1 pizca"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** el ajo y el perejil (ver la tarjeta de limpieza y desinfección). **Pele y pique** finamente los dientes de ajo.",
+    "En una olla grande, **caliente** el aceite de oliva a fuego bajo y **sofría** el ajo picado, con cuidado de que no se queme.",
+    "**Agregue** el pan duro troceado y **mezcle** bien para que absorba el aceite y el sabor del ajo.",
+    "**Añada** el caldo y el agua, **suba** el fuego hasta que hierva y **deje cocinar** unos minutos.",
+    "**Incorpore** el pimentón dulce y la sal.",
+    "**Bata** los huevos aparte y **viértalos** sobre la sopa hirviendo, revolviendo rápido para que se formen hilos.",
+    "**Sirva** caliente, con un chorrito de aceite de oliva y perejil picado por encima."
+  ],
+  "notaPasos": "Use pan de masa rústica o campesino, de un día de hecho, para que absorba el caldo sin deshacerse por completo. Es una receta tradicional de aprovechamiento del pan duro.",
+  "usoSugerido": "Sirva como entrada caliente, ideal en días fríos.",
+  "nutriConsejo": {
+    "icono": "🍲",
+    "titulo": "Sopa de ajo: aprovechamiento campesino con pan duro",
+    "cuerpo": "Esta sopa tradicional es buena fuente de folato y una forma económica de aprovechar el pan duro del día anterior, junto con el ajo y el caldo. Por su contenido de caldo, aporta una cantidad considerable de sodio: las personas con hipertensión arterial pueden preparar un caldo casero bajo en sal."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción (≈1 plato hondo, ≈338 g), escalada también a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\" porque las técnicas de base (sofreír, hervir, batir) son sencillas."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptación de la sopa de ajo, plato tradicional de la gastronomía castellana (España) descrito como comida de aprovechamiento campesino —pan duro, ajo y caldo— en un artículo periodístico especializado en gastronomía (ver bibliografía). Esa fuente describe el origen histórico y la técnica de preparación, pero no da cantidades exactas ni número de porciones; las cantidades de esta ficha son una decisión propia de VitaCampo, ajustadas a su formato estándar de 4 porciones."
+    },
+    {
+      "label": "Sobre esta receta:",
+      "texto": "Esta receta fue adaptada para que el aporte de sodio sea más saludable, sin afectar su sabor característico."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"buena fuente\" de folato (≥15 % VDR en ambos sexos) se calculó por porción (Res. 810 de 2021), aportado principalmente por el pan y el huevo."
+    },
+    {
+      "label": "Sobre el colesterol:",
+      "texto": "el huevo aporta 106,3 mg de colesterol por porción. Las personas con dislipidemias pueden tenerlo en cuenta dentro de su consumo diario."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Rodríguez AC. Aprende a preparar sopa de ajo con la receta tradicional castellana. Merca2.es [Internet]. 8 oct 2024 [citado 2 nov 2026]. Disponible en: https://www.merca2.es/2024/10/08/sopa-de-ajo-castellana-2011870/"
+  ],
+  "imagen": "assets/img/recetas/AJ02.jpg"
+}

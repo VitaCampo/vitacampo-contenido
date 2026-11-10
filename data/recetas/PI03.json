@@ -1,0 +1,154 @@
+{
+  "codigo": "PI03",
+  "nombre": "Papa al pimentón",
+  "imagenSize": {
+    "width": 600,
+    "height": 365
+  },
+  "imagenCredito": "Imagen: recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos, Equipo de Seguridad Alimentaria)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación del componente \"Papa al pimentón\" del recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈½ taza, ≈100 g)",
+  "tiempo": "25 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de vitamina C"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "76 kcal",
+      "303 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "2,2 g",
+      "8,9 g",
+      "3,0 %",
+      "2,8 %"
+    ],
+    [
+      "Carbohidratos",
+      "14,5 g",
+      "58,1 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,9 g",
+      "3,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina C*",
+      "32,2 mg",
+      "128,6 mg",
+      "42,9 %",
+      "35,7 %"
+    ],
+    [
+      "Vitamina A",
+      "64,8 µg ER",
+      "259,4 µg ER",
+      "9,3 %",
+      "7,2 %"
+    ],
+    [
+      "Sodio",
+      "213,1 mg",
+      "852,4 mg",
+      "15,5 %",
+      "15,5 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Papa capira",
+      "62,5 g",
+      "250,0 g",
+      "¾ papa mediana",
+      "2½ papas medianas"
+    ],
+    [
+      "Pimentón",
+      "10,0 g",
+      "40,0 g",
+      "1 cucharada",
+      "¼ unidad mediana"
+    ],
+    [
+      "Ajo",
+      "1,0 g",
+      "4,0 g",
+      "¼ diente pequeño",
+      "1 diente pequeño"
+    ],
+    [
+      "Sal",
+      "0,5 g",
+      "2,0 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Pimienta negra",
+      "0,5 g",
+      "2,0 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Leche",
+      "25,0 mL",
+      "100,0 mL",
+      "2 cucharadas",
+      "½ taza"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** las papas, el pimentón y el ajo (ver la tarjeta de limpieza y desinfección).",
+    "**Pele** las papas y **cocínelas** en agua hasta que estén blandas.",
+    "Aparte, en una olla, **adicione** el pimentón, el ajo, la sal, la pimienta y la leche, y **cocine** hasta que hierva.",
+    "**Licue** hasta que los ingredientes estén bien integrados.",
+    "En una olla, **adicione** la papa y la salsa. **Deje reducir** y **sirva**."
+  ],
+  "usoSugerido": "Sirva como acompañamiento de carnes, pescado o ensaladas.",
+  "nutriConsejo": {
+    "icono": "🥔",
+    "titulo": "Papa al pimentón: excelente fuente de vitamina C",
+    "cuerpo": "Esta preparación de papa en salsa de pimentón es excelente fuente de vitamina C, gracias al pimentón fresco. Es una forma sencilla de darle color y sabor a la papa sin usar frituras."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica \"2 personas\" para la receta completa (que incluye además una torta de frijol cargamanto y una ensalada verde); se adaptó únicamente el componente de papa al pimentón, escalado a 4 porciones VitaCampo con un factor de 2, dando 1 porción de ≈100 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque requiere licuar la salsa y reducirla al punto justo."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada del componente \"Papa al pimentón\" de la receta \"Torta de frijol cargamanto mocho con ensalada verde y papa al pimentón\" (receta 17) del recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín)."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina C se calculó por porción (Res. 810 de 2021), cumpliendo el umbral en ambos sexos."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos, Equipo de Seguridad Alimentaria. Preparaciones semillas ancestrales. Medellín: Alcaldía de Medellín [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/PI03.jpg"
+}

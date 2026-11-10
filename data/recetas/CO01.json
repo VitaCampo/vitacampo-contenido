@@ -1,0 +1,191 @@
+{
+  "codigo": "CO01",
+  "nombre": "Embueltos de col gratinados con atún",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Karolina Kołodziejczak, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa de repollo relleno horneado; el relleno de la foto no es exactamente el de la receta)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "1 envuelto (≈165 g)",
+  "tiempo": "35 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de proteína",
+    "Excelente fuente de vitamina B12",
+    "Excelente fuente de niacina (B3)",
+    "Excelente fuente de fósforo"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "190 kcal",
+      "758 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "29,9 g",
+      "119,6 g",
+      "41,5 %",
+      "38,5 %"
+    ],
+    [
+      "Carbohidratos",
+      "3,6 g",
+      "14,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "6,2 g",
+      "24,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "3,0 g",
+      "11,9 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina B12*",
+      "3,1 µg",
+      "12,5 µg",
+      "130,0 %",
+      "130,0 %"
+    ],
+    [
+      "Niacina (B3)*",
+      "13,4 mg",
+      "53,7 mg",
+      "96,0 %",
+      "84,0 %"
+    ],
+    [
+      "Fósforo*",
+      "248,0 mg",
+      "991,8 mg",
+      "35,4 %",
+      "35,4 %"
+    ],
+    [
+      "Sodio",
+      "808,6 mg",
+      "3234,5 mg",
+      "58,8 % (AI)",
+      "58,8 % (AI)"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Col (repollo), hojas",
+      "25 g",
+      "100 g",
+      "1 hoja grande",
+      "4 hojas"
+    ],
+    [
+      "Atún enlatado en agua, escurrido",
+      "100 g",
+      "400 g",
+      "1 lata pequeña escurrida",
+      "4 latas"
+    ],
+    [
+      "Cebolla cabezona blanca",
+      "20 g",
+      "80 g",
+      "2 cucharadas picadas",
+      "8 cucharadas"
+    ],
+    [
+      "Sal",
+      "1 g",
+      "4 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Pimienta molida",
+      "0,03 g",
+      "0,12 g",
+      "1 pizca",
+      "4 pizcas"
+    ],
+    [
+      "Aceite de girasol",
+      "1 mL",
+      "4 mL",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Queso mozzarella",
+      "20 g",
+      "80 g",
+      "2 cucharadas ralladas",
+      "8 cucharadas"
+    ]
+  ],
+  "pasos": [
+    "**Lave, limpie y desinfecte** las hojas de col y la cebolla (ver la tarjeta de limpieza y desinfección). **Seque** con papel o paño limpio.",
+    "**Ablande** las hojas de col en agua hirviendo con un poco de sal durante 1 minuto; **retire** y **escurra**.",
+    "**Retire** la etiqueta de las latas de atún y **lave y desinfecte** el exterior de la lata antes de abrirla. **Escurra** muy bien el atún.",
+    "**Pique** finamente la cebolla con ayuda de tabla y cuchillo.",
+    "**Caliente** el aceite en un sartén a temperatura media y **sofría** la cebolla con sal y pimienta hasta que esté transparente.",
+    "**Adicione** el atún escurrido y sofría 2 minutos más.",
+    "**Extienda** las hojas de col, **ponga** el atún sofrito en el centro y **cierre** en forma de tamal o envuelto.",
+    "**Coloque** los envueltos sobre una lata engrasada y **cubra** cada uno con el queso mozzarella.",
+    "**Gratine** en horno precalentado a 160 °C durante 5 a 7 minutos, hasta que el queso se derrita y dore ligeramente."
+  ],
+  "usoSugerido": "Sirva caliente, recién salido del horno, como plato principal acompañado de arroz o de una ensalada fresca.",
+  "nutriConsejo": {
+    "icono": "🐟",
+    "titulo": "Aprovechamiento de la col y aporte de proteína",
+    "cuerpo": "Esta preparación aprovecha las hojas externas de la col, que suelen desecharse al usar solo el cogollo. El atún aporta proteína de alto valor biológico y vitamina B12, nutriente presente casi exclusivamente en alimentos de origen animal, esencial para la formación de glóbulos rojos y el sistema nervioso. Por su contenido de sodio (de la sal, el atún enlatado y el queso), las personas con hipertensión o enfermedad renal deben moderar su consumo y revisar el resto de su alimentación del día."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con 1 envuelto (≈165 g), asumiendo un peso promedio de 25 g por hoja grande de col, dato no reportado en las tablas de composición (estimación culinaria razonable, no nutricional)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque combina varias técnicas (blanquear, sofreír, enrollar y gratinar), aunque cada una es sencilla de ejecutar."
+    },
+    {
+      "label": "Sobre la inocuidad de las latas:",
+      "texto": "limpiar y desinfectar el exterior de las latas antes de abrirlas evita que la suciedad del empaque contamine el contenido al usar el abrelatas."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "las declaraciones se calcularon por porción (≥20 % del valor de referencia para proteína, ≥30 % para vitaminas y minerales). No aplican declaraciones \"bajo en\" de sodio o grasa: por 100 g de producto (484 mg de sodio y 3,7 g de grasa por 100 g), ambos superan esos límites."
+    },
+    {
+      "label": "Sobre la proteína:",
+      "texto": "la Res. 3803 de 2016 expresa la recomendación de proteína por kilo de peso (1,11 g/kg/día). Para calcular el porcentaje se usó un peso de referencia de 70 kg para hombres (77,7 g/día) y 65 kg para mujeres (72,15 g/día). Por eso este porcentaje es una estimación y cambia según el peso de cada persona."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "el atún enlatado, la sal añadida y el queso aportan en conjunto 808,6 mg de sodio por porción (58,8 % de la ingesta adecuada). Se recomienda un consumo moderado, en especial en personas con hipertensión o enfermedad renal."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/CO01.jpg"
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "cidra",
+  "nombreComun": "Cidra",
+  "nombreCientifico": "Sechium edule (Jacq.) Sw.",
+  "subtitulo": "Más que un fruto: la planta que también esconde una papa",
+  "imagen": "assets/img/fichas/cidra.jpg",
+  "creditoImagen": "Elaboración propia",
+  "introduccion": "La cidra, conocida también como guatila o chayote, es una hortaliza de la familia de las cucurbitáceas, cultivada en zonas andinas de Colombia desde épocas precolombinas. De sabor suave y bajo contenido calórico, se usa en sopas, guisos y preparaciones caseras.",
+  "porcionReferencia": "177 g* (½ unidad mediana)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "38,9 kcal",
+      "vdrMujer": "2,0%",
+      "vdrHombre": "1,7%"
+    },
+    {
+      "nutriente": "Folato",
+      "cantidad": "164,6 mcg EFD",
+      "vdrMujer": "41,2%",
+      "vdrHombre": "41,2%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "14,2 mg",
+      "vdrMujer": "18,9%",
+      "vdrHombre": "15,8%"
+    },
+    {
+      "nutriente": "Zinc",
+      "cantidad": "1,31 mg",
+      "vdrMujer": "16,4%",
+      "vdrHombre": "9,4%"
+    },
+    {
+      "nutriente": "Fibra dietética",
+      "cantidad": "3,0 g",
+      "vdrMujer": "10,91%",
+      "vdrHombre": "9,17%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "Corresponde a ½ unidad mediana de cidrayota con cáscara, cruda, según Lista de Intercambio UdeA (5.ª ed., 2023)."
+    },
+    {
+      "titulo": "Sobre la fuente nutricional",
+      "texto": "La cidra no figura en la TCAC-ICBF (2015/2018). Los datos nutricionales corresponden a las RINAs-UdeA (Correa & Manjarrés, 2019), entrada \"Cidrayota con cáscara, cruda\"."
+    },
+    {
+      "titulo": "Sobre las declaraciones",
+      "texto": "según la Resolución 810 de 2021, esta porción califica como \"excelente fuente\" de Folato (≥30% VRN) y \"buena fuente\" de Vitamina C (≥15% VRN). El Zinc alcanza el umbral de \"buena fuente\" únicamente para mujeres (16,4%), pero no para hombres (9,4%, por debajo del 15% requerido) — una de las pocas fichas del proyecto con una declaración diferenciada por sexo."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "esta porción aporta 3,0 g de fibra dietética, equivalentes al 9,17% (hombres) y 10,91% (mujeres) del requerimiento diario. La fibra dietética tiene dos tipos principales: la fibra insoluble, que no se disuelve en agua y actúa como una especie de \"escoba natural\" en el intestino, acelerando el tránsito intestinal; y la fibra soluble, que sí se disuelve en agua formando una sustancia similar a un gel, asociada con una absorción más lenta de azúcares y grasas. En la cidra predomina la fibra insoluble."
+    },
+    {
+      "titulo": "Sobre el potasio",
+      "texto": "No figura en la tabla nutricional; corresponde a la misma fuente RINAs-UdeA usada para el resto de esta ficha (125 mg/100 g). AI según RIEN: 4700 mg/día (ambos sexos)."
+    },
+    {
+      "titulo": "Sobre los flavonoides",
+      "texto": "La revisión de Vieira et al. (2019) identifica cerca de 26 compuestos bioactivos en la cidra, principalmente flavonoides (diosmetina, luteolina), con estudios preliminares —mayormente in vitro— sobre posibles propiedades antioxidantes, antidiabéticas y anticancerígenas. Fuente: Vieira EF et al. Food Chem. 2019;275:557-568."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía que ½ unidad mediana de cidra aporta 164,6 mcg de folato, cubriendo el 41,2% de la recomendación diaria? El folato participa en la formación de nuevas células y en la producción de ADN (el material genético de las células), siendo especialmente importante en el embarazo y en las distintas etapas del crecimiento, así como en la formación de glóbulos rojos."
+  },
+  "descripcion": "La cidra crece como una enredadera vigorosa, que se sostiene trepando sobre árboles, cercas o estructuras — tradicionalmente, se ha cultivado de forma silvestre cerca de quebradas y fuentes de agua, sostenida por árboles cercanos.",
+  "beneficios": [
+    {
+      "icono": "🧬",
+      "titulo": "Formación de células",
+      "texto": "su folato favorece la formación de nuevas células y de ADN, clave en el embarazo y en las distintas etapas del crecimiento."
+    },
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas",
+      "texto": "Contiene vitamina C y zinc, que apoyan las defensas del organismo."
+    },
+    {
+      "icono": "💧",
+      "titulo": "Digestión",
+      "texto": "Su contenido de agua y fibra favorece una digestión ligera."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "tip",
+      "titulo": "Cómo conservarla y aprovecharla al máximo",
+      "texto": "La cidra se conserva mejor en un lugar fresco y seco, alejada de la luz directa. Entera puede durar hasta dos semanas; una vez cortada, refrigérela y consúmala en los siguientes dos días. Además, no solo el fruto es aprovechable: después del primer año de cultivo, la planta desarrolla una raíz tuberizada comestible, parecida a una papa — de ahí uno de sus nombres tradicionales, \"cidra papa\". Se puede cocinar y preparar igual que cualquier tubérculo (hervida, en sopas o guisos), una forma más de aprovechar toda la planta y no solo el fruto que solemos comer."
+    },
+    {
+      "tipo": "verdad",
+      "titulo": "¿Ayuda la cidra a controlar el azúcar en la sangre?",
+      "texto": "Sí, con evidencia respaldada: una revisión sistemática con metaanálisis (2025, revista Foods, acceso abierto) analizó 11 estudios sobre Sechium edule (6 ensayos clínicos y 5 preclínicos) y encontró que, en adultos mayores, el consumo prolongado de cidra se asoció con una disminución estadísticamente significativa de la glucosa en sangre después de tres meses (diferencia de medias: -20,56 mg/dL). Aun así, esta evidencia es complementaria: la cidra no reemplaza el tratamiento médico ni farmacológico para la diabetes, y toda persona con esta condición debe mantener el seguimiento con su equipo de salud. ⚠️ Nutri Consejo Las personas con enfermedad renal deben consumir la cidra con moderación, debido a su aporte de potasio (221 mg por porción). Consulte con un profesional de la salud sobre la cantidad adecuada para su condición."
+    },
+    {
+      "tipo": "capsula",
+      "titulo": "Los flavonoides de la cidra",
+      "texto": "La cidra contiene flavonoides (un grupo de pigmentos vegetales con función antioxidante) como la diosmetina y la luteolina, compuestos que se han estudiado por su posible papel en la protección de las células. La mayoría de esta evidencia proviene de estudios preliminares, principalmente en laboratorio, por lo que representa un área de investigación en desarrollo, no un efecto comprobado en el cuerpo humano."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Leche de vaca contra el \"ruciamiento\"",
+      "texto": "Los cultivadores tradicionales de cidra identifican el \"ruciamiento\" (un hongo que cubre las hojas con un polvo blanquecino, conocido técnicamente como oídio) como una de las afecciones más comunes de la planta. Rociar las hojas con una solución diluida de leche de vaca ha demostrado ser un control eficaz y natural contra este tipo de hongo en cultivos de la familia de las cucurbitáceas, a la que pertenece la cidra — una alternativa accesible que aprovecha un insumo disponible en la finca, reduciendo la dependencia de fungicidas químicos."
+    }
+  ],
+  "bibliografia": [
+    "1. Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Escuela de Nutrición y Dietética, Universidad de Antioquia; 2019.",
+    "2. Universidad de Antioquia - Grupo de Investigación Alimentación y Nutrición Humana (GIANH). Lista de intercambios de alimentos. 5.ª ed. Medellín: Universidad de Antioquia; 2023.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Vieira EF, Pinho O, Ferreira IMPLVO, Delerue-Matos C. Chayote (Sechium edule): A review of nutritional composition, bioactivities and potential applications. Food Chem. 2019;275:557-568.",
+    "5. Arista-Ugalde TL, Delgado-Arroyo S, Gavia-García G, Hernández-Álvarez D, Aguiñiga-Sánchez I, Santiago-Osorio E, Rosado-Pérez J, Mendoza-Núñez VM. Hypoglycemic effects of Sechium edule (chayote) in older adults: a systematic review and meta-analysis of clinical and preclinical trials. Foods. 2025;14(17):2937. DOI: 10.3390/foods14172937.",
+    "6. Bettiol W. Effectiveness of cow's milk against zucchini squash powdery mildew (Sphaerotheca fuliginea) in greenhouse conditions. Crop Prot. 1999;18(7):489-492.",
+    "7. Valoración de la cidra papa (Sechium edule) como alternativa de alimentación y recuperación de vínculos con el campo. Rev Fac Nac Salud Pública. 2011."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

@@ -1,0 +1,135 @@
+{
+  "slug": "col",
+  "nombreComun": "Col",
+  "nombreCientifico": "Brassica oleracea var. capitata",
+  "subtitulo": "Una verdura milenaria con cuatro nutrientes estrella",
+  "imagen": "assets/img/fichas/col.jpg",
+  "creditoImagen": "Elaboración propia.",
+  "introduccion": "La col se domesticó probablemente en la región mediterránea, y ya era muy valorada en la Antigua Grecia y Roma, tanto como alimento como remedio tradicional. El político romano Catón el Viejo llegó a describirla como una \"panacea\" (remedio para todo tipo de males), e incluso se creía —sin ninguna base científica real— que prevenía la resaca por consumo de vino, un mito que persiste hasta hoy pero que la ciencia nunca ha logrado confirmar.",
+  "porcionReferencia": "100 g (aproximadamente 3 hojas medianas o 1 taza rallada)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "36 kcal",
+      "vdrMujer": "1,8%",
+      "vdrHombre": "1,5%"
+    },
+    {
+      "nutriente": "Vitamina K",
+      "cantidad": "76 mcg",
+      "vdrMujer": "126,7%",
+      "vdrHombre": "108,6%"
+    },
+    {
+      "nutriente": "Vitamina A",
+      "cantidad": "382 mcg ER",
+      "vdrMujer": "54,6%",
+      "vdrHombre": "42,4%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "35 mg",
+      "vdrMujer": "46,7%",
+      "vdrHombre": "38,9%"
+    },
+    {
+      "nutriente": "Folato",
+      "cantidad": "166 mcg EFD",
+      "vdrMujer": "41,5%",
+      "vdrHombre": "41,5%"
+    },
+    {
+      "nutriente": "Fibra dietética",
+      "cantidad": "3,6 g",
+      "vdrMujer": "13,09%",
+      "vdrHombre": "11,0%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "la col no está incluida en la Lista de Intercambio de Alimentos UdeA. Se usó 100 g como porción de referencia (equivalente aproximado a 3 hojas medianas o 1 taza rallada), consistente con cómo se consume habitualmente."
+    },
+    {
+      "titulo": "Sobre las fuentes de los datos",
+      "texto": "los valores de Vitamina A, Folato y Vitamina C provienen de las RINAs (Col o tallos, hojas crudas). La Vitamina K no está reportada ni en TCAC-ICBF ni en RINAs, por lo que se usó USDA FoodData Central (FDC #169975)."
+    },
+    {
+      "titulo": "Sobre la diferencia con el TCAC-ICBF",
+      "texto": "el TCAC-ICBF reporta datos de “col silvestre”, una variedad distinta a la col cultivada común que reflejan las RINAs (fuente usada en esta ficha) — esto explica por qué sus valores de vitamina C difieren notablemente entre sí."
+    },
+    {
+      "titulo": "Sobre las declaraciones de “excelente fuente”",
+      "texto": "según el Art. 19.1 de la Resolución 810 de 2021, un alimento puede declararse “excelente fuente” de un nutriente si aporta ≥30% del VRN por porción. Con esta porción, la col califica para cuatro declaraciones: Vitamina K, Vitamina A, Vitamina C y Folato."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "esta porción aporta 3,6 g de fibra dietética, equivalentes al 11,0% (hombres) y 13,09% (mujeres) del requerimiento diario. La fibra dietética tiene dos tipos principales: la fibra insoluble, que no se disuelve en agua y actúa como una especie de \"escoba natural\" en el intestino, acelerando el tránsito intestinal; y la fibra soluble, que sí se disuelve en agua formando una sustancia similar a un gel, asociada con una absorción más lenta de azúcares y grasas. La col aporta principalmente fibra insoluble (aproximadamente 75% del total), con una porción menor de fibra soluble (25%)."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía que 100 g de col (unas 3 hojas medianas) superan el 100% de su requerimiento diario de Vitamina K, un nutriente esencial para la coagulación de la sangre y la salud de los huesos?"
+  },
+  "descripcion": "La col debe su aroma característico a los glucosinolatos (compuestos naturales que contienen azufre, presentes en vegetales como el brócoli y la coliflor), que se transforman en otros compuestos bioactivos al cortarla, masticarla o cocinarla. Esta transformación ocurre gracias a una enzima llamada mirosinasa, que permanece separada de los glucosinolatos mientras la célula vegetal está intacta, y solo entra en contacto con ellos cuando se rompe el tejido de la hoja — un mecanismo de defensa natural de la planta frente a insectos y otros depredadores.",
+  "beneficios": [
+    {
+      "icono": "🦴",
+      "titulo": "Coagulación y huesos",
+      "texto": "su vitamina K participa en el proceso que detiene un sangrado y contribuye a la salud ósea."
+    },
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas y piel",
+      "texto": "su vitamina A y vitamina C contribuyen al funcionamiento normal del sistema inmunitario y a la salud de la piel."
+    },
+    {
+      "icono": "🧬",
+      "titulo": "Formación de células",
+      "texto": "su folato favorece la formación de nuevas células, clave en el embarazo y en las distintas etapas del crecimiento."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "capsula",
+      "titulo": "Los compuestos detrás del aroma de la col",
+      "texto": "Los glucosinolatos de la col se han estudiado por su posible actividad antioxidante y antiinflamatoria (que ayuda a calmar procesos de inflamación en el cuerpo). Es importante aclarar que buena parte de esta evidencia proviene de estudios en laboratorio, no de ensayos clínicos en personas, por lo que representa un área de investigación en desarrollo, no un efecto comprobado en el cuerpo humano."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Precauciones para poblaciones específicas",
+      "texto": "La col contiene tanto goitrógenos (sustancias naturales que pueden interferir con la capacidad de la tiroides para captar yodo) como un alto contenido de vitamina K. Si usted tiene hipotiroidismo, no es necesario eliminar la col de su dieta, pero sí mantener su consumo moderado, especialmente cruda. Si toma medicamentos anticoagulantes (como la warfarina), mantenga un consumo controlado y evite cambios bruscos de un día a otro. En ambos casos, consulte con un profesional de la salud para ajustar su alimentación según su condición."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo prepararla, conservarla y aprovecharla al máximo",
+      "texto": "La col es muy versátil: cruda y picada en ensaladas, en sudados y sopas como el sancocho, en rollos rellenos, o como el infaltable curtido que acompaña empanadas y tamales. La cocción reduce buena parte de su vitamina C, así que para aprovecharla al máximo inclúyala también cruda. Otra opción es fermentarla (como el chucrut), lo que le aporta bacterias beneficiosas para la salud intestinal. Si nota que le produce gases, es normal: la col contiene un tipo de azúcares (rafinosa y estaquiosa) que el cuerpo no puede digerir del todo, por lo que las bacterias del intestino las fermentan y producen gas; cocinarla bien y comerla en porciones moderadas puede ayudar a reducir esta molestia. Para conservarla, guárdela entera y sin lavar en el cajón de verduras de la nevera — puede durar hasta 2 meses, una de las hortalizas frescas de mayor duración."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Control biológico del gusano de la col",
+      "texto": "El gusano de la col (larva de la polilla dorso de diamante, Plutella xylostella) es una de las plagas más comunes en cultivos de crucíferas como la col, el brócoli y la coliflor. Un estudio confirmó la eficacia de Bacillus thuringiensis (Bt), una bacteria presente naturalmente en el suelo, para controlar tanto los huevos como las larvas de esta plaga: al ser ingerida por la oruga, paraliza su sistema digestivo sin afectar a personas, animales ni insectos beneficiosos. Es uno de los bioinsecticidas más usados en el mundo, se consigue en Colombia en almacenes agropecuarios, y se aplica rociado sobre las hojas cada 1 a 2 semanas como parte de un manejo agroecológico del cultivo."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "5. U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Cabbage, raw (FDC #169975) [Internet]. Beltsville: USDA; 2019 [citado 2026]. Disponible en: https://fdc.nal.usda.gov/food-details/169975/nutrients",
+    "6. Maggioni L, von Bothmer R, Poulsen G, Lipman E. Domestication, diversity and use of Brassica oleracea L., based on ancient Greek and Latin texts. Genet Resour Crop Evol. 2018;65(1):137-159.",
+    "7. Zayed A, Sheashea M, Kassem IAA, Farag MA. Red and white cabbages: An updated comparative review of bioactives, extraction methods, processing practices, and health benefits. Crit Rev Food Sci Nutr. 2022;63(24):7025-7042.",
+    "8. Babiker A, Alawi A, Al Atawi M, Al Alwan I. The role of micronutrients in thyroid dysfunction. Sudan J Paediatr. 2020;20(1):13-19.",
+    "9. Shahbazi R, Sharifzad F, Bagheri R, Alsadi N, Yasavoli-Sharahi H, Matar C. Anti-Inflammatory and Immunomodulatory Properties of Fermented Plant Foods. Nutrients. 2021;13(5):1516.",
+    "10. Andersen KE, Bjergegaard C, Møller P, Sørensen JC, Sørensen H. Compositional variations for alpha-galactosides in different species of Leguminosae, Brassicaceae, and barley: a chemotaxonomic study. J Agric Food Chem. 2005;53(14):5809-5817.",
+    "11. Othman AM, Elshafei AM, Elsayed MA, Ibrahim GE, Hassan MM, Mehanna NS. Biochemical characterization and insights into the potency of the acidic Aspergillus niger NRC114 purified α-galactosidase in removing raffinose family oligosaccharides from soymilk yogurt. BMC Biotechnol. 2023;23:3.",
+    "12. Legwaila MM, et al. Efficacy of Bacillus thuringiensis (var. kurstaki) against eggs and larvae of diamondback moth (Plutella xylostella L.) on cabbage under semi-controlled greenhouse conditions. Int J Insect Sci. 2015;7:23-30.",
+    "13. Sauka DH, Benintende GB. Bacillus thuringiensis: generalidades. Un acercamiento a su empleo en el biocontrol de insectos lepidópteros que son plagas agrícolas. Rev Argent Microbiol. 2008;40(2):124-140."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

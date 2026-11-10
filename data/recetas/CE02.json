@@ -1,0 +1,201 @@
+{
+  "codigo": "CE02",
+  "nombre": "Huevos pericos con cebolla de rama",
+  "imagenSize": {
+    "width": 450,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: Bich Tran, Pexels — Licencia Pexels (uso libre). Fotografía \"Pasta on Plate\": https://www.pexels.com/photo/26576013/",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta de Directo al Paladar (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (2 huevos revueltos con cebolla y tomate, ≈155 g)",
+  "tiempo": "15 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina K",
+    "Buena fuente de vitamina A",
+    "Buena fuente de proteína"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "201 kcal",
+      "805 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "13,1 g",
+      "52,2 g",
+      "18,2 %",
+      "16,9 %"
+    ],
+    [
+      "Carbohidratos",
+      "3,9 g",
+      "15,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "14,7 g",
+      "58,9 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "3,6 g",
+      "14,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "425,0 mg",
+      "1700,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "0,7 g",
+      "2,8 g",
+      "2,5 %",
+      "2,1 %"
+    ],
+    [
+      "Vitamina A*",
+      "221,7 µg ER",
+      "886,8 µg ER",
+      "31,7 %",
+      "24,6 %"
+    ],
+    [
+      "Vitamina K*",
+      "31,1 µg",
+      "124,2 µg",
+      "51,7 %",
+      "44,4 %"
+    ],
+    [
+      "Folato (B9)",
+      "61,9 µg",
+      "247,4 µg",
+      "15,5 %",
+      "15,5 %"
+    ],
+    [
+      "Sodio",
+      "325,0 mg",
+      "1300,0 mg",
+      "23,6 %",
+      "23,6 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Cebolla de rama",
+      "15 g",
+      "60 g",
+      "2 ramitas medianas picadas",
+      "8 ramitas medianas picadas"
+    ],
+    [
+      "Tomate chonto",
+      "35 g",
+      "140 g",
+      "¼ unidad mediana picada",
+      "1 unidad mediana picada"
+    ],
+    [
+      "Huevo",
+      "100 g",
+      "400 g",
+      "2 unidades",
+      "8 unidades"
+    ],
+    [
+      "Sal",
+      "0,5 g",
+      "2 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Aceite vegetal (girasol)",
+      "4,6 g (5 mL)",
+      "18,4 g (20 mL)",
+      "1 cucharadita",
+      "4 cucharaditas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** la cebolla de rama y el tomate (ver la tarjeta de limpieza y desinfección).",
+    "Sobre una tabla, **pique** finamente la cebolla de rama (parte blanca y hojas verdes) y el tomate.",
+    "En un recipiente, **bata** los huevos con la sal hasta integrar bien la clara y la yema.",
+    "En un sartén, **caliente** el aceite a fuego medio. **Sofría** la cebolla de rama y el tomate picados durante 2 a 3 minutos, hasta que el tomate suelte su jugo y la cebolla esté blanda.",
+    "**Vierta** los huevos batidos sobre el sofrito. **Cocine** a fuego medio, revolviendo ocasionalmente con una cuchara o espátula, hasta que los huevos cuajen por completo y no quede líquido visible.",
+    "**Retire** del fuego y **sirva** de inmediato."
+  ],
+  "notaPasos": "Cocine los huevos hasta que cuajen por completo, sin partes líquidas, para evitar riesgos de origen alimentario. Si lo desea, agregue un poco de cebolla de rama cruda picada justo antes de servir, para refrescar el sabor.",
+  "usoSugerido": "Sirva caliente, acompañado de arepa, pan o una porción de fruta, como desayuno o cena ligera.",
+  "nutriConsejo": {
+    "icono": "🍳",
+    "titulo": "Huevos pericos: desayuno tradicional, nutritivo y sencillo",
+    "cuerpo": "Esta preparación es excelente fuente de vitamina K (aportada principalmente por la cebolla de rama) y buena fuente de vitamina A y de proteína. El huevo entero aporta 425 mg de colesterol por porción: las personas con dislipidemia o enfermedad cardiovascular pueden moderar la frecuencia con que consumen huevo entero, según indicación de su profesional de la salud. El sodio proviene en parte de la sal agregada: las personas con hipertensión arterial pueden reducirla o prescindir de ella. Por su contenido de potasio, las personas con enfermedad renal deben consultar con su nutricionista antes de consumirla con frecuencia."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción de 2 huevos revueltos con cebolla de rama y tomate (≈155 g en total), con los ingredientes escalados también a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\" porque las técnicas de base (picar, batir, sofreír, revolver) son sencillas y no exigen control de puntos de cocción complejos."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "los \"huevos pericos\" (o \"perico\") son un plato muy popular del desayuno colombiano, preparado con huevos revueltos, tomate y cebolla; en Colombia se preparan tradicionalmente con cebolla de rama (cebolla larga/junca) en vez de cebolla cabezona. Esta ficha se adaptó de una receta publicada por Directo al Paladar, medio especializado en gastronomía (ver bibliografía), ajustando las cantidades y las medidas caseras al estándar de porción de VitaCampo. El origen exacto del nombre \"pericos\" no está documentado con precisión en las fuentes consultadas, así que no se afirma un origen específico."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina K (≥30 % VDR en ambos sexos) y \"buena fuente\" de vitamina A (≥15 % VDR en ambos sexos) y de proteína (≥10 % VRN en ambos sexos) se calcularon por porción (Res. 810 de 2021). El folato se acercó al umbral de \"buena fuente\" (15,5 % en ambos sexos) pero no se declaró, por el margen insuficiente sobre el 15 % mínimo exigido. No aplican declaraciones \"bajo en\" de grasa, grasa saturada ni sodio: calculados por 100 g de producto, los tres superan los límites de esas declaraciones."
+    },
+    {
+      "label": "Sobre el colesterol:",
+      "texto": "esta porción aporta 425 mg de colesterol (de los 2 huevos enteros), un valor considerable propio del huevo. Se documenta por transparencia: las personas con dislipidemia o enfermedad cardiovascular pueden moderar la frecuencia de consumo de huevo entero, según indicación de su profesional de la salud."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 325 mg de sodio (24 % de la ingesta adecuada diaria), por el huevo mismo y por la sal agregada. Las personas con hipertensión arterial o enfermedad renal pueden reducir o prescindir de la sal agregada."
+    },
+    {
+      "label": "Sobre la proteína:",
+      "texto": "la Res. 3803 de 2016 expresa la recomendación de proteína por kilo de peso (1,11 g por kg al día). Para calcular el porcentaje se usó un peso de referencia de 70 kg para hombres (77,7 g al día) y de 65 kg para mujeres (72,15 g al día). Por eso este porcentaje es una estimación y cambia según el peso de cada persona."
+    },
+    {
+      "label": "Sobre la cebolla de rama:",
+      "texto": "la cebolla de rama es una especie distinta de la cebolla cabezona (la de bulbo); no se reemplazan una por otra en esta receta sin cambiar el sabor."
+    },
+    {
+      "label": "Sobre el potasio y la enfermedad renal:",
+      "texto": "la cebolla de rama contiene potasio de forma natural. Las personas con enfermedad renal o con hiperpotasemia (potasio alto en la sangre) deben vigilar su consumo de potasio y consultar con su nutricionista antes de consumir esta preparación con frecuencia."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF; 2015 [citado 2026 nov 1]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Onions, spring or scallions (includes tops and bulb), raw (FDC #170005). Beltsville (MD): USDA; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Tía Alía C. Huevos pericos, receta de los huevos revueltos típicos de Colombia y Venezuela que se preparan en un santiamén [Internet]. Directo al Paladar; 2026 mar 4 [citado 2026 nov 1]. Disponible en: https://www.directoalpaladar.com/recetas-de-huevos-y-tortillas/huevos-pericos-receta-huevos-revueltos-al-estilo-sudamericano-que-se-prepara-santiamen/"
+  ],
+  "imagen": "assets/img/recetas/CE02.jpg"
+}

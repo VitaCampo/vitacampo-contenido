@@ -1,0 +1,127 @@
+{
+  "slug": "apio",
+  "nombreComun": "Apio",
+  "nombreCientifico": "Apium graveolens L.",
+  "subtitulo": "De corona de la victoria a aliado silencioso de su salud",
+  "imagen": "assets/img/fichas/apio.jpg",
+  "creditoImagen": "Elaboración propia.",
+  "introduccion": "El apio silvestre es originario de las marismas costeras del Mediterráneo y Medio Oriente. En el Antiguo Egipto, sus hojas formaban parte de las guirnaldas funerarias halladas en la tumba de Tutankamón, y en la Antigua Grecia se coronaba con guirnaldas de apio a los ganadores de los Juegos Nemeos e Ístmicos — mucho antes de que se convirtiera en el vegetal cotidiano que conocemos hoy.",
+  "porcionReferencia": "1 tallo mediano de apio crudo (≈40 g)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "8,4 kcal",
+      "vdrMujer": "0,43%",
+      "vdrHombre": "0,36%"
+    },
+    {
+      "nutriente": "Vitamina K",
+      "cantidad": "11,7 mcg",
+      "vdrMujer": "19,5%",
+      "vdrHombre": "16,7%"
+    },
+    {
+      "nutriente": "Folato",
+      "cantidad": "11,2 mcg",
+      "vdrMujer": "2,8%",
+      "vdrHombre": "2,8%"
+    },
+    {
+      "nutriente": "Calcio",
+      "cantidad": "28 mg",
+      "vdrMujer": "2,55%",
+      "vdrHombre": "2,67%"
+    },
+    {
+      "nutriente": "Fibra dietética",
+      "cantidad": "0,7 g",
+      "vdrMujer": "2,47%",
+      "vdrHombre": "2,08%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "el apio no está incluido en la Lista de Intercambio de Alimentos UdeA. Se usó “1 tallo mediano” (≈40 g), definido por USDA FoodData Central, por ser una medida estándar y de fácil visualización para el consumo real de este alimento."
+    },
+    {
+      "titulo": "Sobre las fuentes de los datos",
+      "texto": "los valores de Folato, Calcio y Fibra provienen de las RINAs (Apio tallo, crudo). La Vitamina K no está reportada ni en TCAC-ICBF ni en RINAs, por lo que se usó USDA FoodData Central."
+    },
+    {
+      "titulo": "Sobre la declaración",
+      "texto": "\"buena fuente de Vitamina K\": según la Resolución 810 de 2021, con 16,7-19,5% del VRN, el apio califica para esta declaración (≥15% del VRN)."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "Sobre la fibra: esta porción aporta 0,7 g de fibra dietética, equivalentes al 2,08% (hombres) y 2,47% (mujeres) del requerimiento diario — un aporte bajo, coherente con que el apio es, ante todo, un vegetal de muy baja densidad calórica y nutricional por su alto contenido de agua. La fibra dietética tiene dos tipos principales: la fibra insoluble, que no se disuelve en agua y actúa como una especie de \"escoba natural\" en el intestino, acelerando el tránsito intestinal; y la fibra soluble, que sí se disuelve en agua formando una sustancia similar a un gel, asociada con una absorción más lenta de azúcares y grasas. En el apio predomina la fibra insoluble, propia de la estructura fibrosa de sus tallos, aunque no encontramos una fuente académica específica en apio fresco que precise la proporción exacta entre ambos tipos."
+    },
+    {
+      "titulo": "Sobre las calorías",
+      "texto": "con 26 kcal/100 g (TCAC-ICBF), el apio queda apenas por encima del umbral de “libre consumo” (<25 kcal/100 g) — sigue siendo un alimento de muy baja densidad calórica."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía que 1 tallo mediano de apio crudo aporta el 19,5% (mujeres) y 16,7% (hombres) de su requerimiento diario de vitamina K, un nutriente esencial para la coagulación de la sangre (el proceso que detiene un sangrado) y para la salud de los huesos?"
+  },
+  "descripcion": "El apio aporta folato, importante para la formación de nuevas células, y calcio, relevante para huesos y dientes. Sus compuestos bioactivos incluyen flavonoides (pigmentos vegetales con función antioxidante, es decir, que ayudan a proteger las células del desgaste natural del cuerpo) y aceites volátiles (compuestos responsables de su aroma característico, con propiedades antiinflamatorias, o sea que pueden ayudar a calmar procesos de inflamación en el cuerpo). Es, además, uno de los vegetales con mayor contenido de vitamina K.",
+  "beneficios": [
+    {
+      "icono": "🧬",
+      "titulo": "Formación de células",
+      "texto": "su folato favorece la formación de nuevas células, clave en embarazo y en las distintas etapas del crecimiento."
+    },
+    {
+      "icono": "🦴",
+      "titulo": "Huesos fuertes",
+      "texto": "su calcio, junto con la vitamina K (que ayuda a fijar el calcio en el hueso), contribuye a la salud ósea."
+    },
+    {
+      "icono": "💧",
+      "titulo": "Hidratación y saciedad",
+      "texto": "el apio es aproximadamente 95% agua y aporta fibra, lo que ayuda a la hidratación y a la sensación de saciedad con muy pocas calorías."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "verdad",
+      "titulo": "¿El jugo de apio en ayunas es un “detox” milagroso?",
+      "texto": "Es un mito: el hígado y los riñones ya se encargan de eliminar toxinas de forma natural, y no hay evidencia de que el jugo de apio mejore esa función. Además, tomar jugo concentrado (en vez de comer el vegetal entero) implica consumir de golpe una cantidad de oxalatos (compuestos naturales que, en exceso, pueden formar cristales de oxalato de calcio y llevar a la formación de cálculos renales) mucho mayor a la habitual, lo que exige un esfuerzo extra al hígado y los riñones para procesarla. En personas con enfermedad renal, esto se ha relacionado con casos de daño renal agudo. Consulte con un profesional de la salud antes de iniciar cualquier \"cura\" o ayuno con jugos."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Una razón más para practicar la agroecología",
+      "texto": "Estudios de monitoreo agrícola a gran escala han encontrado que el apio está entre los vegetales con mayor tendencia a retener residuos de plaguicidas — probablemente porque sus tallos crecen muy juntos y tienen una superficie que los retiene más que otros vegetales de cáscara gruesa. Esto no significa que el apio sea un alimento peligroso ni que deba evitarse: es, más bien, una razón adicional para fortalecer prácticas de manejo agroecológico en su cultivo. El uso de biopreparados (preparados naturales a partir de plantas, microorganismos o minerales, usados para el manejo agroecológico de insectos y enfermedades y la nutrición del suelo) y otras labores culturales de la agroecología reduce la dependencia de plaguicidas de síntesis química, cuida la salud de quien cultiva y de quien consume, y fortalece un sistema de producción más sostenible a largo plazo."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo conservarlo y aprovecharlo mejor",
+      "texto": "Para que el apio dure más tiempo crocante, envuélvalo en papel aluminio (no en bolsa plástica) antes de guardarlo en la nevera — esto ayuda a que no se marchite tan rápido. Y no descarte las hojas: son comestibles, más aromáticas que los tallos, y pueden usarse picadas en sopas, caldos o ensaladas, aprovechando todo el alimento."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Precaución con anticoagulantes",
+      "texto": "El apio es una excelente fuente de vitamina K. Si toma medicamentos anticoagulantes (como la warfarina), no es necesario evitar el apio por completo, pero sí mantener un consumo moderado, ya que las variaciones grandes en el consumo de vitamina K pueden afectar el control de estos medicamentos. Consulte con su médico. El apio aporta naturalmente más sodio que la mayoría de los vegetales. Aunque esta cantidad es baja en términos absolutos, es un dato a tener en cuenta para personas con dietas hiposódicas (bajas en sodio) por condiciones como hipertensión arterial, insuficiencia cardíaca, enfermedad renal crónica o cirrosis hepática con retención de líquidos (ascitis). En estos casos, se recomienda contar el aporte de sodio del apio dentro del total diario permitido, y consultar con un profesional de la salud."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "5. U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Celery, raw (FDC #169988) [Internet]. Beltsville: USDA; 2019 [citado 2026]. Disponible en: https://fdc.nal.usda.gov/food-details/169988/nutrients",
+    "6. Pant A. Celery. In: Encyclopaedia Britannica [Internet]. Chicago: Encyclopaedia Britannica, Inc.; 2026 [actualizado 2026 May 7; citado 2026 Jul]. Disponible en: https://www.britannica.com/plant/celery",
+    "7. Al-Asmari AK, Athar MT, Kadasah SG. An Updated Phytopharmacological Review on Medicinal Plant of Arab Region: Apium graveolens Linn. Pharmacogn Rev. 2017;11(21):13-18.",
+    "8. Violi F, Lip GYH, Pignatelli P, Pastori D. Interaction Between Dietary Vitamin K Intake and Anticoagulation by Vitamin K Antagonists: Is It Really True? A Systematic Review. Medicine. 2016;95(10):e2895.",
+    "9. Capocasa M, Venier D, Venier B, Chiarla C. Exploring nutritional myths and fake news: Impact and counteractions. Clin Nutr ESPEN. 2026;72:102947.",
+    "10. Makkapati S, D'Agati VD, Balsam L. “Green Smoothie Cleanse” Causing Acute Oxalate Nephropathy. Am J Kidney Dis. 2018;71(2):281-286.",
+    "11. Li T, Jiang X, Qiu M. Measurement and evaluation of pesticide residue risk in vegetables: evidence from China. Front Public Health. 2025;13:1563272."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

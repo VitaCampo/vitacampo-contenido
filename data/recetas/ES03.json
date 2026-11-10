@@ -1,0 +1,190 @@
+{
+  "codigo": "ES03",
+  "nombre": "Tortilla de espinaca",
+  "imagenSize": {
+    "width": 600,
+    "height": 399
+  },
+  "imagenCredito": "Imagen: adrian vieriu, Pexels — Licencia Pexels (uso libre). Fotografía \"Egg Omelette on White Ceramic Plate\": https://www.pexels.com/photo/11654228/ (Imagen ilustrativa de una tortilla de huevo con vegetales)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Tortilla de espinaca\" del recetario \"Deliciosas y nutritivas recetas\" (PDSAN, Gobernación de Antioquia) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈½ tortilla, ≈157 g)",
+  "tiempo": "20 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de vitamina A",
+    "Buena fuente de folato (B9)"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "188 kcal",
+      "753 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "7,5 g",
+      "30,0 g",
+      "10,4 %",
+      "9,7 %"
+    ],
+    [
+      "Carbohidratos",
+      "5,8 g",
+      "23,3 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "15,0 g",
+      "59,9 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "2,9 g",
+      "11,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "212,5 mg",
+      "850,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina A*",
+      "283,2 µg ER",
+      "1133,0 µg ER",
+      "40,5 %",
+      "31,5 %"
+    ],
+    [
+      "Folato (B9)*",
+      "65,4 µg",
+      "261,6 µg",
+      "16,3 %",
+      "16,3 %"
+    ],
+    [
+      "Sodio",
+      "343,9 mg",
+      "1375,5 mg",
+      "25,0 %",
+      "25,0 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Hojas de espinaca",
+      "15,0 g",
+      "60,0 g",
+      "½ taza",
+      "2 tazas"
+    ],
+    [
+      "Margarina",
+      "7,0 g",
+      "28,0 g",
+      "1½ cucharaditas",
+      "2 cucharadas"
+    ],
+    [
+      "Tomate de aliño picado",
+      "50,0 g",
+      "200,0 g",
+      "1 unidad",
+      "4 unidades"
+    ],
+    [
+      "Cebolla de huevo picada",
+      "27,5 g",
+      "110,0 g",
+      "¼ unidad",
+      "1 unidad"
+    ],
+    [
+      "Sal",
+      "0,5 g",
+      "2,0 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Huevo",
+      "50,0 g",
+      "200,0 g",
+      "1 unidad",
+      "4 unidades"
+    ],
+    [
+      "Aceite",
+      "7,0 g (7,0 mL)",
+      "28,0 g (28,0 mL)",
+      "1½ cucharaditas",
+      "2 cucharadas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** las hojas de espinaca, el tomate y la cebolla (ver la tarjeta de limpieza y desinfección). **Pique** la espinaca en tiras bien delgadas.",
+    "**Sofría** la espinaca en la margarina.",
+    "**Agregue** la cebolla y el tomate, y **cocine** hasta que ablanden. **Baje** del fuego y **deje enfriar**.",
+    "En un recipiente aparte, **bata** los huevos y **adicione** el guiso anterior y la sal.",
+    "En un sartén engrasado con el aceite, **agregue** la mezcla. **Deje** por un solo lado hasta que empiecen a formarse burbujas de aire, luego **voltee**.",
+    "**Retire** del sartén y **sirva** caliente."
+  ],
+  "usoSugerido": "Sirva como desayuno o cena, acompañada de arepa o pan integral.",
+  "nutriConsejo": {
+    "icono": "🍳",
+    "titulo": "Tortilla de espinaca: excelente fuente de vitamina A",
+    "cuerpo": "Esta tortilla es excelente fuente de vitamina A y buena fuente de folato, gracias a la espinaca y el tomate. Por el huevo que lleva, aporta una cantidad considerable de colesterol: las personas con dislipidemias pueden tenerlo en cuenta dentro de su consumo diario."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro no especifica el número de porciones; dado que la receta usa 2 huevos y rinde naturalmente para 2 personas, se escaló a 4 porciones VitaCampo con un factor de 2, dando 1 porción de ≈157 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque requiere voltear la tortilla en el punto justo de cocción."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Tortilla de espinaca\", del recetario \"Deliciosas y nutritivas recetas\" (PDSAN, Gobernación de Antioquia). El libro sugiere que la espinaca puede reemplazarse por acelga, coliflor o brócoli; aquí se mantuvo la espinaca, protagonista de esta ficha."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina A y \"buena fuente\" de folato se calcularon por porción (Res. 810 de 2021), cumpliendo el umbral en ambos sexos."
+    },
+    {
+      "label": "Sobre el colesterol:",
+      "texto": "el huevo aporta 212,5 mg de colesterol por porción. Las personas con dislipidemias pueden tenerlo en cuenta dentro de su consumo diario."
+    },
+    {
+      "label": "Sobre la cocción segura:",
+      "texto": "cocine el huevo hasta que la clara y la yema estén firmes; no consuma huevo crudo ni poco cocido (Organización Mundial de la Salud, ver bibliografía)."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 343,9 mg de sodio (25,0 % de la ingesta adecuada diaria). Las personas con hipertensión arterial o enfermedad renal pueden reducir la sal agregada."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Gobernación de Antioquia, Programa de Desarrollo y Seguridad Alimentaria y Nutricional (PDSAN). Deliciosas y nutritivas recetas. Medellín: Gobernación de Antioquia [sin fecha de publicación identificada en el documento].",
+    "World Health Organization. Five keys to safer food manual. Geneva: WHO; 2006."
+  ],
+  "imagen": "assets/img/recetas/ES03.jpg"
+}

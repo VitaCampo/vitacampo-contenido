@@ -1,0 +1,159 @@
+{
+  "codigo": "CL02",
+  "nombre": "Vinagreta de cilantro",
+  "imagenSize": {
+    "width": 600,
+    "height": 251
+  },
+  "imagenCredito": "Imagen: recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Vinagreta de cilantro\" del recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 cucharada, ≈13 g de vinagreta)",
+  "tiempo": "10 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "28 kcal",
+      "113 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,2 g",
+      "0,6 g",
+      "0,3 %",
+      "0,3 %"
+    ],
+    [
+      "Carbohidratos",
+      "1,2 g",
+      "4,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "2,5 g",
+      "10,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,3 g",
+      "1,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "Sodio",
+      "209,3 mg",
+      "837,2 mg",
+      "15,2 %",
+      "15,2 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Cilantro",
+      "5,0 g",
+      "20,0 g",
+      "1½ cucharadas picado",
+      "¼ pocillo picado"
+    ],
+    [
+      "Vinagre blanco",
+      "1,2 g",
+      "5,0 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Mostaza preparada",
+      "0,8 g",
+      "3,0 g",
+      "¼ cucharadita",
+      "¾ cucharadita"
+    ],
+    [
+      "Limón (jugo)",
+      "2,5 mL",
+      "10,0 mL",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ],
+    [
+      "Sal",
+      "0,5 g",
+      "2,0 g",
+      "1 pizca",
+      "⅓ cucharadita"
+    ],
+    [
+      "Azúcar",
+      "0,5 g",
+      "2,0 g",
+      "1 pizca",
+      "⅓ cucharadita"
+    ],
+    [
+      "Aceite",
+      "2,5 g (2,5 mL)",
+      "10,0 g (10,0 mL)",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ],
+    [
+      "Pimienta negra",
+      "0,2 g",
+      "1,0 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** el cilantro (ver la tarjeta de limpieza y desinfección).",
+    "**Pique** finamente el cilantro y **páselo** a un recipiente.",
+    "**Añada** el vinagre y la mostaza, y **empiece a mezclar**.",
+    "**Incorpore** el jugo de limón, la sal, el azúcar y la pimienta.",
+    "Por último, **añada** el aceite en forma de hilo, sin dejar de mezclar, hasta homogeneizar (que quede todo bien mezclado). Opcional: **licue** para una textura más suave e integrada."
+  ],
+  "usoSugerido": "Use para aliñar ensaladas, verduras asadas o como marinada ligera de carnes blancas.",
+  "nutriConsejo": {
+    "icono": "🌿",
+    "titulo": "Vinagreta de cilantro: sabor fresco con poca grasa añadida",
+    "cuerpo": "Esta vinagreta aporta sabor fresco a ensaladas y verduras con una cantidad moderada de grasa, gracias a que usa aceite en poca proporción. Al ser un aliño de uso en pequeñas cantidades, su aporte de vitaminas y minerales por porción es bajo."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro no especifica el número de porciones que rinde la receta; se calculó dividiendo el peso total de los ingredientes (53 g) entre 4 porciones VitaCampo, dando 1 porción de ≈13 g (≈1 cucharada)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son pasos sencillos de mezclar, sin cocción."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Vinagreta de cilantro\", del recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025)."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "en esta porción de aliño (≈13 g), ningún nutriente alcanza el 15 % del valor diario recomendado, por lo que la ficha no lleva insignias de \"fuente\". El sodio por porción llega a 15,2 % de la ingesta adecuada diaria; calculado por 100 g de producto (1585 mg/100 g), no cumple el umbral de \"bajo en sodio\" (≤120 mg/100 g), por lo que tampoco se declara esa etiqueta."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Vanegas Piedrahíta L. Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos. Medellín: Alcaldía de Medellín, Distrito de Ciencia, Tecnología e Innovación; 2025."
+  ],
+  "imagen": "assets/img/recetas/CL02.png"
+}

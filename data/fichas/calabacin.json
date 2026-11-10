@@ -1,0 +1,128 @@
+{
+  "slug": "calabacin",
+  "nombreComun": "Calabacín",
+  "nombreCientifico": "Cucurbita pepo L.",
+  "subtitulo": "Un vegetal ligero con más de lo que parece",
+  "imagen": "assets/img/fichas/calabacin.jpg",
+  "creditoImagen": "Elaboración propia",
+  "introduccion": "El calabacín pertenece a la especie Cucurbita pepo, domesticada en Mesoamérica hace cerca de 11.000 años — una de las plantas cultivadas más antiguas de América. Sin embargo, la forma alargada y de piel oscura que conocemos hoy como \"calabacín\" es mucho más reciente: se desarrolló apenas hacia 1850 en los alrededores de Milán, Italia, a partir de calabazas que ya se cultivaban en ese país desde el siglo XVI. Hoy es un alimento cotidiano en la cocina colombiana, tanto en zonas urbanas como rurales.",
+  "porcionReferencia": "100 gramos",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "19 kcal",
+      "vdrMujer": "1,0%",
+      "vdrHombre": "0,8%"
+    },
+    {
+      "nutriente": "Fibra dietética",
+      "cantidad": "0,80 g",
+      "vdrMujer": "2,9%",
+      "vdrHombre": "2,4%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "15 mg",
+      "vdrMujer": "20,0%",
+      "vdrHombre": "16,7%"
+    },
+    {
+      "nutriente": "Folato",
+      "cantidad": "71 mcg EFD",
+      "vdrMujer": "17,8%",
+      "vdrHombre": "17,8%"
+    },
+    {
+      "nutriente": "Potasio",
+      "cantidad": "226 mg",
+      "vdrMujer": "4,8% (AI)",
+      "vdrHombre": "4,8% (AI)"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "El calabacín no figura en la Lista de Intercambio de Alimentos de la Universidad de Antioquia (5.ª ed., 2023). Al aportar 19 kcal por 100 g, se usa esta cantidad como porción de referencia estándar según los datos de la fuente USDA FoodData Central."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "esta porción aporta 0,80 g de fibra dietética, equivalentes al 2,4% (hombres) y 2,9% (mujeres) del requerimiento diario — un aporte bajo. La fibra dietética tiene dos tipos principales: la fibra insoluble, que no se disuelve en agua y actúa como una especie de \"escoba natural\" en el intestino, acelerando el tránsito intestinal; y la fibra soluble, que sí se disuelve en agua formando una sustancia similar a un gel, asociada con una absorción más lenta de azúcares y grasas. En el calabacín predomina la fibra insoluble, con una fracción soluble presente en forma de pectinas en la pared celular — aunque este dato proviene de un estudio en Cucurbita moschata (una especie del mismo género, no la misma especie del calabacín), por lo que se toma como una aproximación razonable, no un dato exacto."
+    },
+    {
+      "titulo": "Sobre el color y los carotenoides",
+      "texto": "un estudio cuantificó los carotenoides totales en 22,7 µg/g en cáscara amarilla, frente a niveles mucho menores en la variedad verde clara (Xu et al., 2021). Otro estudio confirmó que ambas variedades son seguras para el consumo (no genotóxicas), sin daño al ADN en los ensayos realizados (Martínez-Valdivieso et al., 2017)."
+    },
+    {
+      "titulo": "Sobre las flores",
+      "texto": "contienen compuestos polifenólicos (rutina, isorhamnetina-3-rutinósido) estudiados por su potencial antioxidante y biodisponibilidad."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía que 100 g de calabacín aportan 15 mg de vitamina C (20% de la recomendación diaria para mujeres y 16,7% para hombres) y 71 mcg de folato (17,8% para ambos), dos nutrientes clave para las defensas y la formación de células sanguíneas?"
+  },
+  "descripcion": "El calabacín es bajo en calorías y rico en agua, cualidades que lo hacen ligero y versátil en la alimentación diaria. También aporta potasio, un mineral clave para el equilibrio de líquidos en el cuerpo. Su pigmentación, del verde al amarillo, refleja diferencias en su composición de carotenoides (pigmentos naturales de origen vegetal que le dan su color).",
+  "beneficios": [
+    {
+      "icono": "🌿",
+      "titulo": "Formación de células",
+      "texto": "Aporta folato, que contribuye a la formación de nuevas células, clave en el embarazo y en las distintas etapas del crecimiento."
+    },
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas",
+      "texto": "Aporta vitamina C, que apoya las defensas del organismo."
+    },
+    {
+      "icono": "👁️",
+      "titulo": "Salud ocular",
+      "texto": "Contiene carotenoides que pueden contribuir a la salud visual."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "verdad",
+      "titulo": "¿Aportan lo mismo el calabacín verde y el amarillo?",
+      "texto": "No exactamente: aunque ambos son la misma especie (Cucurbita pepo), sus pigmentos difieren. El verde debe su color principalmente a la clorofila; el amarillo acumula más carotenoides totales, especialmente luteína, además de zeaxantina y otros pigmentos relacionados con la salud visual. En otras palabras, el color de la cáscara es una pista real sobre su composición, no solo una diferencia estética."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "",
+      "texto": "Las flores del calabacín también son comestibles y se aprovechan en sopas, cremas, quesadillas, empanadas y guisados en distintas culturas culinarias. Contienen polifenoles como la rutina, compuestos estudiados por su potencial antioxidante, y aportan una forma adicional de aprovechar la planta completa, reduciendo el desperdicio de alimentos."
+    },
+    {
+      "tipo": "capsula",
+      "titulo": "Un pariente cercano con un secreto por confirmar",
+      "texto": "La calabaza madura —la misma especie que el calabacín, en otra variedad y punto de maduración— contiene compuestos como la puerarina, la quercetina y el ácido clorogénico, todos ellos flavonoides (un grupo de pigmentos vegetales con función antioxidante). En estudios de laboratorio y en animales, estos compuestos han mostrado un posible efecto en el manejo del azúcar en la sangre — un hallazgo prometedor, aunque todavía hace falta más investigación en personas antes de que pueda recomendarse con esa intención."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Precauciones a tener en cuenta",
+      "texto": "Si el calabacín sabe inusualmente amargo, no lo consuma: puede indicar niveles altos de cucurbitacinas, compuestos naturales tóxicos que ocasionalmente aparecen por cruce accidental con variedades silvestres o por estrés de cultivo (sequía, calor). Un estudio con 353 casos documentados en centros de control de intoxicaciones encontró síntomas digestivos (diarrea, vómito, dolor abdominal) tras su consumo, y la cocción no elimina la toxina. Además, en personas con enfermedades renales que presenten desequilibrio en los niveles de potasio, se recomienda mantener un consumo controlado y consultar con un profesional de la salud sobre la cantidad adecuada."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Leche de vaca contra el oídio",
+      "texto": "El oídio (una enfermedad causada por hongos que cubre las hojas con un polvo blanco) es uno de los problemas más comunes del cultivo de calabacín, capaz de reducir la cosecha hasta en un 30-50% en casos severos. Un estudio encontró que rociar las plantas con una solución de leche de vaca diluida en agua controla eficazmente esta enfermedad, con resultados comparables a los de algunos fungicidas comerciales — una alternativa accesible, económica y de bajo impacto ambiental para el manejo agroecológico del cultivo, aprovechando un insumo que muchos productores ya tienen disponible en la finca."
+    }
+  ],
+  "bibliografia": [
+    "1. U.S. Department of Agriculture, Agricultural Research Service. FoodData Central [Internet]. Beltsville (MD): USDA; 2019 [citado 2026]. Disponible en: https://fdc.nal.usda.gov/",
+    "2. Universidad de Antioquia - Grupo de Investigación Alimentación y Nutrición Humana (GIANH). Lista de intercambios de alimentos. 5.ª ed. Medellín: Universidad de Antioquia; 2023.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Lust TA, Paris HS. Italian horticultural and culinary records of summer squash (Cucurbita pepo, Cucurbitaceae) and emergence of the zucchini in 19th-century Milan. Ann Bot. 2016;118(1):53-69.",
+    "5. Martínez-Valdivieso D, Font R, Fernández-Bedmar Z, Merinas-Amo T, Gómez P, Alonso-Moraga Á, et al. Role of zucchini and its distinctive components in the modulation of degenerative processes: genotoxicity, anti-genotoxicity, cytotoxicity and apoptotic effects. Nutrients. 2017;9(7):755.",
+    "6. Xu X, Lu X, Tang Z, Zhang X, Lei F, Hou L, et al. Combined analysis of carotenoid metabolites and the transcriptome to reveal the molecular mechanism underlying fruit colouration in zucchini (Cucurbita pepo L.). Food Chem Mol Sci. 2021;2:100021.",
+    "7. Men X, Choi SI, Han X, Kwon HY, Jang GW, Choi YE, et al. Physicochemical, nutritional and functional properties of Cucurbita moschata. Food Sci Biotechnol. 2021;30(2):171-183.",
+    "8. Castaldo L, Lombardi S, Izzo L, Ritieni A. Exploring the chemical composition of female zucchini flowers for their possible use as nutraceutical ingredient. Antioxidants. 2023;12(12):2108.",
+    "9. Pawase PA, Haldua S, Bashir O, Pathare AM, Shams R, Dash KK, et al. Antidiabetic properties of Cucurbita pepo L. (pumpkin), Linum usitatissimum L. (flaxseed), and Avena sativa L. (oat): A review. J Agric Food Res. 2025;22:102035.",
+    "10. Le Roux G, Leborgne I, Labadie M, Garnier R, Sinno-Tellier S, Bloch J, et al. Poisoning by non-edible squash: retrospective series of 353 patients from French Poison Control Centers. Clin Toxicol. 2018;56(8):790-794.",
+    "11. Bettiol W. Effectiveness of cow's milk against zucchini squash powdery mildew (Sphaerotheca fuliginea) in greenhouse conditions. Crop Prot. 1999;18(7):489-492."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

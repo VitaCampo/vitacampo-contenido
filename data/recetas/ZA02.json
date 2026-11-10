@@ -1,0 +1,140 @@
+{
+  "codigo": "ZA02",
+  "nombre": "Bebida de zanahoria y jengibre",
+  "imagenSize": {
+    "width": 399,
+    "height": 200
+  },
+  "imagenCredito": "Imagen: recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Bebida de zanahoria y jengibre\" del recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈¾ taza, ≈176 g)",
+  "tiempo": "10 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina A"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "29 kcal",
+      "115 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,4 g",
+      "1,6 g",
+      "0,6 %",
+      "0,5 %"
+    ],
+    [
+      "Carbohidratos",
+      "6,5 g",
+      "26,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,1 g",
+      "0,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina A*",
+      "921,7 µg ER",
+      "3686,8 µg ER",
+      "131,7 %",
+      "102,4 %"
+    ],
+    [
+      "Vitamina C",
+      "8,3 mg",
+      "33,3 mg",
+      "11,1 %",
+      "9,3 %"
+    ],
+    [
+      "Sodio",
+      "11,0 mg",
+      "43,9 mg",
+      "0,8 %",
+      "0,8 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Zanahoria",
+      "30,0 g",
+      "120,0 g",
+      "¼ unidad mediana",
+      "1 unidad mediana"
+    ],
+    [
+      "Mango tommy maduro",
+      "20,0 g",
+      "80,0 g",
+      "2 cucharadas en trozos",
+      "½ unidad mediana"
+    ],
+    [
+      "Jengibre",
+      "0,5 g",
+      "2,0 g",
+      "¼ cucharadita rallada",
+      "1 cucharadita rallada"
+    ],
+    [
+      "Agua",
+      "125,0 mL",
+      "500,0 mL",
+      "½ taza",
+      "2 tazas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** las frutas y las verduras (ver la tarjeta de limpieza y desinfección).",
+    "**Corte** el mango y la zanahoria en trozos.",
+    "**Ralle** el jengibre.",
+    "**Lleve** todo a la licuadora.",
+    "**Adicione** el agua fría y **licue** hasta obtener una mezcla homogénea."
+  ],
+  "usoSugerido": "Sirva frío, como bebida refrescante entre comidas.",
+  "nutriConsejo": {
+    "icono": "🥕",
+    "titulo": "Bebida de zanahoria y jengibre: excelente fuente de vitamina A",
+    "cuerpo": "Esta bebida es excelente fuente de vitamina A gracias a la zanahoria, con muy pocas calorías. El jengibre le da un toque picante y refrescante."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro no especifica el número de porciones y la cantidad es pequeña (rinde para 1-2 vasos); se duplicó la receta completa para llegar a 4 porciones VitaCampo razonables, dando 1 porción de ≈176 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son pasos sencillos de licuar, sin cocción."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Bebida de zanahoria y jengibre\", del recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025). Imagen oficial del mismo recetario."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina A se calculó por porción (Res. 810 de 2021), superando ampliamente el umbral en ambos sexos."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Vanegas Piedrahíta L. Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos. Medellín: Alcaldía de Medellín, Distrito de Ciencia, Tecnología e Innovación; 2025."
+  ],
+  "imagen": "assets/img/recetas/ZA02.png"
+}

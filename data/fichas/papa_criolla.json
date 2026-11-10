@@ -1,0 +1,152 @@
+{
+  "slug": "papa_criolla",
+  "nombreComun": "Papa Criolla",
+  "nombreCientifico": "Solanum tuberosum Grupo Phureja",
+  "subtitulo": "Pequeña, amarilla, y con raíces de 9.000 años",
+  "imagen": "assets/img/fichas/papa_criolla.jpg",
+  "creditoImagen": "Elaboración propia.",
+  "introduccion": "La papa se domesticó hace entre 8.000 y 10.000 años en los Andes del sur de Perú, y con el tiempo su cultivo se extendió a las condiciones de altura de lo que hoy es Colombia, donde el grupo Phureja —la papa criolla— encontró un lugar propio en la cocina y la cultura del país.",
+  "porcionReferencia": "108 gramos (3 unidades medianas)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "92,9 kcal",
+      "vdrMujer": "4,73%",
+      "vdrHombre": "3,98%"
+    },
+    {
+      "nutriente": "Carbohidratos",
+      "cantidad": "20,2 g",
+      "vdrMujer": "15,54%",
+      "vdrHombre": "15,54%"
+    },
+    {
+      "nutriente": "Cobre",
+      "cantidad": "280,8 mcg",
+      "vdrMujer": "31,2%",
+      "vdrHombre": "31,2%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "16,2 mg",
+      "vdrMujer": "21,6%",
+      "vdrHombre": "18%"
+    },
+    {
+      "nutriente": "Niacina (Vitamina B3)",
+      "cantidad": "2,7 mg",
+      "vdrMujer": "19,3%",
+      "vdrHombre": "16,9%"
+    },
+    {
+      "nutriente": "Potasio",
+      "cantidad": "586,4 mg",
+      "vdrMujer": "12,48%",
+      "vdrHombre": "12,48%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "108 g (3 unidades medianas) según la Lista de Intercambios de la Universidad de Antioquia."
+    },
+    {
+      "titulo": "Sobre el estado crudo vs. cocido",
+      "texto": "aunque la papa criolla nunca se consume cruda (siempre se hierve, fríe o asa), no encontramos un dato específico de papa criolla cocida en TCAC-ICBF, RINAs ni la Lista de Intercambios. Se usó el valor en crudo, documentando esta limitación con transparencia — la cocción puede modificar moderadamente algunos de estos valores."
+    },
+    {
+      "titulo": "Sobre la cáscara",
+      "texto": "se usó papa criolla con cáscara, ya que el TCAC-ICBF muestra que esta conserva más del triple de vitamina C que la papa sin cáscara (32 mg vs. 9 mg por 100 g), además de más fibra, calcio y hierro."
+    },
+    {
+      "titulo": "Sobre la diferencia entre TCAC-ICBF y RINAs",
+      "texto": "existe una diferencia notable en vitamina C (32 mg vs. 15 mg por 100 g, ambas con cáscara) — probablemente relacionada con diferencias varietales o metodológicas."
+    },
+    {
+      "titulo": "Sobre la declaración de “excelente fuente”",
+      "texto": "según la Resolución 810 de 2021, con 31,2% del VRN, esta porción califica como “excelente fuente de cobre” (un mineral que participa en la formación de glóbulos rojos y en el funcionamiento del sistema nervioso)."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "esta porción aporta 1,73 g de fibra, equivalentes a 5,28% (hombres) y 6,28% (mujeres) del requerimiento diario."
+    },
+    {
+      "titulo": "Sobre la proteína",
+      "texto": "esta porción aporta 2,7 g de proteína — una cantidad baja comparada con cereales como el trigo o el maíz (equivalente apenas a 3,47%-3,74% del requerimiento diario, estimado con un peso de referencia de 70 kg hombres y 65 kg mujeres). Sin embargo, esta proteína tiene un valor biológico alto (90-100 en una escala donde el huevo entero es 100), lo que significa que el cuerpo la aprovecha muy bien — superior, en términos de calidad, a fuentes como la leche de vaca (84-88), la soya (84) y el fríjol (73). Es decir: la papa criolla aporta poca cantidad de proteína, pero de muy buena calidad."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía usted que 108 g de papa criolla (3 unidades medianas) aportan 20,2 g de carbohidratos acompañados de 1,73 g de fibra, una combinación que ayuda a que esa energía se libere de forma más gradual?"
+  },
+  "descripcion": "La papa criolla debe su color amarillo intenso a los carotenoides (pigmentos vegetales con función antioxidante, es decir, que ayudan a proteger las células del desgaste natural del cuerpo) y aporta ácido clorogénico (un compuesto vegetal con actividad antioxidante, presente también en el café), ambos estudiados por su papel en la protección de las células frente al daño oxidativo (un desequilibrio natural del metabolismo que, en exceso, puede dañarlas).",
+  "beneficios": [
+    {
+      "icono": "🩸",
+      "titulo": "Formación de glóbulos rojos",
+      "texto": "su cobre participa en la formación de glóbulos rojos (las células que transportan oxígeno en la sangre) y en el funcionamiento del sistema nervioso."
+    },
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas y piel",
+      "texto": "su vitamina C contribuye al funcionamiento normal del sistema inmunitario y a la formación de colágeno (una proteína que da estructura a la piel)."
+    },
+    {
+      "icono": "⚡",
+      "titulo": "Energía",
+      "texto": "su niacina (vitamina B3) participa en el proceso que el cuerpo usa para obtener energía de los alimentos."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "verdad",
+      "titulo": "¿La papa “no llena” y es puro almidón vacío?",
+      "texto": "Todo lo contrario: un estudio clásico que comparó 38 alimentos encontró que la papa hervida obtuvo el índice de saciedad más alto de todos — siete veces más saciante que un croissant, tomando el pan blanco como referencia. La sensación de “llenura” que produce no es casualidad: tiene que ver con su contenido de fibra, proteína y agua. Esto no significa que la papa nunca deba cuidarse en cantidad — como con cualquier alimento, la porción y la forma de prepararla (frita, con mantequilla o quesos) influyen en su aporte calórico total — pero sí desmiente la idea de que sea un alimento vacío que no aporta saciedad."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo cocinarla para aprovecharla mejor",
+      "texto": "Hervir la papa criolla preserva mejor su vitamina C que freírla a altas temperaturas — su fibra incluso ayuda a proteger esta vitamina durante la cocción. Además, si se deja enfriar la papa después de cocida (por ejemplo, para una ensalada fría), aumenta su contenido de almidón resistente. A diferencia del almidón común, que el cuerpo descompone y absorbe rápidamente como azúcar en el intestino delgado, el almidón resistente “resiste” esa digestión y llega casi intacto hasta el intestino grueso, donde las bacterias buenas de la microbiota lo fermentan poco a poco. Este proceso genera ácidos grasos de cadena corta, unas sustancias que alimentan y protegen las células del colon, favorecen una microbiota más saludable, y además hacen que el azúcar en la sangre suba de forma más lenta y controlada después de comer — algo similar a lo que hace la fibra."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo guardarla bien en casa",
+      "texto": "Guarde la papa criolla en un lugar fresco, oscuro y seco —no en la nevera, que puede alterar su sabor— y evite dejarla expuesta a la luz directa por mucho tiempo. La luz y el calor favorecen que la papa “reverdezca” o le salgan brotes, un proceso natural que aumenta unos compuestos amargos que en cantidades altas no son recomendables. Si esto llega a pasar, no es necesario botar la papa entera: basta con retirar generosamente la parte verde o los brotes antes de cocinarla. Guardada correctamente, la papa criolla puede durar varias semanas sin problema."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Precaución en personas con enfermedad renal",
+      "texto": "La papa criolla aporta una cantidad importante de potasio, un mineral que las personas con enfermedad renal crónica suelen necesitar controlar, ya que sus riñones no logran eliminarlo con la misma eficacia. Esto no significa que deba eliminarse por completo de la dieta: hervirla en abundante agua puede reducir su contenido de potasio hasta en un 73%, una técnica sencilla que ayuda a moderar su impacto. Si tiene esta condición, consulte con su médico o nutricionista sobre la cantidad y forma de consumo adecuadas para ti."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Un tesoro genético que vale la pena proteger",
+      "texto": "Colombia guarda más de 100 variedades distintas de papa criolla en bancos de germoplasma (colecciones donde se conservan semillas de distintas variedades de un cultivo, como una especie de \"biblioteca viva\" de plantas). Muchas de estas variedades tienen un perfil nutricional incluso mejor que el de las papas criollas comerciales que se venden habitualmente, además de características valiosas como mayor resistencia a plagas o a condiciones de clima difíciles. Proteger esta diversidad también empieza en la propia finca. La FAO, junto con productores de Nariño, promueve la \"selección positiva\": en lugar de guardar como semilla los tubérculos que sobran después de vender lo mejor de la cosecha (una práctica común que deteriora la calidad genética con el tiempo), se marcan durante el cultivo las plantas más sanas y vigorosas, y de esas plantas se reserva la semilla para la siguiente siembra — tubérculos de tamaño mediano, con ojos poco profundos, brotes cortos y vigorosos, y libres de plagas o pudrición. Esta práctica, repetida ciclo tras ciclo, mejora progresivamente la calidad de la semilla propia sin necesidad de comprarla, y es una forma concreta de cuidar la soberanía alimentaria del país."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "3. Universidad de Antioquia - Grupo de Investigación Alimentación y Nutrición Humana (GIANH). Lista de intercambios de alimentos. 5.ª ed. Medellín: Universidad de Antioquia; 2023.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "5. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "6. Hardigan MA, Laimbeer FPE, Newton L, Crisovan E, Hamilton JP, Vaillancourt B, et al. Genome diversity of tuber-bearing Solanum uncovers complex evolutionary history and targets of domestication in the cultivated potato. Proc Natl Acad Sci U S A. 2017;114(46):E9999-E10008.",
+    "7. Peña C, Restrepo-Sánchez LP, Kushalappa A, Rodríguez-Molano LE, Mosquera T, Narváez-Cuenca CE. Nutritional contents of advanced breeding clones of Solanum tuberosum group Phureja. LWT - Food Sci Technol. 2015;62(1):76-82.",
+    "8. Cerón-Lasso M, Alzate-Arbeláez AF, Rojano BA, Ñuztez-Lopez CE. Composición Fisicoquímica y Propiedades Antioxidantes de Genotipos Nativos de Papa Criolla (Solanum tuberosum Grupo Phureja). Inf Tecnol. 2018;29(3):205-216.",
+    "9. Piñeros-Niño C, Narváez-Cuenca CE, Kushalappa AC, Mosquera T. Hydroxycinnamic acids in cooked potato tubers from Solanum tuberosum group Phureja. Food Sci Nutr. 2017;5(3):380-389.",
+    "10. Holt SH, Miller JC, Petocz P, Farmakalidis E. A satiety index of common foods. Eur J Clin Nutr. 1995;49(9):675-690.",
+    "11. Thomas S, Vásquez-Benítez JD, Cuéllar-Cepeda FA, Mosquera-Vásquez T, Narváez-Cuenca CE. Vitamin C, protein, and dietary fibre contents as affected by genotype, agro-climatic conditions, and cooking method on tubers of Solanum tuberosum Group Phureja. Food Chem. 2021;349:129207.",
+    "12. Lu ZH, Donner E, Yada RY, Liu Q. Physicochemical properties and in vitro starch digestibility of potato starch/protein blends. Carbohydr Polym. 2016;154:214-222.",
+    "13. Koffi GY, Remaud-Simeon M, Due AE, Combes D. Isolation and chemoenzymatic treatment of glycoalkaloids from green, sprouting and rotting Solanum tuberosum potatoes for solanidine recovery. Food Chem. 2017;220:257-265.",
+    "14. Picard K, Griffiths M, Mager DR, Richard C. Handouts for Low-Potassium Diets Disproportionately Restrict Fruits and Vegetables. J Ren Nutr. 2021;31(2):210-214.",
+    "15. Picq C, Asplanato M, Bernillon N, Fabre C, Roubeix M, Ricort JM. Effects of water soaking and/or sodium polystyrene sulfonate addition on potassium content of foods. Int J Food Sci Nutr. 2014;65(6):673-677.",
+    "16. Narváez-Cuenca CE, Peña C, Restrepo-Sánchez LP, Kushalappa A, Mosquera T. Macronutrient contents of potato genotype collections in the Solanum tuberosum Group Phureja. J Food Compos Anal. 2018;66:179-184.",
+    "17. Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). Metodología para la selección y conservación de semilla de papa de calidad: cartilla para agricultores [Internet]. Roma: FAO [citado 2026]."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

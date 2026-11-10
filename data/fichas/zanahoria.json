@@ -1,0 +1,138 @@
+{
+  "slug": "zanahoria",
+  "nombreComun": "Zanahoria",
+  "nombreCientifico": "Daucus carota L.",
+  "subtitulo": "La reina de la vitamina A y una aliada para su visión",
+  "imagen": "assets/img/fichas/zanahoria.jpg",
+  "creditoImagen": "Elaboración propia. Plaza Minorista José María Villa, Medellín, 2026.",
+  "introduccion": "La zanahoria que conocemos no siempre fue naranja y dulce. Las primeras variedades eran moradas y amarillas, y se usaban principalmente sus hojas y semillas aromáticas. Con el tiempo, su raíz se convirtió en el alimento que hoy cultivamos y consumimos.",
+  "porcionReferencia": "58 gramos, (medio pocillo chocolatero, cruda).",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "25 kcal",
+      "vdrMujer": "1,3%",
+      "vdrHombre": "1,1%"
+    },
+    {
+      "nutriente": "Vitamina A",
+      "cantidad": "1632 mcg ER",
+      "vdrMujer": "233%",
+      "vdrHombre": "181%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "5 mg",
+      "vdrMujer": "6,7%",
+      "vdrHombre": "5,6%"
+    },
+    {
+      "nutriente": "Fibra dietética",
+      "cantidad": "1,7 g",
+      "vdrMujer": "6,2%",
+      "vdrHombre": "5,2%"
+    },
+    {
+      "nutriente": "Potasio",
+      "cantidad": "187 mg",
+      "vdrMujer": "4,0%",
+      "vdrHombre": "4,0%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción y la energía",
+      "texto": "58 g (medio pocillo chocolatero) corresponden a la porción habitual de zanahoria cruda, según la Lista de Intercambio de Alimentos de la Universidad de Antioquia (5.ª ed., 2023)."
+    },
+    {
+      "titulo": "Sobre la unidad de vitamina A",
+      "texto": "se expresa en microgramos de Equivalentes de Retinol (mcg ER), donde 1 ER equivale a 1 mcg de retinol o 6 mcg de betacaroteno, según la Resolución 810 de 2021."
+    },
+    {
+      "titulo": "Sobre el potasio",
+      "texto": "no existe una recomendación diaria exacta (RDA); el valor corresponde a Ingesta Adecuada (AI) según RIEN: 4700 mg/día."
+    },
+    {
+      "titulo": "Sobre la declaración “excelente fuente de vitamina A”",
+      "texto": "según el Art. 19.1 de la Resolución 810 de 2021, un alimento puede declararse “excelente fuente” de una vitamina si aporta ≥30% del Valor de Referencia de Nutrientes (VRN) por porción. El VRN de vitamina A para mayores de 4 años es 800 mcg ER; los 1632 mcg ER de esta porción equivalen al 204% del VRN, por lo que la declaración es válida con amplio margen."
+    },
+    {
+      "titulo": "Sobre la vitamina C",
+      "texto": "con 5,6-6,7% del VDR, no alcanza el umbral para declararse “buena fuente” (≥15%), por lo que no se usa esa declaración en esta ficha."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "esta porción aporta 1,7 g de fibra dietética (5,2% del VDR en hombres, 6,2% en mujeres). La fibra dietética tiene dos tipos principales, cada uno con una función distinta en el cuerpo: la fibra insoluble no se disuelve en agua y actúa como una especie de \"escoba natural\" en el intestino, aumentando el volumen de las heces y acelerando el tránsito intestinal; la fibra soluble, en cambio, sí se disuelve en agua formando una sustancia similar a un gel, y se ha asociado con una absorción más lenta de azúcares y grasas y con niveles más estables de colesterol. La zanahoria aporta ambos tipos, aunque las fuentes disponibles no son consistentes entre sí sobre cuál predomina, por lo que no se incluye aquí una proporción específica sin una fuente confiable que la respalde."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía usted que una porción de zanahoria cruda (58 g) le aporta 1632 mcg ER de vitamina A, más del 200% de su requerimiento diario? Esta vitamina es clave para el crecimiento y desarrollo celular, mantiene saludables las mucosas y otras barreras naturales del cuerpo (como las de los pulmones y el intestino), que actúan como primera línea de defensa frente a microorganismos, y es especialmente importante durante el embarazo para el desarrollo del bebé."
+  },
+  "descripcion": "La zanahoria es una de las fuentes más importantes de vitamina A en la alimentación. Su color naranja proviene principalmente del betacaroteno (un pigmento vegetal que el cuerpo transforma en vitamina A), uno de los carotenoides —una familia de pigmentos vegetales con función antioxidante— que ayudan a proteger las células del daño causado por los radicales libres (sustancias que se producen de forma natural en el cuerpo y que, en exceso, pueden dañarlas). También aporta pequeñas cantidades de vitamina C.",
+  "beneficios": [
+    {
+      "icono": "👁️",
+      "titulo": "Visión",
+      "texto": "su vitamina A contribuye al mantenimiento de la visión, especialmente en condiciones de poca luz, y a la salud de la piel."
+    },
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas",
+      "texto": "su vitamina C contribuye al funcionamiento normal del sistema inmunitario."
+    },
+    {
+      "icono": "💧",
+      "titulo": "Equilibrio de líquidos",
+      "texto": "su potasio ayuda a regular el balance de líquidos en el cuerpo y contribuye al funcionamiento normal de músculos y nervios."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "verdad",
+      "titulo": "¿Es peligroso comer muchas zanahorias por el exceso de vitamina A?",
+      "texto": "Es un mito: el cuerpo regula cuánto betacaroteno convierte en vitamina A activa, por lo que comer muchas zanahorias no causa toxicidad. Lo que sí puede ocurrir es la carotenemia: un exceso de betacaroteno en la dieta puede darle a la piel un tono amarillo-anaranjado (más notorio en palmas y plantas de los pies). Es una condición benigna, no peligrosa, que desaparece por sí sola al reducir el consumo. La toxicidad real por vitamina A ocurre con la vitamina A preformada (de suplementos o hígado en exceso), no con el betacaroteno de los vegetales."
+    },
+    {
+      "tipo": "capsula",
+      "titulo": "Más allá del naranja",
+      "texto": "Aunque la zanahoria naranja es la más común hoy, también existen variedades moradas, amarillas y rojas, cada una con su propio pigmento antioxidante. Las moradas contienen antocianinas (pigmentos que le dan el tono morado, estudiados por su papel en la salud cardiovascular). Las amarillas contienen luteína (un pigmento asociado a la protección de la vista, con un mecanismo distinto al de la vitamina A). Las rojas contienen licopeno (el mismo pigmento del tomate, estudiado por su potencial protector frente a algunas enfermedades crónicas). Todos son parte de la misma familia de compuestos bioactivos (sustancias naturales de las plantas con posibles beneficios para la salud) que el betacaroteno de la zanahoria naranja."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "La vitamina A ayuda, pero no reemplaza un tratamiento visual",
+      "texto": "Es cierto que la vitamina A es necesaria para una visión saludable, y su deficiencia puede causar problemas como la ceguera nocturna. Sin embargo, consumir más zanahoria de la necesaria no mejora la visión de una persona cuya alimentación ya es adecuada, ni corrige problemas visuales como la miopía o el astigmatismo, que tienen causas distintas a la nutrición. Si tiene molestias o cambios en la visión, consulte con un oftalmólogo — la zanahoria puede ser parte de una alimentación saludable, pero no sustituye una evaluación ni un tratamiento profesional."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo aprovecharla mejor: grasa saludable y tiempo de cocción",
+      "texto": "El betacaroteno se absorbe mejor cuando se consume junto con una fuente de grasa saludable, como aguacate, aceite de oliva o aceite de soya — por ejemplo, una ensalada de zanahoria con aguacate o un aderezo con aceite de oliva ayuda a su cuerpo a aprovechar mejor este nutriente. El tiempo de cocción también importa: cocinarla el tiempo justo no destruye la vitamina A —un cocinado breve incluso puede mejorar la absorción del betacaroteno, al ablandar las paredes de sus células—, pero cocinarla en exceso reduce su contenido: estudios encontraron que el betacaroteno disponible comienza a disminuir después de más de 2 minutos a 100°C, y que métodos como freírla por 10 a 25 minutos reducen significativamente su contenido total. Para conservarla mejor, use tiempos de cocción cortos y una olla tapada, que retiene mejor el calor y reduce la pérdida de compuestos.."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "La cebolla como aliada contra la mosca de la zanahoria",
+      "texto": "La mosca de la zanahoria (Psila rosae) es una de las plagas más importantes de este cultivo: sus larvas perforan las raíces, generando túneles que dañan el producto y reducen su valor comercial. Una práctica agroecológica sencilla es sembrar cebolla de rama junto a la zanahoria (ver ficha de Cebolla de Rama): el fuerte aroma de la cebolla confunde a la mosca y dificulta que encuentre las plantas de zanahoria para poner sus huevos, reduciendo la infestación sin necesidad de insecticidas. Complementar esta asociación con rotación de cultivos —evitando sembrar zanahoria en el mismo lote año tras año— ayuda a romper el ciclo de la plaga, ya que puede sobrevivir en el suelo de una temporada a otra."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF; 2015 [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Universidad de Antioquia - Grupo de Investigación Alimentación y Nutrición Humana (GIANH). Lista de intercambios de alimentos. 5.ª ed. Medellín: Universidad de Antioquia; 2023.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "5. Ahmad T, Cawood M, Iqbal Q, Ariño A, Batool A, Tariq RMS, et al. Phytochemicals in Daucus carota and Their Health Benefits — Review Article. Foods. 2019;8(9):424.",
+    "6. Stolarczyk J, Janick J. Carrot: History and iconography. Chron Hortic. 2011;51(2):13-18.",
+    "7. Wang L, Li Z, Liu D, Fan J. Effect of heat and pulsed electric field treatment on the physicochemical and nutritional properties of carrots. J Sci Food Agric. 2022;103(3):1514-1521.",
+    "8. Schmiedeskamp A, Schreiner M, Baldermann S. Impact of Cultivar Selection and Thermal Processing by Air Drying, Air Frying, and Deep Frying on the Carotenoid Content and Stability and Antioxidant Capacity in Carrots. J Agric Food Chem. 2022;70(5):1629-1639.",
+    "9. Maiani G, Castón MJP, Catasta G, Toti E, Cambrodón IG, Bysted A, et al. Carotenoids: actual knowledge on food sources, intakes, stability and bioavailability and their protective role in humans. Mol Nutr Food Res. 2009;53(Suppl 2):S194-218.",
+    "10. Dreher ML, Cheng FW, Ford NA. A Comprehensive Review of Hass Avocado Clinical Trials, Observational Studies, and Biological Mechanisms. Nutrients. 2021;13(12):4376.",
+    "11. Shi Z, Ohno H, Satoh-Takayama N. Dietary Derived Micronutrients Modulate Immune Responses Through Innate Lymphoid Cells. Front Immunol. 2021;12:670632.",
+    "12. Dewett D, Lam-Kamath K, Poupault C, Khurana H, Rister J. Mechanisms of vitamin A metabolism and deficiency in the mammalian and fly visual system. Dev Biol. 2021;476:68-78.",
+    "13. Arya V, Grzybowski J, Schwartz RA. Carotenemia. Cutis. 2003;71(6):441-442, 448."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

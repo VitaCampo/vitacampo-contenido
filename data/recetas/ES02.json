@@ -1,0 +1,198 @@
+{
+  "codigo": "ES02",
+  "nombre": "Crema de espinacas",
+  "imagenSize": {
+    "width": 600,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: Rahul Sonawane, Pexels — Licencia Pexels (uso libre). Fotografía \"Green Cream Soup in a Bowl\": https://www.pexels.com/photo/20004982/ (Imagen ilustrativa de una crema verde)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Crema de espinacas\" del recetario \"Rescate de memoria productiva y gastronómica: Departamento de Putumayo\" (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 plato hondo, ≈451 g)",
+  "tiempo": "35 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de vitamina A",
+    "Excelente fuente de folato (B9)",
+    "Buena fuente de hierro",
+    "Buena fuente de calcio",
+    "Buena fuente de proteína"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "298 kcal",
+      "1190 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "14,8 g",
+      "59,2 g",
+      "20,5 %",
+      "19,0 %"
+    ],
+    [
+      "Carbohidratos",
+      "25,5 g",
+      "101,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "15,1 g",
+      "60,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "6,5 g",
+      "26,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "4,0 g",
+      "16,0 g",
+      "14,5 %",
+      "12,2 %"
+    ],
+    [
+      "Vitamina A*",
+      "834,5 µg ER",
+      "3338,0 µg ER",
+      "119,2 %",
+      "92,7 %"
+    ],
+    [
+      "Folato (B9)*",
+      "164,0 µg",
+      "656,0 µg",
+      "41,0 %",
+      "41,0 %"
+    ],
+    [
+      "Hierro*",
+      "5,6 mg",
+      "22,4 mg",
+      "28,7 %",
+      "43,1 %"
+    ],
+    [
+      "Calcio*",
+      "204,0 mg",
+      "816,0 mg",
+      "18,5 %",
+      "19,4 %"
+    ],
+    [
+      "Sodio",
+      "422,8 mg",
+      "1691,0 mg",
+      "30,7 %",
+      "30,7 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Espinaca",
+      "100,0 g",
+      "400,0 g",
+      "4 tazas",
+      "16 tazas"
+    ],
+    [
+      "Costilla de res",
+      "50,0 g",
+      "200,0 g",
+      "⅓ taza en trozos",
+      "1⅓ tazas en trozos"
+    ],
+    [
+      "Agua",
+      "150,0 mL",
+      "600,0 mL",
+      "⅔ taza",
+      "2⅔ tazas"
+    ],
+    [
+      "Leche",
+      "50,0 mL",
+      "200,0 mL",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Papa amarilla",
+      "100,0 g",
+      "400,0 g",
+      "1 papa pequeña",
+      "4 papas pequeñas"
+    ],
+    [
+      "Sal",
+      "0,8 g",
+      "3,0 g",
+      "1 pizca",
+      "½ cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** la espinaca y la papa (ver la tarjeta de limpieza y desinfección).",
+    "**Cocine** las hojas de espinaca junto con la costilla en el agua, hasta que la costilla esté blanda.",
+    "**Retire y pique** las hojas de espinaca ya cocidas, y **incorpórelas** de nuevo a la olla junto con la leche.",
+    "**Adicione** la papa picada en cuadros pequeños. **Adicione** la sal y **cocine** todo hasta que espese."
+  ],
+  "usoSugerido": "Sirva como plato principal caliente, acompañado de arroz o arepa.",
+  "nutriConsejo": {
+    "icono": "🥬",
+    "titulo": "Crema de espinacas: vitamina A y folato de sobra",
+    "cuerpo": "Esta crema tradicional del Putumayo es excelente fuente de vitamina A y de folato, y buena fuente de hierro, calcio y proteína, gracias a la gran cantidad de espinaca que lleva. El folato es especialmente importante para mujeres en edad fértil y en embarazo. Esta preparación también aporta una cantidad considerable de sodio (30,7 % de la ingesta adecuada diaria por porción), principalmente por la costilla y la sal: las personas con hipertensión arterial o enfermedad renal pueden ajustar la cantidad de sal o preferir un corte de carne más magro."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica 20 porciones para una preparación grande (2 kg de espinaca, 1 kg de costilla); se escaló a 4 porciones VitaCampo con un factor de 4/20, dando 1 porción de ≈451 g, un plato hondo generoso."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque combina cocción de la costilla con la incorporación progresiva de los demás ingredientes hasta espesar."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Crema de espinacas\", del recetario \"Rescate de memoria productiva y gastronómica: Departamento de Putumayo\", que recopila preparaciones tradicionales de esa región."
+    },
+    {
+      "label": "Sobre la sal:",
+      "texto": "el libro indica \"sal al gusto\" sin cuantificar; se estimó una cantidad razonable (3 g para 4 porciones) para el cálculo nutricional, documentado aquí por transparencia."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina A y folato, y \"buena fuente\" de hierro, calcio y proteína, se calcularon por porción (Res. 810 de 2021), cumpliendo el umbral en ambos sexos. El hierro llega a 43,1 % VDR en hombres (umbral de \"excelente\") pero solo 28,7 % en mujeres, por lo que se declara el nivel que cumplen ambos sexos."
+    },
+    {
+      "label": "Sobre la grasa saturada:",
+      "texto": "la costilla de res aporta 6,5 g de grasa saturada por porción. Las personas con dislipidemias o enfermedad cardiovascular pueden preferir un corte más magro."
+    },
+    {
+      "label": "Sobre la cocción segura:",
+      "texto": "cocine la carne y el pollo hasta que no queden partes rosadas y sus jugos salgan claros; en sopas y guisos, lleve el líquido a ebullición, con lo cual se alcanzan unos 70 °C (Organización Mundial de la Salud, ver bibliografía). Sirva caliente y refrigere los sobrantes dentro de las 2 horas siguientes."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos. Rescate de memoria productiva y gastronómica: Departamento de Putumayo. Medellín: Alcaldía de Medellín [sin fecha de publicación identificada en el documento].",
+    "World Health Organization. Five keys to safer food manual. Geneva: WHO; 2006."
+  ],
+  "imagen": "assets/img/recetas/ES02.jpg"
+}

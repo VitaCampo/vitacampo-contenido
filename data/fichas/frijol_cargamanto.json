@@ -1,0 +1,146 @@
+{
+  "slug": "frijol_cargamanto",
+  "nombreComun": "Frijol Cargamanto Rojo",
+  "nombreCientifico": "Phaseolus vulgaris L.",
+  "subtitulo": "Un grano con 5.000 años de historia americana",
+  "imagen": "assets/img/fichas/frijol_cargamanto.jpg",
+  "creditoImagen": "Tomada de Pixabay, licencia gratuita. https://pixabay.com/photos/cranberry-beans-food-vegetable-red-1353042/",
+  "introduccion": "El frijol común se domesticó de forma independiente hace entre 5.000 y 2.000 años en dos regiones de América: Mesoamérica y los Andes. La evidencia genética indica que el linaje cultivado hoy en Colombia desciende de la dispersión que partió desde Mesoamérica — convirtiendo a este grano en uno de los alimentos autóctonos con mayor arraigo histórico, mucho antes de la llegada de los cultivos traídos de otros continentes.",
+  "porcionReferencia": "177 g (1 taza cocida)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "247,8 kcal",
+      "vdrMujer": "12,6%",
+      "vdrHombre": "10,6%"
+    },
+    {
+      "nutriente": "Proteína",
+      "cantidad": "16,46 g",
+      "vdrMujer": "22,8%*",
+      "vdrHombre": "21,2%*"
+    },
+    {
+      "nutriente": "Folato",
+      "cantidad": "366,4 mcg EFD",
+      "vdrMujer": "91,6%",
+      "vdrHombre": "91,6%"
+    },
+    {
+      "nutriente": "Fibra dietética",
+      "cantidad": "17,7 g",
+      "vdrMujer": "64,4%",
+      "vdrHombre": "54,1%"
+    },
+    {
+      "nutriente": "Cobre",
+      "cantidad": "407,1 mcg",
+      "vdrMujer": "45,2%",
+      "vdrHombre": "45,2%"
+    },
+    {
+      "nutriente": "Vitamina B1 (Tiamina)",
+      "cantidad": "0,48 mg",
+      "vdrMujer": "43,4%",
+      "vdrHombre": "39,8%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "el frijol cargamanto corresponde botánicamente al grano conocido internacionalmente como “cranberry bean” o “Roman bean”. Se usó 177 g (1 taza cocida) como porción de referencia, según USDA FoodData Central (FDC #173736)."
+    },
+    {
+      "titulo": "Sobre las fuentes de los datos",
+      "texto": "los valores provienen de las RINAs (Frijol cargamanto rojo, seco, cocido)."
+    },
+    {
+      "titulo": "Sobre el frijol cargamanto blanco",
+      "texto": "esta variedad tiene un perfil muy similar (140 kcal cocido, igual que el rojo), aunque con algo más de calcio y fósforo, mientras que el rojo aporta algo más de fibra y proteína."
+    },
+    {
+      "titulo": "Sobre las declaraciones",
+      "texto": "según la Resolución 810 de 2021, esta porción califica como “excelente fuente” (≥30% VRN) de Folato, Fibra, Cobre y Tiamina — las cuatro al mismo tiempo."
+    },
+    {
+      "titulo": "Sobre los tipos de fibra",
+      "texto": "la fibra dietética tiene dos tipos principales, cada uno con una función distinta en el cuerpo. La fibra insoluble no se disuelve en agua y actúa como una especie de “escoba natural” en el intestino: aumenta el volumen de las heces y acelera el tránsito intestinal, ayudando a prevenir el estreñimiento. La fibra soluble, en cambio, sí se disuelve en agua formando una sustancia similar a un gel, y se ha asociado con una absorción más lenta de azúcares y grasas, lo que puede ayudar a mantener más estables el colesterol y la glucosa en sangre. El frijol cargamanto contiene una combinación relativamente equilibrada de ambos tipos (aproximadamente 54% insoluble y 46% soluble), lo que lo convierte en una fuente completa de fibra, con los beneficios de los dos tipos a la vez."
+    },
+    {
+      "titulo": "Sobre el frijol crudo",
+      "texto": "los datos de esta ficha corresponden siempre a frijol cocido. El frijol crudo o insuficientemente cocido no debe consumirse (ver Nutri Consejo)."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía que 1 taza de frijol cargamanto cocido aporta más del 90% del requerimiento diario de folato, un nutriente esencial para la formación de nuevas células?"
+  },
+  "descripcion": "El frijol cargamanto combina algo poco común en un solo alimento: una cantidad importante de proteína vegetal junto con una alta cantidad de fibra. También aporta compuestos bioactivos (sustancias naturales de las plantas) que se han estudiado por su posible relación con marcadores metabólicos, como el colesterol y la glucosa en sangre.",
+  "beneficios": [
+    {
+      "icono": "🌾",
+      "titulo": "Digestión",
+      "texto": "su fibra favorece un tránsito intestinal saludable y una buena sensación de saciedad."
+    },
+    {
+      "icono": "⚡",
+      "titulo": "Energía",
+      "texto": "su vitamina B1 (tiamina) participa en el proceso que el cuerpo usa para obtener energía de los alimentos."
+    },
+    {
+      "icono": "💪",
+      "titulo": "Crecimiento y reparación",
+      "texto": "su proteína vegetal contribuye a la formación y el mantenimiento de músculos y tejidos."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "verdad",
+      "titulo": "¿El frijol engorda?",
+      "texto": "Es un mito muy extendido, pero no tiene respaldo científico: el frijol tiene un índice glucémico bajo (libera su energía de forma lenta y gradual, sin picos bruscos de azúcar en la sangre) y, gracias a su combinación de fibra y proteína, genera una sensación de saciedad duradera. Un estudio encontró que un refrigerio a base de frijol aumentó la sensación de estar satisfecho en un 52% frente al pan blanco, sin que las personas terminaran comiendo más calorías después. Lo que realmente influye en el peso es la cantidad total de calorías del día y cómo se prepara el frijol (por ejemplo, con exceso de grasas añadidas como tocino o chicharrón)."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Cocción y consumo seguro",
+      "texto": "El frijol siempre debe cocinarse completamente, hasta quedar blando — nunca debe comerse crudo ni parcialmente cocido, ya que contiene una lectina natural (la fitohemaglutinina) que solo se neutraliza con una cocción adecuada. Además, por su alto contenido de fibra y de un tipo de carbohidratos fermentables (FODMAP), las personas con síndrome de intestino irritable, enfermedad inflamatoria intestinal u otras condiciones digestivas sensibles pueden experimentar más gases, hinchazón o malestar al consumirlo, y podrían necesitar ajustar la cantidad o la frecuencia de consumo. En estos casos, consulte con un profesional de la salud para adaptar su alimentación a su condición particular ."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Remojar bien: menos gases, más nutrientes",
+      "texto": "Remojar el frijol en agua a temperatura ambiente durante 8 a 16 horas (idealmente toda la noche), cambiando el agua al menos una vez y desechándola siempre antes de cocinar con agua nueva, reduce hasta en un 25-42% los azúcares (rafinosa y estaquiosa) que producen gases, además de disminuir compuestos que dificultan la absorción de minerales. El agua tibia podría acelerar este segundo efecto, pero en remojos tan prolongados aumenta el riesgo de proliferación bacteriana — por eso se recomienda mantener el agua a temperatura ambiente."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómalo con arroz para una proteína más completa",
+      "texto": "Combinar frijol con cereales como el arroz o la arepa de maíz —como en el tradicional \"arroz con fríjoles\" o \"fríjoles con arepa\"— mejora la calidad de la proteína que aporta la comida. Cada uno complementa lo que le falta al otro, logrando un perfil de aminoácidos (los componentes básicos de las proteínas) más completo que si se comieran por separado."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "El frijol también alimenta el suelo",
+      "texto": "El frijol tiene una capacidad poco conocida fuera del campo: sus raíces forman una asociación natural con bacterias del suelo (rizobios) que capturan el nitrógeno del aire y lo convierten en una forma que las plantas pueden aprovechar. Esto significa que cultivar frijol no solo produce alimento, sino que también enriquece el suelo para los cultivos que le siguen — una de las razones por las que la rotación de cultivos con leguminosas es una práctica recomendada en la agricultura sostenible."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "5. U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Beans, cranberry (roman), mature seeds, cooked, boiled, without salt (FDC #173736) [Internet]. Beltsville: USDA; 2019 [citado 2026]. Disponible en: https://fdc.nal.usda.gov/food-details/173736/nutrients",
+    "6. Bitocchi E, Nanni L, Bellucci E, Rossi M, Giardini A, Spagnoletti Zeuli P, et al. Mesoamerican origin of the common bean (Phaseolus vulgaris L.) is revealed by sequence data. Proc Natl Acad Sci U S A. 2012;109(14):E788-796.",
+    "7. Bernardi C, Finetti F, Trabalzini L. The Nutraceutical Promise of Phaseolus vulgaris L.: Bioactive Compounds for Health Promotion and Prevention of Chronic Noncommunicable Diseases. Biology (Basel). 2026;15(8):659.",
+    "8. Haile AM, Mengistie BT, Teshager AA, Belisa TK, Zewde EB, Deress AS. Severe red kidney beans toxicity in an 8-year-old girl: a rare case of hypovolemic shock and prerenal acute kidney injury. Int J Emerg Med. 2026;19(1):49.",
+    "9. de Oliveira AC, Queiroz KS, Helbig E, Reis SM, Carraro F. O processamento doméstico do feijão comum resultou em redução dos fatores antinutricionais fitatos e taninos, do conteúdo de amido e dos fatores de flatulência rafinose, estaquiose e verbascose. Arch Latinoam Nutr. 2001;51(3):276-283.",
+    "10. Andersen KE, Bjergegaard C, Møller P, Sørensen JC, Sørensen H. Compositional variations for alpha-galactosides in different species of Leguminosae, Brassicaceae, and barley: a chemotaxonomic study. J Agric Food Chem. 2005;53(14):5809-5817.",
+    "11. Kannan S, Nielsen SS, Mason AC. Protein digestibility-corrected amino acid scores for bean and bean-rice infant weaning food products. J Agric Food Chem. 2001;49(10):5070-5074.",
+    "12. Leemann RG, Liu Y, Hjørungnes M, Bailly A, Bellés-Sancho P, Pessi G. STM815 Pectate Lyase Has a Negative Impact on Nitrogen-Fixing Symbiosis with Common Bean. Int J Mol Sci. 2026;27(5):2119.",
+    "13. Dimitriou A, Aggeletopoulou I, Triantos C. Optimizing Nutritional Balance: Integrating the Mediterranean Diet into Low-FODMAP Nutrition. Microorganisms. 2025;13(9):2085.",
+    "14. Escobedo A, Esquivel-Hurtado M, Morales-Hernández N, Rodríguez-Reyes SC, Rivera-León EA, Mojica L. Low glycemic index common bean snack increased satiety without modifying energy intake in adults with normal weight: randomized crossover trials. Int J Food Sci Nutr. 2023;74(2):247-256.",
+    "15. Chen Y, McGee R, Vandemark G, Brick M, Thompson HJ. Dietary Fiber Analysis of Four Pulses Using AOAC 2011.25: Implications for Human Health. Nutrients. 2016;8(12):829."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

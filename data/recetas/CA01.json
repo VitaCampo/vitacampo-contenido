@@ -1,0 +1,210 @@
+{
+  "codigo": "CA01",
+  "nombre": "Ensalada primavera con calabacín",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Bakd&Raw by Karolin Baitinger, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa de una ensalada de calabacín)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "1 taza (≈80 g de ensalada)",
+  "tiempo": "20 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Buena fuente de vitamina C",
+    "Libre de grasa"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "23 kcal",
+      "94 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,7 g",
+      "2,8 g",
+      "1,0 %",
+      "0,9 %"
+    ],
+    [
+      "Carbohidratos",
+      "4,8 g",
+      "19,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,1 g",
+      "0,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "0,9 g",
+      "3,5 g",
+      "3,2 %",
+      "2,7 %"
+    ],
+    [
+      "Vitamina C*",
+      "25,2 mg",
+      "100,7 mg",
+      "33,6 %",
+      "28,0 %"
+    ],
+    [
+      "Vitamina A",
+      "39,0 µg ER",
+      "155,8 µg ER",
+      "5,6 %",
+      "4,3 %"
+    ],
+    [
+      "Folato (B9)",
+      "26,2 µg",
+      "104,6 µg",
+      "6,5 %",
+      "6,5 %"
+    ],
+    [
+      "Potasio",
+      "155,2 mg",
+      "620,9 mg",
+      "3,3 % (AI)",
+      "3,3 % (AI)"
+    ],
+    [
+      "Sodio",
+      "390,4 mg",
+      "1561,5 mg",
+      "28,4 %",
+      "28,4 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Ají dulce",
+      "5 g",
+      "20 g",
+      "1 unidad pequeña",
+      "4 unidades"
+    ],
+    [
+      "Cidra",
+      "15 g",
+      "60 g",
+      "2 julianas",
+      "8 julianas"
+    ],
+    [
+      "Calabacín verde",
+      "15 g",
+      "60 g",
+      "2 rodajas en julianas",
+      "8 rodajas"
+    ],
+    [
+      "Calabacín amarillo",
+      "15 g",
+      "60 g",
+      "2 rodajas en julianas",
+      "8 rodajas"
+    ],
+    [
+      "Limón tahití (entero)",
+      "35 g",
+      "140 g",
+      "1 unidad pequeña",
+      "4 unidades"
+    ],
+    [
+      "Cilantro",
+      "1,5 g",
+      "6 g",
+      "1 ramita",
+      "4 ramitas"
+    ],
+    [
+      "Sal",
+      "1 g",
+      "4 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Pimienta molida",
+      "0,03 g",
+      "0,12 g",
+      "1 pizca",
+      "4 pizcas"
+    ]
+  ],
+  "pasos": [
+    "**Lave, limpie y desinfecte** todas las verduras (ver la tarjeta de limpieza y desinfección).",
+    "**Despunte** y retire las semillas del ají dulce; corte en julianas delgadas.",
+    "**Despunte y pele** la cidra; corte en julianas delgadas.",
+    "**Despunte y corte** en julianas delgadas el calabacín verde y el calabacín amarillo, incluyendo la parte de las semillas. No pele.",
+    "**Prepare** el aderezo: exprima el limón, pique finamente el cilantro, adicione la sal y la pimienta, y mezcle con un tenedor o procese brevemente en licuadora.",
+    "**Mezcle** las verduras cortadas y adicione el aderezo justo antes de servir."
+  ],
+  "notaPasos": "Los aderezos deben añadirse justo antes de servir para evitar que las verduras se deshidraten y pierdan crocancia.",
+  "usoSugerido": "Sirva como entrada fresca en almuerzos o cenas, acompañando platos principales de carnes, pescados o preparaciones vegetarianas.",
+  "nutriConsejo": {
+    "icono": "🥗",
+    "titulo": "Calabacín y salud",
+    "cuerpo": "El calabacín aporta vitamina C y folato, nutrientes clave para las defensas y la formación de células sanguíneas. La variedad amarilla contiene más carotenoides (luteína y zeaxantina), asociados con la salud visual. Si el calabacín presenta un sabor amargo intenso, no lo consuma: puede indicar la presencia de cucurbitacinas, compuestos naturales tóxicos que la planta sintetiza en situaciones de estrés ambiental."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con 80 g de ensalada fresca (≈1 taza)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son 6 pasos con técnicas básicas de corte y aderezo, sin cocción."
+    },
+    {
+      "label": "Sobre las cucurbitacinas:",
+      "texto": "son compuestos amargos de defensa producidos por cucurbitáceas (calabacín, pepino, ahuyama). Si un ejemplar presenta amargor pronunciado, se debe desechar."
+    },
+    {
+      "label": "Sobre la inocuidad:",
+      "texto": "al tratarse de una preparación cruda, todas las verduras deben lavarse y desinfectarse cuidadosamente antes de su consumo."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "la vitamina C, calculada por porción, llega a 33,6 % del valor diario recomendado en mujeres (ya califica como \"excelente fuente\") y a 28,0 % en hombres (\"buena fuente\"); se usa la declaración común a ambos sexos. \"Libre de grasa\" se calculó por 100 g de producto (0,15 g/100 g). Ni la vitamina A ni el folato alcanzan el 15 %, así que no se declaran."
+    },
+    {
+      "label": "Sobre la fibra:",
+      "texto": "el calabacín y las demás verduras aportan principalmente fibra insoluble, que favorece la salud digestiva y el tránsito intestinal."
+    },
+    {
+      "label": "Sobre el color y carotenoides:",
+      "texto": "el calabacín verde debe su color a la clorofila, mientras que el amarillo acumula más carotenoides como luteína y zeaxantina, pigmentos liposolubles relacionados con la protección ocular. Esta es una diferencia cualitativa documentada en la literatura; no se refleja en la tabla de análisis nutricional porque RINAs-UdeA (la fuente usada) no distingue entre variedades de color para el calabacín/zucchini, así que ambos se calcularon con el mismo valor por 100 g."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 390,4 mg de sodio (28,4 % de la ingesta adecuada diaria). Las personas con hipertensión arterial o enfermedad renal pueden reducir la sal agregada."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. El % VDR indica qué tanto de una recomendación de \"llegar a\" cubre una porción, algo que tiene sentido para nutrientes como las vitaminas. La recomendación de energía, en cambio, es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso las calorías, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Instituto Colombiano de Bienestar Familiar. Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018.",
+    "Xu X, Lu X, Tang Z, Zhang X, Lei F, Hou L, et al. Combined analysis of carotenoid metabolites and transcriptome in zucchini. Food Chem Mol Sci. 2021;2:100021.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/CA01.jpg"
+}

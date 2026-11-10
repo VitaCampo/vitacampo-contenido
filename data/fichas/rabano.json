@@ -1,0 +1,137 @@
+{
+  "slug": "rabano",
+  "nombreComun": "Rábano",
+  "nombreCientifico": "Raphanus sativus L.",
+  "subtitulo": "El rábano ha viajado por 4.700 años de historia humana",
+  "imagen": "assets/img/fichas/rabano.jpg",
+  "creditoImagen": "elaboración propia",
+  "introduccion": "El rábano aparece representado en inscripciones de las pirámides egipcias de hace unos 4.700 años, donde se cree que formaba parte de la alimentación de los trabajadores que las construyeron. Su domesticación se ubica tentativamente en el sudeste asiático, con China como centro secundario de diversificación, y desde allí se extendió por la Ruta de la Seda hasta griegos y romanos. Fue también uno de los primeros cultivos europeos introducidos en América tras la conquista.",
+  "porcionReferencia": "125 gramos (7 unidades medianas)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "25 kcal",
+      "vdrMujer": "1,3%",
+      "vdrHombre": "1,1%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "29 mg",
+      "vdrMujer": "38,7%",
+      "vdrHombre": "32,2%"
+    },
+    {
+      "nutriente": "Folato",
+      "cantidad": "34 mcg EFD",
+      "vdrMujer": "8,5%",
+      "vdrHombre": "8,5%"
+    },
+    {
+      "nutriente": "Potasio",
+      "cantidad": "290 mg",
+      "vdrMujer": "6,2%",
+      "vdrHombre": "6,2%"
+    },
+    {
+      "nutriente": "Fibra dietética",
+      "cantidad": "2,0 g",
+      "vdrMujer": "7,3%",
+      "vdrHombre": "6,1%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "7 unidades medianas (125 g) corresponden a la porción habitual de consumo, según la Lista de Intercambio de Alimentos de la Universidad de Antioquia (5.ª ed., 2023). Los porcentajes se calcularon con base en las recomendaciones de ingesta (RIEN, Resolución 3803 de 2016) para adultos sanos de 19 a 70 años."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "El porcentaje se calculó con la fórmula (Energía RIEN ÷ 1000) × 14 g, consistente con el resto de las fichas del proyecto: 27,5 g/día para mujeres y 32,7 g/día para hombres."
+    },
+    {
+      "titulo": "Sobre el potasio",
+      "texto": "No existe una recomendación diaria exacta (RDA); el valor corresponde a Ingesta Adecuada (AI) según RIEN: 4700 mg/día para la mayoría de personas sanas."
+    },
+    {
+      "titulo": "Sobre las hojas y los brotes",
+      "texto": "El dato detallado de hojas y brotes no está en la Lista de Intercambio UdeA. Fuente: Gamba M, et al. Trends Food Sci Technol. 2021;113:205-218; Geng X, et al. Foods. 2025;14(18):3270."
+    },
+    {
+      "titulo": "Sobre los compuestos bioactivos",
+      "texto": "Además de los glucosinolatos, el rábano contiene polifenoles e isotiocianatos (otros dos grupos de compuestos bioactivos), estudiados por su papel en procesos relacionados con cáncer, diabetes, inflamación y estrés oxidativo (desgaste celular). Fuente: Manivannan A, et al. Nutrients. 2019;11(2):402."
+    },
+    {
+      "titulo": "Sobre el yodo y la tiroides",
+      "texto": "El dato de yodo no está en la Lista de Intercambio UdeA; se usó TCAC-ICBF (2018, rábano sin cáscara, crudo): 1,0 mcg/100 g → 1,25 mcg en la porción de 125 g (0,8% de la AI). Ver contexto completo en la tarjeta Nutri Verdad. Fuente: ICBF. TCAC. 2018; Galanty A, et al. Int J Mol Sci. 2024;25(7):3988."
+    },
+    {
+      "titulo": "Sobre la declaración \"excelente fuente\"",
+      "texto": "Según la Resolución 810 de 2021 (Art. 19.1), un alimento puede declararse \"excelente fuente\" de una vitamina o mineral si aporta ≥30% del Valor de Referencia de Nutrientes (VRN) por porción. El VRN de vitamina C para adultos es 83 mg (distinto del RIEN diferenciado por sexo usado en esta tabla). Los 29 mg de vitamina C de esta porción equivalen al 34,9% del VRN, por lo que la declaración es válida. Fuente: Ministerio de Salud y Protección Social. Resolución 810 de 2021."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía que una porción de rábano (7 unidades medianas, 125 g) aporta 29 mg de vitamina C, cubriendo el 39% de su requerimiento diario si es mujer y el 32% si es hombre?"
+  },
+  "descripcion": "El sabor picante y ligeramente amargo del rábano proviene de los glucosinolatos (compuestos de azufre propios de las crucíferas, la misma familia del brócoli, la col y la coliflor), que se liberan al cortar o masticar la raíz. A partir de su descomposición se forman los isotiocianatos, otro grupo de compuestos bioactivos (sustancias naturales de las plantas con posibles beneficios para la salud) que, junto con los polifenoles (compuestos vegetales con función antioxidante), han sido estudiados por su papel en distintos procesos metabólicos del cuerpo.",
+  "beneficios": [
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas",
+      "texto": "su vitamina C apoya las defensas y mejora la absorción de hierro vegetal."
+    },
+    {
+      "icono": "🌿",
+      "titulo": "Digestión",
+      "texto": "su fibra favorece un buen tránsito intestinal."
+    },
+    {
+      "icono": "⚖️",
+      "titulo": "Control de peso",
+      "texto": "es bajo en calorías, lo que da volumen a las comidas sin sumar mucha energía. Junto con ejercicio y hábitos de vida saludable, puede apoyar el control de peso."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "tip",
+      "titulo": "Aproveche también las hojas y los brotes",
+      "texto": "Las hojas y los brotes del rábano también son comestibles. Las hojas contienen más calcio, potasio, fibra y compuestos fenólicos (sustancias vegetales con función antioxidante) que la raíz; los brotes, en cambio, son especialmente ricos en antocianinas (pigmentos con función antioxidante) y vitamina C. Se pueden aprovechar en sopas, salteados, ensaladas o como verdura de hoja, reduciendo el desperdicio de alimentos."
+    },
+    {
+      "tipo": "verdad",
+      "titulo": "¿El rábano afecta la tiroides en personas con hipotiroidismo?",
+      "texto": "Es un mito parcialmente cierto: el rábano en sí aporta muy poco yodo (apenas 0,8% de la ingesta adecuada por porción), pero contiene glucosinolatos (compuestos naturales de las crucíferas) que pueden convertirse en tiocianato, una sustancia capaz de interferir con la captación de yodo proveniente de otros alimentos. Sin embargo, una revisión sistemática reciente (2024, que analizó 123 estudios in vitro, en animales y en humanos) concluye que las verduras crucíferas, incluido el rábano, no representan un riesgo real para la función tiroidea con el consumo dietético habitual, siempre que la ingesta de yodo sea adecuada. En personas con hipotiroidismo diagnosticado, se recomienda consultar con un profesional de salud sobre la cantidad adecuada."
+    },
+    {
+      "tipo": "capsula",
+      "titulo": "El rábano y el control de la glucosa",
+      "texto": "El rábano ha sido estudiado por su potencial para apoyar el control del azúcar en la sangre: una revisión de más de 30 años de estudios in vitro y en animales encontró efectos favorables sobre cómo el cuerpo usa el azúcar de los alimentos. Las hojas, en particular, han mostrado en laboratorio capacidad de frenar una enzima que ayuda a digerir el almidón (α-glucosidasa), lo que podría moderar el aumento de glucosa después de comer. Esta evidencia es mayormente preclínica (de laboratorio, no en personas) y no reemplaza ningún tratamiento médico para la diabetes."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "El rábano como aliado en la rotación y trampa de plagas",
+      "texto": "El rábano pertenece a la familia de las crucíferas, la misma del brócoli y la col, con quienes comparte varias plagas y enfermedades — por eso no conviene sembrarlo repetidamente en el mismo lote ni justo después de estos cultivos. Se recomienda incluirlo en una rotación que alterne familias botánicas distintas: crucíferas (rábano, brócoli, col), seguidas de gramíneas (maíz), solanáceas (papa) y leguminosas (frijol), antes de volver a sembrar crucíferas en el mismo terreno. Además, el rábano tiene una ventaja adicional: resulta atractivo para el gusano de la raíz de la col, un insecto que ataca a otras crucíferas — sembrarlo como \"cultivo trampa\" cerca del brócoli o la col puede atraer a esta plaga lejos de los cultivos principales, reduciendo el daño sin necesidad de insecticidas."
+    }
+  ],
+  "bibliografia": [
+    "1. Geng X, Gong Z, Tian W, Zhuang M, Shang H, Chen Y, et al. Nutritional and Phytochemical Characterization of Radish Leaves: A Comprehensive Overview. Foods. 2025;14(18):3270.",
+    "2. Gamba M, Asllanaj E, Raguindin PF, Glisic M, Franco OH, Minder B, et al. Nutritional and phytochemical characterization of radish (Raphanus sativus): A systematic review. Trends Food Sci Technol. 2021;113:205-218.",
+    "3. Universidad de Antioquia - Grupo de Investigación Alimentación y Nutrición Humana (GIANH). Lista de intercambios de alimentos. 5.ª ed. Medellín: Universidad de Antioquia; 2023.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "5. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF; 2018 [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf.",
+    "6. Galanty A, Grudzińska M, Paździora W, Służały P, Paśko P. Do Brassica vegetables affect thyroid function? A comprehensive systematic review. Int J Mol Sci. 2024;25(7):3988.",
+    "7. Manivannan A, Kim JH, Kim DS, Lee ES, Lee HE. Deciphering the nutraceutical potential of Raphanus sativus—a comprehensive overview. Nutrients. 2019;11(2):402.",
+    "8. Kajszczak D, Sosnowska D, Frąszczak B, Podsędek A. Composition, anti-diabetic, and antioxidant potential of Raphanus sativus leaves. Molecules. 2024;29(23):5689.",
+    "9. Banihani SA. Radish (Raphanus sativus) and diabetes. Nutrients. 2017;9(9):1014.",
+    "10. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal que deben cumplir los alimentos envasados o empacados para consumo humano. Bogotá: Minsalud; 2021.",
+    "11. World Health Organization. Healthy diet [Internet]. Geneva: WHO; 2020 [citado 2026]. Disponible en: https://www.who.int/news-room/fact-sheets/detail/healthy-diet.",
+    "12. Encyclopaedia Britannica. Radish [Internet]. Chicago: Encyclopaedia Britannica, Inc.; 2026 [citado 2026 Jul].",
+    "13. National Center for Appropriate Technology (NCAT) - ATTRA Sustainable Agriculture. Manejo orgánico de plagas: hoja de datos [Internet]. Butte, MT: ATTRA; 2024 [citado 2026]."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

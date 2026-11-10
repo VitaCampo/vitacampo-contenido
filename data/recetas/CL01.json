@@ -1,0 +1,190 @@
+{
+  "codigo": "CL01",
+  "nombre": "Mayonesa de cilantro",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: David Todd McCarty, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa del ingrediente: cilantro)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "1 cucharada (≈11 g de mayonesa)",
+  "tiempo": "15 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Buena fuente de vitamina E"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "65 kcal",
+      "260 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,2 g",
+      "0,9 g",
+      "0,3 %",
+      "0,3 %"
+    ],
+    [
+      "Carbohidratos",
+      "0,2 g",
+      "0,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "7,1 g",
+      "28,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,8 g",
+      "3,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa monoinsaturada",
+      "1,4 g",
+      "5,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa poliinsaturada",
+      "4,6 g",
+      "18,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "6,4 mg",
+      "25,5 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina E*",
+      "2,9 mg",
+      "11,4 mg",
+      "38,0 %",
+      "28,5 %"
+    ],
+    [
+      "Sodio",
+      "47,0 mg",
+      "188,0 mg",
+      "3,4 %",
+      "3,4 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Huevo",
+      "1,5 g",
+      "6 g",
+      "1 pizca de huevo batido",
+      "≈⅛ huevo"
+    ],
+    [
+      "Sal",
+      "0,12 g",
+      "0,48 g",
+      "2 pizcas",
+      "8 pizcas"
+    ],
+    [
+      "Pimienta molida",
+      "0,06 g",
+      "0,24 g",
+      "1 pizca",
+      "4 pizcas"
+    ],
+    [
+      "Azúcar",
+      "0,03 g",
+      "0,12 g",
+      "1 pizca",
+      "4 pizcas"
+    ],
+    [
+      "Jugo de limón",
+      "1 mL",
+      "4 mL",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Aceite de girasol",
+      "6,9 g (7,5 mL)",
+      "27,6 g (30 mL)",
+      "½ cucharada",
+      "2 cucharadas"
+    ],
+    [
+      "Cilantro",
+      "1,8 g",
+      "7,2 g",
+      "1 ramita pequeña",
+      "4 ramitas"
+    ]
+  ],
+  "pasos": [
+    "**Lave, limpie y desinfecte** el cilantro (ver la tarjeta de limpieza y desinfección). **Lave y desinfecte** también la cáscara del huevo antes de partirlo.",
+    "**Corte** el manojo de cilantro en 3 o 4 partes para que no se enrede en la licuadora.",
+    "**Adicione** a la licuadora el huevo, la sal, la pimienta, el azúcar y el jugo de limón. **Licúe** a velocidad baja hasta integrar.",
+    "**Agregue** el aceite en forma de hilo, sin dejar de licuar a velocidad baja, hasta que la mezcla emulsione (espese y quede suave y uniforme, como una mayonesa).",
+    "**Adicione** el cilantro al final del licuado, solo hasta que la mayonesa se vea uniforme (no licuar de más).",
+    "**Almacene** en un recipiente hermético, limpio y seco. Refrigere de inmediato y consuma en máximo 2 días."
+  ],
+  "usoSugerido": "Sirva como acompañante de arepas, papa criolla, carnes a la plancha o sánduches campesinos.",
+  "nutriConsejo": {
+    "icono": "🥚",
+    "titulo": "Contiene huevo crudo: precaución",
+    "cuerpo": "Esta mayonesa se prepara con huevo crudo, un ingrediente que puede contener Salmonella. Prepárela con huevos frescos, de cáscara íntegra, bien lavados y desinfectados, y consúmala recién hecha y siempre refrigerada, en máximo 2 días. No la ofrezca a mujeres gestantes, niños pequeños, personas mayores o personas con las defensas bajas, poblaciones para las que el riesgo de una infección grave es mayor. El aceite de girasol de esta receta aporta principalmente grasa insaturada y es buena fuente de vitamina E, un antioxidante liposoluble."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con 11 g de mayonesa (≈1 cucharada)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque, aunque son pocos pasos, requiere lograr una emulsión estable agregando el aceite en hilo sin dejar de batir; si se agrega muy rápido, la mayonesa se puede \"cortar\"."
+    },
+    {
+      "label": "Sobre el riesgo del huevo crudo:",
+      "texto": "a diferencia de una mayonesa comercial (pasteurizada e industrialmente acidificada), esta versión casera no elimina el riesgo de Salmonella solo con el jugo de limón. Consúmala fresca y refrigerada, y evite ofrecerla a poblaciones vulnerables."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "la vitamina E, calculada por porción, llega a 38,0 % del valor diario recomendado en mujeres (\"excelente fuente\") y a 28,5 % en hombres (\"buena fuente\"); se usa la declaración común a ambos sexos. No aplican declaraciones \"bajo en\" (grasa, sodio): por 100 g de producto, ambos superan ampliamente esos límites, como es esperable en una mayonesa."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "la sal aporta aproximadamente 47 mg de sodio por porción, una cantidad baja en el contexto de una comida completa."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. El % VDR indica qué tanto de una recomendación de \"llegar a\" cubre una porción, algo que tiene sentido para nutrientes como la vitamina E. La recomendación de energía, en cambio, es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso las calorías, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: sunflower oil. Beltsville (MD): USDA; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "U.S. Food and Drug Administration. Food Safety for Moms to Be: Egg Safety. Silver Spring (MD): FDA; 2020.",
+    "Instituto Nacional de Vigilancia de Medicamentos y Alimentos (INVIMA). Recomendaciones de manipulación higiénica de alimentos con huevo. Bogotá: INVIMA; 2019."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/CL01.jpg"
+}

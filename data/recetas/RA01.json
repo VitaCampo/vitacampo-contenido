@@ -1,0 +1,148 @@
+{
+  "codigo": "RA01",
+  "nombre": "Rábano encurtido",
+  "imagenSize": {
+    "width": 600,
+    "height": 337
+  },
+  "imagenCredito": "Imagen: Eric Prouzet, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa de verduras encurtidas)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "2 cucharadas (≈35 g de rábano encurtido)",
+  "tiempo": "20 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Libre de grasa",
+    "Bajo en calorías"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "11 kcal",
+      "42 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,1 g",
+      "0,3 g",
+      "0,1 %",
+      "0,1 %"
+    ],
+    [
+      "Carbohidratos",
+      "2,4 g",
+      "9,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,1 g",
+      "0,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "Sodio",
+      "199,6 mg",
+      "798,5 mg",
+      "14,5 % (AI)",
+      "14,5 % (AI)"
+    ],
+    [
+      "Vitamina C",
+      "2,8 mg",
+      "11,0 mg",
+      "3,7 %",
+      "3,1 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Rábanos",
+      "12 g",
+      "48 g",
+      "2-3 unidades pequeñas",
+      "8-10 unidades"
+    ],
+    [
+      "Agua",
+      "10 mL",
+      "40 mL",
+      "2 cucharaditas",
+      "2 cucharadas + 2 cucharaditas"
+    ],
+    [
+      "Vinagre blanco",
+      "10 mL",
+      "40 mL",
+      "2 cucharaditas",
+      "2 cucharadas + 2 cucharaditas"
+    ],
+    [
+      "Azúcar blanca",
+      "2 g",
+      "8 g",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ],
+    [
+      "Sal",
+      "0,5 g",
+      "2 g",
+      "1 pizca grande",
+      "1 cucharadita"
+    ],
+    [
+      "Pimienta negra en grano",
+      "0,2 g",
+      "0,8 g",
+      "1 pizca",
+      "4 pizcas"
+    ]
+  ],
+  "pasos": [
+    "**Lave, limpie y desinfecte** muy bien los rábanos (ver la tarjeta de limpieza y desinfección). **Retire** los extremos y **córtelos** en medias lunas delgadas.",
+    "**Prepare** la salmuera: en una olla, **lleve** a ebullición el agua, el vinagre, el azúcar, la sal y la pimienta negra en grano, hasta disolver completamente el azúcar.",
+    "**Coloque** las medias lunas de rábano en un frasco o recipiente hermético, limpio y seco.",
+    "**Adicione** la salmuera caliente hasta cubrir los rábanos. **Deje enfriar** a temperatura ambiente y **reserve** en refrigeración."
+  ],
+  "usoSugerido": "Sirva como acompañamiento ácido y crocante de tacos, arepas o platos de fríjoles.",
+  "nutriConsejo": {
+    "icono": "🌶️",
+    "titulo": "Rábano encurtido: bajo en calorías, alto en sodio",
+    "cuerpo": "El rábano crudo aporta pocas calorías y algo de vitamina C, pero el proceso de encurtido añade una cantidad considerable de sodio a través de la salmuera. Consúmalo con moderación si tiene hipertensión o sigue una dieta baja en sodio, y considere escurrir bien el líquido antes de servir."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con 35 g de producto ya encurtido (rábano más salmuera, ≈2 cucharadas)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son 4 pasos con técnicas básicas (cortar, hervir una salmuera, encurtir), sin equipos especiales."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "las declaraciones se calcularon por 100 g de producto: 0,17 g de grasa y 30 kcal por 100 g. No se declara ninguna vitamina o mineral: ningún nutriente destacado alcanza el 15 % del valor diario recomendado por porción, y no se declara \"bajo en sodio\" porque la salmuera aporta 575,3 mg de sodio por 100 g."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "la salmuera de vinagre, sal y agua aporta la mayor parte del sodio de esta preparación; no se declara \"bajo en sodio\" porque, calculado por 100 g de producto, supera el límite de 60 mg/100 g que exige la norma."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/RA01.jpg"
+}

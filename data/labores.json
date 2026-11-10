@@ -1,0 +1,552 @@
+[
+ {
+  "slug": "labor-preparacion-del-suelo-arado-noble",
+  "orden": 1,
+  "categoria": "labor",
+  "seccion": "Labores culturales",
+  "nombre": "Preparación del suelo (arado noble)",
+  "categoriaLabel": "Labor cultural",
+  "tagline": "Aflojar el suelo sin voltearlo para cuidar su vida.",
+  "faseLunar": "Luna menguante o nueva (preparación del suelo).",
+  "descripcion": "Adecuar la cama de siembra aflojando el suelo sin voltearlo en exceso (labranza mínima o \"arado noble\"), para conservar su estructura, la vida del suelo y la humedad.",
+  "preparacion": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "pasos": [
+   "Limpiar el terreno de piedras y basura, dejando los restos vegetales pequeños.",
+   "Aflojar el suelo con azadón u \"arado noble\" (chuzo/horca), sin voltear las capas.",
+   "Incorporar compost o bocashi maduro (2–5 kg/m²).",
+   "Nivelar y formar las eras o camas de siembra.",
+   "Regar suavemente para asentar el suelo antes de sembrar."
+  ],
+  "vinetas": {
+   "3": "assets/img/vinetas/s_cama.webp"
+  },
+  "dosis": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "cultivos": "Todos los cultivos.",
+  "precauciones": [
+   "No trabajar el suelo encharcado: se compacta y pierde estructura.",
+   "Evitar quemar los residuos vegetales; mejor incorporarlos o usarlos de mantillo."
+  ],
+  "conservacion": "",
+  "dato": "La labranza mínima cuida las lombrices y los hongos benéficos; voltear mucho el suelo los mata.",
+  "fuentesPrimarias": [
+   "Alternativas CC. Labores culturales: guía para mantener un huerto orgánico y saludable [Internet]. 2018 [citado 2026 jul 19]. Disponible en: https://alternativascc.org",
+   "Alcaldía de Medellín. Huertas con vos: cartilla para la siembra en casa. Medellín: Alcaldía de Medellín; 2019."
+  ],
+  "fuentesComplementarias": []
+ },
+ {
+  "slug": "labor-semillero-y-plantula-almacigo",
+  "orden": 2,
+  "categoria": "labor",
+  "seccion": "Labores culturales",
+  "nombre": "Semillero y plántula (almácigo)",
+  "categoriaLabel": "Labor cultural",
+  "tagline": "Producir plántulas fuertes antes de llevarlas al terreno.",
+  "faseLunar": "Luna creciente (semillero / almácigo).",
+  "descripcion": "Producir plántulas sanas en un semillero antes de llevarlas al sitio definitivo. Da plantas más parejas y fuertes.",
+  "preparacion": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "pasos": [
+   "Preparar sustrato: tierra + compost + arena (1:1:1) o con humus de lombriz (20–30 %).",
+   "Llenar bandejas o germinadores y humedecer.",
+   "Sembrar la semilla a poca profundidad (2–3 veces su tamaño).",
+   "Mantener a media sombra, con riego suave y constante.",
+   "Trasplantar cuando tenga 4–6 hojas verdaderas."
+  ],
+  "vinetas": {
+   "1": "assets/img/vinetas/s_cama.webp",
+   "3": "assets/img/vinetas/s_semillero.webp",
+   "5": "assets/img/vinetas/s_trasplante.webp"
+  },
+  "dosis": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "cultivos": "Hortalizas de trasplante (lechugas, col, brócoli, tomate, pimentón, apio).",
+  "precauciones": [
+   "Evitar el exceso de agua: pudre las raíces.",
+   "Proteger del sol fuerte directo y de la lluvia intensa."
+  ],
+  "conservacion": "",
+  "dato": "Rotular cada semillero con el nombre del cultivo y la fecha para no perder el rastro.",
+  "fuentesPrimarias": [
+   "Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). Crear y manejar un huerto escolar: un manual para profesores, padres y comunidades. Roma: FAO; 2007.",
+   "Alcaldía de Medellín. Huertas con vos: cartilla para la siembra en casa. Medellín: Alcaldía de Medellín; 2019."
+  ],
+  "fuentesComplementarias": []
+ },
+ {
+  "slug": "labor-siembra-directa",
+  "orden": 3,
+  "categoria": "labor",
+  "seccion": "Labores culturales",
+  "nombre": "Siembra directa",
+  "categoriaLabel": "Labor cultural",
+  "tagline": "Sembrar la semilla en su sitio definitivo.",
+  "faseLunar": "Luna menguante (raíces, tubérculos y granos).",
+  "descripcion": "Sembrar la semilla directamente en el sitio definitivo. Se usa en raíces, tubérculos y granos que no toleran bien el trasplante.",
+  "preparacion": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "pasos": [
+   "Marcar surcos o sitios según la distancia de siembra del cultivo.",
+   "Sembrar a la profundidad adecuada y cubrir con tierra fina.",
+   "Regar suavemente.",
+   "Ralear (entresacar) cuando tengan 4 hojas, dejando las plantas más fuertes."
+  ],
+  "vinetas": {
+   "2": "assets/img/vinetas/s_semillero.webp"
+  },
+  "dosis": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "cultivos": "Zanahoria, rábano, remolacha, frijol, arveja, maíz, cilantro.",
+  "precauciones": [
+   "No enterrar la semilla demasiado profundo.",
+   "Respetar las distancias para que las plantas no compitan entre sí."
+  ],
+  "conservacion": "",
+  "dato": "En suelos muy fértiles se puede sembrar un poco más denso y luego ralear.",
+  "fuentesPrimarias": [
+   "Alternativas CC. Labores culturales: guía para mantener un huerto orgánico y saludable [Internet]. 2018 [citado 2026 jul 19]. Disponible en: https://alternativascc.org",
+   "Decidamos. Curso de horticultura orgánica [Internet]. Asunción: Decidamos; 2023 [citado 2026 jul 19]."
+  ],
+  "fuentesComplementarias": []
+ },
+ {
+  "slug": "labor-trasplante",
+  "orden": 4,
+  "categoria": "labor",
+  "seccion": "Labores culturales",
+  "nombre": "Trasplante",
+  "categoriaLabel": "Labor cultural",
+  "tagline": "Llevar la plántula del semillero al terreno.",
+  "faseLunar": "Luna creciente o llena (trasplante).",
+  "descripcion": "Llevar la plántula del semillero al sitio definitivo. Se hace cuando tiene 4–6 hojas verdaderas.",
+  "preparacion": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "pasos": [
+   "Regar el semillero la tarde anterior.",
+   "Extraer la plántula con cuidado, protegiendo la raíz y el pan de tierra.",
+   "Abrir un hoyo amplio para no doblar la raíz.",
+   "Colocar la plántula y presionar el suelo para buen contacto.",
+   "Regar abundante para el establecimiento."
+  ],
+  "vinetas": {
+   "4": "assets/img/vinetas/s_trasplante.webp"
+  },
+  "dosis": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "cultivos": "Lechugas, col, brócoli, tomate, pimentón, apio, espinaca.",
+  "precauciones": [
+   "No dejar la raíz expuesta al sol.",
+   "No doblar la raíz dentro del hoyo."
+  ],
+  "conservacion": "",
+  "dato": "Trasplantar en horas frescas (mañana temprano o atardecer) reduce el estrés de la planta.",
+  "fuentesPrimarias": [
+   "Alcaldía de Medellín. Huertas con vos: cartilla para la siembra en casa. Medellín: Alcaldía de Medellín; 2019.",
+   "Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). Crear y manejar un huerto escolar: un manual para profesores, padres y comunidades. Roma: FAO; 2007."
+  ],
+  "fuentesComplementarias": []
+ },
+ {
+  "slug": "labor-abonado-biofertilizacion",
+  "orden": 5,
+  "categoria": "labor",
+  "seccion": "Labores culturales",
+  "nombre": "Abonado (biofertilización)",
+  "categoriaLabel": "Labor cultural",
+  "tagline": "Nutrir el cultivo con abonos y biofertilizantes.",
+  "faseLunar": "Luna llena (máxima absorción).",
+  "descripcion": "Nutrir el cultivo con abonos y biofertilizantes orgánicos. Mejora el suelo y el vigor de las plantas. Se apoya en las fichas de bioabonos de este módulo.",
+  "preparacion": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "pasos": [
+   "Elegir el abono según el momento: compost/bocashi al suelo; biol/caldos foliares.",
+   "Aplicar compost o bocashi al pie de la planta o en la cama.",
+   "Complementar con biofertilizantes líquidos diluidos (biol, té de compost, microorganismos).",
+   "Aplicar en horas frescas y con el suelo húmedo."
+  ],
+  "vinetas": {},
+  "dosis": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "cultivos": "Todos los cultivos.",
+  "precauciones": [
+   "No aplicar abonos frescos sin madurar: pueden \"quemar\" las raíces.",
+   "Diluir siempre los biofertilizantes líquidos."
+  ],
+  "conservacion": "",
+  "dato": "Alternar abono al suelo con biofertilizante foliar da mejores resultados que usar uno solo.",
+  "fuentesPrimarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007.",
+   "Gobernación de Antioquia, Gerencia de Seguridad Alimentaria y Nutricional de Antioquia (MANA). Manual Huertas de las Oportunidades. Medellín: Gobernación de Antioquia."
+  ],
+  "fuentesComplementarias": []
+ },
+ {
+  "slug": "labor-riego",
+  "orden": 6,
+  "categoria": "labor",
+  "seccion": "Labores culturales",
+  "nombre": "Riego",
+  "categoriaLabel": "Labor cultural",
+  "tagline": "Dar el agua justa, sin excesos.",
+  "faseLunar": "Todas las fases lunares.",
+  "descripcion": "Aportar el agua que el cultivo necesita, sin excesos. El agua adecuada evita el estrés de la planta y algunas enfermedades.",
+  "preparacion": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "pasos": [
+   "Regar preferiblemente temprano en la mañana o al atardecer.",
+   "Dirigir el agua al suelo, en la base de la planta.",
+   "Comprobar la humedad con el dedo antes de regar (como esponja exprimida).",
+   "Aumentar el riego en época seca y reducirlo en época de lluvias."
+  ],
+  "vinetas": {
+   "3": "assets/img/vinetas/s_riego_dedo.webp"
+  },
+  "dosis": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "cultivos": "Todos los cultivos.",
+  "precauciones": [
+   "Evitar encharcar: pudre las raíces.",
+   "No regar con sol fuerte: se quema el follaje y se desperdicia agua."
+  ],
+  "conservacion": "",
+  "dato": "Mojar las hojas al final del día favorece los hongos; es mejor regar el suelo.",
+  "fuentesPrimarias": [
+   "Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). Crear y manejar un huerto escolar: un manual para profesores, padres y comunidades. Roma: FAO; 2007.",
+   "Alcaldía de Medellín. Huertas con vos: cartilla para la siembra en casa. Medellín: Alcaldía de Medellín; 2019."
+  ],
+  "fuentesComplementarias": []
+ },
+ {
+  "slug": "labor-deshierbe-control-de-arvenses",
+  "orden": 7,
+  "categoria": "labor",
+  "seccion": "Labores culturales",
+  "nombre": "Deshierbe (control de arvenses)",
+  "categoriaLabel": "Labor cultural",
+  "tagline": "Manejar las arvenses que compiten con el cultivo.",
+  "faseLunar": "Luna menguante (mantenimiento).",
+  "descripcion": "Manejar las arvenses (\"malezas\") que compiten con el cultivo por agua, luz y nutrientes, sin eliminarlas del todo, pues algunas son benéficas.",
+  "preparacion": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "pasos": [
+   "Identificar cuáles arvenses compiten y cuáles ayudan.",
+   "Arrancar o cortar a mano las que compiten cerca del cultivo.",
+   "Dejar cobertura viva o los restos como mantillo entre surcos.",
+   "Repetir según necesidad, sobre todo en el primer mes."
+  ],
+  "vinetas": {
+   "2": "assets/img/vinetas/s_malezas.webp"
+  },
+  "dosis": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "cultivos": "Todos los cultivos.",
+  "precauciones": [
+   "No usar herbicidas químicos.",
+   "No remover el suelo en exceso al deshierbar."
+  ],
+  "conservacion": "",
+  "dato": "No es necesario dejar el suelo \"pelado\": una cobertura controlada protege el suelo y la humedad.",
+  "fuentesPrimarias": [
+   "Altieri MA, Nicholls CI. Agroecología: teoría y práctica para una agricultura sustentable. 1a ed. México: PNUMA; 2000.",
+   "Alternativas CC. Labores culturales: guía para mantener un huerto orgánico y saludable [Internet]. 2018 [citado 2026 jul 19]. Disponible en: https://alternativascc.org"
+  ],
+  "fuentesComplementarias": []
+ },
+ {
+  "slug": "labor-aporque",
+  "orden": 8,
+  "categoria": "labor",
+  "seccion": "Labores culturales",
+  "nombre": "Aporque",
+  "categoriaLabel": "Labor cultural",
+  "tagline": "Arrimar tierra a la base del tallo.",
+  "faseLunar": "Luna menguante (mantenimiento).",
+  "descripcion": "Arrimar tierra a la base del tallo. Da sostén a la planta, favorece raíces nuevas y protege los tubérculos.",
+  "preparacion": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "pasos": [
+   "Esperar a que la planta tenga buen desarrollo (varias hojas).",
+   "Con el azadón, arrimar tierra suelta a la base del tallo.",
+   "Formar un pequeño camellón alrededor de la planta.",
+   "Repetir a medida que el cultivo crece (p. ej. en papa)."
+  ],
+  "vinetas": {},
+  "dosis": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "cultivos": "Papa criolla, maíz, tomate, col.",
+  "precauciones": [
+   "No herir el tallo ni las raíces al arrimar la tierra."
+  ],
+  "conservacion": "",
+  "dato": "En la papa criolla el aporque evita que los tubérculos se pongan verdes por el sol.",
+  "fuentesPrimarias": [
+   "Alcaldía de Medellín. Huertas con vos: cartilla para la siembra en casa. Medellín: Alcaldía de Medellín; 2019.",
+   "Gobernación de Antioquia, Gerencia de Seguridad Alimentaria y Nutricional de Antioquia (MANA). Manual Huertas de las Oportunidades. Medellín: Gobernación de Antioquia."
+  ],
+  "fuentesComplementarias": []
+ },
+ {
+  "slug": "labor-tutorado-entutorado",
+  "orden": 9,
+  "categoria": "labor",
+  "seccion": "Labores culturales",
+  "nombre": "Tutorado (entutorado)",
+  "categoriaLabel": "Labor cultural",
+  "tagline": "Sostener las plantas para que crezcan erguidas.",
+  "faseLunar": "Luna creciente (mantenimiento).",
+  "descripcion": "Sostener las plantas con tutores o cuerdas para que crezcan erguidas, aireadas y con mejor fruto.",
+  "preparacion": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "pasos": [
+   "Instalar estacas, cañas o cuerdas antes de que la planta se caiga.",
+   "Amarrar el tallo al tutor con material suave, sin apretar.",
+   "Guiar los nuevos brotes a medida que crecen.",
+   "Revisar y reajustar los amarres periódicamente."
+  ],
+  "vinetas": {},
+  "dosis": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "cultivos": "Tomate, pimentón, ají, arveja, cucurbitáceas (calabacín, cidra).",
+  "precauciones": [
+   "No amarrar fuerte: estrangula el tallo.",
+   "Usar material suave que no corte el tallo."
+  ],
+  "conservacion": "",
+  "dato": "Un cultivo bien tutorado se enferma menos: el aire circula y las hojas no tocan el suelo.",
+  "fuentesPrimarias": [
+   "Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). Crear y manejar un huerto escolar: un manual para profesores, padres y comunidades. Roma: FAO; 2007.",
+   "Alternativas CC. Labores culturales: guía para mantener un huerto orgánico y saludable [Internet]. 2018 [citado 2026 jul 19]. Disponible en: https://alternativascc.org"
+  ],
+  "fuentesComplementarias": []
+ },
+ {
+  "slug": "labor-control-de-plagas-organico",
+  "orden": 10,
+  "categoria": "labor",
+  "seccion": "Labores culturales",
+  "nombre": "Control de plagas orgánico",
+  "categoriaLabel": "Labor cultural",
+  "tagline": "Manejar plagas de forma natural y preventiva.",
+  "faseLunar": "Luna nueva (control de plagas).",
+  "descripcion": "Manejar plagas y enfermedades con métodos naturales y preventivos, cuidando a los insectos benéficos. Se apoya en los biopreparados de este módulo.",
+  "preparacion": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "pasos": [
+   "Revisar el cultivo cada semana (haz y envés de las hojas).",
+   "Favorecer enemigos naturales y plantas repelentes (aromáticas).",
+   "Usar biopreparados (extracto de ajo y ají, APICHI, caldos) según la plaga.",
+   "Aplicar al atardecer y de forma preventiva, no solo cuando hay daño."
+  ],
+  "vinetas": {
+   "4": "assets/img/vinetas/b_aplicar.webp"
+  },
+  "dosis": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "cultivos": "Todos los cultivos.",
+  "precauciones": [
+   "Usar protección personal al aplicar biopreparados.",
+   "No aplicar en plena floración, para proteger a los polinizadores."
+  ],
+  "conservacion": "",
+  "dato": "Las trampas de colores (amarillas y azules) ayudan a monitorear qué plagas hay.",
+  "fuentesPrimarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007.",
+   "Altieri MA, Nicholls CI. Agroecología: teoría y práctica para una agricultura sustentable. 1a ed. México: PNUMA; 2000."
+  ],
+  "fuentesComplementarias": []
+ },
+ {
+  "slug": "labor-cosecha",
+  "orden": 11,
+  "categoria": "labor",
+  "seccion": "Labores culturales",
+  "nombre": "Cosecha",
+  "categoriaLabel": "Labor cultural",
+  "tagline": "Recoger el alimento en su punto óptimo.",
+  "faseLunar": "Según el cultivo (menguante para conservar mejor).",
+  "descripcion": "Recoger el alimento en su punto óptimo de madurez, en el momento y la forma adecuados para su calidad y conservación.",
+  "preparacion": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "pasos": [
+   "Cosechar en horas frescas de la mañana.",
+   "Usar herramientas limpias y manipular con cuidado para no dañar el producto.",
+   "Seleccionar y clasificar según tamaño y estado.",
+   "Retirar lo dañado para que no se propague."
+  ],
+  "vinetas": {
+   "1": "assets/img/vinetas/s_cosecha.webp"
+  },
+  "dosis": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "cultivos": "Todos los cultivos.",
+  "precauciones": [
+   "No cosechar con el producto mojado: se daña más rápido.",
+   "Manipular con manos e implementos limpios."
+  ],
+  "conservacion": "",
+  "dato": "Cosechar temprano conserva mejor el agua y los nutrientes del alimento.",
+  "fuentesPrimarias": [
+   "Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). Crear y manejar un huerto escolar: un manual para profesores, padres y comunidades. Roma: FAO; 2007.",
+   "Alcaldía de Medellín. Huertas con vos: cartilla para la siembra en casa. Medellín: Alcaldía de Medellín; 2019."
+  ],
+  "fuentesComplementarias": []
+ },
+ {
+  "slug": "labor-poscosecha-y-almacenamiento-de-semillas",
+  "orden": 12,
+  "categoria": "labor",
+  "seccion": "Labores culturales",
+  "nombre": "Poscosecha y almacenamiento de semillas",
+  "categoriaLabel": "Labor cultural",
+  "tagline": "Guardar bien el producto y la semilla propia.",
+  "faseLunar": "Luna menguante (poscosecha).",
+  "descripcion": "Manejar el producto después de la cosecha y guardar semilla propia sana para la próxima siembra, cuidando la autonomía campesina.",
+  "preparacion": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "pasos": [
+   "Limpiar, secar y clasificar el producto en lugar fresco y ventilado.",
+   "Para semilla: elegir las mejores plantas y los frutos bien maduros.",
+   "Extraer, lavar y secar bien la semilla a la sombra.",
+   "Guardar en envases limpios, secos y rotulados (nombre y fecha)."
+  ],
+  "vinetas": {
+   "4": "assets/img/vinetas/b_envase.webp"
+  },
+  "dosis": {
+   "titulo": "",
+   "intro": "",
+   "headers": [],
+   "rows": [],
+   "nota": ""
+  },
+  "cultivos": "Todos los cultivos (frijol, maíz, tomate, ají, calabacín para semilla).",
+  "precauciones": [
+   "No guardar semilla húmeda: se enmohece.",
+   "Proteger la semilla de los gorgojos y de la humedad."
+  ],
+  "conservacion": "",
+  "dato": "Guardar semilla propia de las mejores plantas mejora la cosecha año tras año y cuida la autonomía.",
+  "fuentesPrimarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007.",
+   "Decidamos. Curso de horticultura orgánica [Internet]. Asunción: Decidamos; 2023 [citado 2026 jul 19]."
+  ],
+  "fuentesComplementarias": []
+ }
+]

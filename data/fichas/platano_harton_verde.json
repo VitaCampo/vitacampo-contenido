@@ -1,0 +1,132 @@
+{
+  "slug": "platano_harton_verde",
+  "nombreComun": "Plátano Hartón Verde",
+  "nombreCientifico": "Musa AAB",
+  "subtitulo": "El viajero que cruzó el Atlántico antes de llegar a nuestra mesa",
+  "imagen": "assets/img/fichas/platano_harton_verde.jpg",
+  "creditoImagen": "Elaboración propia.",
+  "introduccion": "A diferencia de otros alimentos de esta app —como el maíz, la papa o el frijol, nativos de América—, el plátano se domesticó hace unos 10.000 años en Nueva Guinea y el sudeste asiático, y llegó a África por rutas comerciales antiguas. En el siglo XVI, colonizadores portugueses y españoles lo trajeron a América, en un proceso ligado al comercio transatlántico de personas esclavizadas de África, quienes ya conocían este cultivo y trajeron su conocimiento sobre siembra y preparación. Hoy es un alimento arraigado en la mesa colombiana.",
+  "porcionReferencia": "78 gramos (½ unidad mediana)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "111 kcal",
+      "vdrMujer": "5,65%",
+      "vdrHombre": "4,75%"
+    },
+    {
+      "nutriente": "Carbohidratos",
+      "cantidad": "29,5 g",
+      "vdrMujer": "22,69%",
+      "vdrHombre": "22,69%"
+    },
+    {
+      "nutriente": "Vitamina B6",
+      "cantidad": "0,23 mg",
+      "vdrMujer": "16,43%",
+      "vdrHombre": "15,33%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "12 mg",
+      "vdrMujer": "16%",
+      "vdrHombre": "13,33%"
+    },
+    {
+      "nutriente": "Vitamina A",
+      "cantidad": "83 mcg ER",
+      "vdrMujer": "11,86%",
+      "vdrHombre": "9,22%"
+    },
+    {
+      "nutriente": "Potasio",
+      "cantidad": "389 mg",
+      "vdrMujer": "8,28%",
+      "vdrHombre": "8,28%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la variedad",
+      "texto": "ni el TCAC-ICBF ni las RINAs ni la Lista de Intercambios UdeA tienen una entrada específica para “Dominico Hartón”. Se usó la entrada “Plátano verde” de la Lista de Intercambios, cuyos valores coinciden casi exactamente con los del Hartón reportado en las RINAs — la variedad genéticamente más cercana a nuestro Dominico Hartón."
+    },
+    {
+      "titulo": "Sobre las declaraciones",
+      "texto": "según la Resolución 810 de 2021, ningún nutriente alcanza el 30% para “excelente fuente”, pero esta porción califica como “buena fuente” (≥15% VRN) de Vitamina B6, Vitamina C y Vitamina A."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "esta porción aporta 1,8 g de fibra dietética, equivalentes al 5,50% (hombres) y 6,55% (mujeres) del requerimiento diario. La fibra dietética tiene dos tipos principales, cada uno con una función distinta en el cuerpo: la fibra insoluble no se disuelve en agua y actúa como una especie de “escoba natural” en el intestino, aumentando el volumen de las heces y acelerando el tránsito intestinal; la fibra soluble, en cambio, sí se disuelve en agua formando una sustancia similar a un gel, y se ha asociado con una absorción más lenta de azúcares y grasas. El plátano hartón verde aporta principalmente fibra insoluble (aproximadamente 73% del total), con una porción menor de fibra soluble (27%)."
+    },
+    {
+      "titulo": "Sobre el estado de maduración",
+      "texto": "el plátano verde tiene, en general, más calorías, vitamina A y vitamina C que el maduro (según el TCAC-ICBF y las RINAs) — al madurar, el almidón se convierte gradualmente en azúcares simples, y el fruto pierde parte de su densidad de almidón concentrado."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía usted que media unidad mediana de plátano hartón verde aporta más del 15% del requerimiento diario de vitamina B6, un nutriente clave para el metabolismo de las proteínas (su aprovechamiento por el cuerpo) y la formación de neurotransmisores (las sustancias que permiten la comunicación entre las neuronas)?"
+  },
+  "descripcion": "En Colombia existen variedades de plátano —como el Dominico, el Hartón y el Dominico Hartón, genéticamente más cercano al Hartón— con diferencias en tamaño, forma y perfil nutricional. El estado de maduración también cambia su composición: el verde es más rico en almidón y algo ácido, mientras que el maduro es más dulce, a medida que ese almidón se transforma en azúcares. Es un fruto climatérico: sigue madurando después de cosechado gracias al etileno, un gas que la misma fruta produce, por lo que puede madurar en casa incluso comprado verde.",
+  "beneficios": [
+    {
+      "icono": "🩸",
+      "titulo": "Vitamina B6 y defensas",
+      "texto": "su vitamina B6 participa en la formación de glóbulos rojos (las células que transportan oxígeno en la sangre), y su vitamina C contribuye al funcionamiento normal del sistema inmunitario y a la formación de colágeno (una proteína que da estructura a la piel)."
+    },
+    {
+      "icono": "👁️",
+      "titulo": "Visión",
+      "texto": "su vitamina A contribuye al mantenimiento de la visión y a la salud de la piel."
+    },
+    {
+      "icono": "💧",
+      "titulo": "Equilibrio de líquidos",
+      "texto": "su potasio ayuda a regular el balance de líquidos en el cuerpo y contribuye al funcionamiento normal de músculos y nervios."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "capsula",
+      "titulo": "La cáscara y su potencial de aprovechamiento",
+      "texto": "La cáscara del plátano verde, que normalmente desechamos, ha llamado la atención de los investigadores. Estudios han encontrado que puede concentrar más minerales que la pulpa en algunas variedades, y que contiene compuestos llamados glucocerebrósidos (un tipo de grasa natural de la planta) con propiedades antiinflamatorias y con potencial para ayudar en el manejo del azúcar en sangre. Esto no significa que debamos comer la cáscara directamente — pero sí ha inspirado investigaciones para aprovecharla en nuevos productos alimenticios, como harinas o snacks elaborados a partir del plátano verde completo, reduciendo así el desperdicio de alimentos."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo prepararlo y aprovecharlo mejor",
+      "texto": "Para madurar un plátano verde de forma natural en casa, déjelo a temperatura ambiente (no en la nevera) dentro de una bolsa de papel, junto con otra fruta que ya esté madura, como una manzana o un banano —estas frutas liberan más etileno y aceleran el proceso, que toma entre varios días y una semana según la temperatura del lugar. Cuando el plátano se madura de forma artificial con químicos para acelerar su venta, puede perder parte de los antioxidantes naturales que sí conserva un plátano madurado de forma natural. Por otro lado, si se cocina el plátano y luego se deja enfriar (por ejemplo, para preparar un patacón frío o una ensalada), aumenta su contenido de almidón resistente (un tipo de almidón que el cuerpo digiere más lento, favoreciendo una liberación de energía más gradual)."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Precaución en personas con enfermedad renal",
+      "texto": "El plátano hartón verde aporta una cantidad importante de potasio, un mineral que las personas con enfermedad renal crónica suelen necesitar controlar, ya que sus riñones no logran eliminarlo con la misma eficacia. Esto no significa que deba eliminarse por completo de la dieta: pelarlo, cortarlo en trozos pequeños y dejarlo en remojo en abundante agua durante varias horas (idealmente 12 a 24, cambiando el agua al menos una vez) puede reducir significativamente su contenido de potasio, ya que este mineral es soluble en agua y se libera gradualmente hacia el líquido de remojo — a diferencia de cocinarlo entero y con cáscara, que conserva más de este mineral. Si tiene esta condición, consulte con su médico o nutricionista sobre la cantidad y forma de consumo adecuadas para usted."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Cómo enfrentar la Sigatoka desde el manejo del cultivo",
+      "texto": "La Sigatoka negra (una enfermedad causada por un hongo que ataca las hojas del plátano) es uno de los principales retos del cultivo en Colombia. Desde el manejo agroecológico, una de las prácticas más efectivas es el deshoje fitosanitario: eliminar oportunamente las hojas afectadas antes de que el hongo libere sus esporas y se propague a otras plantas — para el plátano Hartón, se recomienda hacerlo cada 4 semanas durante la época seca. También ayuda sembrar con una densidad y un drenaje adecuados, que reducen la humedad excesiva (condición que favorece al hongo), y usar controladores biológicos como hongos benéficos del género Trichoderma, que compiten con el patógeno de forma natural. El Trichoderma se puede conseguir ya preparado en almacenes agropecuarios o producirse de forma artesanal como biopreparado a partir de este hongo, presente de forma natural en el suelo. Estas prácticas reducen la dependencia de fungicidas químicos y fortalecen la salud del cultivo a largo plazo."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "3. Universidad de Antioquia - Grupo de Investigación Alimentación y Nutrición Humana (GIANH). Lista de intercambios de alimentos. 5.ª ed. Medellín: Universidad de Antioquia; 2023.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "5. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "6. De Paz-Sánchez M. Plantain of Guinea. The Atlantic Adventure of Banana. Glob J Hum Soc Sci. 2014;14(2).",
+    "7. Encyclopaedia Britannica. Plantain [Internet]. Chicago: Encyclopaedia Britannica, Inc.; 2026 [citado 2026 Jul].",
+    "8. Khan S, Ali U, Verma S, Kumar V, Tiwari S. Mineral content variation in Musa genomes: Implications for banana nutritional value and fruit development. J Food Compos Anal. 2025;148:108211.",
+    "9. Raveena NK, Ingaladal N, Reshma MV, Lankalapalli RS. Phytochemical investigation of unripe banana (Musa AAB) cv. Nendran and its novel 'Banana Grits'. Food Chem Adv. 2022;1:100063.",
+    "10. Maduwanthi SDT, Marapana RAUJ. Total phenolics, flavonoids and antioxidant activity following simulated gastro-intestinal digestion and dialysis of banana (Musa acuminata, AAB) as affected by induced ripening agents. Food Chem. 2021;339:127909.",
+    "11. Sharath Kumar N, Sunil CK, Verma MK, Palanimuthu V. Banana starch: Modification methods and their effect on starch properties–a recent review. Food Humanit. 2025;4:100543.",
+    "12. Picard K, Griffiths M, Mager DR, Richard C. Handouts for Low-Potassium Diets Disproportionately Restrict Fruits and Vegetables. J Ren Nutr. 2021;31(2):210-214.",
+    "13. Martínez-Pineda M, Yagüe-Ruiz C, Caverni-Muñoz A, Vercet-Tormo A. Reducción del contenido de potasio de las judías verdes y las acelgas mediante el procesado culinario. Herramientas para la enfermedad renal crónica. Nefrología. 2016;36(4):427-432.",
+    "14. Orozco-Santos M, Orozco-Romero J, Pérez-Zamora O, Manzo-Sánchez G, Farías-Larios J, Moraes WdaS. Prácticas culturales para el manejo de la Sigatoka negra en bananos y plátanos. Trop Plant Pathol. 2008;33(3):189-196."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

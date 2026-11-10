@@ -1,0 +1,437 @@
+{
+ "archivos": {
+  "data/bioabonos.json": {
+   "bytes": 86902,
+   "sha256": "2001fb87b0cf6fd3290325813e06ef2e054c8fbcb95232dcfdbdf767ccf4c722"
+  },
+  "data/fichas/aji_picante.json": {
+   "bytes": 9875,
+   "sha256": "ddc56f643cac31a7386ac42f82945b2d40d42e35fd32d792fe24c4dd7ee5b377"
+  },
+  "data/fichas/ajo.json": {
+   "bytes": 11733,
+   "sha256": "49f05d818c4ad328cbb9ed1fb228ef90900a61328808ca4b316c39557f6067d8"
+  },
+  "data/fichas/apio.json": {
+   "bytes": 10906,
+   "sha256": "48f526a8120c1ac8b50e84547668c298f1f94253b4d28e909c9f4b01cc1d60ae"
+  },
+  "data/fichas/arveja.json": {
+   "bytes": 7883,
+   "sha256": "075a46d37b41d67cc445c6f5ccbb63ee054a90f5e8c86ab61e08202a43f64185"
+  },
+  "data/fichas/brocoli.json": {
+   "bytes": 10016,
+   "sha256": "76d4a0ccee5f87afb56f84ad15848d23be98eace1eb5e459dffaea90e6402a06"
+  },
+  "data/fichas/calabacin.json": {
+   "bytes": 10719,
+   "sha256": "2f3e9d4c966718934c514e969330510baf0f3aec1a9709d65c6c80239c7abbe5"
+  },
+  "data/fichas/cebolla_de_rama.json": {
+   "bytes": 8722,
+   "sha256": "adc2a0364eed8438e71cdf4d57b3e9d8ef3444331edbe7be8a835e579c3e1117"
+  },
+  "data/fichas/cidra.json": {
+   "bytes": 9646,
+   "sha256": "4ee4f320235b361518d5bbf979514e8a7994f8154e42014c24cf7f1b20477589"
+  },
+  "data/fichas/cilantro.json": {
+   "bytes": 10626,
+   "sha256": "90691afa02e968f0fa71d23570ab61e7cab1491e11210c26c9d45c32cc95359c"
+  },
+  "data/fichas/col.json": {
+   "bytes": 11510,
+   "sha256": "ac105240aa2b88f0271a206e39cb150e03826c832fc73854fe1c9c0e3212c61b"
+  },
+  "data/fichas/espinaca.json": {
+   "bytes": 11691,
+   "sha256": "37dadbf180e3197d0394f9d0a3d9c04d1eb2c2be99a20f0d2990745756a2b06a"
+  },
+  "data/fichas/fresa.json": {
+   "bytes": 11548,
+   "sha256": "c6908d1b6fc2980072b362e9dc5fb9ec8fb45107d01baa20f18bf761b225cfaf"
+  },
+  "data/fichas/frijol_cargamanto.json": {
+   "bytes": 12344,
+   "sha256": "28bc7b2693c78301d169028bffd6c7f3b4484c96e75065e49206a4de304e840b"
+  },
+  "data/fichas/lechuga_crespa.json": {
+   "bytes": 10558,
+   "sha256": "fc8b4d69c6bafcd27870149f63efe0571e80740c5bc04414576c9f1a813e8afb"
+  },
+  "data/fichas/lechuga_romana.json": {
+   "bytes": 11306,
+   "sha256": "86288712ac48d02fd539af5108807df15e82f4fb91c070f73e49a5ca4a06f05c"
+  },
+  "data/fichas/maiz_amarillo.json": {
+   "bytes": 14800,
+   "sha256": "b9a811264c9527dc9f11b46fd566291bef2736dc7dd375d6c636a3c4a4c38b90"
+  },
+  "data/fichas/papa_criolla.json": {
+   "bytes": 13943,
+   "sha256": "cc2a416af52c8feb20225ee340f58fb6e3e44191400d460d02a870642ce589de"
+  },
+  "data/fichas/perejil_crespo.json": {
+   "bytes": 10303,
+   "sha256": "4774f11fd0758e9f492f1906fdce4485f781f81051b9c23bcc1aeda0e2a85089"
+  },
+  "data/fichas/pimenton_rojo.json": {
+   "bytes": 10945,
+   "sha256": "04a5185a2c491797bc9784d3b9c013e5b2ec1449c98b37a95acb5501f44bee43"
+  },
+  "data/fichas/platano_harton_verde.json": {
+   "bytes": 12497,
+   "sha256": "596fe8e7b6cb84f136fe36b2b6ec97e799b7b066ddfefd00f72365f5eba6fbe9"
+  },
+  "data/fichas/rabano.json": {
+   "bytes": 11549,
+   "sha256": "85d377ea1fdeb2fefbf97713b723453cbc1996e9bd59062f0b6da4ffc4f6b540"
+  },
+  "data/fichas/remolacha.json": {
+   "bytes": 12041,
+   "sha256": "0bf8d012ac57a92e74a2ce0fa58bfa80b94382e85ae8862ec7d9cada732aee6b"
+  },
+  "data/fichas/tomate_chonto.json": {
+   "bytes": 11224,
+   "sha256": "042b1acebba992940ef464f7651c54cc49251cd32bd84f1b4e61acca23534649"
+  },
+  "data/fichas/zanahoria.json": {
+   "bytes": 12629,
+   "sha256": "ed8585c23612282ef3a8b411f88b659725f5d4cf9bb180bc2a4e572d9419d876"
+  },
+  "data/glosario.json": {
+   "bytes": 16848,
+   "sha256": "f6944faea209b8b1d649e0a2f21c89856b4638c72c8b42d6b5f1cfb2c081695c"
+  },
+  "data/labores.json": {
+   "bytes": 20899,
+   "sha256": "cf56503e24bb8c557f71f53e4501f977f3234d276b30b44ca58def155d342b3d"
+  },
+  "data/limpieza_desinfeccion.json": {
+   "bytes": 9435,
+   "sha256": "f5b18f0b1b79d2760e4c3b874f830825f710bd7de964c0c2e4971bec897aac6a"
+  },
+  "data/piloto.json": {
+   "bytes": 11203,
+   "sha256": "e13e72f68412724b53ca2b4f031918024f65cc43d96c07fa78ef874018cf91b2"
+  },
+  "data/plantas.json": {
+   "bytes": 172985,
+   "sha256": "a5babc5940b1ae93d069b9c23833ec1a9fd29629215ee8dda2b2d26bd4aabf83"
+  },
+  "data/plantas_guias.json": {
+   "bytes": 56801,
+   "sha256": "066d00269b97738bbe18a40db777d26b59a561e18d6a85c3273a866d35dcebb0"
+  },
+  "data/recetas/AI01.json": {
+   "bytes": 7334,
+   "sha256": "bae4ba871a876da0b8502bfbf7f8023bbcecee226cc080a589384ff22aa65e47"
+  },
+  "data/recetas/AI02.json": {
+   "bytes": 5423,
+   "sha256": "6667a382c8572e2cb9761a505b1c1a86c615ed97cca1e1d1a0c82eccd2abb152"
+  },
+  "data/recetas/AI03.json": {
+   "bytes": 5839,
+   "sha256": "c85d9fb0e81d521ec24b6976d6aaa4dc6a0f3e89cf958204402554b43ef29d31"
+  },
+  "data/recetas/AJ01.json": {
+   "bytes": 7798,
+   "sha256": "438a6af2c30e66bbc59203dcdef902b22d873a43ab2b0786a7897ab3d248a5b2"
+  },
+  "data/recetas/AJ02.json": {
+   "bytes": 7095,
+   "sha256": "15d99d9724d6f1bc84be6a84baccd217d53987d585621648e7ac2ad9466976f2"
+  },
+  "data/recetas/AJ03.json": {
+   "bytes": 7360,
+   "sha256": "e9fbd31d2418cd2fc738b1ab0f92b23b5c8e87eb46a73a4a00e19ec397faaa13"
+  },
+  "data/recetas/AP01.json": {
+   "bytes": 6572,
+   "sha256": "cde58bce920d2f9211965e391adfb61dd16d64d896e7a40ed9d34a54aa93b8d9"
+  },
+  "data/recetas/AP02.json": {
+   "bytes": 5634,
+   "sha256": "5201a3d872fff5a49092f205ced5dafe974dc97fc376a434db3d60966716bd34"
+  },
+  "data/recetas/AP03.json": {
+   "bytes": 6833,
+   "sha256": "71472d231af055b6c4f8cd0b7e09e56db311d054a956e3812da147b04bb1906a"
+  },
+  "data/recetas/AR01.json": {
+   "bytes": 7668,
+   "sha256": "355bd53a576c618ec4de339015d16a2b406206798bda3f276a91bfcf4c449c40"
+  },
+  "data/recetas/AR02.json": {
+   "bytes": 7492,
+   "sha256": "60f51df650b38849ec2bc2cd9c13ca212ef84f89302cc96b50d54f897765624f"
+  },
+  "data/recetas/AR03.json": {
+   "bytes": 7457,
+   "sha256": "9d32bbe793208f0df72e7c3a5bedc51c14d172f92ebd645733e37fdb4c6028bd"
+  },
+  "data/recetas/BR01.json": {
+   "bytes": 7487,
+   "sha256": "bd984bdcf663a58b0b43d812c52cf13f17070942ee2c6ea3b6bd9a2c29004822"
+  },
+  "data/recetas/BR02.json": {
+   "bytes": 8964,
+   "sha256": "c7cafc2d26138970c2debda0467222aed5855b7e4e03156b14510da85c1b6d95"
+  },
+  "data/recetas/BR03.json": {
+   "bytes": 10347,
+   "sha256": "1e94863443e23a8e4441b7ce5442d35b83df44f324496880d630564a968202d9"
+  },
+  "data/recetas/CA01.json": {
+   "bytes": 8063,
+   "sha256": "9343a551768358f28a47d9b5f93e04c289d7a4b71273fca3d44e840842f7805c"
+  },
+  "data/recetas/CA02.json": {
+   "bytes": 7726,
+   "sha256": "937bf0d1ca5ab618d763dba9191cac2c022c38fc08e43e3c7eb235ba2888ef2c"
+  },
+  "data/recetas/CA03.json": {
+   "bytes": 7183,
+   "sha256": "343cce537c76451c2ab455d2f7e5222d79392a3841fc3b1270e1c17919b4cbdc"
+  },
+  "data/recetas/CD01.json": {
+   "bytes": 7151,
+   "sha256": "caf052bf148a95be5e4b9c0209223b36d8d6d15ae6588c665fa78c3de53359a9"
+  },
+  "data/recetas/CD02.json": {
+   "bytes": 8842,
+   "sha256": "186f6ecea21ae007e6cc64f115e75754fa2cb30a8bee61cbee8d081f2a30570b"
+  },
+  "data/recetas/CD03.json": {
+   "bytes": 6158,
+   "sha256": "ffc7d63a9db002fb5bb04ed1346c73f220b47057aeec3912b25d9c540b051000"
+  },
+  "data/recetas/CE01.json": {
+   "bytes": 8514,
+   "sha256": "cda8d3ed4c5279307b6afe744ca102485da6d9abf03e7e45b0c93f4897f42da6"
+  },
+  "data/recetas/CE02.json": {
+   "bytes": 9769,
+   "sha256": "ef68bf142ce209820ca80ddf2663904ea66cc83e9c8cb01755925f09d5346ff6"
+  },
+  "data/recetas/CE03.json": {
+   "bytes": 8353,
+   "sha256": "d3c513307406adcdef1425488318195a8d8228d4460e26b2979e82bcd316d102"
+  },
+  "data/recetas/CL01.json": {
+   "bytes": 7337,
+   "sha256": "bfe37a432bd855d8818f03da65d4103a5dc4a498f122cee68018c49cb052845a"
+  },
+  "data/recetas/CL02.json": {
+   "bytes": 5794,
+   "sha256": "f57c200292e080025ac0996de458b6d34e1c70777b0d923142892bd9a8f0c48f"
+  },
+  "data/recetas/CL03.json": {
+   "bytes": 6217,
+   "sha256": "e397decc64b89dc01eb429ad84c0ad857180d16cd3efd0b919bc22a2c1f67295"
+  },
+  "data/recetas/CO01.json": {
+   "bytes": 7673,
+   "sha256": "6b91649f890d4357e29fe45b101fab582e6569372320b3061e972fcecb8e80d5"
+  },
+  "data/recetas/CO02.json": {
+   "bytes": 6919,
+   "sha256": "6e49d7c4cab748111aeae54c5fcc78103e18d2814613d0a78d5f8856ca89d67e"
+  },
+  "data/recetas/CO03.json": {
+   "bytes": 8225,
+   "sha256": "b0d0dcbb90185f1718091a841a03908169eb49618671f663efa88c6753fdfb7b"
+  },
+  "data/recetas/ES01.json": {
+   "bytes": 7382,
+   "sha256": "74ec685bb116c4bb5cee61a792db080029cdc4fd20585ae331b246f8fd1edc07"
+  },
+  "data/recetas/ES02.json": {
+   "bytes": 7475,
+   "sha256": "5fb0e2173e9f6ef94e075c8aacf3b0ab479ebfaec6f4c27205723dcba47cc9dd"
+  },
+  "data/recetas/ES03.json": {
+   "bytes": 6887,
+   "sha256": "2c379b37dce4eb0bc8c1b6cbbb9cb154c9b26b42a2a76efb6b802ff792202121"
+  },
+  "data/recetas/FC01.json": {
+   "bytes": 8420,
+   "sha256": "beeed07c813fec8df9a80424c79d175f1f2bec0baa2ae63c0e5a50b90649f0e7"
+  },
+  "data/recetas/FC02.json": {
+   "bytes": 8459,
+   "sha256": "2fb827b19c195ad65bf02f85ec35d3ce57231295155917306a1a751d4604861b"
+  },
+  "data/recetas/FC03.json": {
+   "bytes": 7942,
+   "sha256": "535f86a28079a96563a2def0e84e79e0f700390314262133203f7e5aeebef1b3"
+  },
+  "data/recetas/FC04.json": {
+   "bytes": 7910,
+   "sha256": "72663771684a9b52e396161adb2d09d3d9514b97cc6b00326993722270a71bbc"
+  },
+  "data/recetas/FS01.json": {
+   "bytes": 6574,
+   "sha256": "fea53b1be9234d53fcce5d27b7ec4db599d01b81627ecb1d329dd9affa2b73a3"
+  },
+  "data/recetas/FS02.json": {
+   "bytes": 6313,
+   "sha256": "8ec3a7afb5885127ccdf40256180d517ab0dabafe26325db84d029c53f2eff93"
+  },
+  "data/recetas/FS03.json": {
+   "bytes": 5382,
+   "sha256": "314d560ef65c44a07a0a551c04cabf988747ffaa0353f27240935bcf6bb36259"
+  },
+  "data/recetas/LC01.json": {
+   "bytes": 9281,
+   "sha256": "56eadd0bf0413eefae98338052241d06a1bc35e5688c165c64ff4dabb6c85613"
+  },
+  "data/recetas/LC02.json": {
+   "bytes": 6917,
+   "sha256": "565ab0e0ce99680eaae0429fcf325b81f6a0b99497a78d83131f6e2fd852c7f0"
+  },
+  "data/recetas/LC03.json": {
+   "bytes": 8484,
+   "sha256": "e132e152feed907edad1eba87c26539eeb50b4a6c3f3d4248f25d3d8cf013550"
+  },
+  "data/recetas/LR01.json": {
+   "bytes": 8435,
+   "sha256": "551453b1d6272f980ef72864de3a6d02856443793eeecf9f066bb753e913cfef"
+  },
+  "data/recetas/LR02.json": {
+   "bytes": 9223,
+   "sha256": "c99b905f6957cbddee8e6fc31e84e2c56a0bb4898709601b2c94b3c1aa230a2c"
+  },
+  "data/recetas/LR03.json": {
+   "bytes": 9164,
+   "sha256": "3b72bf6b03624884b07e93d4af7166868a33fa4c159fc7228d327c89d64d4b9b"
+  },
+  "data/recetas/MA01.json": {
+   "bytes": 8350,
+   "sha256": "4946a392153df3768f969acf6a9864d6f02da500a0315ceaff75f84c20fec1ac"
+  },
+  "data/recetas/MA02.json": {
+   "bytes": 9615,
+   "sha256": "fd688d9da0b3348d8d7c7a185b721776815caab664af262fdef24c8a99a0fb2d"
+  },
+  "data/recetas/MA03.json": {
+   "bytes": 7959,
+   "sha256": "d7e2a9838e548f987fbd8ab14750129c0bfd28c22017704da2594585ce38571d"
+  },
+  "data/recetas/PA01.json": {
+   "bytes": 7587,
+   "sha256": "276c375eca2a527a0296972a6caced201f21025c2813358f82f5bfdaec26cdb7"
+  },
+  "data/recetas/PA02.json": {
+   "bytes": 10441,
+   "sha256": "4c5dec5e9729607a73c1b1d6dde218a77661ace1fa1643c3129011f182039929"
+  },
+  "data/recetas/PA03.json": {
+   "bytes": 8738,
+   "sha256": "c0e1fcc261fb08031354c8a4d29c1b28418168ad33b013cea17e7222752dc636"
+  },
+  "data/recetas/PE01.json": {
+   "bytes": 7367,
+   "sha256": "372f14791a179c2f2b17f6c7fb4f8eed08a68bbccf27541ad6dd4724d8a18af4"
+  },
+  "data/recetas/PE02.json": {
+   "bytes": 7203,
+   "sha256": "1f75eaa35985196abeefc69f1b103267b39b1884bfdea60fa6a98885de47d0e1"
+  },
+  "data/recetas/PE03.json": {
+   "bytes": 5547,
+   "sha256": "0079c102571abcc5f6347224bd94dd0ce2d2ceff42ea50e62cf96e2003a25984"
+  },
+  "data/recetas/PI01.json": {
+   "bytes": 8054,
+   "sha256": "88016b3af47559cdce42ff9d363a5f5e52c65f66f1e1e618e60bf8d25143d8a5"
+  },
+  "data/recetas/PI02.json": {
+   "bytes": 5241,
+   "sha256": "44e50e8ca2ef3632bfc979ce2b8a6653ac7bf66aedd57a2c1be86b11b90d1928"
+  },
+  "data/recetas/PI03.json": {
+   "bytes": 5467,
+   "sha256": "e376c64266995ab2284e5b8c9b6682113ecc3e7fe290c575d78b8340bd6a72d2"
+  },
+  "data/recetas/PL01.json": {
+   "bytes": 7195,
+   "sha256": "c78e4a48861e7fcf7c5c497c760361b960266afb79d01444591a580981e0b1ee"
+  },
+  "data/recetas/PL02.json": {
+   "bytes": 6271,
+   "sha256": "162434c97fbabb368c61a134bb380d88e2bc846172aeb2a3a79ad551233256c7"
+  },
+  "data/recetas/PL03.json": {
+   "bytes": 6152,
+   "sha256": "c1b6f9d9f7f520b1241a45bb48b2f071e75adcba3dbb407f371b0122b0cc4adf"
+  },
+  "data/recetas/RA01.json": {
+   "bytes": 5688,
+   "sha256": "0647b23c11eade9965908a24876697f385fd7a0c6ba4fc3435becfeead5fac38"
+  },
+  "data/recetas/RA02.json": {
+   "bytes": 5612,
+   "sha256": "f61dc2815620ec2732d63587c10cbef067b91249d5d272fca89d6a518d15a870"
+  },
+  "data/recetas/RA03.json": {
+   "bytes": 5547,
+   "sha256": "55b1804c1e6d258cce82ff83dde6e952160985cb5e4a1aafc0d125b588a7203e"
+  },
+  "data/recetas/RE01.json": {
+   "bytes": 5621,
+   "sha256": "0c25db6cdd7dc787a03b9e4f74d19a235225e0ae448f1af101a8bfed26ca7fc8"
+  },
+  "data/recetas/RE02.json": {
+   "bytes": 6843,
+   "sha256": "168729ec7eb21b209ee9ed7000a4404f11a4d7048d0054148824303d45172320"
+  },
+  "data/recetas/RE03.json": {
+   "bytes": 6536,
+   "sha256": "a91a912a0f5ad575cb672000aacb06684a49b90e5c81d13d4ecb4fc0e816b4f5"
+  },
+  "data/recetas/TO01.json": {
+   "bytes": 6786,
+   "sha256": "03069b36754848d1680c6883bdd8d1c180b3574d15ea21ac1c0e195b98d14214"
+  },
+  "data/recetas/TO02.json": {
+   "bytes": 6845,
+   "sha256": "ad3850d1b0a4c8aa4dc58f3e71399b7a8d182bb38f335addaba9b900a3ef1906"
+  },
+  "data/recetas/TO03.json": {
+   "bytes": 6678,
+   "sha256": "9685614678bc2d2fb36ac7f94dedd170f8c25bd5b72ec18a19d6ca92cb995a82"
+  },
+  "data/recetas/ZA01.json": {
+   "bytes": 6919,
+   "sha256": "c664617a1b7d7870a2be169afad71d07255a2dd73cf430f50fa11d0d0ac914e6"
+  },
+  "data/recetas/ZA02.json": {
+   "bytes": 4989,
+   "sha256": "3114b738b9030c26dff9baba58994635758d4be81770fba84cb3e6b24407ee83"
+  },
+  "data/recetas/ZA03.json": {
+   "bytes": 4942,
+   "sha256": "c000c6263e3b9b3caea41b547a2789082430f9de8b944e83cd85f4619b99c497"
+  },
+  "data/seleccion_alimentos.json": {
+   "bytes": 20287,
+   "sha256": "950ff48d630f32453025f7e30a3197b5609feb80dee766e26933d59cf9efa66e"
+  }
+ },
+ "avisos": [
+  {
+   "desde": "2026-11-10",
+   "destino": "piloto",
+   "hasta": "2026-11-24",
+   "id": "piloto-reenvio-1",
+   "texto": "Si aún no ha respondido, son unas preguntas cortas, cerca de 3 minutos. Si ya respondió, gracias: puede cerrar este aviso.",
+   "titulo": "¿Nos cuenta qué le parece VitaCampo?"
+  }
+ ],
+ "formato": 1,
+ "min_app": "2.2.0",
+ "version": 6
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "brocoli",
+  "nombreComun": "Brócoli",
+  "nombreCientifico": "Brassica oleracea var. italica",
+  "subtitulo": "Pequeños árboles con una historia italiana",
+  "imagen": "assets/img/fichas/brocoli.jpg",
+  "creditoImagen": "Elaboración propia",
+  "introduccion": "El brócoli se desarrolló en Italia, probablemente en la región de Calabria durante el Imperio Romano, a partir de variedades silvestres de col — mucho antes de llegar a Colombia como parte de la diversificación de cultivos agrícolas. Su nombre viene del italiano broccolo, que significa \"brote\" o \"tallo pequeño\", en referencia a las pequeñas ramificaciones que forman su característica cabeza floral.",
+  "porcionReferencia": "89 gramos, (1 pocillo chocolatero — brócoli crudo sin hojas ni tallos)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "25 kcal",
+      "vdrMujer": "1,3%",
+      "vdrHombre": "1,1%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "83 mg",
+      "vdrMujer": "110,7%",
+      "vdrHombre": "92,2%"
+    },
+    {
+      "nutriente": "Vitamina A",
+      "cantidad": "137 mcg ER",
+      "vdrMujer": "19,6%",
+      "vdrHombre": "15,2%"
+    },
+    {
+      "nutriente": "Folato",
+      "cantidad": "63 mcg EFD",
+      "vdrMujer": "15,8%",
+      "vdrHombre": "15,8%"
+    },
+    {
+      "nutriente": "Fibra dietética",
+      "cantidad": "2,7 g",
+      "vdrMujer": "9,8%",
+      "vdrHombre": "8,3%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "*Sobre la porción",
+      "texto": "Corresponde a brócoli crudo, sin hojas ni tallos, según la Lista de Intercambio de Alimentos de la Universidad de Antioquia (5.ª ed., 2023)."
+    },
+    {
+      "titulo": "**Sobre la fibra",
+      "texto": "esta porción aporta 2,7 g de fibra dietética, equivalentes al 8,3% (hombres) y 9,8% (mujeres) del requerimiento diario. La fibra dietética tiene dos tipos principales: la fibra insoluble, que no se disuelve en agua y actúa como una especie de \"escoba natural\" en el intestino, acelerando el tránsito intestinal; y la fibra soluble, que sí se disuelve en agua formando una sustancia similar a un gel, asociada con una absorción más lenta de azúcares y grasas. El brócoli aporta principalmente fibra insoluble (aproximadamente 70% del total), con una porción soluble (30%) concentrada principalmente en la cabeza floral."
+    },
+    {
+      "titulo": "Sobre la rafinosa",
+      "texto": "es un azúcar presente en las crucíferas que el cuerpo no digiere completamente. Al llegar al intestino grueso, las bacterias la fermentan, lo que puede producir gases."
+    },
+    {
+      "titulo": "Sobre el sulforafano y enfermedades crónicas",
+      "texto": "la evidencia incluye estudios epidemiológicos y algunos ensayos clínicos en humanos con resultados prometedores, aunque los regímenes de consumo no están estandarizados."
+    },
+    {
+      "titulo": "Sobre la vitamina K",
+      "texto": "Sobre la vitamina K: no está disponible en TCAC-ICBF ni en la Lista de Intercambio UdeA para esta porción. Se utilizó USDA FoodData Central (101,6 mcg/100 g)."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía que 1 pocillo chocolatero (89 g) de brócoli crudo aporta 83 mg de vitamina C, cubriendo el 111% de la recomendación diaria para mujeres y el 92% para hombres?"
+  },
+  "descripcion": "Lo que comemos del brócoli es, en realidad, un racimo de flores que todavía no se han abierto (una inflorescencia inmadura), junto con los tallos que las sostienen — por eso su textura cambia tan rápido si se deja madurar de más. Como otras plantas de su familia (entre ellas la col), contiene glucosinolatos (compuestos naturales con azufre) que se transforman en compuestos bioactivos, como el sulforafano, al cortarlo o masticarlo.",
+  "beneficios": [
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas",
+      "texto": "Aporta vitamina C, que apoya las defensas del organismo."
+    },
+    {
+      "icono": "🌿",
+      "titulo": "Protección celular",
+      "texto": "al cortarlo o masticarlo, el brócoli forma sulforafano (un compuesto derivado de la glucorafanina, un glucosinolato natural de la planta), que se ha estudiado por su capacidad de activar las defensas antioxidantes propias de las células, ayudando a protegerlas del desgaste causado por los radicales libres (sustancias que se producen de forma natural en el cuerpo, y que en exceso pueden dañar las células)."
+    },
+    {
+      "icono": "🤰",
+      "titulo": "Folato",
+      "texto": "aporta folato, que contribuye a la formación de nuevas células, clave en el embarazo y en las distintas etapas del crecimiento."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "tip",
+      "titulo": "Cómo conservarlo y cocinarlo mejor",
+      "texto": "Para conservar el brócoli fresco por más tiempo, guárdelo sin lavar en una bolsa perforada dentro del cajón de verduras de la nevera — así puede durar hasta una semana. Si tiene más del que va a usar pronto, escáldelo (sumérjalo en agua hirviendo por 1 minuto y luego en agua con hielo) antes de congelarlo — esto detiene el deterioro y conserva mejor su color, textura y nutrientes que congelarlo crudo. Al cocinarlo, prefiera tiempos cortos (vapor 3-4 minutos o el mismo escaldado) en vez de hervido prolongado, ya que la vitamina C y el sulforafano son sensibles al calor. Este mismo paso de cocción también ayuda con otro tema: el brócoli contiene rafinosa, un azúcar natural que el cuerpo no digiere completamente y que puede producir gases —especialmente molesto en personas con síndrome de colon irritable—; cocinarlo (en vez de comerlo crudo) ayuda a reducir parte de este azúcar, ya que se disuelve parcialmente en el agua de cocción."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Precauciones para poblaciones específicas",
+      "texto": "El brócoli requiere algunas precauciones según su condición de salud. En personas con hipotiroidismo, el consumo excesivo de brócoli crudo puede interferir con la función tiroidea — mantener un consumo moderado es suficiente, sin necesidad de eliminarlo. También aporta una cantidad importante de vitamina K (90 mcg por porción, 129-151% del VDR): si usted usa medicamentos anticoagulantes tipo warfarina, es importante mantener un consumo controlado. En cualquiera de estos casos, consulte con un profesional de la salud para ajustar su alimentación según su condición."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Aliados naturales contra el pulgón",
+      "texto": "El pulgón de la col (Brevicoryne brassicae) es una de las plagas más comunes del brócoli, capaz de debilitar la planta y transmitir virus. Un estudio mexicano encontró que la avispa parasitoide Diaeretiella rapae parasita hasta el 40,2% de los huevos de esta plaga de forma natural. Sembrar cilantro, eneldo o caléndula cerca del cultivo atrae a esta avispa y a otros insectos benéficos como mariquitas y crisopas, que se alimentan del pulgón — una estrategia de manejo agroecológico que reduce la necesidad de insecticidas químicos."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF; 2015 [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAS. Medellín: Escuela de Nutrición y Dietética, Universidad de Antioquia; 2019.",
+    "3. Universidad de Antioquia - Grupo de Investigación Alimentación y Nutrición Humana (GIANH). Lista de intercambios de alimentos. 5.ª ed. Medellín: Universidad de Antioquia; 2023.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "5. Berndtsson E, Andersson R, Johansson E, Olsson ME. Side streams of broccoli leaves: a climate smart and healthy food ingredient. Int J Environ Res Public Health. 2020;17(7):2406.",
+    "6. McVean A. The Unmentionable Effect of Cruciferous Vegetables. Montreal: McGill University, Office for Science and Society; 2024. Disponible en: https://www.mcgill.ca/oss/article/health-and-nutrition/unmentionable-effect-cruciferous-vegetables",
+    "7. ElKhalifa D, Al-Ziftawi N, Awaisu A, Alali F, Khalil A. Efficacy and tolerability of sulforaphane in the therapeutic management of cancers: a systematic review of randomized controlled trials. Front Oncol. 2023;13:1251895. DOI: 10.3389/fonc.2023.1251895",
+    "8. U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Broccoli, raw [Internet]. Beltsville (MD): USDA; 2019 [citado 2026]. Disponible en: https://fdc.nal.usda.gov/",
+    "9. Violi F, Lip GY, Pignatelli P, Pastori D. Interaction between dietary vitamin K intake and anticoagulation by vitamin K antagonists: is it really true? A systematic review. Medicine (Baltimore). 2016;95(10):e2895. DOI: 10.1097/MD.0000000000002895.",
+    "10. Universidad Autónoma de San Luis Potosí, Facultad de Agronomía y Veterinaria. Evaluación de productos para el manejo de Plutella xylostella y áfidos en el cultivo de brócoli. San Luis Potosí: UASLP; 2012."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

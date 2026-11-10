@@ -1,0 +1,200 @@
+{
+  "codigo": "LC02",
+  "nombre": "Ensalada silvestre de lechuga, apio, rábano y mango",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Kindel Media, Pexels — Licencia Pexels (uso libre). Fotografía \"Close Up Photo of Vegetables\": https://www.pexels.com/photo/7456522/ (Imagen ilustrativa de los ingredientes: apio y rábano)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta del recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia, Gerencia MANÁ) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈½ pocillo, ≈282 g)",
+  "tiempo": "20 minutos (más 10 minutos de reposo del rábano)",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina A",
+    "Excelente fuente de vitamina C",
+    "Buena fuente de fibra"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "146 kcal",
+      "583 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "2,1 g",
+      "8,6 g",
+      "2,9 %",
+      "2,7 %"
+    ],
+    [
+      "Carbohidratos",
+      "32,3 g",
+      "129,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,8 g",
+      "3,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,2 g",
+      "0,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "0,0 mg",
+      "0,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total*",
+      "5,0 g",
+      "19,9 g",
+      "18,1 %",
+      "15,2 %"
+    ],
+    [
+      "Vitamina A*",
+      "776,3 µg ER",
+      "3105,3 µg ER",
+      "110,9 %",
+      "86,3 %"
+    ],
+    [
+      "Vitamina C*",
+      "67,3 mg",
+      "269,2 mg",
+      "89,7 %",
+      "74,8 %"
+    ],
+    [
+      "Folato (B9)",
+      "74,4 µg",
+      "297,8 µg",
+      "18,6 %",
+      "18,6 %"
+    ],
+    [
+      "Sodio",
+      "60,8 mg",
+      "243,1 mg",
+      "4,4 %",
+      "4,4 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Apio",
+      "15 g",
+      "60 g",
+      "¼ tallo grande",
+      "1 tallo grande"
+    ],
+    [
+      "Lechuga crespa verde",
+      "87,5 g",
+      "350 g",
+      "¼ unidad (cabeza)",
+      "1 unidad (cabeza)"
+    ],
+    [
+      "Rábano",
+      "12,5 g",
+      "50 g",
+      "1¼ unidad",
+      "5 unidades"
+    ],
+    [
+      "Mango maduro",
+      "156,3 g",
+      "625 g",
+      "⅝ unidad grande",
+      "2½ unidades grandes"
+    ],
+    [
+      "Limón, jugo",
+      "9,4 g (9,4 mL)",
+      "37,5 g (37,5 mL)",
+      "2 cucharaditas",
+      "2½ cucharadas"
+    ],
+    [
+      "Sal",
+      "0,06 g",
+      "0,25 g",
+      "1 pizca",
+      "1 pizca generosa"
+    ],
+    [
+      "Mostaza preparada",
+      "0,6 g",
+      "2,5 g",
+      "⅛ cucharadita",
+      "½ cucharadita"
+    ],
+    [
+      "Miel de abejas",
+      "0,9 g",
+      "3,5 g",
+      "⅛ cucharadita",
+      "½ cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** el apio, la lechuga, el rábano, el mango y el limón (ver la tarjeta de limpieza y desinfección).",
+    "**Corte** los extremos del rábano y **colóquelo** en un recipiente con sal durante 10 minutos.",
+    "**Retire** la sal, **escurra** el rábano y **corte** en rodajas.",
+    "**Corte** en trozos pequeños la lechuga y el apio. **Pele** y **corte** en trozos pequeños el mango.",
+    "**Integre** muy bien todas las verduras y la fruta en un recipiente.",
+    "**Agregue** el jugo de limón y pimienta al gusto. Puede adicionar la miel y la mostaza antes de servir."
+  ],
+  "notaPasos": "Sirva fría, recién preparada, para aprovechar mejor la textura de las verduras y la fruta.",
+  "usoSugerido": "Sirva como acompañamiento fresco en el almuerzo, o como entrada ligera.",
+  "nutriConsejo": {
+    "icono": "🥗",
+    "titulo": "Ensalada silvestre: frescura de lechuga, apio, rábano y mango",
+    "cuerpo": "Esta ensalada es excelente fuente de vitamina A y de vitamina C, gracias al mango, la lechuga y el apio, y buena fuente de fibra. Es baja en sodio y en grasa, una opción ligera y refrescante para acompañar las comidas."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción (≈½ pocillo, ≈282 g), con los ingredientes escalados también a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\" porque las técnicas de base (picar, integrar, aliñar) son sencillas y no requieren cocción."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de \"Ensalada silvestre\", receta de la sección \"Ensaladas\" del recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia, Gerencia MANÁ) (ver bibliografía), p. 35."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina A y de vitamina C (≥30 % VDR en ambos sexos) y \"buena fuente\" de fibra (≥15 % VDR en ambos sexos) se calcularon por porción (Res. 810 de 2021). Esta ensalada también queda baja en grasa (0,29 g/100 g) y baja en sodio (21,5 mg/100 g de producto), aunque no se declararon como insignias adicionales para mantener las 3 principales."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Gobernación de Antioquia, Gerencia de Seguridad Alimentaria y Nutricional (MANÁ), en alianza con PASO Colombia (Paz Sostenible para Colombia, programa de One Earth Future) y CEIBA. De la huerta a la mesa: recetas saludables del campo para tu vida. Estrategia Del Campo para el Campo. 1a ed. Medellín: Gobernación de Antioquia; [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/LC02.jpg"
+}

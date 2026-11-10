@@ -1,0 +1,2231 @@
+[
+ {
+  "slug": "te-de-estiercol",
+  "orden": 1,
+  "categoria": "bioabono",
+  "seccion": "Bioabonos y biopreparados",
+  "nombre": "Té de estiércol",
+  "categoriaLabel": "Bioabono · Biofertilizante líquido para suelo y follaje",
+  "tagline": "Abono líquido de rápida acción para nutrir el suelo.",
+  "faseLunar": "Luna llena (biofertilización / máxima absorción).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Preparado líquido que aporta nutrientes y microorganismos benéficos al suelo. Se obtiene sumergiendo estiércol y hojas de leguminosa en agua, como una gran bolsa de té. Actúa como estimulante y fertilizante de acción rápida; puede ayudar a mejorar el vigor de las plantas.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "La receta base se prepara en una caneca de 20 L. Se escala proporcionalmente:",
+   "headers": [
+    "Ingrediente",
+    "2 L",
+    "10 L",
+    "20 L (base)",
+    "200 L"
+   ],
+   "rows": [
+    [
+     "Estiércol bovino fresco",
+     "0,5 kg",
+     "2,5 kg",
+     "5 kg",
+     "50 kg"
+    ],
+    [
+     "Hojas de leguminosa (p. ej. vitabosa)",
+     "100 g",
+     "500 g",
+     "1 kg",
+     "10 kg"
+    ],
+    [
+     "Agua",
+     "a 2 L",
+     "a 10 L",
+     "a 20 L",
+     "a 200 L"
+    ]
+   ],
+   "nota": "El estiércol y las hojas van dentro de un costal de fibra que se sumerge en el agua, como una bolsa de té."
+  },
+  "pasos": [
+   "Colocar el estiércol y las hojas de leguminosa dentro de un costal de fibra.",
+   "Sumergir el costal en la caneca con el agua y taparla.",
+   "Fermentar en un lugar sombreado, revolviendo una vez al día.",
+   "Está listo al cabo de un mes, cuando huele a tierra húmeda.",
+   "Retirar el costal y colar el líquido antes de aplicar."
+  ],
+  "vinetas": {
+   "1": "assets/img/vinetas/b_costal.webp",
+   "2": "assets/img/vinetas/b_costal.webp",
+   "3": "assets/img/vinetas/b_revolver.webp",
+   "5": "assets/img/vinetas/b_colar.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Para fumigar se usan 3 L de té por bomba de 20 L de agua (colar antes). Para riego al suelo, diluir 1 parte de té en 3 partes de agua.",
+   "headers": [
+    "Agua en la bomba",
+    "Té de estiércol (fumigación)"
+   ],
+   "rows": [
+    [
+     "2 L",
+     "300 mL"
+    ],
+    [
+     "10 L",
+     "1,5 L"
+    ],
+    [
+     "20 L (referencia)",
+     "3 L"
+    ],
+    [
+     "200 L",
+     "30 L"
+    ]
+   ],
+   "nota": "Riego al suelo: 1 parte de té por 3 partes de agua, aplicada a la base de la planta."
+  },
+  "cultivos": "Todos los cultivos. Especialmente útil en hortalizas de hoja exigentes en nitrógeno (lechuga crespa, lechuga romana, espinaca, col, cilantro).",
+  "precauciones": [
+   "Aplicar siempre diluido, nunca puro.",
+   "Usar guantes y lavarse bien las manos después de manipularlo.",
+   "No aplicar sobre las partes comestibles cerca de la cosecha; lavar y desinfectar las hortalizas de hoja antes de consumir.",
+   "Prepararlo lejos de la vivienda por el olor de la fermentación."
+  ],
+  "conservacion": "Se aprovecha mejor recién fermentado. Tapado y a la sombra se conserva unas pocas semanas.",
+  "dato": "Las hojas de leguminosa (como la vitabosa) aportan nitrógeno extra al té, porque estas plantas fijan el nitrógeno del aire en sus raíces.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007.",
+   "Alcaldía de Medellín. Huertas con vos: cartilla para la siembra en casa. Medellín: Alcaldía de Medellín; 2019."
+  ]
+ },
+ {
+  "slug": "te-de-compost",
+  "orden": 2,
+  "categoria": "bioabono",
+  "seccion": "Bioabonos y biopreparados",
+  "nombre": "Té de compost",
+  "categoriaLabel": "Bioabono · Biofertilizante y bioprotector líquido",
+  "tagline": "Té vivo que nutre el suelo y fortalece el cultivo.",
+  "faseLunar": "Luna creciente (vigor vegetativo).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Preparado líquido rico en microorganismos y nutrientes, obtenido al \"lavar\" compost maduro en agua con un poco de melaza y leche. Actúa como biofertilizante y como bioprotector: puede ayudar a fortalecer las plantas frente a algunas enfermedades del follaje.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "La receta base se prepara en una caneca de 20 L. Se escala proporcionalmente:",
+   "headers": [
+    "Ingrediente",
+    "2 L",
+    "10 L",
+    "20 L (base)",
+    "200 L"
+   ],
+   "rows": [
+    [
+     "Compost maduro",
+     "0,5 kg",
+     "2,5 kg",
+     "5 kg",
+     "50 kg"
+    ],
+    [
+     "Agua",
+     "1,5 L",
+     "7,5 L",
+     "15 L",
+     "150 L"
+    ],
+    [
+     "Leche o suero",
+     "20 mL",
+     "100 mL",
+     "200 mL (1 vaso)",
+     "2 L"
+    ],
+    [
+     "Melaza",
+     "20 mL",
+     "100 mL",
+     "200 mL (1 vaso)",
+     "2 L"
+    ],
+    [
+     "Ceniza",
+     "10 mL",
+     "50 mL",
+     "100 mL (½ vaso)",
+     "1 L"
+    ]
+   ],
+   "nota": "1 vaso ≈ 200 mL. Al noveno día se agrega un poco más de melaza y leche para reactivar la fermentación."
+  },
+  "pasos": [
+   "Colocar el compost maduro en la caneca con el agua.",
+   "Agregar la leche o suero, la melaza y la ceniza.",
+   "Revolver todos los días.",
+   "Al noveno día, agregar un poco más de melaza y leche.",
+   "Continuar hasta que huela a tierra húmeda.",
+   "Colar antes de aplicar."
+  ],
+  "vinetas": {
+   "2": "assets/img/vinetas/b_melaza.webp",
+   "3": "assets/img/vinetas/b_revolver.webp",
+   "4": "assets/img/vinetas/b_melaza.webp",
+   "6": "assets/img/vinetas/b_colar.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Se diluye 1 parte de té de compost en 3 partes de agua (una cuarta parte de la bomba es té). Se aplica al suelo o en aspersión foliar.",
+   "headers": [
+    "Volumen final en la bomba",
+    "Té de compost",
+    "Agua"
+   ],
+   "rows": [
+    [
+     "2 L",
+     "0,5 L",
+     "1,5 L"
+    ],
+    [
+     "10 L",
+     "2,5 L",
+     "7,5 L"
+    ],
+    [
+     "20 L (referencia)",
+     "5 L",
+     "15 L"
+    ],
+    [
+     "200 L",
+     "50 L",
+     "150 L"
+    ]
+   ],
+   "nota": "Aplicar en aspersión sobre el follaje (preferiblemente el envés) o al pie de la planta."
+  },
+  "cultivos": "Todos los cultivos. Útil como fortalecedor en hortalizas de hoja y en cultivos propensos a enfermedades foliares (tomate, fresa, cucurbitáceas).",
+  "precauciones": [
+   "Usar compost bien maduro (olor a tierra, frío al tacto); un compost inmaduro puede dañar las plantas.",
+   "Aplicar siempre diluido.",
+   "Aplicar al atardecer o en horas frescas.",
+   "Colar bien para no tapar la boquilla de la bomba."
+  ],
+  "conservacion": "Usar preferiblemente fresco; se conserva pocos días. No sellar herméticamente (sigue vivo y libera gases).",
+  "dato": "La melaza no es un lujo: alimenta a los microorganismos del compost para que se multipliquen en el agua antes de aplicarlos.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007.",
+   "Gobernación de Antioquia, Gerencia de Seguridad Alimentaria y Nutricional de Antioquia (MANA). Manual Huertas de las Oportunidades. Medellín: Gobernación de Antioquia."
+  ]
+ },
+ {
+  "slug": "caldo-microbial",
+  "orden": 3,
+  "categoria": "bioabono",
+  "seccion": "Bioabonos y biopreparados",
+  "nombre": "Caldo microbial",
+  "categoriaLabel": "Bioabono · Caldo microbiano para el suelo",
+  "tagline": "Caldo vivo que mejora la fertilidad del suelo.",
+  "faseLunar": "Luna llena o creciente.",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Preparado rico en microorganismos benéficos (bacterias lácticas, levaduras y hongos) que se obtiene fermentando boñiga fresca con levadura, leche y melaza. Mejora la fertilidad del suelo y la disponibilidad de nutrientes, y puede ayudar a fortalecer los cultivos.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Receta pensada para una caneca de 200 L (los caldos fermentados se hacen mejor en volúmenes grandes). Para menos cantidad, reducir todos los ingredientes en la misma proporción (para 20 L, la décima parte).",
+   "headers": [
+    "Ingrediente",
+    "Cantidad para 200 L"
+   ],
+   "rows": [
+    [
+     "Agua limpia",
+     "completar a 200 L (caneca)"
+    ],
+    [
+     "Boñiga fresca (en costal de fique)",
+     "1 palada (aprox. 2 kg)"
+    ],
+    [
+     "Levadura de pan",
+     "½ taza"
+    ],
+    [
+     "Leche cruda o yogur",
+     "1 pocillo"
+    ],
+    [
+     "Melaza",
+     "1 pocillo"
+    ]
+   ],
+   "nota": "Cada 8 días se agrega un poco de melaza y leche. La boñiga va dentro del costal, sumergida como una bolsa de té."
+  },
+  "pasos": [
+   "Llenar la caneca con agua limpia.",
+   "Meter la boñiga fresca en un costal de fique y sumergirlo como una bolsa de té.",
+   "Agregar la levadura, la leche y la melaza.",
+   "Cubrir con un lienzo (no sellar) y revolver todos los días durante 30 días.",
+   "Cada 8 días, agregar un poco de melaza y leche.",
+   "Está listo cuando huele a tierra húmeda."
+  ],
+  "vinetas": {
+   "1": "assets/img/vinetas/b_agua_caneca.webp",
+   "2": "assets/img/vinetas/b_costal.webp",
+   "3": "assets/img/vinetas/b_melaza.webp",
+   "4": "assets/img/vinetas/b_tapar.webp",
+   "5": "assets/img/vinetas/b_melaza.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Se diluye 1 L de caldo en 10 L de agua (proporción 1:10). Se aplica al suelo o en aspersión sobre las plantas.",
+   "headers": [
+    "Agua en la bomba",
+    "Caldo microbial (1:10)"
+   ],
+   "rows": [
+    [
+     "2 L",
+     "200 mL"
+    ],
+    [
+     "10 L",
+     "1 L"
+    ],
+    [
+     "20 L (referencia)",
+     "2 L"
+    ],
+    [
+     "200 L",
+     "20 L"
+    ]
+   ],
+   "nota": "Aplicar al suelo, al pie de la planta, o en aspersión sobre el follaje."
+  },
+  "cultivos": "Todos los cultivos, como mejorador general del suelo.",
+  "precauciones": [
+   "No sellar el recipiente: la fermentación libera gases.",
+   "Revolver a diario es clave; si aparece mal olor pútrido, el proceso falló y debe descartarse.",
+   "Usar guantes al manipular la boñiga y lavarse bien las manos.",
+   "Aplicar siempre diluido."
+  ],
+  "conservacion": "Se usa fresco al terminar los 30 días. Guardar poco tiempo, tapado sin sellar, a la sombra.",
+  "dato": "La boñiga va dentro del costal como una bolsa de té: aporta los microorganismos sin ensuciar el caldo, que sale limpio para la bomba.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007.",
+   "Alcaldía de Medellín. Huertas con vos: cartilla para la siembra en casa. Medellín: Alcaldía de Medellín; 2019."
+  ]
+ },
+ {
+  "slug": "caldo-bordeles",
+  "orden": 4,
+  "categoria": "bioabono",
+  "seccion": "Bioabonos y biopreparados",
+  "nombre": "Caldo bordelés",
+  "categoriaLabel": "Bioabono · Caldo mineral fungicida (a base de cobre)",
+  "tagline": "Fungicida mineral clásico para el follaje.",
+  "faseLunar": "Luna nueva (control preventivo).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Fungicida orgánico a base de sulfato de cobre y cal. Puede ayudar a prevenir y controlar enfermedades causadas por hongos (mildiu, antracnosis, tizones) y algunas bacterias. Se reconoce porque queda de color azul turquesa.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Receta base al 1 % en 20 L. Se escala proporcionalmente. Todos los recipientes deben ser plásticos, nunca metálicos.",
+   "headers": [
+    "Ingrediente",
+    "2 L",
+    "10 L",
+    "20 L (base)",
+    "200 L"
+   ],
+   "rows": [
+    [
+     "Sulfato de cobre",
+     "20 g",
+     "100 g",
+     "200 g",
+     "2 kg"
+    ],
+    [
+     "Cal apagada (cal para blanquear)",
+     "20 g",
+     "100 g",
+     "200 g",
+     "2 kg"
+    ],
+    [
+     "Agua",
+     "2 L",
+     "10 L",
+     "20 L",
+     "200 L"
+    ]
+   ],
+   "nota": "Concentración al 1 %. El cobre siempre se vierte sobre la cal, nunca al revés."
+  },
+  "pasos": [
+   "Disolver el sulfato de cobre en un recipiente plástico con parte del agua tibia.",
+   "En otro recipiente plástico, disolver la cal en el resto del agua.",
+   "Verter SIEMPRE el cobre sobre la cal, revolviendo con un palo de madera.",
+   "La mezcla debe quedar de color azul turquesa.",
+   "Probar con un clavo de hierro: si sale limpio está bien; si sale rojizo, agregar más cal.",
+   "Usar el mismo día; no guardar. Nunca usar utensilios metálicos."
+  ],
+  "vinetas": {
+   "1": "assets/img/vinetas/b_epp.webp",
+   "3": "assets/img/vinetas/b_revolver.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "La concentración de aplicación depende del cultivo:",
+   "headers": [
+    "Uso",
+    "Dilución",
+    "En bomba de 20 L"
+   ],
+   "rows": [
+    [
+     "Hortalizas tiernas (0,5 %)",
+     "1 parte de caldo : 1 parte de agua",
+     "10 L caldo + 10 L agua"
+    ],
+    [
+     "Frutales y cultivos establecidos (1 %)",
+     "se aplica puro",
+     "20 L de caldo"
+    ]
+   ],
+   "nota": "Frecuencia: en época lluviosa cada 10–15 días; en época seca cada 20–30 días. No aplicar en floración ni en horas de sol fuerte."
+  },
+  "cultivos": "Tomate, papa criolla, pimentón, ají, fresa, cucurbitáceas (calabacín, cidra) y frutales, para prevenir mildiu, tizones y antracnosis, sobre todo en épocas lluviosas.",
+  "precauciones": [
+   "Usar guantes, gafas y mascarilla: el cobre es irritante.",
+   "Recipientes y utensilios plásticos o de madera, nunca metálicos.",
+   "No aplicar en plena floración (protege polinizadores) ni con sol fuerte.",
+   "El cobre se acumula en el suelo: no abusar de la frecuencia."
+  ],
+  "conservacion": "No se almacena: pierde sus propiedades a las 24 horas. Preparar solo lo que se va a usar el mismo día.",
+  "dato": "El clavo de hierro es la prueba del campo: si queda cubierto de cobre, el caldo está ácido y quemaría las hojas; se corrige agregando más cal hasta que el clavo salga limpio.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026.",
+   "Unidad de Educación y Buenas Prácticas Ambientales. Memorias de productos de la primera biofábrica urbana comunitaria del Distrito de Medellín [en articulación con la Casa Museo Maestro Pedro Nel Gómez, Aranjuez]. Medellín: Secretaría de Medio Ambiente, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007."
+  ]
+ },
+ {
+  "slug": "caldo-sulfocalcico",
+  "orden": 5,
+  "categoria": "bioabono",
+  "seccion": "Bioabonos y biopreparados",
+  "nombre": "Caldo sulfocálcico",
+  "categoriaLabel": "Bioabono · Caldo mineral (azufre y cal)",
+  "tagline": "Caldo mineral contra hongos, ácaros e insectos.",
+  "faseLunar": "Luna nueva (control preventivo).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Fungicida, acaricida e insecticida orgánico a base de azufre y cal cocidos juntos. Puede ayudar a controlar ácaros, cochinillas, trips, escamas, oídio y algunas royas. Aporta azufre y calcio. Queda de color vino tinto (amarillo-naranja oscuro).",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Receta base en 20 L. Se cocina/hierve, por eso lo normal es prepararlo en 20 L o más. Recipiente metálico (no de aluminio); nunca plástico al fuego.",
+   "headers": [
+    "Ingrediente",
+    "2 L",
+    "10 L",
+    "20 L (base)",
+    "200 L"
+   ],
+   "rows": [
+    [
+     "Azufre en polvo",
+     "0,4 kg",
+     "2 kg",
+     "4 kg",
+     "40 kg"
+    ],
+    [
+     "Cal (viva o apagada)",
+     "0,2 kg",
+     "1 kg",
+     "2 kg",
+     "20 kg"
+    ],
+    [
+     "Agua",
+     "2 L",
+     "10 L",
+     "20 L",
+     "200 L"
+    ]
+   ],
+   "nota": "La proporción es 2 partes de azufre por 1 de cal. Preparar en lugar ventilado."
+  },
+  "pasos": [
+   "Poner el agua a hervir en un recipiente metálico (no de aluminio).",
+   "Mezclar aparte la cal y el azufre hasta que no queden grumos.",
+   "Cuando el agua empiece a hervir, agregar la mezcla de cal y azufre.",
+   "Mantener el fuego y revolver constantemente 45–60 minutos.",
+   "Está listo cuando el líquido pasa de amarillo a color vino tinto.",
+   "Dejar enfriar, separar el líquido del sedimento y envasar en frasco oscuro."
+  ],
+  "vinetas": {
+   "2": "assets/img/vinetas/b_epp.webp",
+   "6": "assets/img/vinetas/b_envase.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "La dosis depende del cultivo y del objetivo:",
+   "headers": [
+    "Agua en la bomba",
+    "Hortalizas y hojas (prevención)",
+    "Frutales en reposo (dosis fuerte)"
+   ],
+   "rows": [
+    [
+     "2 L",
+     "10–20 mL",
+     "100–200 mL"
+    ],
+    [
+     "10 L",
+     "50–100 mL",
+     "0,5–1 L"
+    ],
+    [
+     "20 L (referencia)",
+     "100–200 mL",
+     "1–2 L"
+    ],
+    [
+     "200 L",
+     "1–2 L",
+     "10–20 L"
+    ]
+   ],
+   "nota": "Aplicar temprano en la mañana o al atardecer para no quemar las hojas. No aplicar en leguminosas ni cucurbitáceas en floración."
+  },
+  "cultivos": "Frutales y hortalizas en general contra ácaros, oídio y royas. NO usar en leguminosas (frijol, arveja) ni en cucurbitáceas (calabacín, cidra) durante la floración: les causa daño.",
+  "precauciones": [
+   "Usar guantes, gafas y mascarilla; los vapores de la cocción son irritantes: preparar en lugar ventilado.",
+   "Recipiente metálico, nunca de aluminio ni plástico al fuego.",
+   "No mezclar con caldo bordelés ni con otros productos en la misma aplicación.",
+   "No aplicar en leguminosas ni cucurbitáceas en floración (fitotóxico)."
+  ],
+  "conservacion": "Guardar en envase oscuro bien cerrado, con una capa de aceite vegetal encima. La pasta del fondo sirve para pintar (curar) los troncos de los árboles.",
+  "dato": "El cambio de color —de amarillo a vino tinto— es la señal de que el azufre y la cal ya reaccionaron: en ese momento se apaga el fuego.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026.",
+   "Unidad de Educación y Buenas Prácticas Ambientales. Memorias de productos de la primera biofábrica urbana comunitaria del Distrito de Medellín [en articulación con la Casa Museo Maestro Pedro Nel Gómez, Aranjuez]. Medellín: Secretaría de Medio Ambiente, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007."
+  ]
+ },
+ {
+  "slug": "microorganismos-de-montana-mm",
+  "orden": 6,
+  "categoria": "bioabono",
+  "seccion": "Bioabonos y biopreparados",
+  "nombre": "Microorganismos de montaña (MM)",
+  "categoriaLabel": "Bioabono · Inóculo microbiano sólido (base para otros preparados)",
+  "tagline": "Microorganismos del bosque para revivir el suelo.",
+  "faseLunar": "Luna nueva (preparación del suelo).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Consorcio de microorganismos benéficos (hongos, bacterias y levaduras) capturados del mantillo de un bosque nativo y reproducidos con salvado de arroz y melaza. Sirve de base para activar preparados líquidos y para enriquecer el compost. Puede ayudar a mejorar la fertilidad del suelo y a controlar patógenos.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Receta para unos 120 kg. Para menos cantidad, reducir todos los ingredientes en la misma proporción. Fermenta 30 días.",
+   "headers": [
+    "Ingrediente",
+    "Cantidad para ~120 kg"
+   ],
+   "rows": [
+    [
+     "Mantillo de bosque (hojarasca con micelios blancos)",
+     "1 bulto"
+    ],
+    [
+     "Salvado de arroz",
+     "2 bultos"
+    ],
+    [
+     "Melaza",
+     "8 kg"
+    ],
+    [
+     "Harina de rocas",
+     "4 kg"
+    ],
+    [
+     "Agua de lluvia limpia",
+     "10 L"
+    ]
+   ],
+   "nota": "El mantillo se recoge de un bosque sano, donde se vean los hilos blancos (micelios) sobre la hojarasca."
+  },
+  "pasos": [
+   "Limpiar y desmenuzar el mantillo del bosque; quitar piedras y palos gruesos.",
+   "Mezclar el salvado de arroz con el mantillo.",
+   "Diluir la melaza en los 10 L de agua.",
+   "Agregar la melaza diluida de forma uniforme a la mezcla.",
+   "Colocar en capas de 15–20 cm, pisando fuerte hasta apelmazar, en una caneca de 100–200 L.",
+   "Sellar con tapa y aro metálico; fermentar 30 días a la sombra."
+  ],
+  "vinetas": {
+   "3": "assets/img/vinetas/b_melaza.webp",
+   "4": "assets/img/vinetas/b_melaza.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "El MM sólido no se aplica directamente: es una base. Se usa de dos formas:",
+   "headers": [
+    "Forma de uso",
+    "Cómo"
+   ],
+   "rows": [
+    [
+     "Activar en medio líquido",
+     "8–10 kg de MM sólido por caneca de 200 L de agua con melaza (ver ficha \"Microorganismos en medio líquido\")."
+    ],
+    [
+     "Enriquecer el compost o el bocashi",
+     "Agregar un puñado por cada capa al armar la pila, como inóculo."
+    ]
+   ],
+   "nota": "Una vez activado en líquido, se aplica según la ficha de microorganismos en medio líquido."
+  },
+  "cultivos": "Base para todos los cultivos. Especialmente valioso en suelos pobres o degradados de los corregimientos.",
+  "precauciones": [
+   "Sellar bien y colocar un objeto pesado encima: los gases de la fermentación pueden desprender la tapa.",
+   "Fermentar a la sombra, sin sol directo ni lluvia.",
+   "Usar mantillo de un bosque sano (con micelios blancos), no de zonas contaminadas.",
+   "Al activarlo luego en líquido, no sellar herméticamente sin válvula (libera gases)."
+  ],
+  "conservacion": "Bien sellado y a la sombra, el MM sólido se conserva varios meses. Activar en agua con melaza unos 15 días antes de usarlo en líquido.",
+  "dato": "Los hilos blancos (micelios) sobre la hojarasca del bosque son la señal de que ahí viven los hongos benéficos que se quieren capturar.",
+  "fuentesPrimarias": [
+   "Unidad de Educación y Buenas Prácticas Ambientales. Memorias de productos de la primera biofábrica urbana comunitaria del Distrito de Medellín [en articulación con la Casa Museo Maestro Pedro Nel Gómez, Aranjuez]. Medellín: Secretaría de Medio Ambiente, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026.",
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007."
+  ]
+ },
+ {
+  "slug": "microorganismos-en-medio-liquido",
+  "orden": 7,
+  "categoria": "bioabono",
+  "seccion": "Bioabonos y biopreparados",
+  "nombre": "Microorganismos en medio líquido",
+  "categoriaLabel": "Bioabono · Microorganismos benéficos en medio líquido",
+  "tagline": "Microorganismos vivos listos para aplicar al cultivo.",
+  "faseLunar": "Luna creciente o llena (estímulo del crecimiento).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Activación en agua de los microorganismos de montaña, que pasan de sólido a líquido y desarrollan fitohormonas y ácidos benéficos. Actúa como estimulante del crecimiento y la fructificación. Se obtiene un líquido ámbar oscuro de olor agradable.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Receta para 200 L. Los microorganismos sólidos van dentro de una bolsa de tela (funda de almohada), sumergidos. Se puede usar a partir del día 5.",
+   "headers": [
+    "Ingrediente",
+    "Cantidad para 200 L"
+   ],
+   "rows": [
+    [
+     "Agua de lluvia limpia",
+     "200 L (190 L + 10 L)"
+    ],
+    [
+     "Microorganismos de montaña activados (sólidos)",
+     "8–10 kg"
+    ],
+    [
+     "Melaza",
+     "10 kg"
+    ],
+    [
+     "Harina de rocas",
+     "4 kg"
+    ]
+   ],
+   "nota": "Para menos cantidad, reducir todos los ingredientes en la misma proporción."
+  },
+  "pasos": [
+   "Llenar la caneca de 200 L con 190 L de agua.",
+   "En una caneca de 20 L, diluir la melaza en 10 L de agua.",
+   "Incorporar la melaza diluida a los 190 L de agua.",
+   "Meter los microorganismos sólidos en una bolsa de tela y amarrarla sin apretar.",
+   "Sumergir la bolsa y cerrar con tapa.",
+   "Fermentar; se puede usar a partir del quinto día."
+  ],
+  "vinetas": {
+   "1": "assets/img/vinetas/b_agua_caneca.webp",
+   "2": "assets/img/vinetas/b_melaza.webp",
+   "3": "assets/img/vinetas/b_melaza.webp",
+   "4": "assets/img/vinetas/b_costal.webp",
+   "5": "assets/img/vinetas/b_costal.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Se aplica foliar o al suelo, cada 15 días:",
+   "headers": [
+    "Agua en la bomba",
+    "Foliar",
+    "Al suelo"
+   ],
+   "rows": [
+    [
+     "2 L",
+     "100–200 mL",
+     "200–400 mL"
+    ],
+    [
+     "10 L",
+     "0,5–1 L",
+     "1–2 L"
+    ],
+    [
+     "20 L (referencia)",
+     "1–2 L",
+     "2–4 L"
+    ],
+    [
+     "200 L",
+     "10–20 L",
+     "20–40 L"
+    ]
+   ],
+   "nota": "A partir de los 15 días los microorganismos benéficos decaen; ese líquido puede incorporarse al compost o al bocashi."
+  },
+  "cultivos": "Todos los cultivos, como estimulante del crecimiento y la fructificación.",
+  "precauciones": [
+   "Verificar que no genere malos olores; si huele a pudrición y se pone negro metálico, descartar.",
+   "No sellar herméticamente sin válvula: libera gases.",
+   "Usar agua sin cloro (el cloro mata los microorganismos).",
+   "Aplicar en horas frescas."
+  ],
+  "conservacion": "Se usa entre el día 5 y el día 15, cuando está en su punto. Después decae; ese líquido se aprovecha en el compost.",
+  "dato": "El color ámbar y el olor agradable indican buena fermentación; el olor a pudrición y el color negro metálico indican que se dañó.",
+  "fuentesPrimarias": [
+   "Unidad de Educación y Buenas Prácticas Ambientales. Memorias de productos de la primera biofábrica urbana comunitaria del Distrito de Medellín [en articulación con la Casa Museo Maestro Pedro Nel Gómez, Aranjuez]. Medellín: Secretaría de Medio Ambiente, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026.",
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007."
+  ]
+ },
+ {
+  "slug": "super-magro",
+  "orden": 8,
+  "categoria": "bioabono",
+  "seccion": "Bioabonos y biopreparados",
+  "nombre": "Súper magro",
+  "categoriaLabel": "Bioabono · Biofertilizante foliar completo (multimineral)",
+  "tagline": "Biofertilizante rico en micronutrientes para el follaje.",
+  "faseLunar": "Luna llena (máxima absorción foliar).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Biofertilizante fermentado a base de estiércol, suero de leche, melaza y minerales (zinc, magnesio, manganeso, cobre, boro, calcio y roca fosfórica). Aporta micronutrientes de forma asimilable y microorganismos que compiten con los patógenos. Puede ayudar a nutrir la planta y a manejar plagas y enfermedades.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Receta para unos 200 L. Para menos cantidad, reducir todos los ingredientes en la misma proporción. Proceso total: 45–60 días.",
+   "headers": [
+    "Ingrediente",
+    "Cantidad para ~200 L"
+   ],
+   "rows": [
+    [
+     "Estiércol fresco de vaca",
+     "40–50 kg"
+    ],
+    [
+     "Agua de lluvia sin cloro",
+     "~180 L"
+    ],
+    [
+     "Suero de leche",
+     "~2 L (más refuerzos)"
+    ],
+    [
+     "Melaza",
+     "~2 L (más refuerzos)"
+    ],
+    [
+     "Ceniza y harina de rocas (roca fosfórica)",
+     "según disponibilidad"
+    ],
+    [
+     "Minerales (sulfatos de zinc, magnesio, manganeso y cobre; bórax; cloruro de calcio)",
+     "de a uno, 1–2 kg cada uno"
+    ]
+   ],
+   "nota": "Los minerales se agregan de a uno (empezando por el sulfato de zinc), cada uno disuelto en agua tibia con un poco de melaza y suero, cada 3 a 8 días."
+  },
+  "pasos": [
+   "En una caneca de 200 L, mezclar el estiércol con el agua, el suero y la melaza; fermentar tapado 7 días.",
+   "Cada 3 a 8 días, agregar un mineral disuelto en agua tibia con melaza y suero.",
+   "Empezar por el sulfato de zinc y continuar con los demás minerales, uno por vez.",
+   "Usar tapa con válvula (trampa de agua) para dejar salir los gases sin que entre aire.",
+   "Cuando ya no salgan burbujas y el olor sea agridulce (sin pudrición), está listo (45–60 días).",
+   "Filtrar antes de usar."
+  ],
+  "vinetas": {
+   "1": "assets/img/vinetas/b_melaza.webp",
+   "2": "assets/img/vinetas/b_melaza.webp",
+   "6": "assets/img/vinetas/b_colar.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Se aplica diluido (nunca puro), foliar o al suelo:",
+   "headers": [
+    "Agua en la bomba",
+    "Foliar",
+    "Al suelo"
+   ],
+   "rows": [
+    [
+     "2 L",
+     "50–100 mL",
+     "100–200 mL"
+    ],
+    [
+     "10 L",
+     "250–500 mL",
+     "0,5–1 L"
+    ],
+    [
+     "20 L (referencia)",
+     "0,5–1 L",
+     "1–2 L"
+    ],
+    [
+     "200 L",
+     "5–10 L",
+     "10–20 L"
+    ]
+   ],
+   "nota": "Hortalizas: cada 8–15 días. Frutales: una vez al mes. Equivale a diluciones del 1 % al 5 %."
+  },
+  "cultivos": "Hortalizas y frutales en general, como fuente de micronutrientes y refuerzo en etapas de crecimiento y floración.",
+  "precauciones": [
+   "No aplicar puro: siempre diluido.",
+   "Usar recipiente con válvula de gases; no debe oler a podrido.",
+   "Mantener en lugar fresco, sin sol directo.",
+   "Usar guantes al manipular los minerales; mantener fuera del alcance de niños."
+  ],
+  "conservacion": "Filtrado y en envase tapado a la sombra, se conserva varias semanas. Agitar antes de usar.",
+  "dato": "El súper magro nació en Brasil (de Delvino Magro): su gracia es \"quelar\" los minerales con la fermentación, es decir, ponerlos en una forma que la planta absorbe fácil por la hoja.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026.",
+   "Unidad de Educación y Buenas Prácticas Ambientales. Memorias de productos de la primera biofábrica urbana comunitaria del Distrito de Medellín [en articulación con la Casa Museo Maestro Pedro Nel Gómez, Aranjuez]. Medellín: Secretaría de Medio Ambiente, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007."
+  ]
+ },
+ {
+  "slug": "extracto-de-ajo-y-aji",
+  "orden": 9,
+  "categoria": "bioabono",
+  "seccion": "Bioabonos y biopreparados",
+  "nombre": "Extracto de ajo y ají",
+  "categoriaLabel": "Bioabono · Preparado casero — insecticida y repelente natural",
+  "tagline": "Repelente e insecticida natural de contacto para la huerta.",
+  "faseLunar": "Luna nueva (labor de control de plagas orgánico).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Preparado líquido a base de ajo y ají picante. La alicina del ajo y la capsaicina del ají actúan por contacto e ingestión como repelente e insecticida frente a pulgones, ácaros, mosca blanca, trips y algunas orugas. No es un veneno sistémico: puede ayudar a reducir y ahuyentar las plagas, por lo que se aplica de forma preventiva y repetida según el calendario.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "La receta base rinde cerca de 10 L de extracto concentrado. Las cantidades se escalan de forma proporcional según el volumen de concentrado que se quiera preparar:",
+   "headers": [
+    "Ingrediente",
+    "2 L",
+    "10 L (base)",
+    "20 L",
+    "200 L"
+   ],
+   "rows": [
+    [
+     "Ajo",
+     "100 g",
+     "500 g",
+     "1 kg",
+     "10 kg"
+    ],
+    [
+     "Ají picante",
+     "100 g",
+     "500 g",
+     "1 kg",
+     "10 kg"
+    ],
+    [
+     "Alcohol etílico (o de farmacia)",
+     "200 mL",
+     "1 L",
+     "2 L",
+     "20 L"
+    ],
+    [
+     "Agua sin cloro",
+     "1,8 L",
+     "9 L",
+     "18 L",
+     "180 L"
+    ],
+    [
+     "Jabón potásico o de coco",
+     "20 g",
+     "100 g",
+     "200 g",
+     "2 kg"
+    ]
+   ],
+   "nota": "Nota: el jabón actúa como adherente. El volumen indicado (2 / 10 / 20 / 200 L) es el del extracto CONCENTRADO ya preparado, antes de diluir para aplicar."
+  },
+  "pasos": [
+   "Licuar el ajo y el ají en el alcohol hasta obtener una pasta.",
+   "Mezclar la pasta en el agua sin cloro dentro de un recipiente plástico.",
+   "Macerar 3 a 5 días en lugar fresco y oscuro, agitando una vez al día.",
+   "Filtrar muy bien con tela o colador fino y descartar el residuo sólido.",
+   "Disolver el jabón potásico aparte y agregarlo al líquido filtrado.",
+   "Guardar en envase oscuro. Este es el extracto concentrado listo para diluir."
+  ],
+  "vinetas": {
+   "4": "assets/img/vinetas/b_colar.webp",
+   "6": "assets/img/vinetas/b_envase.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "La dosis foliar es de 200 a 500 mL de extracto concentrado por bomba de 20 L de agua (la bomba estándar del campesino). Manteniendo la misma concentración, se escala así:",
+   "headers": [
+    "Agua en la bomba",
+    "Extracto concentrado a agregar"
+   ],
+   "rows": [
+    [
+     "2 L",
+     "20 – 50 mL"
+    ],
+    [
+     "10 L",
+     "100 – 250 mL"
+    ],
+    [
+     "20 L (referencia)",
+     "200 – 500 mL"
+    ],
+    [
+     "200 L (caneca / tanque)",
+     "2.000 – 5.000 mL  (2 – 5 L)"
+    ]
+   ],
+   "nota": "Aplicación preventiva: cada 15 días. Aplicación curativa (con plaga presente): cada 3 a 5 días durante 2 semanas. Aplicar al atardecer, cubriendo bien el envés de las hojas."
+  },
+  "cultivos": "Aplicable a los 24 cultivos de VitaCampo. Es especialmente útil en hortalizas de hoja (lechuga crespa, lechuga romana, espinaca, col, cilantro, perejil), solanáceas (tomate, pimentón, ají picante) y fresa, propensas a pulgón, mosca blanca, trips y ácaros.",
+  "precauciones": [
+   "Suspender la aplicación de 3 a 5 días antes de la cosecha.",
+   "No aplicar en plena floración, para proteger abejas y otros polinizadores.",
+   "Aplicar al atardecer: evita quemar las hojas por el sol y protege a los insectos benéficos.",
+   "La capsaicina es irritante: use guantes y gafas al manipular el concentrado; evite el contacto con ojos, nariz y boca.",
+   "Probar primero en unas pocas plantas y observar 24–48 h antes de la aplicación general (prueba de fitotoxicidad)."
+  ],
+  "conservacion": "Conservar el extracto concentrado en envase oscuro, bien tapado, en lugar fresco y sin sol directo. Vida útil aproximada: hasta 6 meses.",
+  "dato": "Como actúa por contacto y no es sistémico, las plagas pueden regresar; por eso se reaplica según el calendario. Estudios en Colombia han asociado su uso a reducciones de la incidencia de pulgón (p. ej., de 47 % a 22 % en una semana), aunque el resultado depende del cultivo y las condiciones.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007.",
+   "Agencia de Noticias UN. Biopreparados reducirían plagas en cultivo de mora [Internet]. Bogotá: Universidad Nacional de Colombia [citado 2026 jul 19]. Disponible en: https://agenciadenoticias.unal.edu.co/detalle/biopreparados-reducirian-plagas-en-cultivo-de-mora"
+  ]
+ },
+ {
+  "slug": "apichi",
+  "orden": 10,
+  "categoria": "bioabono",
+  "seccion": "Bioabonos y biopreparados",
+  "nombre": "APICHI (ajo, pimienta, chile)",
+  "categoriaLabel": "Bioabono · Insecticida natural (ajo, pimienta y chile)",
+  "tagline": "Insecticida natural contra insectos de cuerpo blando.",
+  "faseLunar": "Luna nueva (control de plagas).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Preparado a base de ajo, pimienta y chile (ají), fermentado con microorganismos de montaña. Su nombre viene de Ajo, PImienta y CHIle. Puede ayudar a controlar plagas de cuerpo blando y a repeler algunos hongos y bacterias.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Receta para 60 L, en caneca con válvula de gases. Para menos cantidad, mantener las proporciones.",
+   "headers": [
+    "Ingrediente",
+    "Cantidad para 60 L"
+   ],
+   "rows": [
+    [
+     "Ajo",
+     "2 kg"
+    ],
+    [
+     "Pimienta",
+     "2 kg"
+    ],
+    [
+     "Ají (chile)",
+     "2 kg"
+    ],
+    [
+     "Alcohol etílico al 96 %",
+     "4,5 L"
+    ],
+    [
+     "Microorganismos de montaña activados",
+     "5–10 L"
+    ],
+    [
+     "Agua de lluvia limpia",
+     "50 L"
+    ]
+   ],
+   "nota": "Se prepara en caneca de 60 L con válvula de gases."
+  },
+  "pasos": [
+   "Triturar el ajo, la pimienta y el chile.",
+   "Agregar el alcohol y mezclar hasta obtener una pasta homogénea.",
+   "Dejar reposar 3 días, cubriendo el recipiente con una tela.",
+   "Pasar la pasta a la caneca con los 50 L de agua y los microorganismos activados.",
+   "Tapar y dejar fermentar 15 días.",
+   "Colar con un filtro fino, separando el líquido de los sólidos."
+  ],
+  "vinetas": {
+   "1": "assets/img/vinetas/b_picar.webp",
+   "3": "assets/img/vinetas/b_tapar.webp",
+   "5": "assets/img/vinetas/b_tapar.webp",
+   "6": "assets/img/vinetas/b_colar.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Se aplica entre 100 y 500 mL por bomba de 20 L de agua:",
+   "headers": [
+    "Agua en la bomba",
+    "APICHI a agregar"
+   ],
+   "rows": [
+    [
+     "2 L",
+     "10–50 mL"
+    ],
+    [
+     "10 L",
+     "50–250 mL"
+    ],
+    [
+     "20 L (referencia)",
+     "100–500 mL"
+    ],
+    [
+     "200 L",
+     "1–5 L"
+    ]
+   ],
+   "nota": "Aplicar al atardecer, cubriendo bien el envés de las hojas. Suspender unos días antes de la cosecha."
+  },
+  "cultivos": "Todos los cultivos, especialmente contra insectos de cuerpo blando (pulgones, mosca blanca, trips) en hortalizas de hoja y solanáceas (tomate, pimentón, ají).",
+  "precauciones": [
+   "Revisar que la válvula de gases no esté tapada; mantener la caneca en lugar fresco sin sol directo.",
+   "El chile y el ajo son irritantes: usar guantes y gafas; evitar el contacto con ojos.",
+   "Aplicar al atardecer para proteger polinizadores e insectos benéficos.",
+   "Probar en pocas plantas antes de la aplicación general."
+  ],
+  "conservacion": "Colado y en envase oscuro tapado, en lugar fresco, se conserva varios meses.",
+  "dato": "APICHI combina tres irritantes naturales —ajo, pimienta y chile— y los potencia con microorganismos, que ayudan a fermentar y estabilizar el preparado.",
+  "fuentesPrimarias": [
+   "Unidad de Educación y Buenas Prácticas Ambientales. Memorias de productos de la primera biofábrica urbana comunitaria del Distrito de Medellín [en articulación con la Casa Museo Maestro Pedro Nel Gómez, Aranjuez]. Medellín: Secretaría de Medio Ambiente, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007."
+  ]
+ },
+ {
+  "slug": "repelente-y-bioestimulante-m5",
+  "orden": 11,
+  "categoria": "bioabono",
+  "seccion": "Bioabonos y biopreparados",
+  "nombre": "Repelente y bioestimulante M5",
+  "categoriaLabel": "Bioabono · Repelente-insecticida y bioestimulante",
+  "tagline": "Repelente natural de amplio espectro para plagas y hongos.",
+  "faseLunar": "Luna nueva (control de plagas).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Preparado fermentado a base de ajo, cebolla, ají, jengibre y plantas aromáticas amargas, con sábila, suero, vinagre, melaza y microorganismos. Puede ayudar a repeler y controlar plagas (pulgones, trips, ácaros, mosca blanca, cochinilla, orugas) y a manejar algunos hongos (mildiu, roya, botritis).",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Receta para 100 L, en caneca con válvula de gases. Para menos cantidad, mantener las proporciones.",
+   "headers": [
+    "Ingrediente",
+    "Cantidad para 100 L"
+   ],
+   "rows": [
+    [
+     "Ajo",
+     "3 kg"
+    ],
+    [
+     "Cebolla morada",
+     "3 kg"
+    ],
+    [
+     "Ají",
+     "3 kg"
+    ],
+    [
+     "Jengibre",
+     "3 kg"
+    ],
+    [
+     "Plantas aromáticas amargas (ruda, salvia, romero, orégano, tomillo)",
+     "3 kg"
+    ],
+    [
+     "Penca de sábila",
+     "3 kg"
+    ],
+    [
+     "Suero de vaca",
+     "20 L"
+    ],
+    [
+     "Vinagre",
+     "3 L"
+    ],
+    [
+     "Melaza",
+     "4,5 L"
+    ],
+    [
+     "Microorganismos de montaña activados",
+     "10 L"
+    ],
+    [
+     "Alcohol etílico al 96 %",
+     "4,5 L"
+    ],
+    [
+     "Agua de lluvia limpia",
+     "60 L"
+    ]
+   ],
+   "nota": "Se prepara en caneca de 100 L con válvula de gases."
+  },
+  "pasos": [
+   "Agregar todos los ingredientes en el recipiente de 100 L.",
+   "Tapar con una tela que deje pasar el aire (o tapa con válvula de gases).",
+   "Dejar fermentar de 15 a 22 días.",
+   "Colar antes de aplicar."
+  ],
+  "vinetas": {
+   "4": "assets/img/vinetas/b_colar.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Después de fermentar se diluye y se aplica al suelo o a las hojas, entre 100 y 500 mL por bomba de 20 L:",
+   "headers": [
+    "Agua en la bomba",
+    "M5 a agregar"
+   ],
+   "rows": [
+    [
+     "2 L",
+     "10–50 mL"
+    ],
+    [
+     "10 L",
+     "50–250 mL"
+    ],
+    [
+     "20 L (referencia)",
+     "100–500 mL"
+    ],
+    [
+     "200 L",
+     "1–5 L"
+    ]
+   ],
+   "nota": "Aplicar al atardecer. Sirve como repelente-insecticida y también tiene acción sobre algunos hongos."
+  },
+  "cultivos": "Hortalizas y frutales en general, contra un amplio rango de plagas (pulgones, trips, ácaros, mosca blanca, cochinilla, orugas) y algunos hongos.",
+  "precauciones": [
+   "Válvula de gases despejada; caneca en lugar fresco sin sol directo.",
+   "Ingredientes picantes e irritantes: usar guantes y gafas; evitar el contacto con ojos.",
+   "Aplicar al atardecer para proteger polinizadores.",
+   "Probar en pocas plantas antes de la aplicación general."
+  ],
+  "conservacion": "Colado y en envase oscuro tapado se conserva varios meses.",
+  "dato": "El M5 (o EM-5) se ha usado en Centroamérica dentro de proyectos de agricultura sostenible, con resultados positivos en la reducción de plagas y enfermedades en hortalizas.",
+  "fuentesPrimarias": [
+   "Unidad de Educación y Buenas Prácticas Ambientales. Memorias de productos de la primera biofábrica urbana comunitaria del Distrito de Medellín [en articulación con la Casa Museo Maestro Pedro Nel Gómez, Aranjuez]. Medellín: Secretaría de Medio Ambiente, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007."
+  ]
+ },
+ {
+  "slug": "caldo-mineral-vicosa",
+  "orden": 12,
+  "categoria": "bioabono",
+  "seccion": "Bioabonos y biopreparados",
+  "nombre": "Caldo mineral Viçosa",
+  "categoriaLabel": "Bioabono · Caldo mineral fungicida y nutritivo",
+  "tagline": "Caldo mineral contra hongos que corrige deficiencias.",
+  "faseLunar": "Luna nueva (control preventivo).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Caldo mineral a base de varios sulfatos y cal. Puede ayudar a controlar enfermedades fúngicas (roya, sigatoka, antracnosis, mildiu, cenicilla) y a la vez corrige deficiencias de minerales en la planta. Creado en la Universidad Federal de Viçosa (Brasil).",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Receta base en 20 L (recipientes plásticos, nunca metálicos). Se escala proporcionalmente:",
+   "headers": [
+    "Ingrediente",
+    "2 L",
+    "10 L",
+    "20 L (base)",
+    "200 L"
+   ],
+   "rows": [
+    [
+     "Sulfato de zinc",
+     "12 g",
+     "60 g",
+     "120 g",
+     "1,2 kg"
+    ],
+    [
+     "Sulfato de cobre",
+     "10 g",
+     "50 g",
+     "100 g",
+     "1 kg"
+    ],
+    [
+     "Sulfato de manganeso",
+     "8 g",
+     "40 g",
+     "80 g",
+     "0,8 kg"
+    ],
+    [
+     "Bórax",
+     "8 g",
+     "40 g",
+     "80 g",
+     "0,8 kg"
+    ],
+    [
+     "Cal para blanquear",
+     "10 g",
+     "50 g",
+     "100 g",
+     "1 kg"
+    ],
+    [
+     "Agua",
+     "2 L",
+     "10 L",
+     "20 L",
+     "200 L"
+    ]
+   ],
+   "nota": "Disolver las sales en agua tibia. Preparar y usar en máximo 3 días."
+  },
+  "pasos": [
+   "Disolver los sulfatos de cobre, zinc y manganeso y el bórax en un poco de agua tibia.",
+   "En la caneca, diluir la cal en el resto del agua y revolver con un palo de madera.",
+   "Mezclar la solución de los minerales con el agua de cal.",
+   "Revolver bien con el palo de madera hasta integrar.",
+   "Usar recipientes plásticos y aspersor con boquilla plástica."
+  ],
+  "vinetas": {
+   "1": "assets/img/vinetas/b_epp.webp",
+   "2": "assets/img/vinetas/b_revolver.webp",
+   "4": "assets/img/vinetas/b_revolver.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "La forma de aplicar depende de la edad del cultivo:",
+   "headers": [
+    "Uso",
+    "Dilución",
+    "En bomba de 20 L"
+   ],
+   "rows": [
+    [
+     "Cultivos nuevos / tiernos",
+     "1 parte de caldo : 1 parte de agua",
+     "10 L caldo + 10 L agua"
+    ],
+    [
+     "Cultivos adultos / frutales",
+     "se aplica puro",
+     "20 L de caldo"
+    ]
+   ],
+   "nota": "Aplicar al follaje (sobre todo el envés) para hongos, o al suelo húmedo como fertilizante. Alternar con caldo sulfocálcico."
+  },
+  "cultivos": "Hortalizas y frutales, contra enfermedades fúngicas (roya, sigatoka, antracnosis, mildiu, cenicilla) y para corregir deficiencias minerales. En frutales puede aplicarse puro.",
+  "precauciones": [
+   "Usar solo recipientes y aspersores plásticos, nunca metálicos.",
+   "Disolver las sales en agua tibia para que se integren mejor.",
+   "Aplicar con el suelo húmedo (mejor después de una lluvia).",
+   "Usar máximo hasta 3 días después de preparado; luego descartar.",
+   "En cultivos nuevos, diluir 1:1 para no quemar las plantas."
+  ],
+  "conservacion": "Se usa hasta 3 días después de preparado. No almacenar más tiempo.",
+  "dato": "El caldo Viçosa nació en la Universidad Federal de Viçosa (Brasil): además de controlar hongos, corrige deficiencias de minerales en la planta, por eso combina varios sulfatos.",
+  "fuentesPrimarias": [
+   "Unidad de Educación y Buenas Prácticas Ambientales. Memorias de productos de la primera biofábrica urbana comunitaria del Distrito de Medellín [en articulación con la Casa Museo Maestro Pedro Nel Gómez, Aranjuez]. Medellín: Secretaría de Medio Ambiente, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007."
+  ]
+ },
+ {
+  "slug": "caldo-de-ceniza",
+  "orden": 13,
+  "categoria": "bioabono",
+  "seccion": "Bioabonos y biopreparados",
+  "nombre": "Caldo de ceniza",
+  "categoriaLabel": "Bioabono · Caldo mineral (ceniza y jabón)",
+  "tagline": "Caldo de ceniza: insecticida, fungicida y aporte mineral.",
+  "faseLunar": "Luna nueva (control preventivo).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Solución natural a base de ceniza de madera, agua y jabón. Puede ayudar a controlar plagas y hongos y aporta minerales (potasio, magnesio, calcio, cobre, hierro, manganeso y zinc). Se prepara como un concentrado que luego se diluye para aplicar.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Se prepara en recipiente metálico. Rinde un concentrado que luego se diluye para aplicar.",
+   "headers": [
+    "Ingrediente",
+    "Cantidad (concentrado)"
+   ],
+   "rows": [
+    [
+     "Ceniza de madera",
+     "10 kg"
+    ],
+    [
+     "Agua de lluvia sin cloro",
+     "5 L"
+    ],
+    [
+     "Jabón azul (jabón potásico)",
+     "1 L"
+    ]
+   ],
+   "nota": "No usar cenizas de materiales tratados, pintados o con plástico quemado."
+  },
+  "pasos": [
+   "Verter el agua en el recipiente metálico y calentarla.",
+   "Agregar la ceniza y el jabón.",
+   "Mezclar con un palo de madera unos 30 minutos, hasta que comience a hervir.",
+   "Dejar enfriar.",
+   "Empacar en envases de color ámbar u oscuro."
+  ],
+  "vinetas": {
+   "3": "assets/img/vinetas/b_revolver.webp",
+   "5": "assets/img/vinetas/b_envase.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Para prevención de hongos, se diluyen 50 a 200 mL de concentrado por bomba de 20 L de agua:",
+   "headers": [
+    "Agua en la bomba",
+    "Caldo de ceniza a agregar"
+   ],
+   "rows": [
+    [
+     "2 L",
+     "5–20 mL"
+    ],
+    [
+     "10 L",
+     "25–100 mL"
+    ],
+    [
+     "20 L (referencia)",
+     "50–200 mL"
+    ],
+    [
+     "200 L",
+     "0,5–2 L"
+    ]
+   ],
+   "nota": "Aplicar en horas frescas. Sirve como insecticida, fungicida y aporte de minerales."
+  },
+  "cultivos": "Hortalizas y frutales, para controlar plagas y hongos y aportar minerales (potasio, calcio, magnesio, entre otros).",
+  "precauciones": [
+   "La ceniza y el jabón caliente son irritantes: usar guantes y gafas.",
+   "Calentar en lugar ventilado; cuidado con el recipiente caliente.",
+   "Aplicar diluido y en horas frescas.",
+   "No usar cenizas de materiales tratados o con plástico o pintura quemada."
+  ],
+  "conservacion": "En envase oscuro y tapado, en lugar fresco, se conserva varias semanas.",
+  "dato": "La ceniza de leña aporta potasio, calcio y otros minerales; con el jabón se vuelve un caldo que además ayuda a que el preparado se pegue a las hojas.",
+  "fuentesPrimarias": [
+   "Unidad de Educación y Buenas Prácticas Ambientales. Memorias de productos de la primera biofábrica urbana comunitaria del Distrito de Medellín [en articulación con la Casa Museo Maestro Pedro Nel Gómez, Aranjuez]. Medellín: Secretaría de Medio Ambiente, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007.",
+   "Alcaldía de Medellín. Huertas con vos: cartilla para la siembra en casa. Medellín: Alcaldía de Medellín; 2019."
+  ]
+ },
+ {
+  "slug": "humitas",
+  "orden": 14,
+  "categoria": "bioabono",
+  "seccion": "Bioabonos y biopreparados",
+  "nombre": "Humitas (enmienda húmica líquida)",
+  "categoriaLabel": "Bioabono · Acondicionador y mejorador del suelo",
+  "tagline": "Enmienda húmica líquida para mejorar el suelo.",
+  "faseLunar": "Luna menguante (aporte al suelo).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Enmienda húmica líquida de alta concentración de ácidos húmicos y fúlvicos, obtenida de la roca leonardita. Es soluble en agua y se aplica al suelo como acondicionador y mejorador. No nutre directamente: ayuda a que las raíces aprovechen mejor los nutrientes.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Receta para 120 L. ATENCIÓN: el hidróxido de potasio es corrosivo; todos los recipientes deben ser plásticos.",
+   "headers": [
+    "Ingrediente",
+    "Cantidad para 120 L"
+   ],
+   "rows": [
+    [
+     "Roca leonardita o humus mineral",
+     "40 kg"
+    ],
+    [
+     "Hidróxido de potasio",
+     "5 kg"
+    ],
+    [
+     "Agua de lluvia limpia",
+     "120 L (+ 2 L para disolver)"
+    ]
+   ],
+   "nota": "Para menos cantidad, reducir todos los ingredientes en la misma proporción."
+  },
+  "pasos": [
+   "Calentar 2 L de agua; cuando esté tibia, agregar el hidróxido de potasio lentamente hasta disolver.",
+   "Agregar la roca leonardita a la caneca con los 120 L de agua.",
+   "Incorporar la solución de hidróxido de potasio.",
+   "Mezclar con un palo de madera 30 minutos, dos veces al día, durante 3 días.",
+   "Al cuarto día, el humato de potasio (humitas) está listo."
+  ],
+  "vinetas": {
+   "1": "assets/img/vinetas/b_epp.webp",
+   "4": "assets/img/vinetas/b_revolver.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Se aplica al suelo por riego: 1 L de humitas por 20 L de agua.",
+   "headers": [
+    "Agua en la regadera / bomba",
+    "Humitas a agregar"
+   ],
+   "rows": [
+    [
+     "2 L",
+     "100 mL"
+    ],
+    [
+     "10 L",
+     "0,5 L"
+    ],
+    [
+     "20 L (referencia)",
+     "1 L"
+    ],
+    [
+     "200 L",
+     "10 L"
+    ]
+   ],
+   "nota": "Aplicar solo al suelo. Se puede mezclar con súper magro u otros acondicionadores líquidos."
+  },
+  "cultivos": "Todos los cultivos, como acondicionador y mejorador del suelo (aporta ácidos húmicos y fúlvicos).",
+  "precauciones": [
+   "El hidróxido de potasio es altamente corrosivo: usar guantes, gafas y ropa que cubra la piel.",
+   "Todos los recipientes deben ser plásticos, nunca metálicos.",
+   "Si hay contacto con la piel, aplicar vinagre (ácido acético) de inmediato y lavar con agua.",
+   "Aplicar solo al suelo, no al follaje. Mantener fuera del alcance de niños y animales."
+  ],
+  "conservacion": "En recipiente plástico tapado, en lugar fresco y seguro, se conserva varias semanas.",
+  "dato": "Las humitas concentran ácidos húmicos y fúlvicos de la roca leonardita: no \"alimentan\" directamente, sino que mejoran la estructura del suelo y ayudan a que las raíces aprovechen mejor los nutrientes.",
+  "fuentesPrimarias": [
+   "Unidad de Educación y Buenas Prácticas Ambientales. Memorias de productos de la primera biofábrica urbana comunitaria del Distrito de Medellín [en articulación con la Casa Museo Maestro Pedro Nel Gómez, Aranjuez]. Medellín: Secretaría de Medio Ambiente, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007."
+  ]
+ },
+ {
+  "slug": "compost",
+  "orden": 15,
+  "categoria": "abono",
+  "seccion": "Abonos orgánicos",
+  "nombre": "Compost",
+  "categoriaLabel": "Abono orgánico · Enmienda sólida para el suelo",
+  "tagline": "Abono base que da vida y estructura al suelo.",
+  "faseLunar": "Luna nueva (preparación del suelo).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Producto de la descomposición aeróbica (con aire) de materia orgánica: residuos vegetales y estiércol. Mejora la estructura, la retención de agua, la aireación y la actividad microbiana del suelo. Su acción es progresiva y sostenida.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "El compost se arma por capas, alternando materiales verdes (nitrógeno) y marrones (carbono) en proporción 1:2. Está listo en 2,5 a 3 meses.",
+   "headers": [
+    "Material",
+    "Aporta",
+    "Ejemplos"
+   ],
+   "rows": [
+    [
+     "Verdes (1 parte)",
+     "Nitrógeno",
+     "Restos de cosecha, cáscaras, pasto fresco, estiércol"
+    ],
+    [
+     "Marrones (2 partes)",
+     "Carbono",
+     "Hojas secas, paja, cascarilla, aserrín, cartón"
+    ],
+    [
+     "Agua",
+     "Humedad",
+     "Humedecer como \"esponja exprimida\""
+    ]
+   ],
+   "nota": "Capas de 15–20 cm, altura máxima 1,5 m. Voltear cada 8 días como mínimo. Cubrir con plástico negro. Listo cuando es negro uniforme, huele a tierra y está frío al tacto."
+  },
+  "pasos": [
+   "Elegir un sitio sombreado y con buen drenaje.",
+   "Colocar una capa de material marrón (15–20 cm) y encima una de material verde.",
+   "Humedecer cada capa como una esponja exprimida (ni seca ni encharcada).",
+   "Seguir alternando capas (2 de marrón por 1 de verde) hasta 1,5 m de alto.",
+   "Cubrir con plástico negro y voltear la pila cada 8 días.",
+   "Está listo en 2,5–3 meses: color negro, olor a tierra y frío al tacto."
+  ],
+  "vinetas": {
+   "5": "assets/img/vinetas/b_pila.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Se incorpora al suelo antes de la siembra o como mantillo alrededor de las plantas: 2 a 5 kg por metro cuadrado.",
+   "headers": [
+    "Superficie a abonar",
+    "Compost (2–5 kg/m²)"
+   ],
+   "rows": [
+    [
+     "1 m²",
+     "2–5 kg"
+    ],
+    [
+     "5 m² (una era)",
+     "10–25 kg"
+    ],
+    [
+     "10 m²",
+     "20–50 kg"
+    ],
+    [
+     "100 m²",
+     "200–500 kg"
+    ]
+   ],
+   "nota": "También sirve como mantillo (capa) alrededor de las plantas para conservar humedad."
+  },
+  "cultivos": "Todos los cultivos, como abono base del suelo antes de sembrar.",
+  "precauciones": [
+   "Usar compost bien maduro (frío, olor a tierra); uno inmaduro puede \"quemar\" las raíces.",
+   "Evitar carnes, grasas y lácteos en la pila (atraen plagas y generan malos olores).",
+   "Mantener la humedad de esponja exprimida: ni seco ni encharcado.",
+   "Voltear para airear; si huele feo, falta aire o sobra humedad."
+  ],
+  "conservacion": "El compost maduro se guarda en costales o cubierto, en lugar seco y sombreado, varios meses.",
+  "dato": "La proporción 1:2 (una de verde por dos de marrón) es la clave: demasiado verde huele a podrido; demasiado marrón no \"prende\" la descomposición.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007.",
+   "Alcaldía de Medellín. Huertas con vos: cartilla para la siembra en casa. Medellín: Alcaldía de Medellín; 2019."
+  ]
+ },
+ {
+  "slug": "humus-de-lombriz",
+  "orden": 16,
+  "categoria": "abono",
+  "seccion": "Abonos orgánicos",
+  "nombre": "Humus de lombriz",
+  "categoriaLabel": "Abono orgánico · Humus de lombriz (vermicompost)",
+  "tagline": "El abono más fino, hecho por las lombrices.",
+  "faseLunar": "Luna llena (trasplante y establecimiento).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Abono que resulta de la digestión de la materia orgánica por las lombrices. Es rico en nutrientes, microorganismos benéficos, ácidos húmicos y enzimas. Mejora el suelo y da un arranque fuerte a las plántulas.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Se produce alimentando lombrices con residuos orgánicos picados. Se cosecha a los 60–90 días, cuando el material es uniforme y oscuro.",
+   "headers": [
+    "Aspecto",
+    "Indicación"
+   ],
+   "rows": [
+    [
+     "Alimento de las lombrices",
+     "Residuos orgánicos picados (restos vegetales, cáscaras)"
+    ],
+    [
+     "Evitar",
+     "Cítricos, cebolla, carnes y grasas"
+    ],
+    [
+     "Tiempo de cosecha",
+     "60 a 90 días"
+    ],
+    [
+     "Punto óptimo",
+     "Material uniforme, oscuro, sin restos reconocibles"
+    ]
+   ],
+   "nota": "Mantener el lecho húmedo y a la sombra; no dejar que se seque ni se encharque."
+  },
+  "pasos": [
+   "Preparar un lecho o cama a la sombra para las lombrices (lombriz roja californiana).",
+   "Alimentarlas con residuos orgánicos picados, en capas delgadas.",
+   "Evitar cítricos, cebolla, carnes y grasas.",
+   "Mantener húmedo (esponja exprimida) y protegido del sol y la lluvia fuerte.",
+   "Cosechar el humus a los 60–90 días, cuando esté oscuro y uniforme."
+  ],
+  "vinetas": {},
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Se usa en el semillero (20–30 % del sustrato) y en el trasplante (200–500 g por planta):",
+   "headers": [
+    "Uso",
+    "Cantidad de humus"
+   ],
+   "rows": [
+    [
+     "Sustrato de semillero",
+     "20–30 % de la mezcla"
+    ],
+    [
+     "1 planta (trasplante)",
+     "200–500 g"
+    ],
+    [
+     "10 plantas",
+     "2–5 kg"
+    ],
+    [
+     "100 plantas",
+     "20–50 kg"
+    ]
+   ],
+   "nota": "También se incorpora al suelo antes de la siembra."
+  },
+  "cultivos": "Todos los cultivos, especialmente en semilleros y en el trasplante, para un buen establecimiento.",
+  "precauciones": [
+   "No alimentar las lombrices con cítricos, cebolla, carnes ni grasas.",
+   "Mantener el lecho húmedo y a la sombra; el sol directo las mata.",
+   "Cosechar solo cuando el material esté maduro y uniforme."
+  ],
+  "conservacion": "En costal o recipiente, húmedo y a la sombra, se conserva varios meses sin perder calidad.",
+  "dato": "El humus de lombriz aporta ácidos húmicos y enzimas además de nutrientes: por eso da un arranque tan fuerte a las plántulas, aunque se use en poca cantidad.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007.",
+   "Gobernación de Antioquia, Gerencia de Seguridad Alimentaria y Nutricional de Antioquia (MANA). Manual Huertas de las Oportunidades. Medellín: Gobernación de Antioquia."
+  ]
+ },
+ {
+  "slug": "biol",
+  "orden": 17,
+  "categoria": "abono",
+  "seccion": "Abonos orgánicos",
+  "nombre": "Biol",
+  "categoriaLabel": "Abono orgánico · Biofertilizante líquido (fermentación anaeróbica)",
+  "tagline": "Abono líquido rico en hormonas de crecimiento.",
+  "faseLunar": "Luna llena (máxima absorción).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Líquido obtenido por fermentación anaeróbica (sin aire) de estiércol y residuos orgánicos. Es rico en fitohormonas que estimulan el crecimiento de las plantas. Queda de color café brillante y olor a fermentado.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Receta para ~180 L, en recipiente de 200 L con válvula de gases. Fermenta 20–30 días a la sombra.",
+   "headers": [
+    "Ingrediente",
+    "Cantidad (~180 L)"
+   ],
+   "rows": [
+    [
+     "Agua limpia",
+     "100 L (+ completar hasta 180 L)"
+    ],
+    [
+     "Estiércol de vaca fresco",
+     "llenar ~⅓ del recipiente"
+    ],
+    [
+     "Ceniza",
+     "250 g"
+    ],
+    [
+     "Leche cruda",
+     "200 mL"
+    ],
+    [
+     "Melaza",
+     "200 g"
+    ]
+   ],
+   "nota": "La leche y la melaza se disuelven aparte en 10 L de agua y se agregan. Recipiente cerrado con válvula de gases."
+  },
+  "pasos": [
+   "En el recipiente de 200 L, mezclar los 100 L de agua con el estiércol fresco y la ceniza.",
+   "Aparte, disolver la leche y la melaza en 10 L de agua.",
+   "Agregar esa mezcla al recipiente y completar con agua hasta 180 L.",
+   "Cerrar herméticamente con una válvula para la salida de gases.",
+   "Fermentar 20–30 días a la sombra.",
+   "Está listo cuando es café brillante y huele a fermentado."
+  ],
+  "vinetas": {
+   "2": "assets/img/vinetas/b_melaza.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Se aplica foliar: 5 a 10 L de biol por cada 100 L de agua. Por bomba de 20 L:",
+   "headers": [
+    "Agua en la bomba",
+    "Biol a agregar"
+   ],
+   "rows": [
+    [
+     "2 L",
+     "100–200 mL"
+    ],
+    [
+     "10 L",
+     "0,5–1 L"
+    ],
+    [
+     "20 L (referencia)",
+     "1–2 L"
+    ],
+    [
+     "200 L",
+     "10–20 L"
+    ]
+   ],
+   "nota": "Primera aplicación al mes de sembradas las plantas; refuerzo a mes y medio."
+  },
+  "cultivos": "Todos los cultivos, como estimulante del crecimiento en etapa vegetativa.",
+  "precauciones": [
+   "Usar recipiente cerrado con válvula de gases: la fermentación sin aire genera presión.",
+   "No destapar en espacios cerrados (gases).",
+   "Aplicar diluido y en horas frescas.",
+   "Usar guantes; lavar bien las hortalizas de hoja antes de consumir."
+  ],
+  "conservacion": "Tapado y a la sombra se conserva algunas semanas. Colar antes de usar en la bomba.",
+  "dato": "El biol fermenta \"sin aire\" (anaeróbico): por eso el recipiente va cerrado con una válvula que deja salir los gases pero no entrar oxígeno.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007."
+  ]
+ },
+ {
+  "slug": "bocashi",
+  "orden": 18,
+  "categoria": "abono",
+  "seccion": "Abonos orgánicos",
+  "nombre": "Bocashi",
+  "categoriaLabel": "Abono orgánico · Abono sólido fermentado",
+  "tagline": "Abono fermentado de rápida elaboración y buen aporte.",
+  "faseLunar": "Luna nueva o llena.",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Abono sólido fermentado de origen japonés (\"bocashi\" = fermentado). Se elabora rápido, elimina patógenos por el calor de la fermentación (hasta ~70 °C) y aporta muchos nutrientes y microorganismos benéficos al suelo.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Receta para ~100 kg. Se mezclan los secos, se incorporan los líquidos y se voltea a diario 5–10 días hasta que se enfríe.",
+   "headers": [
+    "Ingrediente",
+    "Cantidad (~100 kg)"
+   ],
+   "rows": [
+    [
+     "Salvado de arroz",
+     "30 kg"
+    ],
+    [
+     "Estiércol fresco",
+     "30 kg"
+    ],
+    [
+     "Carbón vegetal o ceniza",
+     "10 kg"
+    ],
+    [
+     "Tierra cernida",
+     "10 kg"
+    ],
+    [
+     "Cascarilla de arroz",
+     "10 kg"
+    ],
+    [
+     "Melaza",
+     "1–2 L"
+    ],
+    [
+     "Agua",
+     "10–15 L"
+    ],
+    [
+     "Levadura (opcional)",
+     "100 g"
+    ]
+   ],
+   "nota": "La melaza y la levadura se disuelven en el agua antes de incorporarlas. Amontonar 30–50 cm y tapar con saco."
+  },
+  "pasos": [
+   "Mezclar bien todos los materiales secos.",
+   "Disolver la melaza (y la levadura) en el agua.",
+   "Incorporar los líquidos poco a poco hasta humedecer parejo (prueba del puño).",
+   "Amontonar en una pila de 30–50 cm de alto y tapar con un saco.",
+   "Voltear todos los días durante 5–10 días, hasta que la pila se enfríe.",
+   "Está listo cuando huele agradable, es de textura suelta y color oscuro."
+  ],
+  "vinetas": {
+   "2": "assets/img/vinetas/b_melaza.webp",
+   "4": "assets/img/vinetas/b_pila.webp",
+   "5": "assets/img/vinetas/b_pila.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Se mezcla con el suelo o se aplica en el área de las raíces (aprox. 1 kg/m²):",
+   "headers": [
+    "Uso",
+    "Cantidad de bocashi"
+   ],
+   "rows": [
+    [
+     "1 m²",
+     "~1 kg"
+    ],
+    [
+     "1 planta",
+     "200–500 g en el área radicular"
+    ],
+    [
+     "10 m²",
+     "~10 kg"
+    ],
+    [
+     "100 m²",
+     "~100 kg"
+    ]
+   ],
+   "nota": "Sirve para cualquier cultivo. Incorporarlo al suelo antes de sembrar o al pie de la planta."
+  },
+  "cultivos": "Todos los cultivos, como abono de fondo y de mantenimiento.",
+  "precauciones": [
+   "Voltear a diario los primeros días: la pila se calienta mucho (hasta ~70 °C).",
+   "Usar estiércol fresco pero sin exceso de humedad (prueba del puño).",
+   "Dejar enfriar del todo antes de aplicarlo a las plantas.",
+   "Preparar sobre piso limpio, a la sombra y protegido de la lluvia."
+  ],
+  "conservacion": "Ya frío y maduro, se guarda en costales en lugar seco y sombreado por varias semanas.",
+  "dato": "\"Bocashi\" significa fermentado al vapor: el calor de la fermentación (hasta 70 °C) elimina semillas de maleza y patógenos, por eso se puede usar en poco tiempo.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026.",
+   "Unidad de Educación y Buenas Prácticas Ambientales. Memorias de productos de la primera biofábrica urbana comunitaria del Distrito de Medellín [en articulación con la Casa Museo Maestro Pedro Nel Gómez, Aranjuez]. Medellín: Secretaría de Medio Ambiente, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007."
+  ]
+ },
+ {
+  "slug": "bacterias-fijadoras-de-nitrogeno-bfn",
+  "orden": 19,
+  "categoria": "biofertilizante",
+  "seccion": "Biofertilizantes",
+  "nombre": "Bacterias fijadoras de nitrógeno (BFN)",
+  "categoriaLabel": "Biofertilizante microbiano · Fijadoras de nitrógeno",
+  "tagline": "Bacterias que capturan el nitrógeno del aire.",
+  "faseLunar": "Luna nueva (siembra).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Bacterias (Rhizobium, Azospirillum, Azotobacter) que fijan el nitrógeno del aire y lo convierten en una forma que la planta puede aprovechar. Pueden ayudar a reducir hasta la mitad la necesidad de fertilizantes nitrogenados.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Se consiguen como inoculante (comercial o de biofábrica). Se aplican a la semilla o al sustrato antes de sembrar:",
+   "headers": [
+    "Presentación / uso",
+    "Indicación"
+   ],
+   "rows": [
+    [
+     "Inoculante",
+     "Comercial o de biofábrica"
+    ],
+    [
+     "Dosis en semilla",
+     "100–200 g de inoculante por kg de semilla"
+    ],
+    [
+     "Momento",
+     "Justo antes de la siembra"
+    ],
+    [
+     "Cuidado",
+     "Proteger de la luz solar directa"
+    ]
+   ],
+   "nota": "Son organismos vivos: no exponerlos al sol ni al calor, y no mezclarlos con agroquímicos."
+  },
+  "pasos": [
+   "Medir el inoculante según la cantidad de semilla (100–200 g/kg).",
+   "Humedecer levemente la semilla para que el inoculante se adhiera.",
+   "Mezclar la semilla con el inoculante a la sombra.",
+   "Sembrar de inmediato, sin exponer la semilla al sol."
+  ],
+  "vinetas": {},
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "La forma de aplicar depende del cultivo:",
+   "headers": [
+    "Cultivo",
+    "Forma de aplicación"
+   ],
+   "rows": [
+    [
+     "Leguminosas (frijol, arveja)",
+     "Inoculación de la semilla"
+    ],
+    [
+     "Maíz",
+     "Aplicación al suelo"
+    ],
+    [
+     "Hortalizas",
+     "Al sustrato del semillero"
+    ]
+   ],
+   "nota": "Al fijar nitrógeno del aire, pueden reducir hasta un 50 % la necesidad de abonos nitrogenados."
+  },
+  "cultivos": "Especialmente leguminosas (frijol cargamanto, arveja). También maíz y hortalizas.",
+  "precauciones": [
+   "Son organismos vivos: protegerlos del sol directo y el calor.",
+   "No mezclar con fertilizantes químicos ni fungicidas.",
+   "Usar antes de la fecha de vencimiento del inoculante.",
+   "Sembrar la semilla inoculada de inmediato."
+  ],
+  "conservacion": "Guardar el inoculante en lugar fresco y oscuro, según la fecha de vencimiento del producto.",
+  "dato": "Las leguminosas y estas bacterias hacen equipo: en las raíces forman nódulos donde las bacterias \"fabrican\" nitrógeno para la planta a cambio de azúcares.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007.",
+   "Gobernación de Antioquia, Gerencia de Seguridad Alimentaria y Nutricional de Antioquia (MANA). Manual Huertas de las Oportunidades. Medellín: Gobernación de Antioquia."
+  ]
+ },
+ {
+  "slug": "hongos-micorrizicos",
+  "orden": 20,
+  "categoria": "biofertilizante",
+  "seccion": "Biofertilizantes",
+  "nombre": "Hongos micorrízicos",
+  "categoriaLabel": "Biofertilizante microbiano · Hongos micorrízicos",
+  "tagline": "Hongos que extienden las raíces de la planta.",
+  "faseLunar": "Luna llena (trasplante).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Hongos (Glomus, Rhizophagus) que forman una relación simbiótica con las raíces: las extienden y amplían su capacidad de absorber agua y fósforo. Pueden ayudar a las plantas a tolerar mejor la sequía.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Se consiguen como inoculante granulado o en polvo. Se aplican en el hoyo de trasplante o en el sustrato del semillero:",
+   "headers": [
+    "Presentación / uso",
+    "Indicación"
+   ],
+   "rows": [
+    [
+     "Inoculante",
+     "Granulado o en polvo"
+    ],
+    [
+     "Dosis por planta",
+     "5–10 g en el hoyo de trasplante"
+    ],
+    [
+     "En semillero",
+     "Mezclar con el sustrato"
+    ],
+    [
+     "Incompatibilidad",
+     "No combinar con fungicidas químicos"
+    ]
+   ],
+   "nota": "El inoculante debe quedar en contacto directo con la raíz para que la colonice."
+  },
+  "pasos": [
+   "Al trasplantar, abrir el hoyo para la plántula.",
+   "Colocar 5–10 g de inoculante micorrízico en el fondo, en contacto con la raíz.",
+   "Poner la plántula y cubrir con tierra.",
+   "En semillero, mezclar el inoculante con el sustrato antes de sembrar."
+  ],
+  "vinetas": {
+   "3": "assets/img/vinetas/s_trasplante.webp"
+  },
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Dosis según el número de plantas (5–10 g por planta):",
+   "headers": [
+    "Plantas a inocular",
+    "Inoculante (5–10 g/planta)"
+   ],
+   "rows": [
+    [
+     "1 planta",
+     "5–10 g"
+    ],
+    [
+     "10 plantas",
+     "50–100 g"
+    ],
+    [
+     "50 plantas",
+     "250–500 g"
+    ],
+    [
+     "100 plantas",
+     "0,5–1 kg"
+    ]
+   ],
+   "nota": "Crítico en suelos pobres o degradados. No aplicar junto con fungicidas."
+  },
+  "cultivos": "Todos los cultivos de VitaCampo. Especialmente útil en suelos pobres o degradados.",
+  "precauciones": [
+   "No combinar ni aplicar cerca de fungicidas químicos (matan el hongo).",
+   "El inoculante debe tocar la raíz para funcionar.",
+   "Conservar seco y a la sombra hasta usarlo."
+  ],
+  "conservacion": "En su empaque, en lugar seco y fresco, según la fecha de vencimiento.",
+  "dato": "Las micorrizas son como una extensión de las raíces: multiplican la superficie que explora la planta, sobre todo para buscar agua y fósforo.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007."
+  ]
+ },
+ {
+  "slug": "bacterias-solubilizadoras-de-fosforo",
+  "orden": 21,
+  "categoria": "biofertilizante",
+  "seccion": "Biofertilizantes",
+  "nombre": "Bacterias solubilizadoras de fósforo",
+  "categoriaLabel": "Biofertilizante microbiano · Solubilizadoras de fósforo",
+  "tagline": "Bacterias que liberan el fósforo atrapado en el suelo.",
+  "faseLunar": "Luna nueva (preparación del suelo).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Bacterias (Bacillus, Pseudomonas) que solubilizan el fósforo insoluble del suelo, es decir, lo liberan y lo ponen disponible para las plantas. Útiles sobre todo en suelos arcillosos y ácidos.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Se consiguen como inoculante líquido o en polvo. Se aplican al suelo o al sustrato:",
+   "headers": [
+    "Presentación / uso",
+    "Indicación"
+   ],
+   "rows": [
+    [
+     "Inoculante",
+     "Líquido o en polvo"
+    ],
+    [
+     "Drench (riego dirigido)",
+     "1–5 mL por litro de agua"
+    ],
+    [
+     "En semillero",
+     "Mezclar con el sustrato"
+    ],
+    [
+     "Momento",
+     "En preparación del suelo o en el trasplante"
+    ]
+   ],
+   "nota": "Combinan muy bien con los abonos orgánicos (compost, humus, bocashi)."
+  },
+  "pasos": [
+   "Diluir el inoculante líquido en agua sin cloro (1–5 mL por litro).",
+   "Aplicar como drench al suelo, cerca de la raíz.",
+   "En semillero, mezclar el inoculante con el sustrato.",
+   "Aplicar en la preparación del suelo o en el trasplante."
+  ],
+  "vinetas": {},
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Dosis como drench: 1 a 5 mL de inoculante por litro de agua. Por bomba:",
+   "headers": [
+    "Agua en la bomba",
+    "Inoculante (1–5 mL/L)"
+   ],
+   "rows": [
+    [
+     "2 L",
+     "2–10 mL"
+    ],
+    [
+     "10 L",
+     "10–50 mL"
+    ],
+    [
+     "20 L (referencia)",
+     "20–100 mL"
+    ],
+    [
+     "200 L",
+     "200–1.000 mL (0,2–1 L)"
+    ]
+   ],
+   "nota": "Especialmente útil en los suelos arcillosos y ácidos de los corregimientos. Combinar con abonos orgánicos."
+  },
+  "cultivos": "Todos los cultivos. Muy útil en suelos arcillosos y ácidos.",
+  "precauciones": [
+   "Usar agua sin cloro para diluir (el cloro mata las bacterias).",
+   "No mezclar con agroquímicos.",
+   "Aplicar con el suelo húmedo.",
+   "Conservar el inoculante fresco y a la sombra."
+  ],
+  "conservacion": "En su empaque, en lugar fresco y oscuro, según la fecha de vencimiento.",
+  "dato": "El fósforo suele estar en el suelo pero \"atrapado\" (insoluble): estas bacterias lo liberan, por eso son tan valiosas en suelos ácidos donde el fósforo se bloquea.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007."
+  ]
+ },
+ {
+  "slug": "bacterias-de-control-biologico",
+  "orden": 22,
+  "categoria": "biofertilizante",
+  "seccion": "Biofertilizantes",
+  "nombre": "Bacterias de control biológico",
+  "categoriaLabel": "Biofertilizante microbiano · Control biológico",
+  "tagline": "Microorganismos que protegen a la planta de enfermedades.",
+  "faseLunar": "Luna nueva (control preventivo).",
+  "imagen": "",
+  "creditoImagen": "",
+  "descripcion": "Microorganismos benéficos (Bacillus thuringiensis, Trichoderma spp.) que actúan como protectores de las plantas, combatiendo hongos y patógenos del suelo. Se usan de forma preventiva.",
+  "preparacion": {
+   "titulo": "Ingredientes y preparación",
+   "intro": "Se consiguen como inoculante comercial o caldo microbiano de biofábrica. Se aplican como drench a la raíz:",
+   "headers": [
+    "Presentación / uso",
+    "Indicación"
+   ],
+   "rows": [
+    [
+     "Inoculante",
+     "Comercial o caldo microbiano de biofábrica"
+    ],
+    [
+     "Drench radicular",
+     "100–200 mL por planta, diluido 1:100"
+    ],
+    [
+     "Agua",
+     "Sin cloro"
+    ],
+    [
+     "Uso",
+     "Preventivo, de forma periódica"
+    ]
+   ],
+   "nota": "Diluir 1:100 significa 1 parte de inoculante por 100 de agua sin cloro."
+  },
+  "pasos": [
+   "Diluir el inoculante 1:100 en agua sin cloro.",
+   "Aplicar como drench a la base de la planta (100–200 mL por planta).",
+   "Repetir de forma preventiva, sobre todo en épocas húmedas.",
+   "Preferir cultivos sensibles (tomate, pimentón, papa criolla)."
+  ],
+  "vinetas": {},
+  "dosis": {
+   "titulo": "Dosis y aplicación",
+   "intro": "Drench radicular: 100–200 mL por planta (diluido 1:100). Según número de plantas:",
+   "headers": [
+    "Plantas a tratar",
+    "Solución a aplicar (100–200 mL/planta)"
+   ],
+   "rows": [
+    [
+     "1 planta",
+     "100–200 mL"
+    ],
+    [
+     "10 plantas",
+     "1–2 L"
+    ],
+    [
+     "50 plantas",
+     "5–10 L"
+    ],
+    [
+     "100 plantas",
+     "10–20 L"
+    ]
+   ],
+   "nota": "Especialmente útil en tomate, pimentón y papa criolla frente a Fusarium y Botrytis."
+  },
+  "cultivos": "Todos los cultivos como bioprotector preventivo; especialmente tomate, pimentón y papa criolla.",
+  "precauciones": [
+   "Usar agua sin cloro (el cloro mata los microorganismos).",
+   "Es preventivo: aplicar antes de que la enfermedad se establezca.",
+   "No mezclar con fungicidas químicos.",
+   "Conservar el inoculante fresco y a la sombra."
+  ],
+  "conservacion": "En su empaque o recién preparado (caldo), en lugar fresco y oscuro, según indicación.",
+  "dato": "El Trichoderma es un hongo \"bueno\" que coloniza la raíz antes que los hongos dañinos y compite con ellos: por eso funciona mejor como prevención que como cura.",
+  "fuentesPrimarias": [
+   "Equipo de Seguridad Alimentaria y Nutricional. Proyecto Optimización de Estrategias para un Sistema Agroalimentario Sostenible (SISAGRO). Medellín: Secretaría de Inclusión Social y Familia, Distrito Especial de Ciencia, Tecnología e Innovación (Alcaldía de Medellín); 2026."
+  ],
+  "fuentesComplementarias": [
+   "Restrepo Rivera J. Manual práctico: el A, B, C de la agricultura orgánica y harina de rocas. Managua: SIMAS; 2007."
+  ]
+ }
+]

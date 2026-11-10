@@ -1,0 +1,186 @@
+{
+  "codigo": "TO03",
+  "nombre": "Crema de tomate y fríjoles verdes",
+  "imagenSize": {
+    "width": 600,
+    "height": 116
+  },
+  "imagenCredito": "Imagen: recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ, PASO Colombia, CEIBA)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Crema de tomate y fríjoles verdes\" del recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1½ cucharón, ≈203 g)",
+  "tiempo": "55 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Buena fuente de vitamina C"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "82 kcal",
+      "326 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "1,4 g",
+      "5,6 g",
+      "1,9 %",
+      "1,8 %"
+    ],
+    [
+      "Carbohidratos",
+      "15,4 g",
+      "61,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "1,6 g",
+      "6,3 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "2,0 g",
+      "7,9 g",
+      "7,1 %",
+      "6,0 %"
+    ],
+    [
+      "Vitamina C*",
+      "15,2 mg",
+      "60,8 mg",
+      "20,3 %",
+      "16,9 %"
+    ],
+    [
+      "Sodio",
+      "110,9 mg",
+      "443,7 mg",
+      "8,1 %",
+      "8,1 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Tomate chonto",
+      "55,6 g",
+      "222,2 g",
+      "½ unidad",
+      "2 unidades"
+    ],
+    [
+      "Agua",
+      "83,3 mL",
+      "333,3 mL",
+      "⅓ taza",
+      "1⅓ tazas"
+    ],
+    [
+      "Cebolla de huevo morada",
+      "22,2 g",
+      "88,9 g",
+      "¼ unidad",
+      "1 unidad"
+    ],
+    [
+      "Panela",
+      "10,0 g",
+      "40,0 g",
+      "1 cucharadita",
+      "1 cucharada + 1 cucharadita"
+    ],
+    [
+      "Mantequilla",
+      "1,6 g",
+      "6,2 g",
+      "⅓ cucharadita",
+      "1¼ cucharaditas"
+    ],
+    [
+      "Fríjoles verdes (habichuela)",
+      "28,9 g",
+      "115,6 g",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Tomillo, laurel",
+      "—",
+      "—",
+      "al gusto",
+      "al gusto"
+    ],
+    [
+      "Sal",
+      "0,2 g",
+      "0,9 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Cilantro",
+      "1,1 g",
+      "4,4 g",
+      "1 pizca",
+      "1 cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** muy bien todos los vegetales (ver la tarjeta de limpieza y desinfección).",
+    "**Caliente** una taza de agua y, en el primer hervor, **adicione** los tomates. **Deje hervir** 50 segundos.",
+    "**Retire** los tomates del agua caliente, **páselos** por agua fría para pelarlos con facilidad, **pélelos** y **licúelos**.",
+    "**Sofría** la cebolla y la panela en mantequilla hasta que la cebolla esté transparente, sin dejar dorar.",
+    "**Agregue** los fríjoles verdes, los tomates licuados y el agua. **Agregue** al gusto el tomillo, el laurel y el cilantro.",
+    "**Agregue** la sal y **deje hervir** con la olla tapada por 45 minutos o hasta que los fríjoles estén blandos.",
+    "**Retire** la preparación del fuego, **deje entibiar** y **licue** hasta que esté cremosa.",
+    "**Sirva** caliente con cilantro picado por encima."
+  ],
+  "usoSugerido": "Sirva como entrada caliente, acompañada de pan o arepa.",
+  "nutriConsejo": {
+    "icono": "🍅",
+    "titulo": "Crema de tomate y fríjoles verdes: buena fuente de vitamina C",
+    "cuerpo": "Esta crema combina tomate y fríjoles verdes (habichuela) en una preparación reconfortante, buena fuente de vitamina C. El toque de panela suaviza la acidez natural del tomate."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica 8-10 porciones de 1½ cucharón cada una; se escaló a 4 porciones VitaCampo con un factor de 4/9 (tomando 9 como punto medio del rango 8-10), dando 1 porción de ≈203 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque combina pelar los tomates escaldados, cocinar los fríjoles por tiempo prolongado y licuar en dos tiempos."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Crema de tomate y fríjoles verdes\", del recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ), p. 11."
+    },
+    {
+      "label": "Sobre la sal:",
+      "texto": "esta receta fue adaptada para que el aporte de sodio sea más saludable, sin afectar su sabor característico."
+    },
+    {
+      "label": "Sobre los fríjoles verdes:",
+      "texto": "se interpretaron como habichuela (fríjol verde fresco, no cargamanto), la lectura más común de este término en recetas colombianas."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"buena fuente\" de vitamina C se calculó por porción (Res. 810 de 2021), cumpliendo el umbral en ambos sexos."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Gobernación de Antioquia, Gerencia de Seguridad Alimentaria y Nutricional (MANÁ), en alianza con PASO Colombia (Paz Sostenible para Colombia, programa de One Earth Future) y CEIBA. De la huerta a la mesa: recetas saludables del campo para tu vida. Estrategia Del Campo para el Campo. 1a ed. Medellín: Gobernación de Antioquia; [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/TO03.jpg"
+}

@@ -1,0 +1,163 @@
+{
+  "codigo": "RE03",
+  "nombre": "Dulce de remolacha",
+  "imagenSize": {
+    "width": 600,
+    "height": 116
+  },
+  "imagenCredito": "Imagen: recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ, PASO Colombia, CEIBA)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Dulce de remolacha\" del recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈3 cucharadas, ≈45 g de producto terminado)",
+  "tiempo": "30 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de folato (B9)"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "186 kcal",
+      "745 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "2,4 g",
+      "9,5 g",
+      "3,3 %",
+      "3,1 %"
+    ],
+    [
+      "Carbohidratos",
+      "43,5 g",
+      "174,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,2 g",
+      "1,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "3,0 g",
+      "12,1 g",
+      "11,0 %",
+      "9,3 %"
+    ],
+    [
+      "Folato (B9)*",
+      "127,9 µg",
+      "511,4 µg",
+      "32,0 %",
+      "32,0 %"
+    ],
+    [
+      "Vitamina C",
+      "8,8 mg",
+      "35,3 mg",
+      "11,8 %",
+      "9,8 %"
+    ],
+    [
+      "Sodio",
+      "78,5 mg",
+      "314,0 mg",
+      "5,7 %",
+      "5,7 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Remolacha",
+      "100,0 g",
+      "400,0 g",
+      "¾ unidad mediana",
+      "2⅔ unidades medianas"
+    ],
+    [
+      "Agua",
+      "55,6 mL",
+      "222,2 mL",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Harina de trigo (o fécula)",
+      "7,2 g",
+      "28,9 g",
+      "1 cucharadita",
+      "2 cucharadas"
+    ],
+    [
+      "Azúcar",
+      "27,8 g",
+      "111,1 g",
+      "2¾ cucharadas",
+      "¾ taza"
+    ],
+    [
+      "Zumo de limón",
+      "8,3 mL",
+      "33,3 mL",
+      "1¾ cucharaditas",
+      "2 cucharadas + 1 cucharadita"
+    ],
+    [
+      "Ralladura de cáscara de limón",
+      "—",
+      "—",
+      "al gusto",
+      "1 cucharada"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** muy bien la remolacha y el limón (ver la tarjeta de limpieza y desinfección).",
+    "**Corte** en trozos la remolacha y **coloque** a cocinar al vapor por 30 minutos aproximadamente, hasta que esté blanda.",
+    "**Haga** un puré o **licue** la remolacha y **reserve**.",
+    "En una olla, **disuelva** la harina (o fécula) en el agua —preferiblemente use el agua donde cocinó la remolacha— y **lleve** al fuego.",
+    "Cuando empiece a hervir, **agregue** el azúcar.",
+    "Sin dejar de revolver, **adicione** el puré de remolacha evitando que se formen grumos, y **continúe** la cocción 10 minutos más o hasta alcanzar la consistencia deseada.",
+    "Un minuto antes de bajar, **agregue** el zumo de limón y la ralladura de cáscara del mismo."
+  ],
+  "usoSugerido": "Sirva solo, refrigerado, o como acompañante de galletas, panqueques u otro producto similar.",
+  "nutriConsejo": {
+    "icono": "🍬",
+    "titulo": "Dulce de remolacha: excelente fuente de folato",
+    "cuerpo": "Este dulce casero es excelente fuente de folato gracias a la remolacha. Al llevar azúcar añadida, las personas con diabetes pueden ajustar la porción, en conjunto con hábitos alimentarios y estilos de vida saludables."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica 8-10 porciones de 3 cucharadas cada una (≈45 g de producto terminado); se escaló a 4 porciones VitaCampo con un factor de 4/9 (tomando 9 como punto medio del rango 8-10). El peso de los ingredientes crudos (≈796 g para 4 porciones) es mayor al peso final del dulce, porque gran parte del agua se evapora al cocinar hasta espesar; se reportó el peso del producto terminado (≈45 g), siguiendo el propio dato del libro, aunque el cálculo nutricional parte de los ingredientes crudos."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque requiere reducir la mezcla hasta el punto justo de espesor sin que se formen grumos."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Dulce de remolacha\", del recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ), p. 45. El libro sugiere que la remolacha puede reemplazarse por ahuyama, zanahoria, cidra, guayaba o mango; aquí se mantuvo la remolacha, protagonista de esta ficha."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de folato se calculó por porción (Res. 810 de 2021), cumpliendo el umbral en ambos sexos."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Gobernación de Antioquia, Gerencia de Seguridad Alimentaria y Nutricional (MANÁ), en alianza con PASO Colombia (Paz Sostenible para Colombia, programa de One Earth Future) y CEIBA. De la huerta a la mesa: recetas saludables del campo para tu vida. Estrategia Del Campo para el Campo. 1a ed. Medellín: Gobernación de Antioquia; [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/RE03.jpg"
+}

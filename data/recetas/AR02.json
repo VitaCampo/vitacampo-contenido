@@ -1,0 +1,202 @@
+{
+  "codigo": "AR02",
+  "nombre": "Crema de vaina de arveja y crocante de parmesano",
+  "imagenSize": {
+    "width": 600,
+    "height": 422
+  },
+  "imagenCredito": "Imagen: Farhad Ibrahimzade, Pexels — Licencia Pexels (uso libre). Fotografía \"Close-Up Shot of Pea Soup\": https://www.pexels.com/photo/8738014/ (Imagen ilustrativa de una crema verde con crocante, similar a la preparación)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Crema de vaina de arveja y crocante de parmesano\" del recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 taza pequeña, ≈111 g)",
+  "tiempo": "25 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "60 kcal",
+      "239 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "2,7 g",
+      "10,9 g",
+      "3,7 %",
+      "3,5 %"
+    ],
+    [
+      "Carbohidratos",
+      "6,1 g",
+      "24,3 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "2,7 g",
+      "11,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "1,4 g",
+      "5,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "0,9 g",
+      "3,4 g",
+      "3,1 %",
+      "2,6 %"
+    ],
+    [
+      "Calcio",
+      "64,0 mg",
+      "256,1 mg",
+      "5,8 %",
+      "6,1 %"
+    ],
+    [
+      "Sodio",
+      "484,9 mg",
+      "1939,7 mg",
+      "35,3 %",
+      "35,3 %"
+    ],
+    [
+      "Vitamina A",
+      "35,3 µg ER",
+      "141,0 µg ER",
+      "5,0 %",
+      "3,9 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Fondo de recorte de verduras (o caldo de vegetales)",
+      "62,5 mL",
+      "250 mL",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Vainas de arveja",
+      "12,5 g",
+      "50 g",
+      "1 puñado pequeño",
+      "1 taza"
+    ],
+    [
+      "Papa criolla",
+      "10 g",
+      "40 g",
+      "1 unidad pequeña",
+      "4 unidades pequeñas"
+    ],
+    [
+      "Papa común (capira)",
+      "10 g",
+      "40 g",
+      "1 trozo pequeño",
+      "4 trozos pequeños"
+    ],
+    [
+      "Cebolla cabezona blanca",
+      "7,5 g",
+      "30 g",
+      "1 cucharada picada",
+      "4 cucharadas picadas"
+    ],
+    [
+      "Margarina",
+      "1,25 g",
+      "5 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Sal",
+      "0,5 g",
+      "2 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Pimienta negra",
+      "0,25 g",
+      "1 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Crema de leche",
+      "2,5 g",
+      "10 g",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ],
+    [
+      "Queso parmesano",
+      "3,75 g",
+      "15 g",
+      "1 cucharadita",
+      "1 cucharada"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** las vainas de arveja, las papas y la cebolla (ver la tarjeta de limpieza y desinfección).",
+    "**Despunte** las vainas y **corte** las papas y la cebolla en trozos grandes.",
+    "En una olla a fuego alto, **agregue** la margarina y **saltee** los ingredientes hasta que las vainas de arveja intensifiquen su color verde.",
+    "**Agregue** el fondo de verduras y **deje cocer** por 15 minutos.",
+    "**Retire** del fuego y **licue** la preparación. **Cuele** para una textura más fina.",
+    "**Lleve** de nuevo a cocción por 5 minutos más y **rectifique** la sal y la pimienta.",
+    "Para el crocante: en una sartén a fuego alto, **coloque** el queso parmesano en forma de círculo y **deje dorar** por 1 minuto de cada lado. **Retire** y **dé forma** al crocante mientras aún está tibio.",
+    "**Sirva** la crema caliente, **agregue** la crema de leche y **decore** con el crocante de parmesano."
+  ],
+  "usoSugerido": "Sirva como entrada caliente; es una buena forma de aprovechar las vainas de arveja que normalmente se descartan.",
+  "nutriConsejo": {
+    "icono": "🫛",
+    "titulo": "Crema de vaina de arveja: aprovechamiento contra el desperdicio",
+    "cuerpo": "Esta crema aprovecha las vainas de la arveja, una parte del alimento que suele descartarse, reduciendo el desperdicio en la cocina. Por el caldo y la sal que lleva, aporta una cantidad considerable de sodio: las personas con hipertensión arterial pueden prepararla con un caldo casero bajo en sal."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro no especifica el número de porciones que rinde la receta; se calculó dividiendo el peso total de los ingredientes (443 g) entre 4 porciones VitaCampo, dando 1 porción (≈111 g, ≈1 taza pequeña)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque incluye una técnica que exige más atención (dorar el queso parmesano hasta formar un crocante sin quemarlo)."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Crema de vaina de arveja y crocante de parmesano\", del recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025). Es una receta de aprovechamiento: usa las vainas de la arveja, parte que normalmente se descarta."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "en esta porción, ningún nutriente alcanza el 15 % del valor diario recomendado, por lo que la ficha no lleva insignias nutricionales."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "el caldo y la sal aportan 484,9 mg de sodio por porción (35,3 % de la ingesta adecuada diaria). Las personas con hipertensión arterial pueden preparar esta receta con un caldo casero bajo en sal."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Peas, edible-podded, raw, FDC ID 170010 [Internet]. 2019 [citado 2 nov 2026]. Disponible en: https://fdc.nal.usda.gov/fdc-app.html#/food-details/170010/nutrients",
+    "Vanegas Piedrahíta L. Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos. Medellín: Alcaldía de Medellín, Distrito de Ciencia, Tecnología e Innovación; 2025."
+  ],
+  "imagen": "assets/img/recetas/AR02.jpg"
+}

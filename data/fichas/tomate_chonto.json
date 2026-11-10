@@ -1,0 +1,124 @@
+{
+  "slug": "tomate_chonto",
+  "nombreComun": "Tomate Chonto",
+  "nombreCientifico": "Solanum lycopersicum L.",
+  "subtitulo": "El fruto americano que Europa tardó siglos en aceptar",
+  "imagen": "assets/img/fichas/tomate_chonto.jpg",
+  "creditoImagen": "Elaboración propia.",
+  "introduccion": "El tomate se pre-domesticó en la región andina (actual Ecuador y Perú), y su domesticación se completó posteriormente en Mesoamérica. Desde ahí, los conquistadores españoles lo llevaron a Europa en el siglo XVI — donde, curiosamente, fue rechazado durante mucho tiempo por su parecido con las plantas venenosas de su misma familia botánica (Solanaceae), hasta que finalmente se convirtió en uno de los alimentos más consumidos del mundo.",
+  "porcionReferencia": "118 gramos (1 unidad pequeña)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "25 kcal",
+      "vdrMujer": "1,27%",
+      "vdrHombre": "1,07%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "22 mg",
+      "vdrMujer": "29,3%",
+      "vdrHombre": "24,4%"
+    },
+    {
+      "nutriente": "Vitamina A",
+      "cantidad": "73 mcg ER",
+      "vdrMujer": "10,43%",
+      "vdrHombre": "8,11%"
+    },
+    {
+      "nutriente": "Cobre",
+      "cantidad": "80 mcg",
+      "vdrMujer": "8,89%",
+      "vdrHombre": "8,89%"
+    },
+    {
+      "nutriente": "Vitamina B5 (Ácido pantoténico)",
+      "cantidad": "0,30 mg",
+      "vdrMujer": "6%",
+      "vdrHombre": "6%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la variedad y el color",
+      "texto": "este dato es específico de tomate chonto. El tomate riñón tiene un perfil similar pero con matices: menos potasio (212 mg vs. 262 mg) y menos folato (9 mcg vs. 18 mcg) en una porción comparable, aunque algo más de calcio y vitamina C."
+    },
+    {
+      "titulo": "Sobre las fuentes de los datos",
+      "texto": "los valores de esta tabla provienen de la Lista de Intercambios UdeA (118 g, 1 unidad pequeña), con buena consistencia frente al TCAC-ICBF y las RINAs (tomate rojo)."
+    },
+    {
+      "titulo": "Sobre las declaraciones",
+      "texto": "según la Resolución 810 de 2021, esta porción califica como “buena fuente” (≥15% VRN) de Vitamina C, sin alcanzar el 30% necesario para “excelente fuente”."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "esta porción aporta 1,3 g de fibra dietética, equivalentes al 3,98% (hombres) y 4,73% (mujeres) del requerimiento diario. La fibra dietética tiene dos tipos principales: la fibra insoluble, que no se disuelve en agua y actúa como una especie de “escoba natural” en el intestino, acelerando el tránsito intestinal; y la fibra soluble, que sí se disuelve en agua formando una sustancia similar a un gel, asociada con una absorción más lenta de azúcares y grasas. El tomate aporta principalmente fibra insoluble (aproximadamente 80% del total), concentrada especialmente en la piel y las semillas."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿ Sabía usted que el tomate tiene más genes que un ser humano? Su genoma contiene cerca de 31.760 genes, frente a los 20.000-25.000 que tenemos las personas — el resultado de duplicaciones genéticas que ocurrieron a lo largo de su evolución."
+  },
+  "descripcion": "El tomate está compuesto en aproximadamente un 94% por agua, y el resto concentra vitaminas, minerales y compuestos bioactivos. Entre ellos destaca el licopeno, un carotenoide (un tipo de pigmento vegetal) responsable de su color rojo característico, con una notable actividad antioxidante: ayuda a neutralizar los radicales libres (sustancias que se producen de forma natural en el cuerpo, y en exceso pueden dañar las células). Aunque botánicamente es una fruta (se desarrolla a partir de una flor y contiene semillas), se prepara y consume culinariamente como vegetal en la mayoría de las cocinas del mundo.",
+  "beneficios": [
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas y piel",
+      "texto": "su vitamina C contribuye al funcionamiento normal del sistema inmunitario y a la formación de colágeno (una proteína que da estructura a la piel)."
+    },
+    {
+      "icono": "👁️",
+      "titulo": "Visión",
+      "texto": "su vitamina A contribuye al mantenimiento de la visión y a la salud de la piel."
+    },
+    {
+      "icono": "🩸⚡",
+      "titulo": "Cobre y energía",
+      "texto": "su cobre participa en la formación de glóbulos rojos (las células que transportan oxígeno en la sangre) y en el funcionamiento del sistema nervioso; su vitamina B5 (ácido pantoténico) participa en el proceso que el cuerpo usa para obtener energía de los alimentos."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "verdad",
+      "titulo": "¿El tomate previene el cáncer de próstata?",
+      "texto": "Es una creencia muy extendida, pero no del todo precisa. Existe la idea popular de que el licopeno del tomate protege contra el cáncer de próstata, e incluso hay estudios —incluyendo un metaanálisis colombiano con más de 200.000 personas— que han encontrado una asociación real entre su consumo y un menor riesgo. Sin embargo, esa asociación es muy débil y proviene solo de estudios observacionales, no de ensayos clínicos rigurosos — razón por la cual los propios investigadores concluyen que todavía no se puede recomendar como una estrategia de prevención. Es una línea de investigación activa y prometedora, pero la ciencia aún no tiene una respuesta definitiva."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "La piel y las semillas también aportan, con una excepción",
+      "texto": "La piel y las semillas del tomate —las partes que más se descartan— concentran una proporción importante de fibra y compuestos bioactivos del fruto; pelarlo significa eliminar buena parte de ese valor nutricional. Sin embargo, en personas con enfermedades inflamatorias del tracto digestivo (como colitis ulcerativa o enfermedad de Crohn), esta misma fibra concentrada puede resultar más irritante durante los episodios de actividad de la enfermedad, por lo que conviene consumirla con moderación o consultar con un profesional de la salud sobre la forma más adecuada de prepararlo."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo conservarlo sin perder sabor",
+      "texto": "El tomate es un fruto climatérico (como el plátano): sigue madurando después de cosechado, gracias al etileno, un gas natural que la misma fruta produce. Por eso conviene guardarlo a temperatura ambiente, fuera de la nevera y lejos de la luz solar directa — refrigerarlo interrumpe ese proceso natural y reduce los compuestos responsables de su aroma en cuestión de horas, una pérdida que no se recupera del todo aunque luego vuelva a temperatura ambiente. Solo tiene sentido refrigerarlo si ya está muy maduro y necesita retrasar unos días su deterioro; en ese caso, sáquelo de la nevera un rato antes de comerlo para que recupere parte de su sabor."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Dos aliados naturales contra las plagas del tomate",
+      "texto": "La mosca blanca (Trialeurodes vaporariorum) es una de las plagas más importantes del cultivo de tomate, capaz de transmitir virus además de dañar la planta directamente. Un estudio evaluó su control integrando la avispa parasitoide Encarsia formosa con un manejo racional de insecticidas, encontrando resultados favorables en invernadero. Otra herramienta agroecológica real es el extracto de las semillas del árbol de neem (Azadirachta indica), confirmado como bioinsecticida eficaz contra la mosca blanca en cultivos de tomate — con la ventaja adicional de actuar también como preventivo natural contra hongos como el oídio y el mildiu. Se aplica diluido en agua (3 a 5 ml por litro) rociado sobre las hojas, idealmente cada 8 a 15 días como medida preventiva, y se consigue en Colombia como bioinsumo agrícola en almacenes agropecuarios."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "3. Universidad de Antioquia - Grupo de Investigación Alimentación y Nutrición Humana (GIANH). Lista de intercambios de alimentos. 5.ª ed. Medellín: Universidad de Antioquia; 2023.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "5. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "6. Blanca J, Cañizares J, Cordero L, Pascual L, Diez MJ, Nuez F. Variation revealed by SNP genotyping and morphology provides insight into the origin of the tomato. PLoS One. 2012;7(10):e48198.",
+    "7. Tomato Genome Consortium. The tomato genome sequence provides insights into fleshy fruit evolution. Nature. 2012;485(7400):635-641.",
+    "8. Cataño JG, Trujillo CG, Caicedo JI, Bravo-Balado A, Robledo D, Mariño-Alvarez AM, et al. Efficacy of lycopene intake in primary prevention of prostate cancer: a systematic review of the literature and meta-analysis. Arch Esp Urol. 2018;71(2):187-197.",
+    "9. Ali MY, Sina AAI, Khandker SS, Neesa L, Tanvir EM, Kabir A, et al. Nutritional Composition and Bioactive Compounds in Tomatoes and Their Impact on Human Health and Disease: A Review. Foods. 2021;10(1):45.",
+    "10. Farneti B, Alarcón AA, Papasotiriou FG, Samudrala D, Cristescu SM, Costa G, et al. Chilling-Induced Changes in Aroma Volatile Profiles in Tomato. Food Bioproc Tech. 2015;8(7):1442-1454.",
+    "11. López SN, Riquelme MB, Botto E. Integración del control biológico y químico de la mosca blanca Trialeurodes vaporariorum (Hemiptera: Aleyrodidae). Rev Colomb Entomol. 2010;36(2):190-194.",
+    "12. Hernández Gutiérrez JE, Torrentes Herrera MJ. Elaboración de un extracto con función bioinsecticida a partir de las semillas del árbol de neem (Azadirachta indica A. Juss) para combatir la plaga de la mosca blanca (B. tabaci) en cultivo de tomate [tesis]. Departamento de Química, UNAN-Managua; 2020."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

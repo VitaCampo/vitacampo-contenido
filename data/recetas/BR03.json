@@ -1,0 +1,287 @@
+{
+  "codigo": "BR03",
+  "nombre": "Hamburguesa de pollo y vegetales",
+  "imagenSize": {
+    "width": 344,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: recetario \"Alimentación y nutrición con sabor\" (Alcaldía de Medellín, ESAN, 2022)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta del recetario \"Alimentación y nutrición con sabor\" (Alcaldía de Medellín, ESAN, 2022) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 hamburguesa con sus ingredientes (≈264 g, sin incluir el pan — ver Conceptos)",
+  "tiempo": "60 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de proteína",
+    "Excelente fuente de vitamina C",
+    "Excelente fuente de niacina (B3)"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "265 kcal",
+      "1060 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "21,8 g",
+      "87,2 g",
+      "30,2 %",
+      "28,0 %"
+    ],
+    [
+      "Carbohidratos",
+      "20,5 g",
+      "82,1 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "10,6 g",
+      "42,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "4,0 g",
+      "15,9 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "103,8 mg",
+      "415,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "2,4 g",
+      "9,6 g",
+      "8,7 %",
+      "7,3 %"
+    ],
+    [
+      "Niacina (B3)*",
+      "7,8 mg",
+      "31,0 mg",
+      "55,4 %",
+      "48,5 %"
+    ],
+    [
+      "Vitamina C*",
+      "34,2 mg",
+      "136,8 mg",
+      "45,6 %",
+      "38,0 %"
+    ],
+    [
+      "Hierro",
+      "2,1 mg",
+      "8,5 mg",
+      "10,9 %",
+      "16,4 %"
+    ],
+    [
+      "Sodio",
+      "206,5 mg",
+      "826,1 mg",
+      "15,0 %",
+      "15,0 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Brócoli",
+      "5 g",
+      "20 g",
+      "¼ trozo pequeño",
+      "1 trozo pequeño"
+    ],
+    [
+      "Coliflor",
+      "5 g",
+      "20 g",
+      "¼ trozo pequeño",
+      "1 trozo pequeño"
+    ],
+    [
+      "Pechuga de pollo, cruda sin piel",
+      "56,8 g",
+      "227 g",
+      "⅛ libra",
+      "½ libra"
+    ],
+    [
+      "Sal (masa)",
+      "0,075 g",
+      "0,3 g",
+      "1 pizca",
+      "1 pizca"
+    ],
+    [
+      "Papa con cáscara, cruda",
+      "65 g",
+      "260 g",
+      "½ unidad mediana",
+      "2 unidades medianas"
+    ],
+    [
+      "Pimienta negra molida (masa)",
+      "0,025 g",
+      "0,1 g",
+      "1 pizca",
+      "1 pizca"
+    ],
+    [
+      "Harina de trigo",
+      "3,5 g",
+      "14 g",
+      "¼ cucharada",
+      "1 cucharada"
+    ],
+    [
+      "Huevo",
+      "12,5 g",
+      "50 g",
+      "¼ unidad",
+      "1 unidad"
+    ],
+    [
+      "Yogur griego natural",
+      "16,3 g",
+      "65 g",
+      "⅛ pocillo",
+      "½ pocillo"
+    ],
+    [
+      "Ajo (salsa)",
+      "0,4 g",
+      "1,5 g",
+      "⅛ diente",
+      "½ diente"
+    ],
+    [
+      "Sal (salsa)",
+      "0,075 g",
+      "0,3 g",
+      "1 pizca",
+      "1 pizca"
+    ],
+    [
+      "Pimienta negra molida (salsa)",
+      "0,025 g",
+      "0,1 g",
+      "1 pizca",
+      "1 pizca"
+    ],
+    [
+      "Albahaca fresca",
+      "0,5 g",
+      "2 g",
+      "2 hojas",
+      "8 hojas"
+    ],
+    [
+      "Aceite de girasol (salsa)",
+      "3,5 g (3,8 mL)",
+      "13,8 g (15 mL)",
+      "¾ cucharadita",
+      "1 cucharada"
+    ],
+    [
+      "Lechuga crespa verde",
+      "15 g",
+      "60 g",
+      "1 hoja",
+      "4 hojas"
+    ],
+    [
+      "Queso mozzarella",
+      "20 g",
+      "80 g",
+      "1 lámina",
+      "4 láminas"
+    ],
+    [
+      "Tomate maduro",
+      "60 g",
+      "240 g",
+      "½ unidad",
+      "2 unidades"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** las verduras: el brócoli, la coliflor, la lechuga, el tomate y la albahaca (ver la tarjeta de limpieza y desinfección).",
+    "**Trocee** el brócoli y la coliflor, incluyendo el tallo.",
+    "**Cocínelos** en agua hirviendo durante 3 minutos y reserve el agua de la cocción. Luego, **sumérjalos** en agua fría, **escúrralos** y **córtelos** en trozos pequeños.",
+    "En el agua reservada, **agregue** el laurel, la sal, la papa con cáscara y el pollo, y **cocine** todo muy bien.",
+    "**Retire** del agua, **desmeche** el pollo y **haga** un puré rústico con la papa.",
+    "**Mezcle** el pollo, la papa, las verduras, el huevo, la harina y la sal hasta obtener una masa suave.",
+    "**Forme** 4 tortas y **áselas** en una sartén caliente, 4 minutos por cada lado.",
+    "Para la salsa, **licue** el yogur, el ajo, la albahaca, la sal, la pimienta y el aceite hasta obtener una mezcla cremosa.",
+    "**Sirva** la hamburguesa con la salsa de albahaca, la lechuga, el tomate y el queso mozzarella, acompañada de pan (ver Conceptos) y, si desea, papas al horno."
+  ],
+  "notaPasos": "Puede preparar la salsa de albahaca con anticipación y refrigerarla; arme las hamburguesas justo antes de servir.",
+  "usoSugerido": "Sirva como plato principal en el almuerzo o la cena.",
+  "nutriConsejo": {
+    "icono": "🍔",
+    "titulo": "Hamburguesa de pollo y vegetales: proteína y vitaminas escondidas",
+    "cuerpo": "Esta hamburguesa es excelente fuente de proteína, de vitamina C y de niacina (vitamina B3), gracias al pollo y a las verduras incorporadas en la masa. Es una forma creativa de incluir brócoli y coliflor —incluyendo el tallo, para aprovechar mejor el alimento— en preparaciones donde suelen pasar desapercibidos."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 hamburguesa con sus ingredientes (masa, salsa, lechuga, tomate y queso), ≈264 g, escalada también a 4 porciones (el tamaño original del libro). El libro menciona servir \"en la base del pan\" en la presentación, pero no incluye el pan en su lista de ingredientes ni especifica su tipo o cantidad — una omisión del propio libro. Por fidelidad a la fuente, el análisis nutricional de esta ficha corresponde solo a los ingredientes listados (sin el pan); quien prepare la receta puede sumar el aporte de su pan de elección."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\" (clasificación \"Baja\" del libro), aunque tiene varios pasos: cocción, desmechado, armado de la masa y preparación de la salsa."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de \"Hamburguesa de pollo y vegetales\", receta de la sección \"Recetas fitness\" del recetario \"Alimentación y nutrición con sabor\" (Alcaldía de Medellín, ESAN, 2022), p.47 (ver bibliografía)."
+    },
+    {
+      "label": "Sobre el laurel:",
+      "texto": "el libro usa 2 hojas de laurel para aromatizar el agua de cocción del pollo y la papa. Las hojas se retiran antes de continuar la preparación (no se comen), por lo que no se incluyeron en el cálculo nutricional, siguiendo la práctica culinaria estándar."
+    },
+    {
+      "label": "Sobre las equivalencias de peso:",
+      "texto": "el libro da varios ingredientes en unidades sin gramos (\"1 trozo pequeño\", \"2 papas medianas\", \"1 huevo\", etc.); se usaron equivalencias de peso estimadas, consistentes con las de otras recetas de VitaCampo (p. ej. \"trozo pequeño\" de brócoli ≈20 g)."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de proteína (≥20 % del valor de referencia nutricional en ambos sexos), de vitamina C y de niacina B3 (≥30 % VDR en ambos sexos) se calcularon por porción (Res. 810 de 2021). La grasa saturada (1,51 g/100 g) queda apenas por encima del límite de 1,5 g/100 g para declararse \"baja en grasa saturada\"."
+    },
+    {
+      "label": "Sobre el colesterol:",
+      "texto": "esta porción aporta 103,8 mg de colesterol, principalmente del pollo, el huevo y el queso mozzarella. Las personas con dislipidemias pueden tenerlo en cuenta dentro de su consumo diario."
+    },
+    {
+      "label": "Sobre la proteína:",
+      "texto": "la Res. 3803 de 2016 expresa la recomendación de proteína por kilo de peso (1,11 g por kg al día). Para calcular el porcentaje se usó un peso de referencia de 70 kg para hombres (77,7 g al día) y de 65 kg para mujeres (72,15 g al día). Por eso este porcentaje es una estimación y cambia según el peso de cada persona."
+    },
+    {
+      "label": "Sobre la cocción segura:",
+      "texto": "cocine la carne y el pollo hasta que no queden partes rosadas y sus jugos salgan claros; en sopas y guisos, lleve el líquido a ebullición, con lo cual se alcanzan unos 70 °C (Organización Mundial de la Salud, ver bibliografía). Sirva caliente y refrigere los sobrantes dentro de las 2 horas siguientes."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Distrito de Ciencia, Tecnología e Innovación, Equipo de Seguridad Alimentaria y Nutricional (ESAN). Alimentación y nutrición con sabor: recetario. 1a ed. Medellín: Alcaldía de Medellín; 2022.",
+    "World Health Organization. Five keys to safer food manual. Geneva: WHO; 2006."
+  ],
+  "imagen": "assets/img/recetas/BR03.jpg"
+}

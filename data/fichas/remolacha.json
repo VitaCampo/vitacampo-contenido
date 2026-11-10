@@ -1,0 +1,138 @@
+{
+  "slug": "remolacha",
+  "nombreComun": "Remolacha",
+  "nombreCientifico": "Beta vulgaris",
+  "subtitulo": "Lo que hay detrás de su color intenso",
+  "imagen": "assets/img/fichas/remolacha.jpg",
+  "creditoImagen": "elaboración propia",
+  "introduccion": "Aunque hoy la remolacha es conocida por su raíz, en la antigüedad se consumían principalmente sus hojas y la raíz se utilizaba con fines medicinales. Su intenso color proviene de pigmentos naturales llamados betalaínas.",
+  "porcionReferencia": "57 gramos, (media unidad pequeña, cocida).",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "25 kcal",
+      "vdrMujer": "1,3%",
+      "vdrHombre": "1,1%"
+    },
+    {
+      "nutriente": "Folato",
+      "cantidad": "46 mcg EFD",
+      "vdrMujer": "11,5%",
+      "vdrHombre": "11,5%"
+    },
+    {
+      "nutriente": "Cobre",
+      "cantidad": "40 mcg",
+      "vdrMujer": "4,4%",
+      "vdrHombre": "4,4%"
+    },
+    {
+      "nutriente": "Potasio",
+      "cantidad": "174 mg",
+      "vdrMujer": "3,7% (AI)",
+      "vdrHombre": "3,7%"
+    },
+    {
+      "nutriente": "Fibra dietética",
+      "cantidad": "1,1 g",
+      "vdrMujer": "4,0%",
+      "vdrHombre": "3,4%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción y la energía",
+      "texto": "57 g (media unidad pequeña) corresponden a la porción habitual de remolacha cocida, según la Lista de Intercambio de Alimentos de la Universidad de Antioquia (5.ª ed., 2023)."
+    },
+    {
+      "titulo": "Sobre crudo vs. cocido",
+      "texto": "los valores de esta tabla corresponden a remolacha cocida. La Tabla de Composición de Alimentos Colombianos (TCAC-ICBF, 2018) reporta un perfil algo distinto para remolacha cruda (53 kcal, 10,3 g de carbohidratos por 100 g), ya que la cocción cambia ligeramente el contenido de nutrientes y agua."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "esta porción aporta 1,1 g de fibra dietética (4,0% del VDR en hombres, 3,4% en mujeres). La fibra dietética tiene dos tipos principales, cada uno con una función distinta en el cuerpo: la fibra insoluble no se disuelve en agua y actúa como una especie de \"escoba natural\" en el intestino, aumentando el volumen de las heces y acelerando el tránsito intestinal; la fibra soluble, en cambio, sí se disuelve en agua formando una sustancia similar a un gel, y se ha asociado con una absorción más lenta de azúcares y grasas. La remolacha aporta ambos tipos, aunque no se encontró una fuente confiable y específica que reporte la proporción exacta entre ellos para la raíz fresca cocida (a diferencia de estudios sobre pulpa de remolacha azucarera industrial, que no son comparables a la forma en que se consume este vegetal)."
+    },
+    {
+      "titulo": "Sobre el potasio",
+      "texto": "no existe una recomendación diaria exacta (RDA); el valor corresponde a Ingesta Adecuada (AI) según RIEN: 4700 mg/día."
+    },
+    {
+      "titulo": "Sobre el cobre",
+      "texto": "calculado con el valor RIEN de 900 mcg/día, igual para ambos sexos."
+    },
+    {
+      "titulo": "Sobre la declaración de folato",
+      "texto": "con 11,5% del VDR, la remolacha no alcanza el umbral de “buena fuente” (≥15%) según el Art. 19 de la Resolución 810 de 2021, por lo que no se usa esa declaración en esta ficha."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía usted que una porción de remolacha cocida (57 g) le aporta 46 mcg de folato, cubriendo el 11% de su requerimiento diario? El folato (o vitamina B9) es indispensable para que el cuerpo produzca ADN y ARN (el material genético que contiene las instrucciones de cada célula), un proceso constante en la formación de células nuevas — por eso su consumo adecuado es especialmente importante antes y durante el embarazo, cuando el cuerpo forma tejido nuevo con mayor rapidez."
+  },
+  "descripcion": "La remolacha debe su color intenso a las betalaínas (pigmentos naturales con función antioxidante) y también contiene nitratos (compuestos naturales que el cuerpo transforma en óxido nítrico, una molécula que ayuda a relajar los vasos sanguíneos), estudiados por su papel en la salud cardiovascular. Un dato curioso: una variedad distinta de esta misma especie —la remolacha azucarera— es una de las principales fuentes de azúcar de mesa en el mundo: mientras en Colombia el azúcar se extrae principalmente de la caña, en Europa gran parte proviene de esta raíz.",
+  "beneficios": [
+    {
+      "icono": "🧬",
+      "titulo": "Formación de células",
+      "texto": "su folato favorece la formación de nuevas células, clave en gestación y etapas de desarrollo."
+    },
+    {
+      "icono": "🦴",
+      "titulo": "Aliado del hierro",
+      "texto": "su cobre ayuda a aprovechar mejor el hierro de los alimentos y forma tejido conectivo (el que sostiene la piel, los huesos y las articulaciones)."
+    },
+    {
+      "icono": "💧",
+      "titulo": "Equilibro de líquidos",
+      "texto": "su potasio ayuda a regular el balance de líquidos en el cuerpo y contribuye al funcionamiento normal de músculos y nervios."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "verdad",
+      "titulo": "¿La remolacha cura la anemia?",
+      "texto": "Es un mito: aunque su color rojo lo sugiere, la remolacha aporta muy poco hierro (0,5 mg en una porción cocida, menos del 4% de lo recomendado al día). Además, es hierro no-hemo (de origen vegetal), el tipo que el cuerpo absorbe con más dificultad. Si tiene anemia, consulte con un profesional de la salud sobre alimentos e indicaciones adecuadas."
+    },
+    {
+      "tipo": "capsula",
+      "titulo": "Remolacha y presión arterial",
+      "texto": "Sus nitratos (compuestos naturales que el cuerpo puede transformar en óxido nítrico, una molécula que ayuda a relajar los vasos sanguíneos) se han estudiado por su relación con una presión arterial más baja: un análisis de más de 20 estudios con jugo concentrado de remolacha encontró una reducción de hasta 3,5 mmHg en la presión sistólica en personas con hipertensión. Curiosamente, otro análisis encontró reducciones de magnitud similar (cercanas a 5 mmHg) incluso en estudios que removían los nitratos del jugo, lo que sugiere que otros compuestos de la remolacha —como las betalaínas, los polifenoles y la vitamina C— también podrían contribuir a este efecto, no solo los nitratos. Esta evidencia proviene de estudios con jugo concentrado de remolacha (70-500 mL/día), una cantidad de nitratos mucho mayor a la de una porción habitual del vegetal entero, y no reemplaza ningún tratamiento médico para la hipertensión."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Aproveche también las hojas",
+      "texto": "Las hojas de la remolacha son comestibles y aportan calcio, potasio y otros nutrientes que complementan a los de la raíz. Se pueden saltear, agregar a sopas o preparar como verdura de hoja, reduciendo el desperdicio de alimentos."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Cuidado con las hojas si tiene cálculos renales",
+      "texto": "La raíz de la remolacha aporta oxalatos (compuestos naturales que, en exceso, pueden formar cálculos renales o piedras en el riñón) en cantidad moderada, pero sus hojas los contienen en cantidad alta, similar a la espinaca. Si tiene antecedentes de cálculos renales por oxalato, evite las hojas crudas, en jugo concentrado o en grandes cantidades; disfrútelas cocidas y con moderación (no más de 2 a 3 veces por semana), junto con una fuente de calcio (como yogur) y buena hidratación. Consulte con un profesional de la salud si tiene esta condición."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Buenas y malas compañías en el cultivo",
+      "texto": "La remolacha se beneficia de sembrarse junto a ciertos cultivos: la cebolla de rama, por ejemplo, repele pulgones y ácaros con su aroma, protegiendo a la remolacha de estas plagas sin necesidad de insecticidas (ver ficha de Cebolla de Rama); y el fríjol, al ser una leguminosa que fija nitrógeno en el suelo con ayuda de bacterias en sus raíces, favorece su desarrollo (ver ficha de Frijol Cargamanto). En cambio, no conviene asociarla con la espinaca: ambas pertenecen a la misma familia botánica (Amarantáceas) y compiten por los mismos nutrientes del suelo, lo que puede afectar el desarrollo de las dos. Conocer estas combinaciones es una forma sencilla y de bajo costo de mejorar el rendimiento del cultivo sin depender de insumos externos."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF; 2018 [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Universidad de Antioquia - Grupo de Investigación Alimentación y Nutrición Humana (GIANH). Lista de intercambios de alimentos. 5.ª ed. Medellín: Universidad de Antioquia; 2023.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "5. Martinez RM, Melo CPB, Pinto IC, Mendes-Pierotti S, Vignoli JA, Verri WA, et al. Betalains: A Narrative Review on Pharmacological Mechanisms Supporting the Nutraceutical Potential Towards Health Benefits. Foods. 2024;13(23):3909.",
+    "6. Rincón-Pabón D, González-Santamaría J, Urazán-Hernández Y. Prevalencia y factores sociodemográficos asociados a anemia ferropénica en mujeres gestantes de Colombia (análisis secundario de la ENSIN 2010). Nutr Hosp. 2019;36(1):87-95.",
+    "7. Milton-Laskibar I, Martínez JA, Portillo MP. Current Knowledge on Beetroot Bioactive Compounds: Role of Nitrate and Betalains in Health and Disease. Foods. 2021;10(6):1314.",
+    "8. Benjamim CJR, Porto AA, Valenti VE, Sobrinho ACDS, Garner DM, Gualano B, et al. Nitrate Derived From Beetroot Juice Lowers Blood Pressure in Patients With Arterial Hypertension: A Systematic Review and Meta-Analysis. Front Nutr. 2022;9:823039.",
+    "9. Bahadoran Z, Mirmiran P, Kabir A, Azizi F, Ghasemi A. The Nitrate-Independent Blood Pressure-Lowering Effect of Beetroot Juice... Adv Nutr. 2017;8(6):830-838.",
+    "10. Prezioso D, Strazzullo P, Lotti T, Bianchi G, Borghi L, Caione P, et al. Dietary treatment of urinary risk factors for renal stone formation. A review of CLU Working Group. Arch Ital Urol Androl. 2015;87(2):105-120.",
+    "11. National Institutes of Health, Office of Dietary Supplements. Copper: Fact Sheet for Health Professionals [Internet]. Bethesda: NIH; 2021 [citado 2026]. Disponible en: https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/",
+    "12. Singh JP, Kaur A, Shevkani K, Singh N. Composition, bioactive compounds and antioxidant activity of common Indian fruits and vegetables. J Food Sci Technol. 2016;53(11):4056-4066.",
+    "13. Castillo J, director Jardín Botánico de Santa Marta. Citado en: Remolacha y los otros cultivos con los que se puede asociar. El Espectador [Internet]. 2025 [citado 2026 Jul]."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

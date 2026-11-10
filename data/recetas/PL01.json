@@ -1,0 +1,177 @@
+{
+  "codigo": "PL01",
+  "nombre": "Chips de plátano verde con cáscara",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Jorge Campos, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa de chips de plátano verde (tostones))",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "1 porción individual (≈60 g de chips, aprox. 15-20 unidades)",
+  "tiempo": "30 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "162 kcal",
+      "647 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,6 g",
+      "2,4 g",
+      "0,8 %",
+      "0,8 %"
+    ],
+    [
+      "Carbohidratos",
+      "18,9 g",
+      "75,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "9,3 g",
+      "37,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "1,0 g",
+      "4,1 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa monoinsaturada",
+      "1,8 g",
+      "7,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa poliinsaturada",
+      "6,1 g",
+      "24,3 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "1,2 g",
+      "4,6 g",
+      "4,2 %",
+      "3,5 %"
+    ],
+    [
+      "Potasio",
+      "249,5 mg",
+      "998,0 mg",
+      "5,3 % (AI)",
+      "5,3 % (AI)"
+    ],
+    [
+      "Sodio",
+      "314,1 mg",
+      "1256,4 mg",
+      "22,8 %",
+      "22,8 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Plátano verde",
+      "50 g",
+      "200 g",
+      "½ unidad mediana",
+      "2 unidades"
+    ],
+    [
+      "Sal (para el agua de remojo)",
+      "0,8 g",
+      "3,2 g",
+      "1 pizca grande",
+      "1 cucharadita"
+    ],
+    [
+      "Aceite (para freír)",
+      "9,2 g (10 mL)",
+      "36,8 g (40 mL)",
+      "1 cucharada",
+      "4 cucharadas"
+    ],
+    [
+      "Sal (para sazonar)",
+      "—",
+      "—",
+      "al gusto, después de freír",
+      "al gusto, después de freír"
+    ],
+    [
+      "Pimienta molida",
+      "0,5 g",
+      "2 g",
+      "1 pizca grande",
+      "2 pizcas grandes"
+    ]
+  ],
+  "pasos": [
+    "**Lave, desinfecte y despunte** el plátano (ver la tarjeta de limpieza y desinfección).",
+    "**Corte** rodajas delgadas con la ayuda de una mandolina o un cuchillo con buen filo.",
+    "**Déjelas reposar** unos 10 minutos en agua fría con sal (puede añadir un diente de ajo picado al agua, solo para dar sabor).",
+    "**Caliente** el aceite en un caldero a fuego medio-alto hasta que esté bien caliente.",
+    "**Retire** las rodajas del agua, **séquelas** bien y **fríalas**, mezclando de vez en cuando.",
+    "**Saque** los chips de la fritura cuando estén crocantes y **escurra** el exceso de aceite sobre papel absorbente.",
+    "**Sazone** con sal y pimienta mientras aún estén calientes."
+  ],
+  "usoSugerido": "Sirva como snack o acompañamiento crocante de sopas, carnes o guisos campesinos.",
+  "nutriConsejo": {
+    "icono": "🍳",
+    "titulo": "Fritura segura y aprovechamiento de la cáscara",
+    "cuerpo": "Esta receta aprovecha el plátano verde con su cáscara, que aporta fibra adicional a la preparación. Al ser un alimento frito, aporta más grasa y calorías que una versión horneada; disfrútelo con moderación dentro de una alimentación variada. Cocine a fuego medio, evite que el aceite humee o se oscurezca, y no lo reutilice más de una o dos veces. Recolecte el aceite usado en un recipiente y entréguelo a un punto de recolección en lugar de botarlo por el desagüe. Por su contenido de potasio, las personas con enfermedad renal deben consultar con su nutricionista antes de consumirla con frecuencia."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con 60 g de chips (plátano más el aceite retenido tras la fritura, según la proporción de la receta original)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque la fritura profunda exige controlar la temperatura del aceite y el tiempo, con el riesgo de quemaduras si no se maneja con cuidado."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "esta preparación no cumple ningún umbral de declaración de propiedades nutricionales: por 100 g de producto, el sodio (523,5 mg/100 g) y la grasa (15,4 g/100 g) superan ampliamente los límites de \"bajo en\", como es esperable en un frito salado, y ningún micronutriente alcanza el 15 % del valor diario recomendado por porción."
+    },
+    {
+      "label": "Sobre la grasa y el sodio:",
+      "texto": "al ser un frito salado, esta preparación tiene naturalmente un aporte alto de grasa y sodio; no se declara ninguna insignia de \"bajo en\" (ver \"Sobre las etiquetas nutricionales\", más arriba)."
+    },
+    {
+      "label": "Sobre el potasio y la enfermedad renal:",
+      "texto": "el plátano contiene potasio de forma natural. Una porción aporta cerca de 249,5 mg de potasio. Las personas con enfermedad renal o con hiperpotasemia (potasio alto en la sangre) deben vigilar su consumo de potasio y consultar con su nutricionista antes de consumir esta preparación con frecuencia."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 314,1 mg de sodio (22,8 % de la ingesta adecuada diaria). Las personas con hipertensión arterial o enfermedad renal pueden reducir la sal agregada."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/PL01.jpg"
+}

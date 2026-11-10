@@ -1,0 +1,259 @@
+{
+  "codigo": "PA02",
+  "nombre": "Causa limeña de papa criolla y arracacha",
+  "imagenSize": {
+    "width": 600,
+    "height": 171
+  },
+  "imagenCredito": "Imagen: recetario \"Tesoros en la cocina\" (Alcaldía de Medellín, 2025)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta del recetario \"Tesoros en la cocina\" (Alcaldía de Medellín, 2025) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (1 causa individual en capas, ≈168 g)",
+  "tiempo": "40 minutos (más el reposo de la cebolla encurtida)",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de niacina (B3)",
+    "Buena fuente de vitamina C",
+    "Buena fuente de proteína"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "196 kcal",
+      "785 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "12,4 g",
+      "49,8 g",
+      "17,2 %",
+      "16,0 %"
+    ],
+    [
+      "Carbohidratos",
+      "21,2 g",
+      "84,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "6,8 g",
+      "27,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "2,4 g",
+      "9,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "34,0 mg",
+      "136,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "3,1 g",
+      "12,3 g",
+      "11,2 %",
+      "9,4 %"
+    ],
+    [
+      "Vitamina C*",
+      "19,0 mg",
+      "75,9 mg",
+      "25,3 %",
+      "21,1 %"
+    ],
+    [
+      "Niacina (B3)*",
+      "5,3 mg",
+      "21,3 mg",
+      "38,0 %",
+      "33,2 %"
+    ],
+    [
+      "Folato (B9)",
+      "27,8 µg",
+      "111,2 µg",
+      "6,9 %",
+      "6,9 %"
+    ],
+    [
+      "Potasio",
+      "518,9 mg",
+      "2075,4 mg",
+      "11,0 %",
+      "11,0 %"
+    ],
+    [
+      "Sodio",
+      "373,0 mg",
+      "1492,0 mg",
+      "27,1 %",
+      "27,1 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Cebolla morada",
+      "10 g",
+      "40 g",
+      "2 cucharadas picada",
+      "8 cucharadas picada"
+    ],
+    [
+      "Vinagre blanco",
+      "5 g (5 mL)",
+      "20 g (20 mL)",
+      "1 cucharadita",
+      "4 cucharaditas"
+    ],
+    [
+      "Azúcar morena",
+      "1 g",
+      "4 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Papa criolla",
+      "35 g",
+      "140 g",
+      "4 papas criollas pequeñas",
+      "16 papas criollas pequeñas"
+    ],
+    [
+      "Arracacha amarilla",
+      "35 g",
+      "140 g",
+      "1 trozo pequeño",
+      "4 trozos pequeños"
+    ],
+    [
+      "Mantequilla con sal",
+      "3 g",
+      "12 g",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ],
+    [
+      "Sal",
+      "0,8 g",
+      "3,2 g",
+      "1 pizca",
+      "¾ cucharadita"
+    ],
+    [
+      "Pimienta negra molida",
+      "0,2 g",
+      "0,8 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Pechuga de pollo (sin piel, cocida)",
+      "35 g",
+      "140 g",
+      "⅓ pechuga pequeña desmechada",
+      "1⅓ pechuga pequeña desmechada"
+    ],
+    [
+      "Mango maduro",
+      "10 g",
+      "40 g",
+      "1 cucharada en cubos",
+      "4 cucharadas en cubos"
+    ],
+    [
+      "Yogur natural bajo en grasa",
+      "8 g",
+      "32 g",
+      "1½ cucharaditas",
+      "2 cucharadas"
+    ],
+    [
+      "Aguacate",
+      "20 g",
+      "80 g",
+      "2 cucharadas en puré",
+      "½ taza en puré"
+    ],
+    [
+      "Cilantro",
+      "2 g",
+      "8 g",
+      "1 cucharadita picada",
+      "4 cucharaditas picadas"
+    ],
+    [
+      "Limón, jugo",
+      "3 g (3 mL)",
+      "12 g (12 mL)",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** la papa criolla, la arracacha, el aguacate, el cilantro, el limón, la cebolla morada y el mango (ver la tarjeta de limpieza y desinfección).",
+    "Para la cebolla encurtida: **corte** la cebolla morada en tiras finas. En un recipiente, **mézclela** con el vinagre, el azúcar morena y una pizca de sal. **Deje reposar** al menos 30 minutos (o hasta el día siguiente en la nevera, para mejor sabor y color).",
+    "En una olla con agua, **hierva** la papa criolla y la arracacha (peladas y en trozos) durante 15 a 20 minutos, hasta que estén blandas. Al mismo tiempo, en otra olla, **hierva** la pechuga de pollo con un poco de sal durante 15 a 18 minutos, hasta que esté bien cocida; **retírela**, **déjela enfriar** y **desmenúcela**.",
+    "**Escurra** la papa y la arracacha, y **tritúrelas** con un tenedor o prensapapas junto con la mantequilla, la sal y la pimienta, hasta obtener un puré suave. **Reserve**.",
+    "En un recipiente, **triture** el mango maduro con un tenedor y **mézclelo** con el yogur natural, hasta obtener una salsa homogénea. **Mezcle** esta salsa con el pollo desmenuzado. **Reserve**.",
+    "En otro recipiente, **machaque** el aguacate con el jugo de limón, el cilantro picado y una pizca de sal, hasta obtener un puré suave.",
+    "**Arme** la causa en un molde pequeño o un vaso: ponga primero una capa del puré de papa y arracacha, luego el pollo con la salsa de mango, y termine con otra capa de puré. **Desmolde** con cuidado sobre el plato.",
+    "**Corone** con el puré de aguacate y la cebolla morada encurtida escurrida. **Sirva** frío o a temperatura ambiente."
+  ],
+  "notaPasos": "Prepare la cebolla encurtida con anticipación (idealmente la noche anterior) para que tenga mejor sabor y color. El resto de la causa puede armarse el mismo día y conservarse en refrigeración hasta el momento de servir.",
+  "usoSugerido": "Sirva como entrada o como plato principal ligero y frío, ideal para un almuerzo especial.",
+  "nutriConsejo": {
+    "icono": "🥑",
+    "titulo": "Causa limeña: capas de papa criolla y arracacha colombianas",
+    "cuerpo": "Este plato es excelente fuente de niacina (vitamina B3, aportada por el pollo) y buena fuente de vitamina C y de proteína. El sodio proviene principalmente de la mantequilla con sal y la sal agregada: las personas con hipertensión arterial pueden usar mantequilla sin sal o reducir la cantidad. Esta versión reemplaza la mayonesa de huevo crudo de la receta original por una salsa de mango con yogur, para evitar el riesgo de Salmonella del huevo crudo."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción individual de causa en capas, con puré de aguacate y cebolla encurtida encima (≈168 g en total), con los ingredientes escalados también a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque, aunque cada técnica individual es sencilla (hervir, triturar, mezclar, machacar), el plato tiene varios componentes que se preparan por separado (puré, relleno de pollo, puré de aguacate, cebolla encurtida) y luego se arman en capas dentro de un molde."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de \"Causa limeña\", receta del recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025) (ver bibliografía), un plato de origen peruano preparado aquí con papa criolla y arracacha, dos alimentos priorizados de VitaCampo. Se simplificó la cebolla morada en escabeche del libro original (se omitió el ají dulce, de difícil consecución en el contexto campesino antioqueño) y se reemplazó la mayonesa de mango de la receta original —que lleva huevo crudo— por una salsa de mango con yogur natural, para evitar el riesgo de Salmonella del huevo crudo."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de niacina B3 (≥30 % VDR en ambos sexos, principalmente por el pollo) y \"buena fuente\" de vitamina C y de proteína (≥15 % VDR y ≥10 % VRN, respectivamente, en ambos sexos) se calcularon por porción (Res. 810 de 2021). No aplican declaraciones \"bajo en\" de grasa, grasa saturada ni sodio: calculados por 100 g de producto, los tres superan o quedan muy cerca de los límites de esas declaraciones (la grasa saturada, 1,44 g/100 g, queda apenas por debajo del límite de 1,5 g/100 g, un margen demasiado estrecho para declararla con confianza)."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 373 mg de sodio (27 % de la ingesta adecuada diaria), principalmente por la mantequilla con sal y la sal agregada. Las personas con hipertensión arterial o enfermedad renal pueden usar mantequilla sin sal y reducir la sal agregada."
+    },
+    {
+      "label": "Sobre la proteína:",
+      "texto": "la Res. 3803 de 2016 expresa la recomendación de proteína por kilo de peso (1,11 g por kg al día). Para calcular el porcentaje se usó un peso de referencia de 70 kg para hombres (77,7 g al día) y de 65 kg para mujeres (72,15 g al día). Por eso este porcentaje es una estimación y cambia según el peso de cada persona."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Vanegas Piedrahíta L. Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos. Medellín: Alcaldía de Medellín, Distrito de Ciencia, Tecnología e Innovación; 2025."
+  ],
+  "imagen": "assets/img/recetas/PA02.png"
+}
