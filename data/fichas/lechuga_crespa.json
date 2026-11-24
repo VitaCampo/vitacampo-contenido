@@ -1,0 +1,126 @@
+{
+  "slug": "lechuga_crespa",
+  "nombreComun": "Lechuga Crespa Verde",
+  "nombreCientifico": "Lactuca sativa var. crispa",
+  "subtitulo": "Hasta los animales más fuertes del planeta se alimentan de hojas",
+  "imagen": "assets/img/fichas/lechuga_crespa.jpg",
+  "creditoImagen": "Elaboración propia.",
+  "introduccion": "La domesticación de la lechuga comenzó en el Antiguo Egipto hace aproximadamente 4.500 años, documentada en pinturas de tumbas, a partir de Lactuca serriola (lechuga silvestre) como ancestro directo. Con el tiempo, el cultivo se diversificó en muchas variedades distintas — entre ellas, la crespa de hoja suelta que conocemos hoy.",
+  "porcionReferencia": "100 gramos (aproximadamente 3 tazas en trozos)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "18,5 kcal",
+      "vdrMujer": "0,94%",
+      "vdrHombre": "0,79%"
+    },
+    {
+      "nutriente": "Vitamina K",
+      "cantidad": "118 mcg",
+      "vdrMujer": "196,7%",
+      "vdrHombre": "168,6%"
+    },
+    {
+      "nutriente": "Vitamina A",
+      "cantidad": "583 mcg ER",
+      "vdrMujer": "83,3%",
+      "vdrHombre": "64,8%"
+    },
+    {
+      "nutriente": "Folato",
+      "cantidad": "91 mcg EFD",
+      "vdrMujer": "22,75%",
+      "vdrHombre": "22,75%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "15,2 mg",
+      "vdrMujer": "20,3%",
+      "vdrHombre": "16,9%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción de referencia",
+      "texto": "se usó 100 g debido a que la Lista de Intercambios UdeA no define una porción de referencia específica para lechuga; adicionalmente, por su bajo aporte calórico (18,5 kcal/100 g), se considera un alimento de consumo libre."
+    },
+    {
+      "titulo": "Sobre la fuente de los datos",
+      "texto": "ni el TCAC-ICBF ni las RINAs reportan la variedad crespa específicamente (el TCAC-ICBF solo registra lechuga romana, y las RINAs, lechuga batavia — ambas variedades de cabeza, distintas a la crespa de hoja suelta). Por eso se usó USDA FoodData Central (“Lettuce, green leaf, raw”), que sí corresponde a la variedad correcta."
+    },
+    {
+      "titulo": "Sobre el hierro",
+      "texto": "con solo 0,32 mg/100 g (2,46% del VDR en hombres, 1,64% en mujeres), la lechuga crespa no es una fuente relevante de hierro."
+    },
+    {
+      "titulo": "Sobre las declaraciones",
+      "texto": "según la Resolución 810 de 2021, esta porción califica como “excelente fuente” (≥30% VRN) de Vitamina K, Vitamina A y Folato, y como “buena fuente” (≥15% VRN) de Vitamina C."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía usted que 100 gramos de lechuga crespa (unas 3 tazas) aportan casi el doble (mujeres) y más del 150% (hombres) de su requerimiento diario de vitamina K, importante para la coagulación sanguínea normal?"
+  },
+  "descripcion": "La lechuga crespa está compuesta en más del 90% por agua, pero el resto concentra vitaminas y pigmentos vegetales que le dan su color verde intenso. Al cortar o partir sus hojas, libera una savia lechosa llamada lactucario (un líquido de sabor amargo que en la antigüedad se usaba como calmante natural), característica que da origen al nombre científico del género, Lactuca, relacionado con la palabra latina para \"leche\".",
+  "beneficios": [
+    {
+      "icono": "👁️",
+      "titulo": "Visión",
+      "texto": "su vitamina A contribuye al funcionamiento normal de la visión y de las defensas del cuerpo."
+    },
+    {
+      "icono": "🧬",
+      "titulo": "Formación de células",
+      "texto": "su folato favorece la formación de nuevas células, clave en gestación y etapas de desarrollo."
+    },
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas",
+      "texto": "su vitamina C contribuye al funcionamiento normal del sistema inmunitario y a la formación de colágeno (una proteína que da estructura a la piel)."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "capsula",
+      "titulo": "Lechuga y salud ocular",
+      "texto": "Además de la vitamina A, la lechuga crespa aporta luteína y zeaxantina (dos carotenoides —pigmentos naturales de las plantas con función antioxidante— que el cuerpo no puede producir por sí solo). Estos compuestos se acumulan en la mácula (una zona central de la retina, la capa del ojo sensible a la luz), donde actúan como una especie de filtro natural frente a la luz. Estudios en personas sugieren que un consumo adecuado de estos compuestos podría ayudar a retrasar la progresión de la degeneración macular (una causa común de pérdida de visión relacionada con la edad), aunque no la previene por completo ni reemplaza el control oftalmológico regular."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Precaución con anticoagulantes",
+      "texto": "La lechuga crespa es una excelente fuente de vitamina K. Si toma medicamentos anticoagulantes (como la warfarina), no es necesario evitarla por completo, pero sí mantener un consumo controlado y evitar cambios bruscos de un día a otro, ya que las variaciones grandes en el consumo de vitamina K pueden afectar el control de estos medicamentos. Consulte con su médico."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Cómo lavarla, desinfectarla y conservarla correctamente",
+      "texto": "Como la lechuga se come siempre cruda, un buen lavado es esencial: 1. Retire las hojas dañadas y separe todas las hojas entre sí. 2. Lave cada hoja bajo un chorro de agua potable, frotando suavemente para quitar la tierra visible. 3. Prepare la solución desinfectante: diluya 1 cucharada (15 ml) de hipoclorito (el líquido blanqueador de uso doméstico) en 1 litro de agua potable. 4. Sumerja las hojas completamente en esa solución durante 3 a 5 minutos. 5. Enjuague con abundante agua potable para retirar el residuo de la solución. 6. Seque bien las hojas antes de guardarlas o consumirlas. Este método reduce de forma importante la cantidad de microorganismos presentes en la hoja, aunque ningún lavado casero elimina el 100%. Para conservarla fresca por más tiempo, guárdela ya lavada y seca, envuelta en un paño o papel absorbente dentro de una bolsa o recipiente en la nevera."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Biol: nitrógeno de liberación gradual",
+      "texto": "La lechuga forma parte de las hortalizas que abastecen a Medellín desde corregimientos como San Cristóbal, San Antonio de Prado y Santa Elena, donde la mayoría de los pequeños productores ya combina fertilización orgánica con biopreparados. Uno de los más usados es el biol: un abono líquido obtenido al fermentar, en un recipiente cerrado durante 30 a 60 días, estiércol fresco, melaza o panela, agua sin cloro y residuos vegetales. A diferencia de fertilizantes químicos de liberación rápida como la urea —que favorecen picos de acumulación de nitratos en la hoja—, el biol libera el nitrógeno de forma más gradual, lo que ayuda a un crecimiento más equilibrado de la planta."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "5. U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Lettuce, green leaf, raw [Internet]. Beltsville: USDA; 2019 [citado 2026].",
+    "6. Zhang C, Wei T, Zhu Z, Zhang X, Wang Y, Xu X, et al. Dissection of the domestication-shaped genetic architecture of lettuce primary metabolism. Plant J. 2020;104(3):613-630.",
+    "7. Kim MJ, Moon Y, Tou JC, Mou B, Waterland NL. Nutritional value, bioactive compounds and health benefits of lettuce (Lactuca sativa L.). J Food Compos Anal. 2016;49:19-34.",
+    "8. Shi M, Gu J, Wu H, Rauf A, Emran TB, Khan Z, et al. Phytochemicals, Nutrition, Metabolism, Bioavailability, and Health Benefits in Lettuce—A Comprehensive Review. Antioxidants. 2022;11(6):1158.",
+    "9. Mrowicka M, Mrowicki J, Kucharska E, Majsterek I. Lutein and Zeaxanthin and Their Roles in Age-Related Macular Degeneration. Nutrients. 2022;14(4):827.",
+    "10. Violi F, Lip GYH, Pignatelli P, Pastori D. Interaction Between Dietary Vitamin K Intake and Anticoagulation by Vitamin K Antagonists: Is It Really True? A Systematic Review. Medicine. 2016;95(10):e2895.",
+    "11. Bencardino D, Vitali LA, Petrelli D. Microbiological evaluation of ready-to-eat iceberg lettuce during shelf-life and effectiveness of household washing methods. Ital J Food Saf. 2018;7(1):6913.",
+    "12. Uhlig E, Olsson C, He J, Stark T, Sadowska Z, Molin G, et al. Effects of household washing on bacterial load and removal of E. coli from lettuce and “ready-to-eat” salads. Food Sci Nutr. 2017;5(6):1215-1220.",
+    "13. Organismo Internacional Regional de Sanidad Agropecuaria (OIRSA). Guía para uso de cloro en desinfección de frutas y hortalizas de consumo fresco, equipos y superficies en establecimientos [Internet]. San Salvador: OIRSA; 2020.",
+    "14. Lucarini M, D'Evoli L, Tufi S, Gabrielli P, Paoletti S, Di Ferdinando S, et al. Influence of growing system on nitrate accumulation in two varieties of lettuce and red radicchio of Treviso. J Sci Food Agric. 2012;92(14):2796-2799."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

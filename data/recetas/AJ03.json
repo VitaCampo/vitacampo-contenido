@@ -1,0 +1,168 @@
+{
+  "codigo": "AJ03",
+  "nombre": "Ajo asado",
+  "imagenSize": {
+    "width": 338,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: Nadin Sh, Pexels — Licencia Pexels (uso libre). Fotografía \"Close-up of Roasted Garlic Bulb on Wooden Surface\": https://www.pexels.com/photo/29626032/ (Imagen ilustrativa de una cabeza de ajo asada)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de la receta \"Roasted Garlic\" del programa Food Hero, Oregon State University Extension Service (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈¾ cucharada, ≈10 g)",
+  "tiempo": "45 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "25 kcal",
+      "100 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,6 g",
+      "2,3 g",
+      "0,8 %",
+      "0,8 %"
+    ],
+    [
+      "Carbohidratos",
+      "3,0 g",
+      "11,9 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "1,2 g",
+      "4,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,2 g",
+      "0,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "0,0 mg",
+      "0,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina B6",
+      "0,11 mg",
+      "0,44 mg",
+      "7,8 %",
+      "7,3 %"
+    ],
+    [
+      "Vitamina C",
+      "2,7 mg",
+      "11,0 mg",
+      "3,7 %",
+      "3,0 %"
+    ],
+    [
+      "Calcio",
+      "16,4 mg",
+      "65,7 mg",
+      "1,5 %",
+      "1,6 %"
+    ],
+    [
+      "Sodio",
+      "59,7 mg",
+      "238,7 mg",
+      "4,3 %",
+      "4,3 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Ajo (1 cabeza entera)",
+      "8,75 g",
+      "35 g",
+      "¼ cabeza",
+      "1 cabeza"
+    ],
+    [
+      "Aceite de oliva",
+      "1,15 g (1,25 mL)",
+      "4,6 g (5 mL)",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Sal",
+      "0,15 g",
+      "0,6 g",
+      "1 pizca",
+      "⅛ cucharadita"
+    ],
+    [
+      "Pimienta negra molida",
+      "0,13 g",
+      "0,5 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lávese** las manos con agua y jabón y **lave** la cabeza de ajo (ver la tarjeta de limpieza y desinfección). **Precaliente** el horno a 190 °C (375 °F).",
+    "**Enjuague** la cabeza de ajo entera bajo agua corriente fría y **séquela**. Sin separar los dientes, **retire** las capas de cáscara externa que salgan fácil.",
+    "Con un cuchillo afilado, **corte** la punta superior de la cabeza de ajo, de forma que se vea un poco de todos los dientes.",
+    "**Colóquela** sobre un papel aluminio o en un molde apto para horno, con el corte hacia arriba.",
+    "**Rocíe** con el aceite de oliva y **espolvoree** con la sal y la pimienta.",
+    "**Cierre** el papel aluminio alrededor del ajo, o **cubra** el molde con aluminio, una tapa o una bandeja plana, y **ase** en el horno hasta que el ajo esté blando y dorado, unos 40 minutos.",
+    "**Deje enfriar** hasta que sea seguro manipularlo.",
+    "**Abra** el papel o el molde y **exprima** el ajo de cada diente hacia un recipiente.",
+    "**Refrigere** o congele lo que sobre dentro de las 2 horas siguientes."
+  ],
+  "notaPasos": "Puede asar más de una cabeza a la vez y congelar porciones pequeñas en recipientes herméticos etiquetados, para tener ajo asado listo cuando lo necesite.",
+  "usoSugerido": "Unte sobre pan tostado, mezcle en puré de papa o sopas, o agregue a aderezos, dips y vinagretas como el hummus o el guacamole.",
+  "nutriConsejo": {
+    "icono": "🧄",
+    "titulo": "Ajo asado: sabor suave y dulce, sin inventar nada",
+    "cuerpo": "Asar el ajo entero suaviza su sabor picante y lo vuelve dulce y untable, sin necesidad de agregar azúcar ni grasas adicionales. Aunque en esta porción pequeña el aporte de vitaminas y minerales es modesto, el ajo contiene compuestos organosulfurados como la alicina, estudiados por sus posibles efectos antioxidantes, que se conservan parcialmente con la cocción al horno."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción (≈¾ cucharada, ≈10 g), escalada también a 4 porciones. La receta original rinde unas 3 cucharadas (≈45 g) de ajo asado, usando 1 cabeza completa; se presenta como condimento para 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\" porque son pasos sencillos (lavar, cortar, hornear, exprimir), sin técnicas complejas."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de \"Roasted Garlic\", receta del programa Food Hero, de Oregon State University Extension Service (ver bibliografía), una fuente institucional de educación alimentaria (programa de extensión universitaria de EE. UU. para familias de bajos recursos)."
+    },
+    {
+      "label": "Sobre las cantidades:",
+      "texto": "la fuente da los ingredientes en medidas caseras (1 cabeza de ajo, 1 cucharadita de aceite, ⅛ cucharadita de sal, ¼ cucharadita de pimienta) sin gramos exactos; se usó el peso estimado de una cabeza de ajo mediana (≈35 g en dientes pelados) para el cálculo nutricional."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "en una porción de condimento tan pequeña (≈10 g), ningún nutriente alcanza el 15 % del VDR necesario para declarar \"buena fuente\"; por eso esta ficha no tiene insignias nutricionales. Esto no significa que el ajo no tenga propiedades de interés: a diferencia de un alimento que se come en porciones grandes, el ajo se usa en cantidades pequeñas como condimento, por lo que su aporte de vitaminas y minerales por porción es necesariamente bajo, aunque sus compuestos bioactivos (como la alicina) se estudian en otras dosis y presentaciones."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Food Hero, Oregon State University Extension Service. Roasted Garlic [Internet]. Corvallis (OR): Oregon State University; 2024 [citado 2 nov 2026]. Disponible en: https://extension.oregonstate.edu/imported-publication/roasted-garlic"
+  ],
+  "imagen": "assets/img/recetas/AJ03.jpg"
+}

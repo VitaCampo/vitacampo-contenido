@@ -1,0 +1,186 @@
+{
+  "codigo": "AR01",
+  "nombre": "Arvejas crocantes",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Zhang liven, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa de arvejas verdes)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "1 cucharada (≈15 g de arvejas crocantes)",
+  "tiempo": "45 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Bajo en grasa"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "32 kcal",
+      "130 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "1,6 g",
+      "6,5 g",
+      "2,2 %",
+      "2,1 %"
+    ],
+    [
+      "Carbohidratos",
+      "4,8 g",
+      "19,1 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,8 g",
+      "3,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "1,7 g",
+      "6,6 g",
+      "6,0 %",
+      "5,1 %"
+    ],
+    [
+      "Vitamina C",
+      "4,3 mg",
+      "17,1 mg",
+      "5,7 %",
+      "4,8 %"
+    ],
+    [
+      "Vitamina A",
+      "18,0 µg ER",
+      "72,0 µg ER",
+      "2,6 %",
+      "2,0 %"
+    ],
+    [
+      "Tiamina (B1)",
+      "0,08 mg",
+      "0,32 mg",
+      "7,2 %",
+      "6,6 %"
+    ],
+    [
+      "Sodio",
+      "98,6 mg",
+      "394,6 mg",
+      "7,2 %",
+      "7,2 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Arvejas frescas",
+      "30 g",
+      "120 g",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Ajo",
+      "0,25 g",
+      "1 g",
+      "1 pizca",
+      "½ diente pequeño"
+    ],
+    [
+      "Sal",
+      "0,25 g",
+      "1 g",
+      "1 pizca",
+      "1 pizca grande"
+    ],
+    [
+      "Comino molido",
+      "0,1 g",
+      "0,4 g",
+      "1 pizca",
+      "1 pizca grande"
+    ],
+    [
+      "Pimienta molida",
+      "0,1 g",
+      "0,4 g",
+      "1 pizca",
+      "1 pizca grande"
+    ],
+    [
+      "Aceite de girasol",
+      "0,75 mL",
+      "3 mL",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave, limpie y desinfecte** las arvejas frescas desgranadas (ver la tarjeta de limpieza y desinfección).",
+    "**Seque** con papel o paño limpio.",
+    "**Ralle o machaque** el ajo hasta obtener una textura muy fina.",
+    "**Sazone** las arvejas en un recipiente con el ajo, la sal, el comino, la pimienta y el aceite de girasol.",
+    "**Extienda** las arvejas en una lata de horno, formando una sola capa para evitar saturación.",
+    "**Hornee** en horno precalentado a 100 °C durante aproximadamente 30 minutos, revisando a mitad y al final para asegurar que queden crocantes pero no excesivamente duras.",
+    "**Deje enfriar** completamente y conserve en un recipiente hermético, preferiblemente de vidrio, en refrigeración por máximo 3 días."
+  ],
+  "notaPasos": "Las vainas frescas pueden aprovecharse en cremas, sopas o salteados, picadas finamente.",
+  "usoSugerido": "Sirva como snack saludable, acompañamiento crocante en ensaladas o como guarnición ligera en platos principales.",
+  "nutriConsejo": {
+    "icono": "🌱",
+    "titulo": "Arvejas y salud",
+    "cuerpo": "Las arvejas aportan proteína vegetal, fibra insoluble y vitamina C. También contienen tiamina (vitamina B1), importante para el metabolismo energético y el sistema nervioso. En personas con enfermedad renal o hiperpotasemia, se recomienda un consumo moderado y consultar con un profesional de la salud. El horneado suave permite obtener una textura crocante sin necesidad de fritura profunda, preservando sus nutrientes y limitando el contenido graso de la preparación."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción y rendimiento:",
+      "texto": "se calculó con 15 g de arvejas crocantes (1 cucharada). La deshidratación durante el horneado reduce el peso de la arveja fresca a la mitad por pérdida de agua, por lo cual 30 g de arveja fresca cruda rinden aproximadamente 15 g de arveja crocante horneada. Se usó la composición de \"arveja verde tierna, cocida\" (RINAs-UdeA 2019) aplicada al peso previo al horneado, ya que ninguna tabla reporta una versión horneada/deshidratada de este alimento."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque, además de las técnicas básicas, incluye horneado con temperatura y tiempo definidos que requiere revisar el punto de cocción para que quede crocante sin secarse en exceso."
+    },
+    {
+      "label": "Sobre la inocuidad:",
+      "texto": "las arvejas frescas deben lavarse y desinfectarse adecuadamente antes de sazonar y hornear para garantizar la inocuidad alimentaria."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"Bajo en grasa\" se calculó por 100 g de producto (2,4 g/100 g), por debajo del límite de 3 g/100 g que exige la norma. Ningún micronutriente destacado alcanza el 15 % del valor diario recomendado por porción exigido para \"buena fuente\"."
+    },
+    {
+      "label": "Sobre la fibra:",
+      "texto": "la arveja fresca aporta fibra principalmente insoluble, la cual favorece el tránsito intestinal y la saciedad."
+    },
+    {
+      "label": "Sobre la proteína:",
+      "texto": "aunque aporta una cantidad moderada de proteína vegetal, combinarla con cereales como el arroz o la arepa permite complementar su perfil de aminoácidos esenciales."
+    },
+    {
+      "label": "Sobre los polifenoles:",
+      "texto": "las arvejas contienen compuestos bioactivos y flavonoides con potencial antioxidante."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. El % VDR indica qué tanto de una recomendación de \"llegar a\" cubre una porción, algo que tiene sentido para nutrientes como las vitaminas. La recomendación de energía, en cambio, es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso las calorías, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Instituto Colombiano de Bienestar Familiar. Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018.",
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Universidad de Antioquia. Lista de Intercambio de Alimentos. 5.a ed. Medellín: UdeA; 2023.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Wu DT, Li WX, Wan JJ, Hu YC, Gan RY, Zou L. A comprehensive review of pea (Pisum sativum L.): chemical composition, processing, health benefits, and food applications. Foods. 2023;12(13):2527."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/AR01.jpg"
+}

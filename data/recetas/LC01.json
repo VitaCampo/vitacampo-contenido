@@ -1,0 +1,239 @@
+{
+  "codigo": "LC01",
+  "nombre": "Crema de lechuga, papa y pimentón",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Rahul Sonawane, Pexels — Licencia Pexels (uso libre). Fotografía \"Soup with Broccoli\": https://www.pexels.com/photo/20004858/ (Imagen ilustrativa de una crema de verduras)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta del recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia, Gerencia MANÁ) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1½ cucharón, ≈264 g de ingredientes sólidos más el agua y la leche incorporadas al licuar)",
+  "tiempo": "30 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina C",
+    "Buena fuente de vitamina A",
+    "Bajo en grasa"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "159 kcal",
+      "637 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "5,2 g",
+      "20,8 g",
+      "7,2 %",
+      "6,7 %"
+    ],
+    [
+      "Carbohidratos",
+      "26,7 g",
+      "106,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "3,5 g",
+      "14,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "1,6 g",
+      "6,3 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "0,0 mg",
+      "0,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "3,6 g",
+      "14,6 g",
+      "13,2 %",
+      "11,1 %"
+    ],
+    [
+      "Vitamina A*",
+      "261,5 µg ER",
+      "1046,0 µg ER",
+      "37,4 %",
+      "29,1 %"
+    ],
+    [
+      "Vitamina C*",
+      "52,8 mg",
+      "211,3 mg",
+      "70,4 %",
+      "58,7 %"
+    ],
+    [
+      "Folato (B9)",
+      "63,8 µg",
+      "255,3 µg",
+      "16,0 %",
+      "16,0 %"
+    ],
+    [
+      "Sodio",
+      "443,9 mg",
+      "1775,7 mg",
+      "32,3 %",
+      "32,3 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Papa común, pelada",
+      "87,5 g",
+      "350 g",
+      "¾ papa mediana",
+      "2½ papas medianas"
+    ],
+    [
+      "Lechuga crespa verde",
+      "87,5 g",
+      "350 g",
+      "¼ unidad (cabeza)",
+      "1 unidad (cabeza)"
+    ],
+    [
+      "Pimentón rojo",
+      "11,3 g",
+      "45 g",
+      "⅛ unidad pequeña",
+      "½ unidad pequeña"
+    ],
+    [
+      "Cebolla cabezona blanca",
+      "12,5 g",
+      "50 g",
+      "1 cucharadita picada",
+      "1½ cucharadas picada"
+    ],
+    [
+      "Ajo",
+      "0,6 g",
+      "2,5 g",
+      "¼ diente pequeño",
+      "1 diente pequeño"
+    ],
+    [
+      "Comino",
+      "0,04 g",
+      "0,2 g",
+      "1 pizca",
+      "1 pizca generosa"
+    ],
+    [
+      "Orégano",
+      "0,25 g",
+      "1,0 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Sal",
+      "1 g",
+      "4 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Margarina",
+      "1,25 g",
+      "5 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Leche entera líquida",
+      "62,5 g (62,5 mL)",
+      "250 g (250 mL)",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Agua",
+      "125 mL",
+      "500 mL",
+      "½ taza",
+      "2 tazas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** la papa, la lechuga, el pimentón, la cebolla y el ajo (ver la tarjeta de limpieza y desinfección).",
+    "**Pele** y **pique** la papa en trozos pequeños. **Pique** finamente la cebolla y el pimentón.",
+    "En una olla, **sofría** a fuego bajo la cebolla y el pimentón picados junto con el ajo, hasta que la cebolla esté transparente.",
+    "**Agregue** el agua y la papa, y **deje hervir** a fuego bajo durante 15 minutos.",
+    "**Agregue** las hojas de lechuga troceadas, el comino y el orégano, y **deje hervir** 2 minutos más.",
+    "**Baje** del fuego, **deje entibiar** y **licúe** hasta obtener una crema homogénea.",
+    "**Lleve** de nuevo al fuego, **agregue** la leche, la margarina y la sal, y **revuelva** hasta alcanzar la consistencia deseada.",
+    "**Sirva** caliente."
+  ],
+  "notaPasos": "Puede acompañar con un poco de crema de leche y trozos de pan, al gusto (opcional, sugerencia del recetario original).",
+  "usoSugerido": "Sirva como entrada o como plato principal ligero.",
+  "nutriConsejo": {
+    "icono": "🥬",
+    "titulo": "Crema de lechuga, papa y pimentón: aprovechando las hojas verdes",
+    "cuerpo": "Esta crema es excelente fuente de vitamina C y buena fuente de vitamina A, gracias a la lechuga y el pimentón, y es baja en grasa. El sodio proviene principalmente de la sal agregada: las personas con hipertensión arterial o enfermedad renal pueden reducir aún más la cantidad de sal."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción de crema (≈1½ cucharón, ≈264 g de ingredientes sólidos, además del agua y la leche incorporadas al licuar), con los ingredientes escalados también a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\" porque las técnicas de base (sofreír, hervir, licuar) son sencillas y no requieren técnicas de cocción complejas."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de \"Crema de lechuga y apio\", receta de la sección \"Sopas y cremas\" del recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia, Gerencia MANÁ) (ver bibliografía), p. 12. El título original del libro menciona apio, pero la lista real de ingredientes de la receta no lo incluye — una inconsistencia del propio libro. Se transcribió fielmente la lista de ingredientes (sin apio) y se renombró la ficha para que el nombre sea fiel al contenido real. El libro también lista \"agua: 12 vasos\" en los ingredientes, pero el paso a paso de preparación solo usa \"un litro de agua\"; se siguió el paso a paso por ser la indicación más específica."
+    },
+    {
+      "label": "Sobre el pimentón:",
+      "texto": "el libro no especifica el color del pimentón; se usó pimentón rojo, el más común en preparaciones colombianas, y se documenta esta elección por transparencia."
+    },
+    {
+      "label": "Sobre el comino:",
+      "texto": "el libro indica \"2 hojas pequeñas\" de comino, una unidad inusual para esta especia (que normalmente se vende y usa en semilla o molida, no en hojas). Ante esta ambigüedad de la fuente, se calculó como una cantidad mínima/traza, sin inventar una cantidad distinta a lo indicado."
+    },
+    {
+      "label": "Sobre esta receta:",
+      "texto": "esta receta fue adaptada para que el aporte de sodio sea más saludable, sin afectar su sabor característico."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina C (≥30 % VDR en ambos sexos) se calculó por porción (Res. 810 de 2021). La vitamina A llega a 37,4 % en mujeres pero solo a 29,1 % en hombres —justo por debajo del 30 % exigido para \"excelente fuente\"—, por lo que se declaró como \"buena fuente\" (≥15 % VDR en ambos sexos). \"Bajo en grasa\" se calculó por 100 g de producto (1,33 g de grasa por 100 g), muy por debajo del límite de esa declaración."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 443,9 mg de sodio (32,3 % de la ingesta adecuada diaria), ya con la sal ajustada (ver nota anterior). Las personas con hipertensión arterial o enfermedad renal pueden reducir aún más la sal agregada."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Gobernación de Antioquia, Gerencia de Seguridad Alimentaria y Nutricional (MANÁ), en alianza con PASO Colombia (Paz Sostenible para Colombia, programa de One Earth Future) y CEIBA. De la huerta a la mesa: recetas saludables del campo para tu vida. Estrategia Del Campo para el Campo. 1a ed. Medellín: Gobernación de Antioquia; [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/LC01.jpg"
+}

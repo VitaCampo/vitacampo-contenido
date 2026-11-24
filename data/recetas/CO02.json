@@ -1,0 +1,202 @@
+{
+  "codigo": "CO02",
+  "nombre": "Lentejas con coles",
+  "imagenSize": {
+    "width": 508,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos, Equipo de Seguridad Alimentaria)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación del componente \"Lentejas con coles\" del recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 taza pequeña, ≈146 g)",
+  "tiempo": "40 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de vitamina A",
+    "Buena fuente de vitamina C",
+    "Buena fuente de folato (B9)",
+    "Buena fuente de fibra"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "179 kcal",
+      "717 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "5,9 g",
+      "23,6 g",
+      "8,2 %",
+      "7,6 %"
+    ],
+    [
+      "Carbohidratos",
+      "21,1 g",
+      "84,3 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "7,9 g",
+      "31,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total*",
+      "5,7 g",
+      "22,9 g",
+      "20,8 %",
+      "17,5 %"
+    ],
+    [
+      "Vitamina A*",
+      "320,5 µg ER",
+      "1281,9 µg ER",
+      "45,8 %",
+      "35,6 %"
+    ],
+    [
+      "Vitamina C*",
+      "25,3 mg",
+      "101,0 mg",
+      "33,7 %",
+      "28,1 %"
+    ],
+    [
+      "Folato (B9)*",
+      "104,2 µg",
+      "416,6 µg",
+      "26,0 %",
+      "26,0 %"
+    ],
+    [
+      "Sodio",
+      "206,6 mg",
+      "826,5 mg",
+      "15,0 %",
+      "15,0 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Lenteja seca",
+      "50,0 g",
+      "200,0 g",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Col (repollo)",
+      "25,0 g",
+      "100,0 g",
+      "3 hojas",
+      "12 hojas"
+    ],
+    [
+      "Papa capira",
+      "37,5 g",
+      "150,0 g",
+      "⅓ unidad",
+      "1⅓ unidades"
+    ],
+    [
+      "Zanahoria",
+      "10,0 g",
+      "40,0 g",
+      "1 trozo pequeño",
+      "⅓ unidad mediana"
+    ],
+    [
+      "Cebolla blanca",
+      "5,0 g",
+      "20,0 g",
+      "1 cucharadita",
+      "1 cucharada"
+    ],
+    [
+      "Pimentón",
+      "5,0 g",
+      "20,0 g",
+      "1 cucharadita",
+      "1 cucharada"
+    ],
+    [
+      "Cilantro",
+      "2,5 g",
+      "10,0 g",
+      "1 pizca",
+      "½ cucharada"
+    ],
+    [
+      "Ajo",
+      "2,5 g",
+      "10,0 g",
+      "1 diente pequeño",
+      "3 dientes pequeños"
+    ],
+    [
+      "Aceite",
+      "7,5 g (7,5 mL)",
+      "30,0 g (30,0 mL)",
+      "½ cucharada",
+      "2 cucharadas"
+    ],
+    [
+      "Sal",
+      "0,5 g",
+      "2,0 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Hidrate** la lenteja desde la noche anterior y **descarte** el agua del remojo para la cocción.",
+    "**Lave y desinfecte** la col, la zanahoria, la papa, el pimentón, el cilantro y la cebolla (ver la tarjeta de limpieza y desinfección). **Separe** la col en hojas y **córtelas** en 4 trozos del mismo tamaño. **Reserve**.",
+    "**Pique** la zanahoria y la papa en cubos pequeños.",
+    "**Licue** la cebolla, el pimentón, el cilantro, el ajo y el aceite para preparar el aliño.",
+    "En una olla a presión, **agregue** dos tazas de agua y el aliño licuado, y lleve a hervir.",
+    "**Agregue** las lentejas y **cocine** hasta que la válvula de la olla empiece a silbar por primera vez.",
+    "**Agregue** la zanahoria y la papa en cubos a la olla.",
+    "Cuando la olla pite de nuevo, **agregue** la col y **cocine** durante 5 minutos más. **Rectifique** la sal."
+  ],
+  "usoSugerido": "Sirva como plato principal, acompañado de arroz blanco.",
+  "nutriConsejo": {
+    "icono": "🫘",
+    "titulo": "Lentejas con coles: vitaminas A y C, folato y fibra",
+    "cuerpo": "Este guiso de lentejas y col es excelente fuente de vitamina A y buena fuente de vitamina C, folato y fibra. El folato es especialmente importante para mujeres en edad fértil y en embarazo."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica \"2 personas\" para la receta completa (que incluye además arroz blanco, ensalada con vinagreta y jugo de aguacate); aquí se adaptó únicamente el componente de lentejas con coles, escalado a 4 porciones VitaCampo con un factor de 2, dando 1 porción de ≈146 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque requiere licuar un aliño y cocinar en olla a presión en varios tiempos."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada del componente \"Lentejas con coles\" de la receta \"Lentejas con coles y arroz blanco\" (receta 4) del recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín). La receta original trae además arroz blanco, una ensalada con vinagreta y un jugo de aguacate, limón y miel como acompañantes; aquí se adaptó únicamente el componente de lentejas con coles, protagonista de este alimento."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina A y \"buena fuente\" de vitamina C, folato y fibra se calcularon por porción (Res. 810 de 2021), cumpliendo el umbral en ambos sexos."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos, Equipo de Seguridad Alimentaria. Preparaciones semillas ancestrales. Medellín: Alcaldía de Medellín [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/CO02.jpg"
+}

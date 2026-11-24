@@ -1,0 +1,126 @@
+{
+  "slug": "perejil_crespo",
+  "nombreComun": "Perejil Crespo",
+  "nombreCientifico": "Petroselinum crispum",
+  "subtitulo": "La hierba que comparte apellido con el apio",
+  "imagen": "assets/img/fichas/perejil_crespo.jpg",
+  "creditoImagen": "Elaboración propia.",
+  "introduccion": "El perejil es originario de la región mediterránea, donde griegos y romanos ya lo usaban como condimento y guarnición hace más de 2.000 años. Su nombre científico, Petroselinum, viene del griego antiguo petra (roca) y selinon — la misma raíz de la que también proviene el nombre del apio, con quien comparte familia botánica.",
+  "porcionReferencia": "4 gramos (¼ de taza picado, hojas y tallos, fresco)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "1,76 kcal",
+      "vdrMujer": "0,09%",
+      "vdrHombre": "0,08%"
+    },
+    {
+      "nutriente": "Vitamina K",
+      "cantidad": "65,6 mcg",
+      "vdrMujer": "109,3%",
+      "vdrHombre": "93,7%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "5,32 mg",
+      "vdrMujer": "7,09%",
+      "vdrHombre": "5,91%"
+    },
+    {
+      "nutriente": "Vitamina A",
+      "cantidad": "20,8 mcg ER",
+      "vdrMujer": "2,97%",
+      "vdrHombre": "2,31%"
+    },
+    {
+      "nutriente": "Hierro",
+      "cantidad": "0,248 mg",
+      "vdrMujer": "1,27%",
+      "vdrHombre": "1,91%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "el perejil no está en el TCAC-ICBF ni en la Lista de Intercambios UdeA. Se usó ¼ de taza picado (≈4 g) según USDA FoodData Central (FDC #170416), consistente con la porción que usamos en Cilantro."
+    },
+    {
+      "titulo": "Sobre las fuentes de los datos",
+      "texto": "los valores de esta tabla provienen de las RINAs (Perejil, hojas y tallos, crudo). La Vitamina K no está reportada en RINAs ni TCAC-ICBF, por lo que se usó USDA FoodData Central."
+    },
+    {
+      "titulo": "Sobre el perejil seco",
+      "texto": "las RINAs también reportan un perfil de perejil seco, con valores mucho más concentrados por 100 g (al perder toda el agua) — por ejemplo, 97,9 mg de hierro y 1.468 mg de calcio por 100 g. No se usó como base de esta ficha por ser un producto procesado de uso ocasional, no la forma de consumo habitual."
+    },
+    {
+      "titulo": "Sobre las declaraciones",
+      "texto": "según la Resolución 810 de 2021, con 93,7-109,3% del VRN, esta porción califica como “excelente fuente de Vitamina K” — superando el 100% del requerimiento diario en mujeres con tan solo ¼ de taza."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía usted que el perejil crespo aporta compuestos bioactivos (sustancias naturales de las plantas con función protectora) como la apigenina, la quercetina y los ácidos cafeico y ferúlico? Son flavonoides y ácidos fenólicos, dos familias de compuestos con actividad antioxidante estudiadas por su papel en la protección de las células frente al desgaste natural del cuerpo."
+  },
+  "descripcion": "El perejil crespo pertenece a la misma familia botánica que el apio, el cilantro y la zanahoria (Apiaceae) — un grupo de plantas aromáticas que comparten un origen evolutivo común. Debe su aroma característico principalmente a la apiola y la miristicina, dos compuestos naturales presentes en su aceite esencial (una sustancia concentrada y aromática que producen ciertas plantas, responsable de su olor distintivo).",
+  "beneficios": [
+    {
+      "icono": "🦴",
+      "titulo": "Huesos y coagulación",
+      "texto": "su vitamina K participa en el proceso que detiene un sangrado y contribuye a la salud ósea."
+    },
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas y piel",
+      "texto": "su vitamina C contribuye al funcionamiento normal del sistema inmunitario y a la formación de colágeno (una proteína que da estructura a la piel)."
+    },
+    {
+      "icono": "👁️",
+      "titulo": "Visión",
+      "texto": "su vitamina A contribuye al funcionamiento normal de la visión."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "consejo",
+      "titulo": "Precaución con anticoagulantes",
+      "texto": "El perejil crespo es una excelente fuente de vitamina K. Si toma medicamentos anticoagulantes (como la warfarina), no es necesario evitarlo por completo, pero sí mantener un consumo controlado y evitar cambios bruscos de un día a otro, ya que las variaciones grandes en el consumo de vitamina K pueden afectar el control de estos medicamentos. Consulte con su médico."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Precaución al manipularlo bajo el sol",
+      "texto": "El perejil, como otras plantas de su familia botánica (incluido el apio), contiene compuestos naturales que en raras ocasiones pueden causar una reacción en la piel llamada fitofotodermatitis: si el jugo de la planta entra en contacto con la piel y luego esta se expone al sol, puede aparecer enrojecimiento o ampollas en la zona. Es poco común, pero si va a manipular grandes cantidades de perejil fresco al aire libre (por ejemplo, en labores de cosecha), es buena práctica lavarse las manos y evitar la exposición solar directa inmediatamente después."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Lavarlo, conservarlo y aprovecharlo bien",
+      "texto": "Antes de consumirlo, lave el perejil bajo un chorro de agua potable, y si quiere un paso extra de desinfección, sumérjalo en una solución de agua con hipoclorito de uso alimentario (1 cucharada por litro de agua) durante 3 a 5 minutos, y enjuáguelo después. Para conservarlo fresco por más tiempo, guárdelo como si fueran flores: con los tallos sumergidos en un vaso con agua dentro de la nevera, cubriendo las hojas con una bolsa. En la cocina, no lo reserve solo para decorar al final: agregarlo mientras se cocinan alimentos con grasa (como carnes o pescados a la parrilla) ayuda a que esas grasas se oxiden menos durante la cocción, además de aportar sabor y color a la preparación."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Un aliado silencioso contra las plagas",
+      "texto": "Cuando el perejil florece (algo que ocurre en su segundo año de vida, ya que es una planta bienal), sus flores atraen avispas parasitoides y otros insectos benéficos que ayudan a controlar plagas de forma natural en los cultivos cercanos. Dejar que algunas plantas de perejil completen su ciclo y florezcan, en vez de cosecharlas todas en el primer año, puede convertirlo en un aliado dentro de un sistema de cultivo agroecológico, reduciendo la necesidad de químicos para el manejo de insectos."
+    }
+  ],
+  "bibliografia": [
+    "1. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "2. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "4. U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Parsley, fresh (FDC #170416) [Internet]. Beltsville: USDA; 2019 [citado 2026].",
+    "5. Encyclopaedia Britannica. Parsley [Internet]. Chicago: Encyclopaedia Britannica, Inc.; 2026 [citado 2026 Jul].",
+    "6. Silva Ferreira F, Sales de Oliveira V, William Hidalgo Chávez D, Siqueira Chaves D, Jorge Riger C, Frankland Sawaya AC, et al. Bioactive compounds of parsley (Petroselinum crispum), chives (Allium schoenoprasum L) and their mixture (Brazilian cheiro-verde) as promising antioxidant and anti-cholesterol oxidation agents in a food system. Food Res Int. 2022;151:110864.",
+    "7. Dobričević N, Šic Žlabur J, Voća S, Pliestić S, Galić A, Delić A, et al. Bioactive compounds content and nutritional potential of different parsley parts (Petroselinum crispum Mill.). J Cent Eur Agric. 2019;20(3):900-910.",
+    "8. Liberal Â, Fernandes Â, Polyzos N, Petropoulos SA, Dias MI, Pinela J, et al. Bioactive Properties and Phenolic Compound Profiles of Turnip-Rooted, Plain-Leafed and Curly-Leafed Parsley Cultivars. Molecules. 2020;25(23):5606.",
+    "9. Violi F, Lip GYH, Pignatelli P, Pastori D. Interaction Between Dietary Vitamin K Intake and Anticoagulation by Vitamin K Antagonists: Is It Really True? A Systematic Review. Medicine. 2016;95(10):e2895.",
+    "10. Azevedo S, Pereira S, Vilar da Mota R, Lopes Freitas R, Alves Costa L. Rash and Fever: Identifying Animal or Plant Origins. Cureus. 2025;17(1):e77654.",
+    "11. Bencardino D, Vitali LA, Petrelli D. Microbiological evaluation of ready-to-eat iceberg lettuce during shelf-life and effectiveness of household washing methods. Ital J Food Saf. 2018;7(1):6913.",
+    "12. Uhlig E, Olsson C, He J, Stark T, Sadowska Z, Molin G, et al. Effects of household washing on bacterial load and removal of E. coli from lettuce and “ready-to-eat” salads. Food Sci Nutr. 2017;5(6):1215-1220.",
+    "13. Organismo Internacional Regional de Sanidad Agropecuaria (OIRSA). Guía para uso de cloro en desinfección de frutas y hortalizas de consumo fresco, equipos y superficies en establecimientos [Internet]. San Salvador: OIRSA; 2020.",
+    "14. National Center for Appropriate Technology (NCAT) - ATTRA Sustainable Agriculture. Companion Planting & Botanical Pesticides: Concepts & Resources [Internet]. Butte, MT: ATTRA; 2024."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

@@ -1,0 +1,208 @@
+{
+  "codigo": "PE02",
+  "nombre": "Croquetas de arroz al perejil",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Patrick, Pexels — Licencia Pexels (uso libre). Fotografía \"Golden Crispy Potato Croquettes on Plate\": https://www.pexels.com/photo/31398314/ (Imagen ilustrativa de croquetas doradas)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Croquetas de arroz al perejil\" del recetario \"Deliciosas y nutritivas recetas\" (PDSAN, Gobernación de Antioquia) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈3 croquetas, ≈167 g)",
+  "tiempo": "45 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Buena fuente de folato (B9)"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "279 kcal",
+      "1118 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "8,7 g",
+      "34,7 g",
+      "12,1 %",
+      "11,2 %"
+    ],
+    [
+      "Carbohidratos",
+      "38,3 g",
+      "153,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "10,3 g",
+      "41,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "2,5 g",
+      "9,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Folato (B9)*",
+      "81,4 µg",
+      "325,5 µg",
+      "20,3 %",
+      "20,3 %"
+    ],
+    [
+      "Calcio",
+      "101,4 mg",
+      "405,7 mg",
+      "9,2 %",
+      "9,7 %"
+    ],
+    [
+      "Sodio",
+      "789,8 mg",
+      "3159,1 mg",
+      "57,4 %",
+      "57,4 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Arroz",
+      "16,3 g",
+      "65,0 g",
+      "2 cucharadas",
+      "½ pocillo"
+    ],
+    [
+      "Agua",
+      "37,5 mL",
+      "150,0 mL",
+      "¼ taza",
+      "1 pocillo"
+    ],
+    [
+      "Leche",
+      "32,5 mL",
+      "130,0 mL",
+      "¼ pocillo",
+      "1 pocillo"
+    ],
+    [
+      "Sal",
+      "1,3 g",
+      "5,0 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Mantequilla",
+      "3,5 g",
+      "14,0 g",
+      "¾ cucharadita",
+      "1 cucharada"
+    ],
+    [
+      "Azúcar refinada",
+      "3,5 g",
+      "14,0 g",
+      "¾ cucharadita",
+      "1 cucharada"
+    ],
+    [
+      "Huevo",
+      "25,0 g",
+      "100,0 g",
+      "½ unidad",
+      "2 unidades"
+    ],
+    [
+      "Perejil picado",
+      "3,8 g",
+      "15,0 g",
+      "¾ cucharada",
+      "3 cucharadas"
+    ],
+    [
+      "Pan rallado",
+      "40,0 g",
+      "160,0 g",
+      "½ pocillo",
+      "2 pocillos"
+    ],
+    [
+      "Aceite (para freír)",
+      "3,8 g (3,8 mL)",
+      "15,0 g (15,0 mL)",
+      "¾ cucharadita",
+      "1 cucharada"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** el perejil (ver la tarjeta de limpieza y desinfección).",
+    "**Cocine** el arroz con el agua y un poco de sal hasta que ablande. **Deje reposar**.",
+    "**Añada** la leche, la sal, la mantequilla y el azúcar.",
+    "**Adicione** 1 huevo batido, el perejil picado y **mezcle**. (Reserve el huevo restante, batido aparte, para el empanizado del paso siguiente.)",
+    "**Deje enfriar**, **forme** las croquetas.",
+    "**Envuelva** en el huevo batido reservado y pan rallado.",
+    "**Fría** en aceite bien caliente."
+  ],
+  "usoSugerido": "Sirva como acompañamiento o entrada, con una ensalada fresca.",
+  "nutriConsejo": {
+    "icono": "🍚",
+    "titulo": "Croquetas de arroz al perejil: buena fuente de folato",
+    "cuerpo": "Estas croquetas son buena fuente de folato gracias al perejil y el huevo. Al ser fritas, aportan una cantidad considerable de sodio y grasa: puede hornearlas como alternativa más ligera, en conjunto con hábitos alimentarios y estilos de vida saludables."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro no especifica el número de porciones; se calculó para 4 porciones VitaCampo (≈3 croquetas por porción, ≈167 g)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque combina cocinar el arroz, formar las croquetas y freírlas en el punto justo."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Croquetas de arroz al perejil\", del recetario \"Deliciosas y nutritivas recetas\" (PDSAN, Gobernación de Antioquia)."
+    },
+    {
+      "label": "Sobre el aceite absorbido al freír:",
+      "texto": "el libro no cuantifica el aceite de fritura; se estimó una absorción razonable de 15 g para 4 porciones, documentado aquí por transparencia."
+    },
+    {
+      "label": "Sobre los 2 huevos:",
+      "texto": "la receta original de PDSAN no distribuye explícitamente el uso de los 2 huevos entre la masa y el empanizado. Para que la cantidad total (2 huevos, ya reflejada en el análisis nutricional) coincida exactamente con el procedimiento, se aclaró que 1 huevo se usa batido dentro de la masa (paso 4) y el otro, también batido, se reserva para el empanizado (paso 6)."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta preparación aporta 57,4 % de la ingesta adecuada diaria de sodio por porción, principalmente por la sal y el pan rallado. Las personas con hipertensión arterial pueden reducir la sal agregada."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"buena fuente\" de folato se calculó por porción (Res. 810 de 2021), cumpliendo el umbral en ambos sexos."
+    },
+    {
+      "label": "Sobre la cocción segura:",
+      "texto": "cocine el huevo hasta que la clara y la yema estén firmes; no consuma huevo crudo ni poco cocido (Organización Mundial de la Salud, ver bibliografía)."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Gobernación de Antioquia, Programa de Desarrollo y Seguridad Alimentaria y Nutricional (PDSAN). Deliciosas y nutritivas recetas. Medellín: Gobernación de Antioquia [sin fecha de publicación identificada en el documento].",
+    "World Health Organization. Five keys to safer food manual. Geneva: WHO; 2006."
+  ],
+  "imagen": "assets/img/recetas/PE02.jpg"
+}

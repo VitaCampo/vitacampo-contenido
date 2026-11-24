@@ -1,0 +1,155 @@
+{
+  "codigo": "PL02",
+  "nombre": "Plátanos caramelizados",
+  "imagenSize": {
+    "width": 600,
+    "height": 116
+  },
+  "imagenCredito": "Imagen: recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ, PASO Colombia, CEIBA)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Plátanos caramelizados\" del recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 lonja grande, ≈97 g)",
+  "tiempo": "20 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "199 kcal",
+      "795 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "1,0 g",
+      "4,0 g",
+      "1,4 %",
+      "1,3 %"
+    ],
+    [
+      "Carbohidratos",
+      "36,6 g",
+      "146,3 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "5,4 g",
+      "21,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "3,3 g",
+      "13,1 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina C",
+      "12,8 mg",
+      "51,0 mg",
+      "17,0 %",
+      "14,2 %"
+    ],
+    [
+      "Vitamina A",
+      "91,9 µg ER",
+      "367,8 µg ER",
+      "13,1 %",
+      "10,2 %"
+    ],
+    [
+      "Sodio",
+      "188,6 mg",
+      "754,3 mg",
+      "13,7 %",
+      "13,7 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Plátano maduro",
+      "83,3 g",
+      "333,3 g",
+      "⅔ unidad mediana",
+      "2⅔ unidades medianas"
+    ],
+    [
+      "Mantequilla",
+      "6,2 g",
+      "24,9 g",
+      "1¼ cucharaditas",
+      "1¾ cucharadas"
+    ],
+    [
+      "Panela raspada",
+      "7,2 g",
+      "28,9 g",
+      "½ cucharada",
+      "2 cucharadas"
+    ],
+    [
+      "Canela en polvo",
+      "0,1 g",
+      "0,4 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Sal",
+      "0,3 g",
+      "1,3 g",
+      "1 pizca",
+      "⅓ cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** los plátanos (ver la tarjeta de limpieza y desinfección).",
+    "**Cocine** la panela en ½ pocillo de agua y **deje** que espese por 5 minutos, hasta hacer un almíbar. **Agregue** la sal y **reserve**.",
+    "En un sartén, **coloque** los plátanos cortados en lonjas con la mantequilla y **deje dorar** por ambos lados.",
+    "**Agregue** el almíbar de panela y **deje sazonar** a fuego lento 5 minutos. **Baje** del fuego y **rocíe** con la canela."
+  ],
+  "usoSugerido": "Sirva como acompañamiento de carnes, fríjoles o arroz, o como postre.",
+  "nutriConsejo": {
+    "icono": "🍌",
+    "titulo": "Plátanos caramelizados: energía y sabor dulce",
+    "cuerpo": "Este plátano caramelizado es una preparación energética y reconfortante, típica de la cocina campesina antioqueña. Por la mantequilla y la panela que lleva, aporta una cantidad considerable de calorías y grasa saturada; las personas con diabetes o dislipidemias pueden ajustar la porción, en conjunto con hábitos alimentarios y estilos de vida saludables. Por su contenido de potasio, las personas con enfermedad renal deben consultar con su nutricionista antes de consumirla con frecuencia."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica 8-10 porciones de 1 lonja cada una; se escaló a 4 porciones VitaCampo con un factor de 4/9 (tomando 9 como punto medio del rango 8-10), dando 1 porción de ≈97 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque combina preparar un almíbar y dorar el plátano sin que se queme."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Plátanos caramelizados\", del recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ), p. 46."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "en esta porción, ningún nutriente alcanza el 15 % del valor diario recomendado en ambos sexos a la vez (la vitamina C llega a 17,0 % en mujeres pero solo 14,2 % en hombres), por lo que la ficha no lleva insignias de \"fuente\"."
+    },
+    {
+      "label": "Sobre el potasio y la enfermedad renal:",
+      "texto": "el plátano contiene potasio de forma natural. Las personas con enfermedad renal o con hiperpotasemia (potasio alto en la sangre) deben vigilar su consumo de potasio y consultar con su nutricionista antes de consumir esta preparación con frecuencia."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Gobernación de Antioquia, Gerencia de Seguridad Alimentaria y Nutricional (MANÁ), en alianza con PASO Colombia (Paz Sostenible para Colombia, programa de One Earth Future) y CEIBA. De la huerta a la mesa: recetas saludables del campo para tu vida. Estrategia Del Campo para el Campo. 1a ed. Medellín: Gobernación de Antioquia; [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/PL02.jpg"
+}

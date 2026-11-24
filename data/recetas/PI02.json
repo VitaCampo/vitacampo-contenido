@@ -1,0 +1,139 @@
+{
+  "codigo": "PI02",
+  "nombre": "Mermelada de pimentón y tomate de árbol",
+  "imagenSize": {
+    "width": 600,
+    "height": 244
+  },
+  "imagenCredito": "Imagen: recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Mermelada de pimentón y tomate de árbol\" del recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈4 cucharadas, ≈73 g)",
+  "tiempo": "25 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de vitamina C",
+    "Buena fuente de vitamina A"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "52 kcal",
+      "206 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,7 g",
+      "2,8 g",
+      "1,0 %",
+      "0,9 %"
+    ],
+    [
+      "Carbohidratos",
+      "11,9 g",
+      "47,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,1 g",
+      "0,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina C*",
+      "66,8 mg",
+      "267,2 mg",
+      "89,1 %",
+      "74,2 %"
+    ],
+    [
+      "Vitamina A*",
+      "201,1 µg ER",
+      "804,4 µg ER",
+      "28,7 %",
+      "22,3 %"
+    ],
+    [
+      "Sodio",
+      "1,0 mg",
+      "4,1 mg",
+      "0,1 %",
+      "0,1 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Pimentón",
+      "30,0 g",
+      "120,0 g",
+      "¼ unidad mediana",
+      "1 unidad mediana"
+    ],
+    [
+      "Pulpa de tomate de árbol",
+      "30,0 g",
+      "120,0 g",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Azúcar",
+      "7,5 g",
+      "30,0 g",
+      "¾ cucharada",
+      "3 cucharadas"
+    ],
+    [
+      "Zumo de limón",
+      "5,0 mL",
+      "20,0 mL",
+      "1 cucharadita",
+      "1 cucharada + 1 cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** el pimentón (ver la tarjeta de limpieza y desinfección).",
+    "**Licue** la pulpa de tomate de árbol junto con el pimentón hasta que se integren bien. **Cuele** la mezcla.",
+    "**Lleve** a fuego medio con el azúcar y el jugo de limón. **Deje hervir** hasta obtener una textura espesa."
+  ],
+  "usoSugerido": "Sirva como acompañamiento de carnes, quesos o pan, o como base de salsas.",
+  "nutriConsejo": {
+    "icono": "🍅",
+    "titulo": "Mermelada de pimentón y tomate de árbol: vitamina C de sobra",
+    "cuerpo": "Esta mermelada es excelente fuente de vitamina C y buena fuente de vitamina A, gracias al pimentón y al tomate de árbol. Es una alternativa casera a las mermeladas comerciales, con menos azúcar añadida."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro no especifica el número de porciones y la cantidad es pequeña (rinde para un frasco chico); se duplicó la receta completa para llegar a 4 porciones VitaCampo razonables, dando 1 porción de ≈73 g (≈4 cucharadas)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque requiere reducir la mezcla hasta el punto justo de espesor sin que se pegue."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Mermelada de pimentón y tomate de árbol\", del recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025). Imagen oficial del mismo recetario."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina C y \"buena fuente\" de vitamina A se calcularon por porción (Res. 810 de 2021), cumpliendo el umbral en ambos sexos."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Vanegas Piedrahíta L. Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos. Medellín: Alcaldía de Medellín, Distrito de Ciencia, Tecnología e Innovación; 2025."
+  ],
+  "imagen": "assets/img/recetas/PI02.png"
+}

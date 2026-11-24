@@ -1,0 +1,141 @@
+{
+  "slug": "espinaca",
+  "nombreComun": "Espinaca",
+  "nombreCientifico": "Spinacia oleracea L.",
+  "subtitulo": "Popeye tenía razón, aunque no exactamente por lo que se cree",
+  "imagen": "assets/img/fichas/espinaca.jpg",
+  "creditoImagen": "Elaboración propia.",
+  "introduccion": "La espinaca es originaria de la antigua Persia (actual Irán), donde se cultivaba hace más de 2.000 años bajo el nombre de aspanakh. Llegó a Europa a través de España en la Edad Media, y en el siglo XVI la reina Catalina de Médici la popularizó tanto en la corte francesa que dio origen al término culinario “a la Florentina”. Siglos más tarde, en la cultura popular moderna, se hizo famosa gracias a Popeye, el personaje de dibujos animados que la comía para obtener fuerza.",
+  "porcionReferencia": "100 gramos de espinaca cocida",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "30 kcal",
+      "vdrMujer": "1,53%",
+      "vdrHombre": "1,28%"
+    },
+    {
+      "nutriente": "Vitamina K",
+      "cantidad": "493,6 mcg",
+      "vdrMujer": "823%",
+      "vdrHombre": "705%"
+    },
+    {
+      "nutriente": "Vitamina A",
+      "cantidad": "819 mcg ER",
+      "vdrMujer": "117%",
+      "vdrHombre": "91%"
+    },
+    {
+      "nutriente": "Folato",
+      "cantidad": "146 mcg EFD",
+      "vdrMujer": "36,5%",
+      "vdrHombre": "36,5%"
+    },
+    {
+      "nutriente": "Hierro",
+      "cantidad": "3,6 mg",
+      "vdrMujer": "18,5%",
+      "vdrHombre": "27,7%"
+    },
+    {
+      "nutriente": "Fibra dietética",
+      "cantidad": "2,4 g",
+      "vdrMujer": "8,73%",
+      "vdrHombre": "7,34%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "se usó la versión cocida como base, ya que es la forma de consumo más habitual en el contexto colombiano (sopas, cremas, revueltos), a diferencia de otros países donde el consumo crudo en ensaladas es más común."
+    },
+    {
+      "titulo": "Sobre crudo vs. cocido",
+      "texto": "la espinaca cruda conserva más vitamina C y folato (nutrientes sensibles al calor y solubles en agua), mientras que la cocida concentra más calcio, hierro, magnesio y vitamina A, ya que pierde volumen de agua al cocinarse."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "esta porción aporta 2,4 g de fibra dietética, equivalentes al 7,34% (hombres) y 8,73% (mujeres) del requerimiento diario. La fibra dietética tiene dos tipos principales: la fibra insoluble, que no se disuelve en agua y actúa como una especie de \"escoba natural\" en el intestino, acelerando el tránsito intestinal; y la fibra soluble, que sí se disuelve en agua formando una sustancia similar a un gel, asociada con una absorción más lenta de azúcares y grasas. En la espinaca predomina la fibra insoluble, aunque no encontramos una fuente académica confiable que precise la proporción exacta entre ambos tipos para la versión cocida."
+    },
+    {
+      "titulo": "Sobre las fuentes de los datos",
+      "texto": "los valores de Vitamina A, Folato y Hierro provienen de las RINAs (Espinaca, cocida). La Vitamina K no está reportada ni en TCAC-ICBF ni en RINAs, por lo que se usó USDA FoodData Central."
+    },
+    {
+      "titulo": "Sobre las declaraciones",
+      "texto": "según la Resolución 810 de 2021, esta porción califica como “excelente fuente” (≥30% VRN) de Vitamina K, Vitamina A y Folato, y como “buena fuente” (≥15% VRN) de Hierro."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "100 g de espinaca cocida aportan 3,6 mg de hierro — el 18,5% (mujeres) y 27,7% (hombres) de su requerimiento diario. Sin embargo, es hierro no-hemo (de origen vegetal), un tipo que el cuerpo absorbe con más dificultad que el hierro de origen animal."
+  },
+  "descripcion": "La espinaca es una hoja verde compuesta en más del 90% por agua; el resto es un concentrado de vitaminas y compuestos bioactivos, como flavonoides y carotenoides (pigmentos vegetales con función antioxidante), responsables de su color verde intenso. Botánicamente, la espinaca es pariente cercana de la remolacha —ambas pertenecen a la misma familia de plantas—, aunque una se cultiva por su hoja y la otra por su raíz.",
+  "beneficios": [
+    {
+      "icono": "🦴",
+      "titulo": "Huesos y coagulación",
+      "texto": "su vitamina K participa en el proceso que detiene un sangrado y contribuye a la salud ósea."
+    },
+    {
+      "icono": "👁️",
+      "titulo": "Visión",
+      "texto": "su vitamina A contribuye al mantenimiento de la visión y al funcionamiento normal del sistema inmunitario."
+    },
+    {
+      "icono": "🧬",
+      "titulo": "Formación de células",
+      "texto": "su folato favorece la formación de nuevas células, clave en la gestación y en las distintas etapas del desarrollo."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "capsula",
+      "titulo": "Espinaca y salud ocular",
+      "texto": "Además de la vitamina A, la espinaca aporta luteína y zeaxantina (dos carotenoides que el cuerpo no puede producir por sí solo). Estos compuestos se acumulan en la mácula (una zona central de la retina), donde actúan como una especie de filtro natural frente a la luz. Estudios en personas sugieren que un consumo adecuado de estos compuestos podría ayudar a retrasar la progresión de la degeneración macular (una causa común de pérdida de visión relacionada con la edad), aunque no la previene por completo ni reemplaza el control oftalmológico regular."
+    },
+    {
+      "tipo": "verdad",
+      "titulo": "¿Es la espinaca la mejor fuente de hierro que existe?",
+      "texto": "Es un mito parcial: aunque aporta una cantidad importante de hierro, como ya vimos, sus oxalatos naturales (compuestos que en exceso pueden formar cristales de oxalato de calcio) reducen aún más su absorción. Comerla junto con una fuente de vitamina C (como limón o tomate) ayuda a aprovecharlo mejor. Este mismo oxalato explica una advertencia real detrás de una tendencia popular: los batidos o jugos verdes concentrados de espinaca, tomados en grandes cantidades y de forma frecuente (como parte de “detox” o ayunos), se han relacionado con casos de daño renal agudo (una pérdida repentina de la capacidad de los riñones para filtrar la sangre, que en la mayoría de los casos es reversible si se trata a tiempo). Esto no significa que la espinaca sea peligrosa en su consumo habitual, en comidas, sopas o ensaladas — el riesgo aparece específicamente con el consumo de jugos concentrados en grandes cantidades y de forma repetida, no con las porciones normales de la dieta. Consulte con un profesional de la salud antes de iniciar cualquier ayuno o dieta con jugos."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo cocinarla sin perder tantos nutrientes",
+      "texto": "Si vas a cocinarla, procura hacerlo al vapor o salteada por 2 a 3 minutos, solo hasta que las hojas se marchiten. Si prefiere hervirla, aproveche esa agua en sopas o caldos: buena parte de las vitaminas que se pierden durante la cocción no desaparecen, sino que quedan disueltas en el agua."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo conservarla fresca por más tiempo",
+      "texto": "La espinaca es una hoja delicada y se marchita rápido. Guárdela sin lavar, envuelta en papel absorbente dentro de una bolsa con perforaciones (esto controla la humedad y evita que se pudra antes de tiempo), y consúmala idealmente dentro de los primeros 5 a 7 días. Si compró más de la que va a usar pronto, puede blanquearla (sumergirla brevemente en agua hirviendo – 2 minutos - y luego en agua con hielo – 3 minutos) y congelarla — así conservas gran parte de su valor nutricional por varios meses."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Precaución con anticoagulantes",
+      "texto": "La espinaca es una de las mejores fuentes de vitamina K entre los vegetales. Si usted toma medicamentos anticoagulantes (como la warfarina), no es necesario evitarla por completo, pero sí mantener un consumo restringido, ya que las variaciones grandes en el consumo de vitamina K pueden afectar el control de estos medicamentos. Consulte con su médico."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "5. U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Spinach, cooked, boiled, drained, without salt (FDC #168463) [Internet]. Beltsville: USDA; 2019 [citado 2026]. Disponible en: https://fdc.nal.usda.gov/food-details/168463/nutrients",
+    "6. Rubatzky VE, Yamaguchi M. Spinach, Table Beets, and Other Vegetable Chenopods. In: World Vegetables: Principles, Production, and Nutritive Values. Boston, MA: Springer; 1997. p. 457-473.",
+    "7. Balasubramaniam AK, Saste G, Kureshi AA, Mulay V, Hingorani L. Nutritional and health beneficial properties of spinach (Spinacia oleracea L): A comprehensive review. Pharmacol Res Nat Prod. 2025;8:100368.",
+    "8. Nemzer B, Al-Taher F, Abshiru N. Extraction and Natural Bioactive Molecules Characterization in Spinach, Kale and Purslane: A Comparative Study. Molecules. 2021;26(9):2515.",
+    "9. Mrowicka M, Mrowicki J, Kucharska E, Majsterek I. Lutein and Zeaxanthin and Their Roles in Age-Related Macular Degeneration. Nutrients. 2022;14(4):827.",
+    "10. Radek M, Savage GP. Oxalates in some Indian green leafy vegetables. Int J Food Sci Nutr. 2008;59(3):246-260.",
+    "11. Makkapati S, D'Agati VD, Balsam L. “Green Smoothie Cleanse” Causing Acute Oxalate Nephropathy. Am J Kidney Dis. 2018;71(2):281-286.",
+    "12. Kosewski G, Kowalówka M, Drzymała-Czyż S, Przysławski J. The Impact of Culinary Processing, including Sous-Vide, on Polyphenols, Vitamin C Content and Antioxidant Status in Selected Vegetables. Foods. 2023;12(11):2121.",
+    "13. Koh E, Charoenprasert S, Mitchell AE. Effect of organic and conventional cropping systems on ascorbic acid, vitamin C, flavonoids, nitrate, and oxalate in 27 varieties of spinach. J Agric Food Chem. 2012;60(12):3144-3150.",
+    "14. Violi F, Lip GYH, Pignatelli P, Pastori D. Interaction Between Dietary Vitamin K Intake and Anticoagulation by Vitamin K Antagonists: Is It Really True? A Systematic Review. Medicine. 2016;95(10):e2895."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

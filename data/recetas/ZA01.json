@@ -1,0 +1,201 @@
+{
+  "codigo": "ZA01",
+  "nombre": "Torta de zanahoria y avena",
+  "imagenSize": {
+    "width": 600,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: Haberdoedas, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa de una torta de zanahoria)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "1 porción (≈70 g, ¼ de la torta)",
+  "tiempo": "50 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Alta",
+  "etiquetas": [
+    "Excelente fuente de vitamina A",
+    "Buena fuente de fibra"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "109 kcal",
+      "437 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "3,8 g",
+      "15,0 g",
+      "5,3 %",
+      "4,9 %"
+    ],
+    [
+      "Carbohidratos",
+      "15,0 g",
+      "60,1 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "3,8 g",
+      "15,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "2,1 g",
+      "8,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "33,1 mg",
+      "132,3 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total*",
+      "2,5 g",
+      "9,9 g",
+      "9,0 %",
+      "7,6 %"
+    ],
+    [
+      "Vitamina A*",
+      "810,9 µg ER",
+      "3243,8 µg ER",
+      "115,8 %",
+      "90,1 %"
+    ],
+    [
+      "Sodio",
+      "67,5 mg",
+      "270,2 mg",
+      "4,9 %",
+      "4,9 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Zanahoria",
+      "28 g",
+      "112 g",
+      "1 unidad pequeña rallada",
+      "4 unidades"
+    ],
+    [
+      "Huevo",
+      "7 g",
+      "28 g",
+      "⅛ huevo",
+      "½ huevo"
+    ],
+    [
+      "Leche entera",
+      "16 mL",
+      "64 mL",
+      "1 cucharada",
+      "4 cucharadas"
+    ],
+    [
+      "Esencia de vainilla",
+      "0,1 mL",
+      "0,4 mL",
+      "2 gotas",
+      "8 gotas"
+    ],
+    [
+      "Panela molida",
+      "3 g",
+      "12 g",
+      "1 cucharadita",
+      "4 cucharaditas"
+    ],
+    [
+      "Avena en hojuelas",
+      "12 g",
+      "48 g",
+      "2 cucharadas",
+      "8 cucharadas"
+    ],
+    [
+      "Polvo de hornear",
+      "0,2 g",
+      "0,8 g",
+      "1 pizca",
+      "4 pizcas"
+    ],
+    [
+      "Sal",
+      "0,1 g",
+      "0,4 g",
+      "1 pizca",
+      "4 pizcas"
+    ],
+    [
+      "Coco rallado",
+      "4 g",
+      "16 g",
+      "1 cucharada",
+      "4 cucharadas"
+    ],
+    [
+      "Mantequilla (para engrasar)",
+      "0,5 g",
+      "2 g",
+      "1 pizca",
+      "1 cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave, despunte y desinfecte** la zanahoria (ver la tarjeta de limpieza y desinfección). **Lave y desinfecte** también la cáscara del huevo.",
+    "**Ralle** la zanahoria.",
+    "**Licúe** la mitad de la zanahoria rallada junto con el huevo, la leche, la esencia de vainilla, la panela, la avena, el polvo de hornear y la sal, hasta obtener una mezcla homogénea.",
+    "**Mezcle**, en un recipiente, la otra mitad de la zanahoria rallada y el coco rallado con la mezcla licuada.",
+    "**Precaliente** un sartén antiadherente a fuego bajo y **engrase** con la mantequilla.",
+    "**Agregue** la mezcla al sartén, **tape** y **cocine** a fuego bajo de 15 a 20 minutos por el primer lado.",
+    "**Voltee** la torta con ayuda de una tapa (confirme primero que la mezcla ya tenga buena consistencia y no esté líquida, para que no se riegue) y **cocine** 15 a 20 minutos más por el otro lado. **Verifique** la cocción interna con un palillo o cuchillo.",
+    "**Sirva** tibia o a temperatura ambiente."
+  ],
+  "usoSugerido": "Sirva como desayuno o media tarde, sola o acompañada de fruta fresca.",
+  "nutriConsejo": {
+    "icono": "🥕",
+    "titulo": "Zanahoria, vitamina A y fibra",
+    "cuerpo": "La zanahoria es fuente destacada de betacaroteno, un precursor de la vitamina A relacionado con la salud visual y las defensas del organismo. Al combinarla con avena —cuya fibra es mayormente soluble (betaglucano)—, esta torta también es buena fuente de fibra. Contiene huevo y lácteos: en personas con alergia a estos alimentos, debe evitarse o adaptarse la receta."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con ¼ de la torta completa (≈70 g), preparada con los ingredientes escalados a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Alta\" porque combina licuado, mezcla y una cocción por ambos lados en sartén tapado que exige buen manejo del punto de la mezcla antes de girarla, para que no se riegue."
+    },
+    {
+      "label": "Sobre la cocción del huevo:",
+      "texto": "en esta preparación el huevo se cocina por completo durante los 15 a 20 minutos por lado en el sartén tapado, por lo que no aplica la advertencia de huevo crudo."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente de vitamina A\" se calculó por porción. \"Buena fuente de fibra\" se declaró por 100 g de producto (3,5 g/100 g); el % VDR por porción, mostrado en la tabla, no alcanza por sí solo el 10 %. No aplican declaraciones \"bajo en\" de grasa o sodio: por 100 g de producto (5,4 g de grasa y 96,5 mg de sodio), ambos superan esos límites."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Instituto Colombiano de Bienestar Familiar. Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/ZA01.jpg"
+}

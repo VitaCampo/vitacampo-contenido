@@ -1,0 +1,192 @@
+{
+  "codigo": "AP03",
+  "nombre": "Apio salteado estilo oriental",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Suki Lee, Pexels — Licencia Pexels (uso libre). Fotografía \"Close-up of a Dish with Celery\": https://www.pexels.com/photo/15840965/ (Imagen ilustrativa de apio salteado; la foto muestra también trozos de carne opcional, no incluida en esta receta base)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Celery Stir-Fry\" del programa Food Hero, Oregon State University Extension Service (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 taza, ≈128 g)",
+  "tiempo": "20 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "62 kcal",
+      "249 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "1,0 g",
+      "4,0 g",
+      "1,4 %",
+      "1,3 %"
+    ],
+    [
+      "Carbohidratos",
+      "6,4 g",
+      "25,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "3,6 g",
+      "14,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,5 g",
+      "1,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina A",
+      "16,3 µg ER",
+      "65,4 µg ER",
+      "2,3 %",
+      "1,8 %"
+    ],
+    [
+      "Vitamina C",
+      "4,1 mg",
+      "16,3 mg",
+      "5,4 %",
+      "4,5 %"
+    ],
+    [
+      "Sodio",
+      "333,5 mg",
+      "1333,8 mg",
+      "24,3 %",
+      "24,3 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Caldo de vegetales bajo en sodio",
+      "15,0 mL",
+      "60,0 mL",
+      "1 cucharada",
+      "¼ taza"
+    ],
+    [
+      "Salsa de soya baja en sodio",
+      "3,8 mL",
+      "15,0 mL",
+      "¾ cucharadita",
+      "1 cucharada"
+    ],
+    [
+      "Vinagre de manzana",
+      "3,8 mL",
+      "15,0 mL",
+      "¾ cucharadita",
+      "1 cucharada"
+    ],
+    [
+      "Fécula de maíz (maicena)",
+      "1,5 g",
+      "6,0 g",
+      "¼ cucharadita",
+      "1 cucharadita + ⅓"
+    ],
+    [
+      "Aceite vegetal",
+      "2,2 g (2,2 mL)",
+      "9,0 g (9,0 mL)",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ],
+    [
+      "Aceite de ajonjolí",
+      "1,2 g (1,2 mL)",
+      "5,0 g (5,0 mL)",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Apio (en rodajas)",
+      "100,0 g",
+      "400,0 g",
+      "2 ramas grandes",
+      "8 ramas grandes"
+    ],
+    [
+      "Sal",
+      "0,1 g",
+      "0,5 g",
+      "1 pizca pequeña",
+      "1 pizca"
+    ],
+    [
+      "Pimienta negra",
+      "0,1 g",
+      "0,5 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Hojuelas de ají picante",
+      "0,1 g",
+      "0,5 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** el apio (ver la tarjeta de limpieza y desinfección). **Corte** en rodajas.",
+    "**Mezcle** aparte el caldo, la salsa de soya, el vinagre y la fécula de maíz. **Reserve**.",
+    "**Caliente** el aceite vegetal y el aceite de ajonjolí en un sartén grande a fuego medio-alto.",
+    "**Agregue** el apio, la sal, la pimienta y las hojuelas de ají. **Cocine** de 5 a 7 minutos, hasta que el apio ablande.",
+    "**Vierta** la mezcla de salsa y **revuelva** hasta que espese y cubra el apio.",
+    "**Sirva** caliente."
+  ],
+  "usoSugerido": "Sirva como acompañamiento de arroz, pollo o pescado a la plancha.",
+  "nutriConsejo": {
+    "icono": "🥬",
+    "titulo": "Apio salteado: una técnica distinta para un alimento poco usado como protagonista",
+    "cuerpo": "Este salteado rápido usa el apio como ingrediente principal, no solo como aromático de fondo. Por la salsa de soya que lleva, aporta una cantidad considerable de sodio: las personas con hipertensión arterial pueden usar una salsa de soya aún más baja en sodio o reducir la cantidad."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "la receta original rinde 4 tazas; se tomó cada taza como 1 porción VitaCampo, dando 1 porción de ≈128 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque requiere preparar la salsa aparte y coordinar el tiempo de cocción del apio con la reducción de la salsa."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó \"Celery Stir-Fry\" (Food Hero, programa de extensión de Oregon State University), un salteado donde el apio es el único vegetal protagonista (4 tazas, sin diluirlo con otras verduras): https://www.foodhero.org/recipes/celery-stir-fry (ver bibliografía)."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "en esta porción, ningún nutriente alcanza el 15 % del valor diario recomendado, por lo que la ficha no lleva insignias de \"fuente\" — el apio es un alimento de bajo aporte calórico y de micronutrientes concentrados, su valor nutricional principal es su aporte de fibra y agua, no vitaminas o minerales destacados en esta preparación salteada."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta preparación aporta 24,3 % de la ingesta adecuada diaria de sodio por porción, principalmente por la salsa de soya. Las personas con hipertensión arterial pueden usar una salsa de soya aún más baja en sodio o reducir la cantidad."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Food Hero, Oregon State University Extension Service. Celery Stir-Fry [Internet]. Corvallis (OR): Oregon State University; 2024 [citado 2 nov 2026]. Disponible en: https://www.foodhero.org/recipes/celery-stir-fry"
+  ],
+  "imagen": "assets/img/recetas/AP03.jpg"
+}

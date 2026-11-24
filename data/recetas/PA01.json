@@ -1,0 +1,221 @@
+{
+  "codigo": "PA01",
+  "nombre": "Papas criollas encurtidas",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Alicia Christin Gerald, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa del ingrediente: papas criollas)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "1 taza (≈220 g)",
+  "tiempo": "30 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina C",
+    "Excelente fuente de vitamina B6",
+    "Buena fuente de potasio",
+    "Bajo en grasa"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "166 kcal",
+      "666 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "4,5 g",
+      "18,2 g",
+      "6,2 %",
+      "5,8 %"
+    ],
+    [
+      "Carbohidratos",
+      "32,1 g",
+      "128,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "2,2 g",
+      "8,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "3,4 g",
+      "13,7 g",
+      "12,5 %",
+      "10,5 %"
+    ],
+    [
+      "Vitamina C*",
+      "81,1 mg",
+      "324,2 mg",
+      "108,1 %",
+      "90,1 %"
+    ],
+    [
+      "Vitamina B6*",
+      "0,5 mg",
+      "2,0 mg",
+      "35,3 %",
+      "32,9 %"
+    ],
+    [
+      "Potasio*",
+      "960,5 mg",
+      "3841,8 mg",
+      "20,4 % (AI)",
+      "20,4 % (AI)"
+    ],
+    [
+      "Vitamina A",
+      "119,8 µg ER",
+      "479,2 µg ER",
+      "17,1 %",
+      "13,3 %"
+    ],
+    [
+      "Sodio",
+      "400,7 mg",
+      "1602,9 mg",
+      "29,1 %",
+      "29,1 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Papa criolla",
+      "150 g",
+      "600 g",
+      "1 taza",
+      "4 tazas"
+    ],
+    [
+      "Sal",
+      "1 g",
+      "4 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Pimienta molida",
+      "0,03 g",
+      "0,12 g",
+      "1 pizca",
+      "4 pizcas"
+    ],
+    [
+      "Ajo",
+      "0,5 g",
+      "2 g",
+      "1 pizca",
+      "1 diente pequeño"
+    ],
+    [
+      "Pimentón rojo",
+      "15 g",
+      "60 g",
+      "2 tiras",
+      "8 tiras"
+    ],
+    [
+      "Pimentón amarillo",
+      "15 g",
+      "60 g",
+      "2 tiras",
+      "8 tiras"
+    ],
+    [
+      "Cebolla cabezona blanca",
+      "20 g",
+      "80 g",
+      "2 cucharadas picadas",
+      "8 cucharadas"
+    ],
+    [
+      "Cilantro",
+      "10 g",
+      "40 g",
+      "1 cucharada picada",
+      "4 cucharadas"
+    ],
+    [
+      "Agua (para encurtir)",
+      "4 mL",
+      "16 mL",
+      "1 cucharadita",
+      "1 cucharada + 1 cucharadita"
+    ],
+    [
+      "Aceite de girasol",
+      "1,8 g (2 mL)",
+      "7,4 g (8 mL)",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ],
+    [
+      "Vinagre",
+      "4 mL",
+      "16 mL",
+      "1 cucharadita",
+      "1 cucharada + 1 cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y limpie** muy bien la papa criolla (ver la tarjeta de limpieza y desinfección).",
+    "**Cocine** la papa con una parte de la sal y la pimienta, sin que se deshaga; **pinche** cada papa con un palillo para verificar que esté blanda y luego **escúrrala**.",
+    "**Lave, limpie y desinfecte** los pimentones, la cebolla, el ajo y el cilantro.",
+    "**Pique** finamente el ajo, los pimentones, la cebolla y el cilantro.",
+    "**Ponga** en un recipiente hermético, limpio y seco, las papas y los vegetales picados, junto con el agua, el aceite, el vinagre, la sal y la pimienta restantes.",
+    "**Mezcle** muy bien todo en el recipiente y **deje** reposar mínimo 1 hora en refrigeración, para que las papas absorban el sabor.",
+    "**Escurra** el líquido antes de servir, dejando algo de los vegetales picados adheridos a la papa."
+  ],
+  "notaPasos": "Se puede conservar refrigerado de 3 a 5 días.",
+  "usoSugerido": "Sirva como acompañamiento frío en almuerzos campesinos, parrillas o como pasabocas.",
+  "nutriConsejo": {
+    "icono": "🥔",
+    "titulo": "Papa criolla y color de los pimentones",
+    "cuerpo": "Esta preparación es excelente fuente de vitamina C y vitamina B6, y buena fuente de potasio, gracias a la combinación de papa criolla con pimentón rojo y amarillo. El color de los pimentones se relaciona con distintos carotenoides: el rojo aporta más licopeno y capsantina, y el amarillo más violaxantina, todos con potencial antioxidante. Por su aporte de potasio, las personas con enfermedad renal o esquemas de restricción de potasio deben consumirla con moderación y bajo orientación profesional."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con 220 g de producto ya escurrido (≈1 taza)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son pasos básicos (cocinar, picar, mezclar, marinar), sin técnicas delicadas."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "las declaraciones se calcularon por porción, con un margen claro sobre el umbral exigido. \"Bajo en grasa\" se calculó por 100 g de producto (0,97 g/100 g). Adicionalmente, la fibra (10,5-12,5 % del valor diario recomendado) y la vitamina A en mujeres (17,1 %) rozan sus respectivos umbrales, pero no se declaran como insignia por el margen estrecho frente al redondeo de los cálculos."
+    },
+    {
+      "label": "Sobre el potasio:",
+      "texto": "se declara \"buena fuente\" con base en la ingesta adecuada (AI) de la Res. 3803 de 2016, que aplica igual para hombres y mujeres."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 400,7 mg de sodio (29,1 % de la ingesta adecuada diaria). Las personas con hipertensión arterial o enfermedad renal pueden reducir la sal agregada."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. El % VDR indica qué tanto de una recomendación de \"llegar a\" cubre una porción, algo que tiene sentido para nutrientes como las vitaminas. La recomendación de energía, en cambio, es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso las calorías, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/PA01.jpg"
+}

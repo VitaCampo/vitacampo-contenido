@@ -1,0 +1,228 @@
+{
+  "codigo": "LR02",
+  "nombre": "Rollitos de lechuga romana con pollo y vegetales",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: BLACK17BG, Pixabay — Licencia de contenido de Pixabay (uso libre) (Imagen ilustrativa del ingrediente)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, basada en la técnica de \"rollitos\" o \"wraps\" de lechuga (ver Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (3 rollitos, ≈132 g)",
+  "tiempo": "25 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de vitamina A",
+    "Buena fuente de proteína",
+    "Buena fuente de vitamina C",
+    "Buena fuente de folato",
+    "Buena fuente de niacina (B3)",
+    "Bajo en grasa",
+    "Bajo en grasa saturada"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "111 kcal",
+      "445 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "14,0 g",
+      "56,1 g",
+      "19,4 %",
+      "18,0 %"
+    ],
+    [
+      "Carbohidratos",
+      "5,1 g",
+      "20,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "3,8 g",
+      "15,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,7 g",
+      "2,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "30,8 mg",
+      "123,2 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "1,9 g",
+      "7,7 g",
+      "7,0 %",
+      "5,9 %"
+    ],
+    [
+      "Vitamina A*",
+      "546,5 µg ER",
+      "2186,0 µg ER",
+      "78,1 %",
+      "60,7 %"
+    ],
+    [
+      "Vitamina C*",
+      "15,3 mg",
+      "61,1 mg",
+      "20,4 %",
+      "17,0 %"
+    ],
+    [
+      "Folato (B9)*",
+      "77,9 µg",
+      "311,5 µg",
+      "19,5 %",
+      "19,5 %"
+    ],
+    [
+      "Niacina (B3)*",
+      "4,6 mg",
+      "18,4 mg",
+      "32,9 %",
+      "28,8 %"
+    ],
+    [
+      "Sodio",
+      "207,0 mg",
+      "828,0 mg",
+      "15,1 %",
+      "15,1 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Lechuga romana",
+      "45 g",
+      "180 g",
+      "3 hojas grandes",
+      "12 hojas grandes"
+    ],
+    [
+      "Pechuga de pollo (sin piel, cocida)",
+      "40 g",
+      "160 g",
+      "⅓ pechuga pequeña",
+      "1⅓ pechuga pequeña"
+    ],
+    [
+      "Zanahoria",
+      "15 g",
+      "60 g",
+      "½ unidad pequeña rallada",
+      "2 unidades pequeñas"
+    ],
+    [
+      "Pepino cohombro con cáscara",
+      "15 g",
+      "60 g",
+      "4 tiras finas",
+      "16 tiras finas"
+    ],
+    [
+      "Cebolla de rama",
+      "5 g",
+      "20 g",
+      "1 cucharadita picada",
+      "4 cucharaditas picadas"
+    ],
+    [
+      "Jengibre",
+      "1 g",
+      "4 g",
+      "½ cucharadita rallada",
+      "2 cucharaditas ralladas"
+    ],
+    [
+      "Limón, jugo",
+      "3 g (3 mL)",
+      "12 g (12 mL)",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ],
+    [
+      "Salsa de soya",
+      "3 g (3 mL)",
+      "12 g (12 mL)",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ],
+    [
+      "Maní tostado sin sal",
+      "5 g",
+      "20 g",
+      "1 cucharadita",
+      "4 cucharaditas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** las hojas de lechuga romana, eligiendo las más grandes y enteras para que sirvan de envoltura (ver la tarjeta de limpieza y desinfección). **Lave** también la zanahoria, el pepino, la cebolla de rama, el jengibre y el limón.",
+    "En una olla pequeña con agua, **hierva** la pechuga de pollo a fuego medio de 15 a 18 minutos, hasta que esté bien cocida por dentro, sin partes rosadas.",
+    "**Retire** el pollo del agua, **déjelo enfriar** un poco y **desméchelo** con las manos o con dos tenedores.",
+    "Mientras se cocina el pollo, **ralle** la zanahoria y el jengibre, y **corte** el pepino y la cebolla de rama en tiras finas.",
+    "En un recipiente, **mezcle** el pollo desmechado con la zanahoria, el pepino, la cebolla de rama, el jengibre rallado, el jugo de limón y la salsa de soya.",
+    "**Pique** el maní tostado en trozos pequeños.",
+    "**Extienda** cada hoja de lechuga sobre un plato y **reparta** el relleno de pollo y vegetales en el centro.",
+    "**Espolvoree** el maní picado sobre el relleno y **enrolle** cada hoja como un taco, doblando los extremos hacia adentro."
+  ],
+  "notaPasos": "Arme los rollitos justo antes de comerlos, para que la lechuga se mantenga crocante. Para una versión vegetariana, puede reemplazar el pollo desmechado por fríjol cargamanto cocido y machacado parcialmente.",
+  "usoSugerido": "Sirva como entrada, pasabocas saludable o plato ligero para el almuerzo o la cena.",
+  "nutriConsejo": {
+    "icono": "🌯",
+    "titulo": "Un envoltorio sin pan, lleno de vitamina A",
+    "cuerpo": "Usar hojas de lechuga romana como envoltura, en vez de pan o tortilla, aprovecha al máximo la hoja completa. Esta preparación es excelente fuente de vitamina A (por la zanahoria y la lechuga) y buena fuente de proteína, vitamina C, folato y niacina, con poca grasa y poca grasa saturada. Contiene maní: no es apta para personas con alergia a este fruto seco, y puede omitirse sin afectar el resto de la receta. El sodio de la salsa de soya es considerable: las personas con hipertensión arterial o enfermedad renal pueden usar una versión baja en sodio de la salsa o reducir la cantidad."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción de 3 rollitos (≈132 g en total, incluido el relleno), con los ingredientes escalados también a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque, aunque ningún paso individual es complejo, combina varias técnicas (cocer y desmechar el pollo, rallar, cortar en tiras finas y armar los rollitos) que exigen organizar bien el tiempo."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se inspira en la técnica de \"rollitos\" o \"wraps\" de lechuga, usada en distintas cocinas del mundo para envolver un relleno sin usar pan ni tortilla. Es una adaptación propia de VitaCampo: no se encontró una fuente periodística o institucional suficientemente verificable sobre el origen exacto de esta técnica como para citarla con rigor, así que se documenta aquí como una decisión culinaria propia del proyecto, con un enfoque de aprovechamiento de alimentos (se usa la hoja completa de lechuga, incluidas las hojas más grandes que suelen desecharse por su tamaño)."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina A (≥30 % VDR en ambos sexos) y \"buena fuente\" de proteína, vitamina C, folato y niacina B3 (≥15 % VDR, o ≥10 % VRN para proteína, en ambos sexos) se calcularon por porción (Res. 810 de 2021). \"Bajo en grasa\" y \"bajo en grasa saturada\" se calcularon por 100 g de producto (2,9 g de grasa y 0,5 g de grasa saturada por 100 g), muy por debajo de los límites de esas declaraciones. No aplica \"bajo en sodio\": por 100 g de producto (157 mg de sodio) supera ese límite, principalmente por la salsa de soya."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 207 mg de sodio (15 % de la ingesta adecuada diaria), sobre todo por la salsa de soya. Se documenta por transparencia y se explica en el Nutri Consejo la recomendación para personas con hipertensión o enfermedad renal."
+    },
+    {
+      "label": "Sobre la proteína:",
+      "texto": "la Res. 3803 de 2016 expresa la recomendación de proteína por kilo de peso (1,11 g por kg al día). Para calcular el porcentaje se usó un peso de referencia de 70 kg para hombres (77,7 g al día) y de 65 kg para mujeres (72,15 g al día). Por eso este porcentaje es una estimación y cambia según el peso de cada persona."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018."
+  ],
+  "imagen": "assets/img/recetas/LR02.jpg"
+}

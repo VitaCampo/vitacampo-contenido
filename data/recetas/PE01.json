@@ -1,0 +1,213 @@
+{
+  "codigo": "PE01",
+  "nombre": "Chimichurri",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Tom Hermans, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa del ingrediente: perejil)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "3 cucharadas (≈44 g de chimichurri)",
+  "tiempo": "20 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina C",
+    "Excelente fuente de vitamina E"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "113 kcal",
+      "453 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,9 g",
+      "3,4 g",
+      "1,2 %",
+      "1,2 %"
+    ],
+    [
+      "Carbohidratos",
+      "2,2 g",
+      "8,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "11,3 g",
+      "45,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "1,2 g",
+      "4,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa monoinsaturada",
+      "2,2 g",
+      "8,9 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa poliinsaturada",
+      "7,3 g",
+      "29,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina E*",
+      "4,6 mg",
+      "18,2 mg",
+      "60,8 %",
+      "45,6 %"
+    ],
+    [
+      "Vitamina C*",
+      "33,7 mg",
+      "135,0 mg",
+      "45,0 %",
+      "37,5 %"
+    ],
+    [
+      "Vitamina A",
+      "130,0 µg ER",
+      "520,0 µg ER",
+      "18,6 %",
+      "14,4 %"
+    ],
+    [
+      "Sodio",
+      "212,3 mg",
+      "849,4 mg",
+      "15,4 %",
+      "15,4 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Perejil crespo",
+      "25 g",
+      "100 g",
+      "1 taza picada",
+      "4 tazas"
+    ],
+    [
+      "Ajo",
+      "1 g",
+      "4 g",
+      "½ diente",
+      "2 dientes"
+    ],
+    [
+      "Cebolla cabezona blanca",
+      "3 g",
+      "12 g",
+      "1 cucharadita picada",
+      "4 cucharaditas"
+    ],
+    [
+      "Laurel en hojas fresco",
+      "0,1 g",
+      "0,4 g",
+      "1 hoja pequeña",
+      "4 hojas"
+    ],
+    [
+      "Tomillo fresco",
+      "0,1 g",
+      "0,4 g",
+      "1 ramita pequeña",
+      "4 ramitas"
+    ],
+    [
+      "Sal",
+      "0,5 g",
+      "2 g",
+      "2 pizcas",
+      "8 pizcas"
+    ],
+    [
+      "Azúcar",
+      "0,1 g",
+      "0,4 g",
+      "1 pizca",
+      "4 pizcas"
+    ],
+    [
+      "Pimienta molida",
+      "0,08 g",
+      "0,32 g",
+      "1 pizca",
+      "4 pizcas"
+    ],
+    [
+      "Vinagre",
+      "3 mL",
+      "12 mL",
+      "1 cucharadita",
+      "1 cucharada + 1 cucharadita"
+    ],
+    [
+      "Aceite de girasol",
+      "11 g (12 mL)",
+      "44,2 g (48 mL)",
+      "1 cucharada",
+      "4 cucharadas"
+    ]
+  ],
+  "pasos": [
+    "**Lave, limpie y desinfecte** el perejil, el ajo, el laurel y el tomillo (ver la tarjeta de limpieza y desinfección). **Seque** con papel o paño limpio.",
+    "**Corte** finamente el perejil y el ajo con ayuda de tabla y cuchillo, y **pique** la cebolla en cubos pequeños.",
+    "**Macere** (machaque suavemente) un poco, con ayuda de una cuchara, las hojas de laurel y el tomillo en un recipiente, para que suelten su aroma.",
+    "**Mezcle** todos los ingredientes, dejando las hojas de laurel y el tomillo para que sigan infusionando (dando sabor a) la preparación.",
+    "**Almacene** en un recipiente hermético, limpio y seco. Refrigere y consuma en máximo 4 días."
+  ],
+  "usoSugerido": "Sirva sobre carnes a la parrilla, papas, arepas o verduras asadas.",
+  "nutriConsejo": {
+    "icono": "🌿",
+    "titulo": "Perejil, hierbas frescas y un aceite de buena calidad",
+    "cuerpo": "El perejil aporta vitamina C y vitamina A, y el aceite de girasol es excelente fuente de vitamina E, un antioxidante liposoluble. Las guías de salud recomiendan que la grasa saturada aporte menos del 10 % de las calorías del día. Cocine siempre a fuego medio o bajo cuando use aceites, evite que humeen y no los reutilice más de una o dos veces; recolecte el aceite usado y entréguelo a un punto de recolección en lugar de botarlo por el desagüe."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con 44 g de chimichurri (≈3 cucharadas)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son 5 pasos con técnicas básicas (picar, macerar, mezclar), sin cocción."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "las declaraciones se calcularon por porción. La vitamina A llega a 18,6 % del valor diario recomendado en mujeres pero solo a 14,4 % en hombres; como el umbral de \"buena fuente\" (≥15 % VDR) exige cumplirse en ambos sexos, no se declara como etiqueta, aunque se documenta aquí por transparencia. No aplican declaraciones \"bajo en\" (grasa 25,7 g/100 g, sodio 482,6 mg/100 g): al ser una salsa a base de aceite con sal, ambos superan ampliamente esos límites."
+    },
+    {
+      "label": "Sobre el ajo en aceite:",
+      "texto": "esta salsa mezcla ajo fresco con aceite. El ajo puede contener esporas de Clostridium botulinum, que sin oxígeno y sin refrigeración producen una toxina peligrosa. Por eso debe refrigerarse y consumirse en máximo 4 días (OSU Extension, ver bibliografía)."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. El % VDR indica qué tanto de una recomendación de \"llegar a\" cubre una porción, algo que tiene sentido para nutrientes como las vitaminas. La recomendación de energía, en cambio, es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso las calorías, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: sunflower oil. Beltsville (MD): USDA; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Oregon State University Extension Service. Preserving garlic [Internet]. Corvallis (OR): OSU Extension; [citado 2026 nov 6]. Disponible en: https://extension.oregonstate.edu/food/preservation/preserving-garlic"
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/PE01.jpg"
+}

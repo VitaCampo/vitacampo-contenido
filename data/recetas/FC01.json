@@ -1,0 +1,222 @@
+{
+  "codigo": "FC01",
+  "nombre": "Frijoles con cidra",
+  "imagenSize": {
+    "width": 600,
+    "height": 414
+  },
+  "imagenCredito": "Imagen: recetario \"Alimentación y nutrición con sabor\" (Alcaldía de Medellín, ESAN, 2022)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta del recetario \"Alimentación y nutrición con sabor\" (Alcaldía de Medellín, ESAN, 2022) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 pocillo grande, ≈300 g aprox. con el agua de cocción)",
+  "tiempo": "80 minutos (más remojo del frijol desde el día anterior)",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de folato (B9)",
+    "Excelente fuente de proteína",
+    "Excelente fuente de vitamina A"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "381 kcal",
+      "1523 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "22,4 g",
+      "89,7 g",
+      "31,1 %",
+      "28,9 %"
+    ],
+    [
+      "Carbohidratos",
+      "69,8 g",
+      "279,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "1,3 g",
+      "5,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,4 g",
+      "1,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "0,0 mg",
+      "0,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "24,9 g",
+      "99,4 g",
+      "90,4 %",
+      "76,0 %"
+    ],
+    [
+      "Folato (B9)*",
+      "594,8 µg",
+      "2379,0 µg",
+      "148,7 %",
+      "148,7 %"
+    ],
+    [
+      "Vitamina A*",
+      "398,2 µg ER",
+      "1592,8 µg ER",
+      "56,9 %",
+      "44,2 %"
+    ],
+    [
+      "Hierro",
+      "5,1 mg",
+      "20,4 mg",
+      "26,1 %",
+      "39,2 %"
+    ],
+    [
+      "Sodio",
+      "44,1 mg",
+      "176,2 mg",
+      "3,2 %",
+      "3,2 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Frijol cargamanto rojo, seco",
+      "92,5 g",
+      "370 g",
+      "½ taza",
+      "2 tazas"
+    ],
+    [
+      "Cidra",
+      "22,5 g",
+      "90 g",
+      "⅛ cidra pequeña",
+      "½ cidra pequeña"
+    ],
+    [
+      "Plátano verde",
+      "22,5 g",
+      "90 g",
+      "⅛ plátano",
+      "½ plátano"
+    ],
+    [
+      "Zanahoria",
+      "12,5 g",
+      "50 g",
+      "¼ zanahoria pequeña",
+      "1 zanahoria pequeña"
+    ],
+    [
+      "Cilantro",
+      "1 g",
+      "4 g",
+      "¼ cucharada",
+      "1 cucharada"
+    ],
+    [
+      "Ajo",
+      "0,75 g",
+      "3 g",
+      "¼ diente",
+      "1 diente"
+    ],
+    [
+      "Cebolla cabezona blanca",
+      "20 g",
+      "80 g",
+      "¼ unidad",
+      "1 unidad"
+    ],
+    [
+      "Tomate",
+      "30 g",
+      "120 g",
+      "¼ unidad",
+      "1 unidad"
+    ],
+    [
+      "Sal",
+      "0,075 g",
+      "0,3 g",
+      "1 pizca",
+      "1 pizca"
+    ]
+  ],
+  "pasos": [
+    "Desde el día anterior, **deje en remojo** los frijoles con suficiente agua.",
+    "Al día siguiente, **elimine** el agua de remojo y **enjuague** muy bien los frijoles. **Lave y desinfecte** las verduras (ver la tarjeta de limpieza y desinfección).",
+    "**Pele** la cidra y el plátano, y **corte** en cubos pequeños. Reserve.",
+    "**Licue** con poca agua el cilantro, la cebolla y el tomate. Reserve.",
+    "En una olla a presión, **incorpore** el ajo, el plátano, la zanahoria entera, el licuado de aliños y los frijoles previamente remojados. **Cocine** por 25 minutos hasta ablandar.",
+    "**Retire** la zanahoria y **licue** con un poco del caldo de cocción. Reserve.",
+    "**Agregue** la cidra a la olla de frijoles y **cocine** durante 10 minutos.",
+    "**Agregue** el licuado de zanahoria y **deje cocinar** hasta que espese.",
+    "**Rectifique** con sal."
+  ],
+  "notaPasos": "El libro no especifica la cantidad de agua para la cocción; agregue la necesaria para cubrir los frijoles y ajuste según la consistencia deseada.",
+  "usoSugerido": "Sirva como plato principal, acompañado de arroz blanco, al gusto.",
+  "nutriConsejo": {
+    "icono": "🫘",
+    "titulo": "Frijoles con cidra: la leguminosa protagonista de Antioquia",
+    "cuerpo": "Este plato es excelente fuente de folato, de proteína y de vitamina A —gracias al frijol cargamanto rojo, la zanahoria y el tomate—, y también buena fuente de hierro y de zinc. El frijol cargamanto es, en general, una de las mejores fuentes vegetales de folato que existen: una sola porción de este plato cubre casi 1½ veces la recomendación diaria de este nutriente."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción (≈1 pocillo grande, ≈300 g aproximados con el agua de cocción), escalada también a 4 porciones (el tamaño original del libro). El libro no especifica la cantidad de agua para la cocción, por lo que el peso de la porción servida es un estimado; esto no afecta el cálculo nutricional porque el agua no aporta nutrientes."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\" (clasificación \"Baja\" del libro), aunque requiere remojo desde el día anterior y cocción larga."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de \"Frijoles con cidra\", receta de la sección \"Recetas tradicionales\" del recetario \"Alimentación y nutrición con sabor\" (Alcaldía de Medellín, ESAN, 2022), p.65 (ver bibliografía)."
+    },
+    {
+      "label": "Sobre el frijol seco:",
+      "texto": "la cantidad de frijol (2 tazas) se tomó como medida en seco, antes del remojo, siguiendo la indicación del primer paso de la receta (\"deje en remojo los frijoles\"). Se calculó con RINAs-UdeA 2019 (fríjol cargamanto rojo, seco, crudo), usando una equivalencia de ≈185 g por taza de frijol seco (más precisa para esta leguminosa que la tabla genérica de medidas caseras del libro, pensada para alimentos menos densos)."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de folato, de proteína (≥20 % del valor de referencia nutricional) y de vitamina A (≥30 % VDR en ambos sexos) se calcularon por porción (Res. 810 de 2021). El hierro y el zinc también son \"buena fuente\" (≥15 % VDR en ambos sexos), pero no se incluyeron entre las 3 etiquetas principales."
+    },
+    {
+      "label": "Sobre el folato:",
+      "texto": "esta porción aporta cerca de 1½ veces (148,7 %) la ingesta adecuada diaria de folato, un valor muy alto incluso para una leguminosa: según RINAs, el fríjol cargamanto rojo es una fuente vegetal de este nutriente."
+    },
+    {
+      "label": "Sobre las equivalencias de peso:",
+      "texto": "el libro da la cidra, el plátano, la cebolla y el tomate en unidades (\"½ cidra pequeña\", \"1 cebolla de huevo\", etc.) sin especificar gramos; se usaron tamaños comerciales promedio, documentados y consistentes con los de otras recetas de VitaCampo."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Distrito de Ciencia, Tecnología e Innovación, Equipo de Seguridad Alimentaria y Nutricional (ESAN). Alimentación y nutrición con sabor: recetario. 1a ed. Medellín: Alcaldía de Medellín; 2022."
+  ],
+  "imagen": "assets/img/recetas/FC01.jpg"
+}

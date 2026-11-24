@@ -1,0 +1,248 @@
+{
+  "codigo": "LC03",
+  "nombre": "Ensalada de pollo y quinua",
+  "imagenSize": {
+    "width": 337,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: recetario \"Alimentación y nutrición con sabor\" (Alcaldía de Medellín, ESAN, 2022)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta del recetario \"Alimentación y nutrición con sabor\" (Alcaldía de Medellín, ESAN, 2022) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈232 g)",
+  "tiempo": "25 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de proteína",
+    "Excelente fuente de niacina (B3)",
+    "Bajo en grasa saturada"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "340 kcal",
+      "1360 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "28,8 g",
+      "115,2 g",
+      "39,9 %",
+      "37,1 %"
+    ],
+    [
+      "Carbohidratos",
+      "11,3 g",
+      "45,1 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "20,0 g",
+      "80,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "2,1 g",
+      "8,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "73,8 mg",
+      "295,2 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "2,8 g",
+      "11,2 g",
+      "10,2 %",
+      "8,6 %"
+    ],
+    [
+      "Niacina (B3)*",
+      "13,7 mg",
+      "54,6 mg",
+      "97,6 %",
+      "85,4 %"
+    ],
+    [
+      "Vitamina C",
+      "22,5 mg",
+      "90,0 mg",
+      "30,0 %",
+      "25,0 %"
+    ],
+    [
+      "Hierro",
+      "2,7 mg",
+      "10,8 mg",
+      "13,9 %",
+      "20,8 %"
+    ],
+    [
+      "Sodio",
+      "327,0 mg",
+      "1308,2 mg",
+      "23,8 %",
+      "23,8 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Pechuga de pollo, cruda sin piel",
+      "113,5 g",
+      "454 g",
+      "1 filete pequeño",
+      "4 filetes pequeños (1 libra)"
+    ],
+    [
+      "Quinua, cocida",
+      "28,9 g",
+      "115,6 g",
+      "¼ pocillo",
+      "1 pocillo"
+    ],
+    [
+      "Lechuga crespa verde",
+      "50 g",
+      "200 g",
+      "1 taza",
+      "4 tazas"
+    ],
+    [
+      "Aguacate",
+      "18,75 g",
+      "75 g",
+      "2 cucharadas en cubos",
+      "½ unidad"
+    ],
+    [
+      "Brócoli (arbolitos)",
+      "5,6 g",
+      "22,5 g",
+      "2 cucharaditas",
+      "½ taza"
+    ],
+    [
+      "Tomate maduro",
+      "11,25 g",
+      "45 g",
+      "2 cucharaditas picado",
+      "½ taza"
+    ],
+    [
+      "Sal",
+      "0,6 g",
+      "2,5 g",
+      "⅛ cucharadita",
+      "½ cucharadita"
+    ],
+    [
+      "Pimienta negra molida",
+      "0,03 g",
+      "0,1 g",
+      "1 pizca",
+      "1 pizca"
+    ],
+    [
+      "Orégano",
+      "0,03 g",
+      "0,1 g",
+      "1 pizca",
+      "1 pizca"
+    ],
+    [
+      "Paprika",
+      "0,03 g",
+      "0,1 g",
+      "1 pizca",
+      "1 pizca"
+    ],
+    [
+      "Aceite de girasol",
+      "3,75 mL",
+      "15 mL",
+      "¾ cucharadita",
+      "1 cucharada"
+    ],
+    [
+      "Limón, jugo (vinagreta)",
+      "7,5 g (7,5 mL)",
+      "30 g (30 mL)",
+      "1½ cucharaditas",
+      "2 cucharadas"
+    ],
+    [
+      "Aceite de canola (vinagreta)",
+      "11,25 mL",
+      "45 mL",
+      "2¼ cucharaditas",
+      "3 cucharadas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** la lechuga, el brócoli, el tomate, el aguacate y el limón (ver la tarjeta de limpieza y desinfección).",
+    "**Sazone** la pechuga de pollo con sal, pimienta, orégano y paprika, y **cocínela** en una sartén con el aceite de girasol, a fuego medio, hasta que esté bien cocida por ambos lados.",
+    "**Retire** la pechuga del fuego, **déjela enfriar** y **córtela** en tiras o cubos.",
+    "Aparte, **cocine** la quinua según las instrucciones del empaque, hasta obtener la cantidad de quinua cocida indicada.",
+    "En un recipiente grande, **mezcle** la lechuga troceada, el brócoli en arbolitos pequeños, el tomate picado y el aguacate en cubos.",
+    "**Agregue** el pollo y la quinua cocida a la ensalada.",
+    "Para la vinagreta, **mezcle** el jugo de limón, el aceite de canola y una pizca de pimienta. **Vierta** sobre la ensalada antes de servir."
+  ],
+  "notaPasos": "Puede preparar el pollo y la quinua con anticipación y armar la ensalada justo antes de servir, para mantener la frescura de la lechuga.",
+  "usoSugerido": "Sirva como plato principal en el almuerzo, ideal después de actividad física.",
+  "nutriConsejo": {
+    "icono": "🥗",
+    "titulo": "Ensalada de pollo y quinua: proteína completa con vegetales",
+    "cuerpo": "Esta ensalada es excelente fuente de proteína y de niacina (vitamina B3), ambas aportadas principalmente por el pollo, y es baja en grasa saturada. Es una opción completa para después de actividad física o como almuerzo principal. El sodio proviene de la sal agregada y la sazón: las personas con hipertensión arterial pueden reducir la cantidad."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción (≈232 g), con los ingredientes escalados también a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\" porque las técnicas de base (sazonar, cocinar a la plancha, mezclar) son sencillas."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de \"Ensalada de pollo y quinoa\", receta de la sección \"Recetas fitness\" del recetario \"Alimentación y nutrición con sabor\" (Alcaldía de Medellín, ESAN, 2022) (ver bibliografía), ajustando las medidas caseras originales al estándar de porción de VitaCampo."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de proteína (≥20 % del valor de referencia nutricional en ambos sexos) y de niacina B3 (≥30 % VDR en ambos sexos), ambas principalmente por el pollo, y \"bajo en grasa saturada\" (0,91 g por 100 g de producto) se calcularon por porción o por 100 g según corresponda (Res. 810 de 2021). No aplica \"bajo en grasa\" total (8,6 g/100 g) ni \"bajo en sodio\" (141 mg/100 g)."
+    },
+    {
+      "label": "Sobre el colesterol:",
+      "texto": "la pechuga de pollo aporta colesterol (73,8 mg por porción). Las personas con dislipidemias pueden tenerlo en cuenta dentro de su consumo diario."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 327 mg de sodio (23,8 % de la ingesta adecuada diaria), principalmente por la sal agregada al pollo. Las personas con hipertensión arterial pueden reducir la cantidad."
+    },
+    {
+      "label": "Sobre la proteína:",
+      "texto": "la Res. 3803 de 2016 expresa la recomendación de proteína por kilo de peso (1,11 g por kg al día). Para calcular el porcentaje se usó un peso de referencia de 70 kg para hombres (77,7 g al día) y de 65 kg para mujeres (72,15 g al día). Por eso este porcentaje es una estimación y cambia según el peso de cada persona."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Distrito de Ciencia, Tecnología e Innovación, Equipo de Seguridad Alimentaria y Nutricional (ESAN). Alimentación y nutrición con sabor: recetario. 1a ed. Medellín: Alcaldía de Medellín; 2022."
+  ],
+  "imagen": "assets/img/recetas/LC03.jpg"
+}

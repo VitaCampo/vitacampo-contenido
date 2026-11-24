@@ -1,0 +1,136 @@
+{
+  "slug": "cilantro",
+  "nombreComun": "Cilantro",
+  "nombreCientifico": "Coriandrum sativum L.",
+  "subtitulo": "Una hierba que divide opiniones... hasta en los genes",
+  "imagen": "assets/img/fichas/cilantro.jpg",
+  "creditoImagen": "Elaboración propia.",
+  "introduccion": "El cilantro es una de las hierbas aromáticas más antiguas usadas por el ser humano, con referencias en la medicina tradicional de culturas muy diversas — desde remedios para malestares digestivos y respiratorios hasta su uso como condimento en prácticamente todas las cocinas del mundo. Hoy, la ciencia moderna estudia con detalle los compuestos que le dan su aroma y sabor tan característicos.",
+  "porcionReferencia": "¼ de taza de cilantro crudo picado (≈4 g)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "1 kcal",
+      "vdrMujer": "0,05%",
+      "vdrHombre": "0,04%"
+    },
+    {
+      "nutriente": "Vitamina K",
+      "cantidad": "12,4 mcg",
+      "vdrMujer": "20,7%",
+      "vdrHombre": "17,7%"
+    },
+    {
+      "nutriente": "Vitamina A",
+      "cantidad": "11,1 mcg ER",
+      "vdrMujer": "1,6%",
+      "vdrHombre": "1,2%"
+    },
+    {
+      "nutriente": "Hierro",
+      "cantidad": "0,08 mg",
+      "vdrMujer": "0,4%",
+      "vdrHombre": "0,6%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "0,44 mg",
+      "vdrMujer": "0,6%",
+      "vdrHombre": "0,5%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "el cilantro no está incluido en la Lista de Intercambio de Alimentos UdeA. Se usó “¼ de taza picado” (≈4 g), definido por USDA FoodData Central, por ser una medida estándar y de fácil visualización para el consumo real de esta hierba."
+    },
+    {
+      "titulo": "Sobre la parte comestible",
+      "texto": "según las RINAs, la parte comestible del cilantro (hojas y tallos crudos) es del 85%; el resto corresponde a partes que habitualmente se descartan."
+    },
+    {
+      "titulo": "Sobre las fuentes de los datos",
+      "texto": "los valores de Vitamina A, Hierro y Vitamina C provienen de las RINAs (Cilantro, hojas y tallos, crudo). La Vitamina K no está reportada ni en TCAC-ICBF ni en RINAs, por lo que se usó USDA FoodData Central (FDC #169997)."
+    },
+    {
+      "titulo": "Sobre la diferencia entre TCAC-ICBF y RINAs",
+      "texto": "existen diferencias notables entre ambas fuentes (por ejemplo, en vitamina C y folato), probablemente relacionadas con la variedad, el suelo o la temporada de cultivo, ya que la composición del cilantro es especialmente variable según estos factores."
+    },
+    {
+      "titulo": "Sobre la declaración “buena fuente de Vitamina K”",
+      "texto": "según la Resolución 810 de 2021, con 17,7-20,7% del VRN, el cilantro califica para esta declaración (≥15% del VRN). Ningún otro nutriente de esta tabla alcanza ese umbral en esta porción."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía que ¼ de taza de cilantro fresco picado aporta el 20,7% (mujeres) y 17,7% (hombres) de su requerimiento diario de vitamina K, un nutriente esencial para la coagulación de la sangre y la salud de los huesos?"
+  },
+  "descripcion": "El cilantro debe su aroma y sabor característicos a compuestos como el linalool y otros aceites esenciales, además de flavonoides (pigmentos vegetales con función antioxidante, presentes en muchas frutas y verduras) como la quercetina, la apigenina y la luteolina. Cada parte de la planta —raíz, tallo, hoja y semilla— tiene una composición química distinta, lo que explica por qué se usa de formas tan diferentes según la cultura culinaria.",
+  "beneficios": [
+    {
+      "icono": "🌬️",
+      "titulo": "Digestión",
+      "texto": "se le atribuyen propiedades tradicionales para aliviar gases y calmar el malestar estomacal."
+    },
+    {
+      "icono": "🧬",
+      "titulo": "Antioxidante",
+      "texto": "sus compuestos bioactivos (como el linalool) pueden ayudar a proteger las células del daño por radicales libres (sustancias que se producen de forma natural en el cuerpo, y en exceso pueden dañarlas)."
+    },
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas",
+      "texto": "su vitamina A y vitamina C contribuyen al funcionamiento normal del sistema inmunitario."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "capsula",
+      "titulo": "Cilantro y perfil lipídico (los niveles de grasas en la sangre)",
+      "texto": "El cilantro se ha estudiado por su posible papel en el manejo del colesterol y los triglicéridos (dos tipos de grasa que circulan en la sangre): sus fitoesteroles podrían competir con el colesterol en el intestino, y algunos de sus compuestos se han relacionado con la regulación de enzimas involucradas en su producción. Es importante aclarar que la mayoría de esta evidencia proviene de estudios en animales y de laboratorio, no de ensayos clínicos en personas, por lo que se necesita más investigación antes de establecer efectos concretos en el cuerpo humano. No reemplaza ningún tratamiento médico para el colesterol."
+    },
+    {
+      "tipo": "capsula",
+      "titulo": "Cilantro y sistema nervioso",
+      "texto": "Algunos de los compuestos del cilantro, en especial el linalool, se han estudiado como posibles candidatos para reducir la ansiedad y proteger las neuronas del deterioro. Al igual que con el perfil lipídico, esta evidencia proviene principalmente de estudios preclínicos (de laboratorio o en animales), por lo que representa un área de investigación prometedora, no un efecto comprobado en personas."
+    },
+    {
+      "tipo": "verdad",
+      "titulo": "¿Por qué a algunas personas el cilantro les sabe a jabón?",
+      "texto": "No es solo cuestión de gusto: una variante genética cerca de un grupo de genes olfativos (relacionados con el sentido del olfato) hace que algunas personas perciban con más intensidad ciertos compuestos aromáticos del cilantro (aldehídos), sintiéndolos como un sabor jabonoso en vez de fresco y cítrico. Es un rasgo genético real, documentado en estudios científicos, no un simple capricho a la hora de comer."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Lo que absorbe el cilantro del suelo y el agua",
+      "texto": "El cilantro, como otras hortalizas de hoja, puede absorber metales pesados (elementos naturales que en cantidades excesivas resultan tóxicos, como el cadmio) del agua y el suelo donde se cultiva. Consumidos de forma repetida, el cuerpo no los elimina con facilidad y tienden a acumularse, afectando principalmente el funcionamiento de los riñones. Esto no significa que el cilantro sea un alimento peligroso: es, más bien, una razón para fortalecer el manejo agroecológico del cultivo. El uso de biopreparados (preparados naturales a partir de plantas, microorganismos o minerales), junto con agua de riego de buena calidad y suelos no contaminados, ayuda a reducir esta absorción y a lograr un cultivo más seguro y sostenible."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo mantenerlo fresco por más tiempo",
+      "texto": "Guarde el cilantro como si fueran flores: corte un poco la base de los tallos y colóquelo en un vaso con agua dentro de la nevera, cubriendo las hojas sueltas con una bolsa plástica. Cambie el agua cada 2-3 días. Así puede durar más de una semana, en vez de marchitarse en pocos días como suele pasar cuando se guarda solo en una bolsa."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Precaución con anticoagulantes",
+      "texto": "El cilantro es una fuente importante de vitamina K. Si toma medicamentos anticoagulantes (como la warfarina), no es necesario evitarlo por completo, pero sí mantener un consumo moderado, ya que las variaciones grandes en el consumo de vitamina K pueden afectar el control de estos medicamentos. Consulte con su médico."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "5. U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Cilantro, raw (FDC #169997) [Internet]. Beltsville: USDA; 2019 [citado 2026]. Disponible en: https://fdc.nal.usda.gov/food-details/169997/nutrients",
+    "6. Wei JN, Liu ZH, Zhao YP, Zhao LL, Xue TK, Lan QK. Phytochemical and bioactive profile of Coriandrum sativum L. Food Chem. 2019;286:260-267.",
+    "7. Sobhani Z, Mohtashami L, Amiri MS, Ramezani M, Emami SA, Simal-Gandara J. Ethnobotanical and phytochemical aspects of the edible herb Coriandrum sativum L. J Food Sci. 2022;87(4):1386-1422.",
+    "8. Mahleyuddin NN, Moshawih S, Ming LC, Zulkifly HH, Kifli N, Loy MJ, et al. Coriandrum sativum L.: A Review on Ethnopharmacology, Phytochemistry, and Cardiovascular Benefits. Molecules. 2021;27(1):209.",
+    "9. Ugulu I, Khan ZI, Alrefaei AF, Bibi S, Ahmad K, Memona H, et al. Influence of Industrial Wastewater Irrigation on Heavy Metal Content in Coriander (Coriandrum sativum L.): Ecological and Health Risk Assessment. Plants (Basel). 2023;12(20):3652.",
+    "10. Eriksson N, Wu S, Do CB, Kiefer AK, Tung JY, Mountain JL, et al. A genetic variant near olfactory receptor genes influences cilantro preference. Flavour. 2012;1:22."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

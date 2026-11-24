@@ -1,0 +1,223 @@
+{
+  "codigo": "CO03",
+  "nombre": "Crema mix de col y espinaca",
+  "imagenSize": {
+    "width": 338,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: Nadin Sh, Pexels — Licencia Pexels (uso libre). Fotografía \"Fresh Green Cabbage on Rustic Wooden Bench\": https://www.pexels.com/photo/32254885/ (Imagen ilustrativa del ingrediente: col/repollo)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Crema mix de col y espinaca\" del recetario \"Rescate de memoria productiva y gastronómica: Departamento de Putumayo\" (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 plato hondo, ≈646 g)",
+  "tiempo": "40 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de proteína",
+    "Excelente fuente de vitamina A",
+    "Excelente fuente de vitamina C",
+    "Excelente fuente de folato (B9)",
+    "Excelente fuente de hierro",
+    "Buena fuente de fibra",
+    "Buena fuente de zinc"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "205 kcal",
+      "818 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "23,8 g",
+      "95,0 g",
+      "33,0 %",
+      "30,6 %"
+    ],
+    [
+      "Carbohidratos",
+      "19,8 g",
+      "79,3 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "3,2 g",
+      "12,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total*",
+      "8,7 g",
+      "34,9 g",
+      "31,7 %",
+      "26,7 %"
+    ],
+    [
+      "Vitamina A*",
+      "2221,8 µg ER",
+      "8887,2 µg ER",
+      "317,4 %",
+      "246,9 %"
+    ],
+    [
+      "Vitamina C*",
+      "50,9 mg",
+      "203,5 mg",
+      "67,8 %",
+      "56,5 %"
+    ],
+    [
+      "Folato (B9)*",
+      "419,9 µg",
+      "1679,6 µg",
+      "105,0 %",
+      "105,0 %"
+    ],
+    [
+      "Hierro*",
+      "10,9 mg",
+      "43,8 mg",
+      "56,1 %",
+      "84,1 %"
+    ],
+    [
+      "Zinc*",
+      "3,3 mg",
+      "13,2 mg",
+      "41,1 %",
+      "23,5 %"
+    ],
+    [
+      "Sodio",
+      "562,5 mg",
+      "2249,8 mg",
+      "40,9 %",
+      "40,9 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Espinaca",
+      "266,7 g",
+      "1066,7 g",
+      "4 tazas",
+      "16 tazas"
+    ],
+    [
+      "Col (repollo)",
+      "66,7 g",
+      "266,7 g",
+      "1 taza",
+      "4 tazas"
+    ],
+    [
+      "Pollo",
+      "66,7 g",
+      "266,7 g",
+      "⅓ taza en trozos",
+      "1⅓ tazas en trozos"
+    ],
+    [
+      "Sal (ajustada, ver Conceptos)",
+      "2,0 g",
+      "8,0 g",
+      "⅓ cucharadita",
+      "1⅓ cucharaditas"
+    ],
+    [
+      "Agua",
+      "200,0 mL",
+      "800,0 mL",
+      "¾ taza",
+      "3¼ tazas"
+    ],
+    [
+      "Papa parda",
+      "30,3 g",
+      "121,1 g",
+      "¼ papa mediana",
+      "1 papa mediana"
+    ],
+    [
+      "Cebolla larga",
+      "10,0 g",
+      "40,0 g",
+      "1 rama",
+      "4 ramas"
+    ],
+    [
+      "Perejil",
+      "1,3 g",
+      "5,3 g",
+      "1 pizca",
+      "1 cucharadita"
+    ],
+    [
+      "Cilantro cimarrón",
+      "2,0 g",
+      "8,0 g",
+      "1 pizca",
+      "1½ cucharaditas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** la espinaca, la col, la papa, la cebolla larga, el perejil y el cilantro cimarrón (ver la tarjeta de limpieza y desinfección). **Pique** en tiras la espinaca y la col.",
+    "En una olla, **ponga** a cocinar la espinaca y la col con el pollo picado en trozos y la sal.",
+    "**Deje cocinar** 6 minutos. **Pele** la papa y **píquela** en cuadros; **pique** también la cebolla, el perejil y el cilantro cimarrón.",
+    "**Agregue** la papa cuando la espinaca y la col lleven 6 minutos de cocción. **Espere** a que la papa esté blanda y el pollo completamente cocido (sin partes rosadas y con los jugos claros).",
+    "**Agregue** la cebolla, el perejil y el cilantro cimarrón. **Espere** un minuto más y **sirva**."
+  ],
+  "usoSugerido": "Sirva como plato principal caliente, acompañado de arroz o arepa.",
+  "nutriConsejo": {
+    "icono": "🥬",
+    "titulo": "Crema mix de col y espinaca: un plato completo en micronutrientes",
+    "cuerpo": "Esta receta tradicional del Putumayo es excelente fuente de proteína, vitamina A, vitamina C, folato y hierro, y buena fuente de zinc y de fibra, gracias a la gran cantidad de espinaca y col que lleva. Por el pollo y la sal que incorpora, aporta una cantidad considerable de sodio, ya ajustada desde la receta original (ver Conceptos)."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica 15 porciones para una preparación grande (4 kg de espinaca, 1 kg de pollo); se escaló a 4 porciones VitaCampo con un factor de 4/15, dando 1 porción de ≈646 g, un plato hondo generoso."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque combina varios tiempos de cocción escalonados."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Crema mix de col y espinaca\", del recetario \"Rescate de memoria productiva y gastronómica: Departamento de Putumayo\", que recopila preparaciones tradicionales de esa región."
+    },
+    {
+      "label": "Sobre esta receta:",
+      "texto": "esta receta fue adaptada para que el aporte de sodio sea más saludable, sin afectar su sabor característico."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de proteína, vitamina A, vitamina C, folato y hierro se calcularon por porción (Res. 810 de 2021), cumpliendo el umbral de ≥30 % VDR en ambos sexos. La fibra (31,6 %/26,6 % VDR) y el zinc (41,1 %/23,5 % VDR) solo alcanzan el umbral de \"buena fuente\" (≥15 % VDR) en ambos sexos, por lo que se declaran en ese nivel y no como \"excelente\". El tamaño generoso de la porción (≈646 g, un plato hondo completo) explica el aporte tan alto de varios nutrientes."
+    },
+    {
+      "label": "Sobre la cocción segura:",
+      "texto": "cocine la carne y el pollo hasta que no queden partes rosadas y sus jugos salgan claros; en sopas y guisos, lleve el líquido a ebullición, con lo cual se alcanzan unos 70 °C (Organización Mundial de la Salud, ver bibliografía). Sirva caliente y refrigere los sobrantes dentro de las 2 horas siguientes."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 562,5 mg de sodio (40,9 % de la ingesta adecuada diaria). Las personas con hipertensión arterial o enfermedad renal pueden reducir la sal agregada."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos. Rescate de memoria productiva y gastronómica: Departamento de Putumayo. Medellín: Alcaldía de Medellín [sin fecha de publicación identificada en el documento].",
+    "World Health Organization. Five keys to safer food manual. Geneva: WHO; 2006."
+  ],
+  "imagen": "assets/img/recetas/CO03.jpg"
+}

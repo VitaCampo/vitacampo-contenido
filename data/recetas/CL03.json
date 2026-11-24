@@ -1,0 +1,184 @@
+{
+  "codigo": "CL03",
+  "nombre": "Pescado con salsa de cilantro",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Maor Attias, Pexels — Licencia Pexels (uso libre). Fotografía \"Meal with Lemon\": https://www.pexels.com/photo/5192412/ (Imagen ilustrativa de pescado con salsa verde y puré)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Pescado con salsa de cilantro\" del recetario \"Deliciosas y nutritivas recetas\" (PDSAN, Gobernación de Antioquia) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 filete, ≈159 g)",
+  "tiempo": "30 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de proteína",
+    "Excelente fuente de vitamina B12"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "158 kcal",
+      "631 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "24,0 g",
+      "95,8 g",
+      "33,3 %",
+      "30,9 %"
+    ],
+    [
+      "Carbohidratos",
+      "3,5 g",
+      "14,1 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "5,3 g",
+      "21,1 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,7 g",
+      "2,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina B12*",
+      "3,4 µg",
+      "13,6 µg",
+      "141,9 %",
+      "141,9 %"
+    ],
+    [
+      "Hierro",
+      "1,0 mg",
+      "3,8 mg",
+      "4,9 %",
+      "7,4 %"
+    ],
+    [
+      "Sodio",
+      "174,6 mg",
+      "697,9 mg",
+      "12,7 %",
+      "12,7 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Aceite",
+      "3,5 g (3,5 mL)",
+      "14,0 g (14,0 mL)",
+      "¾ cucharadita",
+      "1 cucharada"
+    ],
+    [
+      "Cebolla cabezona",
+      "27,5 g",
+      "110,0 g",
+      "¼ unidad mediana",
+      "1 unidad mediana"
+    ],
+    [
+      "Ajo",
+      "0,8 g",
+      "3,0 g",
+      "¼ diente pequeño",
+      "1 diente pequeño"
+    ],
+    [
+      "Limón (jugo)",
+      "3,8 mL",
+      "15,0 mL",
+      "¾ cucharadita",
+      "1 cucharada"
+    ],
+    [
+      "Pimentón dulce (paprika)",
+      "0,5 g",
+      "2,0 g",
+      "1 pizca",
+      "½ cucharadita"
+    ],
+    [
+      "Pimienta negra",
+      "0,1 g",
+      "0,5 g",
+      "1 pizca",
+      "1 pizca generosa"
+    ],
+    [
+      "Sal",
+      "0,2 g",
+      "1,0 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Pescado en filetes",
+      "113,5 g",
+      "454,0 g",
+      "1 filete pequeño",
+      "1 libra (4 filetes)"
+    ],
+    [
+      "Cilantro fresco picado",
+      "8,8 g",
+      "35,0 g",
+      "2 cucharadas",
+      "1 pocillo"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** la cebolla, el ajo, el cilantro y los filetes de pescado (ver la tarjeta de limpieza y desinfección).",
+    "**Caliente** el aceite y **sofría** la cebolla y el ajo hasta que estén tiernos, pero sin dorar.",
+    "**Agregue** el jugo de limón, la paprika, la sal y la pimienta. **Caliente** completamente.",
+    "**Coloque** los filetes de pescado en un recipiente engrasado y **distribuya** por encima la mezcla de cebolla.",
+    "**Añada** por encima el cilantro y **tape**.",
+    "**Lleve** al horno precalentado a 180 °C (o cocine tapado en sartén a fuego medio) durante aproximadamente 20 minutos, o hasta que el pescado esté opaco por dentro y se desprenda fácilmente con un tenedor."
+  ],
+  "usoSugerido": "Sirva acompañado de arroz blanco, puré de papa o patacones.",
+  "nutriConsejo": {
+    "icono": "🐟",
+    "titulo": "Pescado con salsa de cilantro: proteína y vitamina B12 de sobra",
+    "cuerpo": "Este plato es excelente fuente de proteína y de vitamina B12, importante para la formación de glóbulos rojos y el sistema nervioso. El pescado blanco es una opción baja en grasa saturada frente a otras carnes."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro no especifica el número de porciones; dado que usa 1 libra de pescado en filetes, se calculó para 4 porciones VitaCampo (1 filete pequeño por porción, ≈159 g con la salsa)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque incluye hornear o cocinar el pescado con precisión para que no quede seco."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Pescado con salsa de cilantro\", del recetario \"Deliciosas y nutritivas recetas\" (PDSAN, Gobernación de Antioquia)."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de proteína (≥20 % VRN) y de vitamina B12 (≥30 % VDR) se calcularon por porción (Res. 810 de 2021), cumpliendo ampliamente el umbral en ambos sexos."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Gobernación de Antioquia, Programa de Desarrollo y Seguridad Alimentaria y Nutricional (PDSAN). Deliciosas y nutritivas recetas. Medellín: Gobernación de Antioquia [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/CL03.jpg"
+}

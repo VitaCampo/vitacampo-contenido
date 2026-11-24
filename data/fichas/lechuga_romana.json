@@ -1,0 +1,136 @@
+{
+  "slug": "lechuga_romana",
+  "nombreComun": "Lechuga Romana",
+  "nombreCientifico": "Lactuca sativa var. longifolia",
+  "subtitulo": "Un nombre romano con un secreto mexicano",
+  "imagen": "assets/img/fichas/lechuga_romana.jpg",
+  "creditoImagen": "Elaboración propia.",
+  "introduccion": "El nombre “romana” no es casualidad: esta variedad se cultivó y documentó desde la Antigua Roma, donde recibió el nombre de lattuga romana en italiano y laitue romaine en francés — literalmente, “lechuga de Roma”. Con hojas alargadas, firmes y una nervadura central resistente, se diferencia claramente de la crespa de hoja suelta, y su cultivo se extendió por Europa occidental desde la época del Imperio Romano.",
+  "porcionReferencia": "100 g",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "18 kcal",
+      "vdrMujer": "0,92%",
+      "vdrHombre": "0,77%"
+    },
+    {
+      "nutriente": "Vitamina K",
+      "cantidad": "102 mcg",
+      "vdrMujer": "170%",
+      "vdrHombre": "145,7%"
+    },
+    {
+      "nutriente": "Folato",
+      "cantidad": "136 mcg EFD",
+      "vdrMujer": "34%",
+      "vdrHombre": "34%"
+    },
+    {
+      "nutriente": "Vitamina A",
+      "cantidad": "260 mcg ER",
+      "vdrMujer": "37,1%",
+      "vdrHombre": "28,9%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "24 mg",
+      "vdrMujer": "32%",
+      "vdrHombre": "26,7%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la fuente de los datos",
+      "texto": "los valores de Folato, Vitamina A y Vitamina C provienen de las RINAs (Lechuga romana). La Vitamina K no está reportada ni en TCAC-ICBF ni en RINAs, por lo que se usó USDA FoodData Central (FDC #169247)."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "la lechuga romana no está en la Lista de Intercambios UdeA por ser un alimento de libre consumo (menos de 25 kcal/100 g)."
+    },
+    {
+      "titulo": "Sobre la comparación con la crespa",
+      "texto": "aunque comparten los mismos 4 nutrientes destacados, sus proporciones son distintas — la romana aporta menos Vitamina K y A, pero más Folato y Vitamina C que la crespa."
+    },
+    {
+      "titulo": "Sobre las declaraciones",
+      "texto": "según la Resolución 810 de 2021, esta porción califica como “excelente fuente” (≥30% VRN) de Vitamina K, Folato, Vitamina A y Vitamina C — las cuatro al mismo tiempo."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía usted que 100 g de lechuga romana aportan el 170% (mujeres) y 145,7% (hombres) de su requerimiento diario de vitamina K, importante para la coagulación sanguínea normal?"
+  },
+  "descripcion": "Aunque su contenido total de grasa es muy bajo, la lechuga romana aporta ácidos grasos poliinsaturados (PUFA, del inglés polyunsaturated fatty acids) — un tipo de grasa que el cuerpo no puede producir por sí mismo y debe obtener de los alimentos, algo poco común en una hoja verde. Aporta 0,11 g de PUFA por cada 100 g, principalmente en forma de ácido alfa-linolénico (un omega-3 de origen vegetal).",
+  "beneficios": [
+    {
+      "icono": "🧬",
+      "titulo": "Formación de células",
+      "texto": "su folato favorece la formación de nuevas células, clave en el embarazo y etapas de desarrollo."
+    },
+    {
+      "icono": "👁️",
+      "titulo": "Visión",
+      "texto": "su vitamina A contribuye al mantenimiento de la visión y a la salud de la piel."
+    },
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas",
+      "texto": "su vitamina C contribuye al funcionamiento normal del sistema inmunitario."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "capsula",
+      "titulo": "Lechuga y salud ocular",
+      "texto": "Al igual que otras lechugas, la romana aporta luteína y zeaxantina (dos carotenoides —pigmentos naturales de las plantas con función antioxidante— que el cuerpo no puede producir por sí solo). Estos compuestos se acumulan en la mácula (una zona central de la retina, la capa del ojo sensible a la luz), donde actúan como una especie de filtro natural frente a la luz. Estudios en personas sugieren que un consumo adecuado de estos compuestos podría ayudar a retrasar la progresión de la degeneración macular (una causa común de pérdida de visión relacionada con la edad), aunque no la previene por completo ni reemplaza el control oftalmológico regular."
+    },
+    {
+      "tipo": "verdad",
+      "titulo": "¿La ensalada César es romana?",
+      "texto": "Es un mito muy extendido: a pesar del nombre, la ensalada César no tiene ningún origen romano ni debe su nombre al emperador Julio César. Fue inventada el 4 de julio de 1924 en Tijuana, México, por Caesar Cardini, un inmigrante italiano — se llama así por su apellido, no por Roma. Lo único genuinamente romano en esta historia es la lechuga que la protagoniza."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Precaución con anticoagulantes",
+      "texto": "La lechuga romana es una excelente fuente de vitamina K. Si toma medicamentos anticoagulantes (como la warfarina), no es necesario evitarla por completo, pero sí mantener un consumo controlado y evitar cambios bruscos de un día a otro, ya que las variaciones grandes en el consumo de vitamina K pueden afectar el control de estos medicamentos. Consulte con su médico."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Cómo lavarla, desinfectarla y conservarla correctamente",
+      "texto": "Como la lechuga se come siempre cruda, un buen lavado es esencial: 1. Retire las hojas dañadas y separe todas las hojas entre sí. 2. Lave cada hoja bajo un chorro de agua potable, frotando suavemente para quitar la tierra visible. 3. Prepare la solución desinfectante: diluya 1 cucharada (15 ml) de hipoclorito (el líquido blanqueador de uso doméstico) en 1 litro de agua potable. 4. Sumerja las hojas completamente en esa solución durante 3 a 5 minutos. 5. Enjuague con abundante agua potable para retirar el residuo de la solución. 6. Seque bien las hojas antes de guardarlas o consumirlas. Este método reduce de forma importante la cantidad de microorganismos presentes en la hoja, aunque ningún lavado casero elimina el 100%. Para conservarla fresca por más tiempo, guárdela ya lavada y seca, envuelta en un paño o papel absorbente dentro de una bolsa o recipiente en la nevera."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Úsela como envoltura saludable",
+      "texto": "Gracias a su tamaño y firmeza, las hojas enteras de lechuga romana funcionan muy bien como reemplazo de tortillas o pan en wraps y rollitos — sirven para armar rollos con proteína, arroz o vegetales, aportando crocancia y reduciendo el aporte de harinas refinadas en la preparación."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Cuando el mar fertiliza la tierra",
+      "texto": "Existen técnicas de fertilización cada vez más disponibles en el mercado agrícola, como los bioestimulantes hechos a partir de extractos de algas marinas — un insumo natural, no una novedad: ya los agrónomos de la Antigua Roma envolvían raíces de sus cultivos en algas para conservarlos mejor. En la planta, estos extractos favorecen el desarrollo de raíces, mejoran la absorción de nutrientes del suelo y fortalecen su resistencia frente al estrés ambiental (como sequías o cambios de temperatura). Para quien consume el alimento, un estudio con lechuga cultivada con este tipo de bioestimulante encontró un aumento del 63% en su contenido de hierro — y en personas que la consumieron a diario, un aumento del hierro en sangre y una reducción del colesterol total y LDL, con resultados comparables a tomar un suplemento de hierro, pero sin sus efectos secundarios digestivos. Es una muestra de cómo prácticas agrícolas innovadoras, aplicadas con criterio, pueden mejorar tanto el cultivo como la alimentación."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "5. U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Lettuce, cos or romaine, raw [Internet]. Beltsville: USDA; 2019 [citado 2026].",
+    "6. de Vries IM. Origin and domestication of Lactuca sativa L. Genet Resour Crop Evol. 1997;44:165-174.",
+    "7. Kim MJ, Moon Y, Tou JC, Mou B, Waterland NL. Nutritional value, bioactive compounds and health benefits of lettuce (Lactuca sativa L.). J Food Compos Anal. 2016;49:19-34.",
+    "8. Mrowicka M, Mrowicki J, Kucharska E, Majsterek I. Lutein and Zeaxanthin and Their Roles in Age-Related Macular Degeneration. Nutrients. 2022;14(4):827.",
+    "9. Encyclopaedia Britannica. Caesar salad [Internet]. Chicago: Encyclopaedia Britannica, Inc.; 2026 [citado 2026 Jul].",
+    "10. Violi F, Lip GYH, Pignatelli P, Pastori D. Interaction Between Dietary Vitamin K Intake and Anticoagulation by Vitamin K Antagonists: Is It Really True? A Systematic Review. Medicine. 2016;95(10):e2895.",
+    "11. Bencardino D, Vitali LA, Petrelli D. Microbiological evaluation of ready-to-eat iceberg lettuce during shelf-life and effectiveness of household washing methods. Ital J Food Saf. 2018;7(1):6913.",
+    "12. Uhlig E, Olsson C, He J, Stark T, Sadowska Z, Molin G, et al. Effects of household washing on bacterial load and removal of E. coli from lettuce and “ready-to-eat” salads. Food Sci Nutr. 2017;5(6):1215-1220.",
+    "13. Organismo Internacional Regional de Sanidad Agropecuaria (OIRSA). Guía para uso de cloro en desinfección de frutas y hortalizas de consumo fresco, equipos y superficies en establecimientos [Internet]. San Salvador: OIRSA; 2020.",
+    "14. Di Gaudio F, Vasto S, Sabatino L, Ferrantelli V, Macaluso A, Caldarella R, et al. Consumption of lettuce with seaweed extract biostimulant application improved iron homeostasis in a randomized interventional trial of healthy individuals. Sci Rep. 2025;15(1):7799."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

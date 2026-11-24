@@ -1,0 +1,163 @@
+{
+  "codigo": "CD03",
+  "nombre": "Ensalada de cidra y zanahoria",
+  "imagenSize": {
+    "width": 600,
+    "height": 116
+  },
+  "imagenCredito": "Imagen: recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ, PASO Colombia, CEIBA)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Ensalada de cidra y zanahoria\" del recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈½ pocillo, ≈87 g)",
+  "tiempo": "15 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina A"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "27 kcal",
+      "109 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,8 g",
+      "3,4 g",
+      "1,1 %",
+      "1,0 %"
+    ],
+    [
+      "Carbohidratos",
+      "5,7 g",
+      "22,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,1 g",
+      "0,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "1,8 g",
+      "7,1 g",
+      "6,5 %",
+      "5,4 %"
+    ],
+    [
+      "Vitamina A*",
+      "773,0 µg ER",
+      "3092,0 µg ER",
+      "110,4 %",
+      "85,9 %"
+    ],
+    [
+      "Vitamina C",
+      "10,6 mg",
+      "42,5 mg",
+      "14,1 %",
+      "11,8 %"
+    ],
+    [
+      "Sodio",
+      "99,7 mg",
+      "398,8 mg",
+      "7,3 %",
+      "7,3 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Cidra (chayote)",
+      "44,4 g",
+      "177,8 g",
+      "½ unidad mediana",
+      "2 unidades medianas"
+    ],
+    [
+      "Zanahoria",
+      "26,7 g",
+      "106,7 g",
+      "½ unidad mediana",
+      "2 unidades medianas"
+    ],
+    [
+      "Cilantro picado",
+      "7,2 g",
+      "28,9 g",
+      "1½ cucharadas",
+      "¼ pocillo"
+    ],
+    [
+      "Pimienta negra",
+      "0,1 g",
+      "0,4 g",
+      "1 pizca",
+      "1 pizca generosa"
+    ],
+    [
+      "Sal",
+      "0,2 g",
+      "0,9 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Limón (jugo)",
+      "8,3 mL",
+      "33,3 mL",
+      "1½ cucharaditas",
+      "2 cucharadas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** muy bien la cidra, la zanahoria y el cilantro (ver la tarjeta de limpieza y desinfección).",
+    "**Pele y corte** en tiras delgadas o julianas la cidra y la zanahoria.",
+    "**Mezcle** la cidra, la zanahoria, el cilantro, la pimienta y la sal. **Adicione** el jugo de limón al momento de servir."
+  ],
+  "usoSugerido": "Sirva como acompañamiento fresco de carnes, fríjoles o arroz.",
+  "nutriConsejo": {
+    "icono": "🥕",
+    "titulo": "Ensalada de cidra y zanahoria: excelente fuente de vitamina A",
+    "cuerpo": "Esta ensalada fresca y ligera es excelente fuente de vitamina A gracias a la zanahoria, con muy pocas calorías. Es una buena opción para acompañar comidas más pesadas. Por su contenido de potasio, las personas con enfermedad renal deben consultar con su nutricionista antes de consumirla con frecuencia."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica 8-10 porciones de ½ pocillo cada una; se escaló a 4 porciones VitaCampo con un factor de 4/9 (tomando 9 como punto medio del rango 8-10), dando 1 porción de ≈87 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son técnicas básicas (pelar, cortar en juliana, mezclar)."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Ensalada de cidra y zanahoria\", del recetario \"De la huerta a la mesa: recetas saludables del campo para tu vida\" (Gobernación de Antioquia - MANÁ), p. 37."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina A (≥30 % VDR en ambos sexos) se calculó por porción (Res. 810 de 2021), aportada principalmente por la zanahoria. La vitamina C queda cerca del umbral de \"buena fuente\" (11,8 %/14,1 % VDR) pero no alcanza el 15 % requerido en ambos sexos, por lo que no se declara."
+    },
+    {
+      "label": "Sobre el potasio y la enfermedad renal:",
+      "texto": "la cidra contiene potasio de forma natural. Las personas con enfermedad renal o con hiperpotasemia (potasio alto en la sangre) deben vigilar su consumo de potasio y consultar con su nutricionista antes de consumir esta preparación con frecuencia."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Gobernación de Antioquia, Gerencia de Seguridad Alimentaria y Nutricional (MANÁ), en alianza con PASO Colombia (Paz Sostenible para Colombia, programa de One Earth Future) y CEIBA. De la huerta a la mesa: recetas saludables del campo para tu vida. Estrategia Del Campo para el Campo. 1a ed. Medellín: Gobernación de Antioquia; [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/CD03.jpg"
+}

@@ -1,0 +1,156 @@
+{
+  "codigo": "RA03",
+  "nombre": "Ensalada de rábano",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Jonathan Borba, Pexels — Licencia Pexels (uso libre). Fotografía \"Fresh Mixed Salad with Radishes and Cucumbers\": https://www.pexels.com/photo/34298925/ (Imagen ilustrativa de una ensalada de rábano y pepino)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Ensalada de rábano\" del recetario \"Rescate de memoria productiva y gastronómica: Departamento de Putumayo\" (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈¾ taza, ≈84 g)",
+  "tiempo": "15 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "26 kcal",
+      "103 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,8 g",
+      "3,0 g",
+      "1,1 %",
+      "1,0 %"
+    ],
+    [
+      "Carbohidratos",
+      "3,6 g",
+      "14,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,9 g",
+      "3,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina C",
+      "12,9 mg",
+      "51,7 mg",
+      "17,2 %",
+      "14,4 %"
+    ],
+    [
+      "Sodio",
+      "283,5 mg",
+      "1134,0 mg",
+      "20,6 %",
+      "20,6 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Rábano",
+      "22,7 g",
+      "90,8 g",
+      "¼ taza en cuadros",
+      "1 taza en cuadros"
+    ],
+    [
+      "Pepino cohombro",
+      "22,7 g",
+      "90,8 g",
+      "¼ taza en cuadros",
+      "1 taza en cuadros"
+    ],
+    [
+      "Lechuga",
+      "22,7 g",
+      "90,8 g",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Cebolla morada",
+      "10,0 g",
+      "40,0 g",
+      "1 cucharada picada",
+      "⅓ unidad mediana"
+    ],
+    [
+      "Ajo",
+      "0,5 g",
+      "2,0 g",
+      "⅛ diente",
+      "½ diente"
+    ],
+    [
+      "Sal",
+      "0,7 g",
+      "2,8 g",
+      "1 pizca",
+      "½ cucharadita"
+    ],
+    [
+      "Limón (jugo)",
+      "3,8 mL",
+      "15,0 mL",
+      "¾ cucharadita",
+      "1 cucharada"
+    ],
+    [
+      "Aceite",
+      "0,7 g (0,7 mL)",
+      "2,8 g (2,8 mL)",
+      "⅛ cucharadita",
+      "½ cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** muy bien el rábano, el pepino, la lechuga, la cebolla morada y el ajo (ver la tarjeta de limpieza y desinfección).",
+    "**Pique** en cuadros todas las verduras y **mezcle** con el ajo finamente picado, la sal, el limón y el aceite. **Sirva**."
+  ],
+  "usoSugerido": "Sirva como acompañamiento fresco de carnes, pescado o granos.",
+  "nutriConsejo": {
+    "icono": "🥗",
+    "titulo": "Ensalada de rábano: fresca y ligera",
+    "cuerpo": "Esta ensalada tradicional del Putumayo combina rábano, pepino y lechuga en una preparación fresca y muy baja en calorías. Es una buena opción para acompañar comidas más pesadas. Por la sal que lleva, aporta una cantidad considerable de sodio (20,6 % de la ingesta adecuada diaria por porción): las personas con hipertensión arterial pueden reducir la sal o escurrir bien la ensalada antes de servir."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica 20 porciones; se escaló a 4 porciones VitaCampo con un factor de 4/20, dando 1 porción de ≈84 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son técnicas básicas (picar y mezclar)."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Ensalada de rábano\", del recetario \"Rescate de memoria productiva y gastronómica: Departamento de Putumayo\", que recopila preparaciones tradicionales de esa región."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "en esta porción, ningún nutriente alcanza el 15 % del valor diario recomendado en ambos sexos a la vez (la vitamina C llega a 17,2 % en mujeres pero solo 14,4 % en hombres), por lo que la ficha no lleva insignias de \"fuente\"."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos. Rescate de memoria productiva y gastronómica: Departamento de Putumayo. Medellín: Alcaldía de Medellín [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/RA03.jpg"
+}

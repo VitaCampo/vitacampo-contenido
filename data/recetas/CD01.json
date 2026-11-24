@@ -1,0 +1,168 @@
+{
+  "codigo": "CD01",
+  "nombre": "Limonada de cidra y limoncillo",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Francesca Hotchin, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa de una limonada, similar a la limonada de cidra)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "1 vaso (≈200 mL)",
+  "tiempo": "30 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Buena fuente de vitamina C",
+    "Libre de grasa",
+    "Libre de sodio"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "50 kcal",
+      "199 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,5 g",
+      "2,0 g",
+      "0,7 %",
+      "0,6 %"
+    ],
+    [
+      "Carbohidratos",
+      "11,4 g",
+      "45,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,3 g",
+      "1,1 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "1,8 g",
+      "7,0 g",
+      "6,4 %",
+      "5,4 %"
+    ],
+    [
+      "Vitamina C*",
+      "23,0 mg",
+      "91,9 mg",
+      "30,6 %",
+      "25,5 %"
+    ],
+    [
+      "Potasio",
+      "148,6 mg",
+      "594,3 mg",
+      "3,2 % (AI)",
+      "3,2 % (AI)"
+    ],
+    [
+      "Sodio",
+      "1,6 mg",
+      "6,4 mg",
+      "0,1 %",
+      "0,1 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Limoncillo (para infusionar)",
+      "4 g",
+      "16 g",
+      "1 tallo pequeño",
+      "4 tallos"
+    ],
+    [
+      "Agua para la infusión",
+      "100 mL",
+      "400 mL",
+      "½ vaso",
+      "2 vasos"
+    ],
+    [
+      "Cidra",
+      "57,2 g",
+      "228,6 g",
+      "¼ taza en cubos",
+      "1 taza"
+    ],
+    [
+      "Azúcar",
+      "5 g",
+      "20 g",
+      "1 cucharadita",
+      "4 cucharaditas"
+    ],
+    [
+      "Limón tahití (para exprimir)",
+      "40 g",
+      "160 g",
+      "1 unidad mediana",
+      "4 unidades"
+    ]
+  ],
+  "pasos": [
+    "**Lave, limpie y desinfecte** la cidra, el limoncillo y el limón (ver la tarjeta de limpieza y desinfección).",
+    "**Ponga a infusionar** (cocine para que suelte el sabor) el agua con el limoncillo en una olla a temperatura alta hasta que hierva. Apague el fuego.",
+    "**Cuele** la infusión para retirar los tallos de limoncillo y deje enfriar en la nevera.",
+    "**Pele** la cidra y **córtela** en cubos medianos.",
+    "**Cocine** la cidra en agua hirviendo durante 5 minutos y escurra.",
+    "**Lleve** la cidra cocida y el azúcar a la licuadora junto con la infusión ya fría y colada, y **procese** hasta homogenizar (que quede todo bien mezclado). No cuele esta mezcla final.",
+    "**Exprima** el limón y **adicione** el jugo a la mezcla.",
+    "**Almacene** en un recipiente hermético en la nevera. Sirva frío y consuma en máximo 3 días."
+  ],
+  "usoSugerido": "Sirva bien fría, como bebida refrescante para acompañar el almuerzo o como opción hidratante entre comidas.",
+  "nutriConsejo": {
+    "icono": "🍃",
+    "titulo": "Cidra, hidratación y una bebida con menos azúcar",
+    "cuerpo": "La cidra (chayote) tiene un sabor suave y un alto contenido de agua, por lo que ayuda a preparar una limonada rendidora usando menos fruta cítrica y aportando fibra y vitamina C adicionales. El limón tahití es la principal fuente de vitamina C de esta bebida. Aun así, contiene azúcar añadida: consúmala con moderación dentro de una alimentación variada, y en personas con diabetes recuerde que el efecto sobre la glucosa depende de la cantidad total consumida. Por su contenido de potasio, las personas con enfermedad renal deben consultar con su nutricionista antes de consumirla con frecuencia."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con 1 vaso (≈200 g/mL) de bebida ya colada y lista para servir."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son 8 pasos con técnicas básicas (infusionar, cocinar brevemente, licuar, exprimir), sin equipos especiales."
+    },
+    {
+      "label": "Sobre la conservación:",
+      "texto": "al ser una bebida de fruta fresca sin conservantes, se recomienda refrigerar y consumir en máximo 3 días."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "la vitamina C, calculada por porción, llega a 30,6 % del valor diario recomendado en mujeres (ya califica como \"excelente fuente\") y a 25,5 % en hombres (\"buena fuente\"); se usa la declaración común a ambos sexos. \"Libre de grasa\" y \"libre de sodio\" se calcularon por 100 g de bebida (0,14 g de grasa y 0,5 mg de sodio por 100 g)."
+    },
+    {
+      "label": "Sobre el limoncillo:",
+      "texto": "se usa solo para infusionar y se retira antes de servir (paso 2); por eso no se contabilizó su aporte nutricional, igual que con el laurel o el tomillo en otras recetas de este módulo."
+    },
+    {
+      "label": "Sobre el potasio y la enfermedad renal:",
+      "texto": "la cidra contiene potasio de forma natural. Una porción aporta cerca de 148,6 mg de potasio. Las personas con enfermedad renal o con hiperpotasemia (potasio alto en la sangre) deben vigilar su consumo de potasio y consultar con su nutricionista antes de consumir esta preparación con frecuencia."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. El % VDR indica qué tanto de una recomendación de \"llegar a\" cubre una porción, algo que tiene sentido para nutrientes como las vitaminas. La recomendación de energía, en cambio, es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso las calorías, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/CD01.jpg"
+}

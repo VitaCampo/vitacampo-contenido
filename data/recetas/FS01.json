@@ -1,0 +1,155 @@
+{
+  "codigo": "FS01",
+  "nombre": "Mermelada de fresa",
+  "imagenSize": {
+    "width": 600,
+    "height": 391
+  },
+  "imagenCredito": "Imagen: Lucinda Hershberger, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa de mermelada de fresa)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "3 cucharadas (≈42 g de mermelada)",
+  "tiempo": "40 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Buena fuente de vitamina C",
+    "Libre de grasa",
+    "Bajo en sodio"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "69 kcal",
+      "277 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,2 g",
+      "0,8 g",
+      "0,3 %",
+      "0,3 %"
+    ],
+    [
+      "Carbohidratos",
+      "16,9 g",
+      "67,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,1 g",
+      "0,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "0,6 g",
+      "2,3 g",
+      "2,1 %",
+      "1,8 %"
+    ],
+    [
+      "Vitamina C*",
+      "15,9 mg",
+      "63,7 mg",
+      "21,2 %",
+      "17,7 %"
+    ],
+    [
+      "Potasio",
+      "44,3 mg",
+      "177,1 mg",
+      "0,9 % (AI)",
+      "0,9 % (AI)"
+    ],
+    [
+      "Sodio",
+      "20,1 mg",
+      "80,3 mg",
+      "1,5 %",
+      "1,5 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Fresas",
+      "25 g",
+      "100 g",
+      "4 unidades medianas",
+      "16 unidades"
+    ],
+    [
+      "Azúcar",
+      "15 g",
+      "60 g",
+      "1 cucharada",
+      "4 cucharadas"
+    ],
+    [
+      "Jugo de limón",
+      "2 mL",
+      "8 mL",
+      "1 cucharadita",
+      "1 cucharada + 1 cucharadita"
+    ],
+    [
+      "Sal",
+      "0,05 g",
+      "0,2 g",
+      "1 pizca",
+      "4 pizcas"
+    ]
+  ],
+  "pasos": [
+    "**Lave, limpie y desinfecte** las fresas (ver la tarjeta de limpieza y desinfección). **Seque** con papel o paño limpio.",
+    "**Machaque o triture** las fresas en un recipiente; puede usar un tenedor para esto.",
+    "**Ponga** la fresa machacada y el azúcar en una olla o caldero grueso, a fuego medio.",
+    "**Adicione** el jugo de limón cuando la preparación esté blanda, y **revuelva** sin parar con espátula o cuchara de silicona.",
+    "**Continúe** la cocción cerca de 30 minutos y **agregue** la pizca de sal al final. Sabrá que la mermelada está lista cuando, al poner una muestra en un plato frío, no se vuelvan a unir las dos partes al pasar el dedo.",
+    "**Almacene** en un recipiente hermético, limpio y seco. Refrigere y consuma en máximo 15 días."
+  ],
+  "usoSugerido": "Sirva sobre arepa, pan o tostadas, o como acompañamiento de yogur y quesos frescos.",
+  "nutriConsejo": {
+    "icono": "🍓",
+    "titulo": "Aprovechamiento de la fresa y azúcar añadida",
+    "cuerpo": "Esta mermelada es una buena forma de aprovechar fresas maduras o con imperfecciones que ya no se ven atractivas para la venta en fresco, evitando el desperdicio. La fresa aporta vitamina C y fibra, aunque parte se pierde con el calor de la cocción. Por su contenido de azúcar añadida, disfrútela con moderación dentro de una alimentación variada; en personas con diabetes, el efecto sobre la glucosa depende de la cantidad consumida y debe considerarse dentro del plan de alimentación completo."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con 42 g de mermelada (≈3 cucharadas), la cantidad que rinde la receta original escalada a 1 porción."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque, aunque son pocos pasos, requiere reconocer el punto de cocción correcto de la mermelada (prueba del plato frío), una habilidad que toma práctica."
+    },
+    {
+      "label": "Sobre la conservación:",
+      "texto": "el alto contenido de azúcar actúa como conservante natural; aun así, se recomienda refrigerar en un frasco limpio y consumir en máximo 15 días."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "la vitamina C se evaluó por porción (≥15 % del valor diario recomendado); \"libre de grasa\" (0,24 g/100 g) y \"bajo en sodio\" (47,8 mg/100 g) se calcularon por 100 g de producto. No se declara \"bajo en azúcares\": por 100 g de producto, el azúcar añadida (≈36 g/100 g) supera ampliamente ese límite, como es propio de una mermelada."
+    },
+    {
+      "label": "Sobre la vitamina C:",
+      "texto": "el calor de la cocción reduce parcialmente la vitamina C de la fresa, un nutriente sensible al calor; el valor reportado corresponde a la fresa cruda antes de cocinar, por lo que el contenido real de la mermelada terminada puede ser algo menor."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. El % VDR indica qué tanto de una recomendación de \"llegar a\" cubre una porción, algo que tiene sentido para nutrientes como las vitaminas. La recomendación de energía, en cambio, es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso las calorías, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/FS01.jpg"
+}

@@ -1,0 +1,155 @@
+{
+  "codigo": "AJ01",
+  "nombre": "Aceite saborizado con ajo",
+  "imagenSize": {
+    "width": 600,
+    "height": 419
+  },
+  "imagenCredito": "Imagen: Pixabay — Licencia de contenido de Pixabay (uso libre). Fotografía \"Ajo, puerro, petróleo, aceite de ajo\": https://pixabay.com/es/photos/ajo-puerro-petr%C3%B3leo-aceite-de-ajo-3511585/ (Imagen ilustrativa de aceite saborizado con ajo)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "1 cucharada de aceite (15 mL) con ½ diente de ajo (1 g)",
+  "tiempo": "35 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina E"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "123 kcal",
+      "494 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,0 g",
+      "0,2 g",
+      "0,0 %",
+      "0,0 %"
+    ],
+    [
+      "Carbohidratos",
+      "0,3 g",
+      "1,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "13,8 g",
+      "55,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "1,4 g",
+      "5,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa monoinsaturada",
+      "6,3 g",
+      "25,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa poliinsaturada",
+      "5,5 g",
+      "22,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina E*",
+      "5,7 mg",
+      "22,8 mg",
+      "76,0 %",
+      "57,0 %"
+    ],
+    [
+      "Sodio",
+      "0,2 mg",
+      "0,7 mg",
+      "0,0 %",
+      "0,0 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Ajo",
+      "1 g",
+      "4 g",
+      "½ diente",
+      "2 dientes"
+    ],
+    [
+      "Aceite de girasol",
+      "13,8 g (15 mL)",
+      "55,2 g (60 mL)",
+      "1 cucharada",
+      "4 cucharadas"
+    ]
+  ],
+  "pasos": [
+    "**Lave, limpie y desinfecte** el ajo (ver la tarjeta de limpieza y desinfección).",
+    "Sobre una tabla, **machaque** el medio diente de ajo con el lado plano de un cuchillo o con un mazo, sin deshacerlo por completo.",
+    "En un sartén pequeño, a fuego bajo, **ponga** el aceite y el ajo machacado.",
+    "**Caliente** sin que el aceite hierva ni humee, revolviendo de vez en cuando, durante 30 minutos.",
+    "**Apague** el fuego y deje enfriar el aceite por completo antes de envasarlo.",
+    "**Envase** en un frasco de vidrio limpio, seco y hermético. Puede dejar el ajo dentro para intensificar el sabor.",
+    "**Refrigere** de inmediato y consuma en máximo 4 días."
+  ],
+  "usoSugerido": "Utilice frío o a temperatura ambiente, como aliño de ensaladas, arepas, sudados de fríjol o arveja, o verduras salteadas.",
+  "nutriConsejo": {
+    "icono": "🌻",
+    "titulo": "No toda la grasa es igual",
+    "cuerpo": "Este aceite es una buena opción para cocinar, porque casi toda su grasa es insaturada y muy poca es saturada. Además, el ajo aporta compuestos organosulfurados como la alicina, estudiados por sus posibles efectos antioxidantes y cardiovasculares. Estos compuestos se forman al machacar el ajo, como se indica en la preparación. Las guías de salud recomiendan que la grasa saturada aporte menos del 10 % de las calorías del día, y las grasas trans menos del 1 %. Cocine a fuego medio o bajo, evite que el aceite humee y no lo reutilice más de una o dos veces. Recolecte el aceite usado y entréguelo a un punto de recolección en lugar de botarlo por el desagüe."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "15 mL de aceite equivalen a 13,8 g, porque el aceite de girasol es menos denso que el agua (≈0,92 g/mL). Se sumó el aporte del ajo (1 g)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son 7 pasos con técnicas básicas (lavar, machacar, calentar a fuego bajo sin hervir, envasar), sin equipos especiales ni tiempos de cocción que exijan control estricto."
+    },
+    {
+      "label": "Sobre el riesgo del ajo en aceite:",
+      "texto": "el ajo puede contener esporas de Clostridium botulinum, que sin oxígeno y sin refrigeración producen una toxina peligrosa. Por eso esta preparación debe refrigerarse y consumirse en máximo 4 días (OSU Extension, ver bibliografía)."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "se evaluaron todas las declaraciones permitidas por la Resolución 810 de 2021 (Art. 19) calculando grasa y energía por 100 g de producto (no por porción), como exige la norma para \"bajo en\"/\"libre de\". Al ser un aceite saborizado, esas declaraciones no aplican: por 100 g de producto, el aporte de grasa y energía es naturalmente alto, como en cualquier aceite. Solo la vitamina E cumplió un umbral (evaluado por porción, como permite la misma resolución para vitaminas y minerales)."
+    },
+    {
+      "label": "Sobre la vitamina E:",
+      "texto": "alcanza el 57 % del VDR en hombres y el 76 % en mujeres, por lo que es \"excelente fuente\" según la normativa colombiana."
+    },
+    {
+      "label": "Sobre el ajo:",
+      "texto": "aunque se consume en pequeñas cantidades, sus compuestos activos han sido estudiados por sus posibles beneficios en la salud del corazón y por sus propiedades antimicrobianas. En personas que usan anticoagulantes o tienen cirugías programadas, se recomienda precaución con suplementos de ajo."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. El % VDR indica qué tanto de una recomendación de \"llegar a\" cubre una porción, algo que tiene sentido para nutrientes como la vitamina E. La recomendación de energía, en cambio, es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso las calorías, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Instituto Colombiano de Bienestar Familiar. Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018.",
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: sunflower oil. Beltsville (MD): USDA; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Bachrach ZY. Garlic as a medicine throughout the ages. World Acad Sci J. 2025;7(3):49.",
+    "Verma T, Aggarwal A, Dey P, Chauhan AK, Rashid S, Chen KT, et al. Medicinal and therapeutic properties of garlic. Front Nutr. 2023;10:1120377.",
+    "Oregon State University Extension Service. Preserving garlic [Internet]. Corvallis (OR): OSU Extension; [citado 2026 nov 6]. Disponible en: https://extension.oregonstate.edu/food/preservation/preserving-garlic"
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/AJ01.jpg"
+}

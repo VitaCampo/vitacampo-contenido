@@ -1,0 +1,189 @@
+{
+  "codigo": "BR01",
+  "nombre": "Sopa de brócoli rápida",
+  "imagenSize": {
+    "width": 300,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: Polina Kovaleva, Pexels — Licencia Pexels (uso libre). Fotografía \"Green Vegetable Soup on Brown Wooden Surface\": https://www.pexels.com/photo/5644943/ (Imagen ilustrativa de una crema de brócoli con ajo)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta del recetario \"Recetas de 10 segundos y guía de usuario\" (Magic Bullet) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 tazón, ≈366 g)",
+  "tiempo": "10 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina A",
+    "Excelente fuente de vitamina C",
+    "Buena fuente de folato (B9)"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "315 kcal",
+      "1260 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "7,2 g",
+      "28,7 g",
+      "10,0 %",
+      "9,3 %"
+    ],
+    [
+      "Carbohidratos",
+      "12,1 g",
+      "48,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "26,4 g",
+      "105,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "16,2 g",
+      "64,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "92,1 mg",
+      "368,5 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "4,6 g",
+      "18,2 g",
+      "16,6 %",
+      "13,9 %"
+    ],
+    [
+      "Vitamina A*",
+      "462,8 µg ER",
+      "1851,2 µg ER",
+      "66,1 %",
+      "51,4 %"
+    ],
+    [
+      "Vitamina C*",
+      "118,0 mg",
+      "472,0 mg",
+      "157,3 %",
+      "131,1 %"
+    ],
+    [
+      "Folato (B9)*",
+      "82,2 µg",
+      "328,6 µg",
+      "20,5 %",
+      "20,5 %"
+    ],
+    [
+      "Sodio",
+      "592,8 mg",
+      "2371,2 mg",
+      "43,1 %",
+      "43,1 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Brócoli, cocido al vapor",
+      "155 g",
+      "620 g",
+      "1 taza de cogollos",
+      "4 tazas de cogollos"
+    ],
+    [
+      "Ajo",
+      "3 g",
+      "12 g",
+      "1 diente",
+      "4 dientes"
+    ],
+    [
+      "Caldo de vegetales",
+      "125 mL",
+      "500 mL",
+      "½ taza",
+      "2 tazas"
+    ],
+    [
+      "Crema de leche",
+      "83 mL",
+      "332 mL",
+      "⅓ de taza",
+      "1⅓ taza"
+    ],
+    [
+      "Sal",
+      "0,3 g",
+      "1,2 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** el brócoli (ver la tarjeta de limpieza y desinfección).",
+    "**Cocínelo al vapor** hasta que esté tierno y déjelo enfriar un poco.",
+    "**Licue** el brócoli cocido junto con el ajo, el caldo de vegetales, la crema de leche y la sal, hasta obtener una consistencia de sopa.",
+    "**Caliente** la sopa a fuego bajo o en el microondas hasta que esté bien caliente. Tenga cuidado al retirarla, pues sale muy caliente."
+  ],
+  "notaPasos": "Puede cocinar el brócoli al vapor con anticipación y dejarlo enfriar, para tener la sopa lista en minutos. La receta original está pensada para licuadora personal (tipo Magic Bullet); aquí se adaptó para licuadora convencional.",
+  "usoSugerido": "Sirva como entrada o como refrigerio sustancioso; acompañe con un pan crujiente (sugerencia del libro original).",
+  "nutriConsejo": {
+    "icono": "🥦",
+    "titulo": "Sopa de brócoli rápida: cremosa y rica en vitaminas A y C",
+    "cuerpo": "Esta sopa es excelente fuente de vitamina A y de vitamina C, y buena fuente de folato, gracias al brócoli. Es rápida de preparar y rinde una porción sustanciosa. Por su contenido de crema de leche, aporta una cantidad considerable de grasa saturada: las personas con dislipidemias pueden tenerla en cuenta dentro de su consumo diario. También aporta una cantidad considerable de sodio (43,1 % de la ingesta adecuada diaria por porción), principalmente por el caldo de vegetales: las personas con hipertensión arterial pueden usar un caldo bajo en sodio o reducir la cantidad."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción (≈1 tazón, ≈366 g), escalada también a 4 porciones. La receta original del libro está pensada para una sola porción individual en licuadora personal (tipo Magic Bullet); se escaló x4 para el formato estándar de VitaCampo."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\" porque solo requiere cocinar al vapor y licuar."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de \"Sopa de brócoli rápida\", recetario \"Recetas de 10 segundos y guía de usuario\" (Magic Bullet), sección Sopas, p.54 (ver bibliografía)."
+    },
+    {
+      "label": "Sobre el caldo de vegetales:",
+      "texto": "el libro pide \"caldo de vegetales\", pero las tablas de composición colombianas no tienen una entrada específica de caldo vegetal preparado; para el cálculo se usó como referencia un caldo preparado en agua (2,5 %), la opción más cercana disponible. Quien prefiera una versión vegetariana estricta puede sustituirlo por un caldo de vegetales casero, sin que el resultado nutricional cambie de forma importante (el caldo aporta poco salvo sodio)."
+    },
+    {
+      "label": "Sobre esta receta:",
+      "texto": "Esta receta fue adaptada para que el aporte de sodio sea más saludable, sin afectar su sabor característico."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina A y de vitamina C (≥30 % VDR en ambos sexos) y \"buena fuente\" de folato (≥15 % VDR en ambos sexos) se calcularon por porción (Res. 810 de 2021)."
+    },
+    {
+      "label": "Sobre la grasa:",
+      "texto": "esta sopa aporta una cantidad considerable de grasa (26,4 g por porción, de los cuales 16,2 g son grasa saturada), principalmente por la crema de leche, uno de sus ingredientes base. Las personas con dislipidemias pueden tenerlo en cuenta dentro de su consumo diario."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Magic Bullet. Recetas de 10 segundos y guía de usuario. [Lugar de publicación y editorial no identificados]; [sin fecha de publicación identificada]."
+  ],
+  "imagen": "assets/img/recetas/BR01.jpg"
+}

@@ -1,0 +1,209 @@
+{
+  "codigo": "CE01",
+  "nombre": "Salsa blanca de cebolla de rama",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: David Trinks, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa del ingrediente: cebolla de rama)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "1 cucharada (≈20 g de salsa)",
+  "tiempo": "25 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Buena fuente de vitamina K"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "91 kcal",
+      "365 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,5 g",
+      "2,0 g",
+      "0,7 %",
+      "0,6 %"
+    ],
+    [
+      "Carbohidratos",
+      "0,7 g",
+      "2,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "9,6 g",
+      "38,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "4,8 g",
+      "19,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "0,2 g",
+      "0,6 g",
+      "0,6 %",
+      "0,5 %"
+    ],
+    [
+      "Vitamina K*",
+      "14,5 µg",
+      "58,0 µg",
+      "24,1 %",
+      "20,7 %"
+    ],
+    [
+      "Vitamina C",
+      "1,1 mg",
+      "4,2 mg",
+      "1,4 %",
+      "1,2 %"
+    ],
+    [
+      "Folato (B9)",
+      "5,7 µg",
+      "22,9 µg",
+      "1,4 %",
+      "1,4 %"
+    ],
+    [
+      "Calcio",
+      "7,4 mg",
+      "29,5 mg",
+      "0,7 %",
+      "0,7 %"
+    ],
+    [
+      "Sodio",
+      "137,2 mg",
+      "548,7 mg",
+      "10,0 %",
+      "10,0 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Cebolla de rama",
+      "7 g",
+      "28 g",
+      "1 ramita",
+      "4 ramitas"
+    ],
+    [
+      "Aceite de girasol",
+      "2 mL",
+      "8 mL",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ],
+    [
+      "Sal",
+      "0,3 g",
+      "1,2 g",
+      "1 pizca",
+      "4 pizcas"
+    ],
+    [
+      "Pimienta molida",
+      "0,05 g",
+      "0,2 g",
+      "1 pizca",
+      "4 pizcas"
+    ],
+    [
+      "Crema de leche",
+      "15 mL",
+      "60 mL",
+      "1 cucharada",
+      "4 cucharadas"
+    ],
+    [
+      "Queso crema",
+      "5 g",
+      "20 g",
+      "1 cucharadita",
+      "4 cucharaditas"
+    ]
+  ],
+  "pasos": [
+    "**Lave, limpie y desinfecte** la cebolla de rama (ver la tarjeta de limpieza y desinfección).",
+    "**Seque** con papel o paño limpio.",
+    "**Separe** la parte blanca de las ramas verdes y pique finamente por separado.",
+    "**Sofría** la parte blanca de la cebolla en un sartén o caldero a fuego medio con el aceite de girasol. Sazone con la sal y la pimienta.",
+    "**Adicione** la crema de leche cuando la cebolla esté transparente.",
+    "**Revuelva** constantemente a fuego bajo hasta obtener una consistencia cremosa.",
+    "**Agregue** el queso crema y mezcle hasta integrar por completo.",
+    "**Incorpore** las ramas verdes picadas una vez la salsa hierva, apague el fuego y reserve.",
+    "**Almacene** en un recipiente hermético, limpio y seco. Conserve en refrigeración y consuma en máximo 7 días."
+  ],
+  "usoSugerido": "Utilice como acompañamiento en pastas, carnes blancas, pasabocas o como base para gratinados.",
+  "nutriConsejo": {
+    "icono": "🧅",
+    "titulo": "Cebolla de rama y salud",
+    "cuerpo": "La cebolla de rama aporta vitamina K, un nutriente clave para la coagulación sanguínea y la salud ósea. También contribuye vitamina C, folato y compuestos organosulfurados como el alil sulfuro, con propiedades antioxidantes y antimicrobianas. Si consume medicamentos anticoagulantes (como la warfarina), mantenga un consumo constante y controlado de hortalizas verdes ricas en vitamina K y consulte con su profesional de la salud. Por su contenido de potasio, las personas con enfermedad renal deben consultar con su nutricionista antes de consumirla con frecuencia."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con 20 g de salsa cremosa (≈1 cucharada)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque, además de las técnicas básicas, exige controlar el sofrito y la reducción de la crema a fuego bajo sin que se corte ni se pegue, con 9 pasos en total."
+    },
+    {
+      "label": "Sobre la inocuidad:",
+      "texto": "la cebolla de rama debe lavarse y desinfectarse cuidadosamente antes de cortar para eliminar tierra y contaminantes de origen agrícola."
+    },
+    {
+      "label": "Sobre la conservación:",
+      "texto": "al contener lácteos y baja acidez, debe conservarse bajo refrigeración estricta (4 °C) en recipiente hermético y consumirse en un plazo máximo de 7 días."
+    },
+    {
+      "label": "Sobre el amargor u organoléptica:",
+      "texto": "si la cebolla presenta un sabor amargo excesivo o alterado, deseche el vegetal. En las aliáceas, esto no se debe a cucurbitacinas, sino a la degradación de aceites esenciales sulfurados o deterioro microbiológico."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "la vitamina K llega a 24,1 % del valor diario recomendado en mujeres y 20,7 % en hombres, ambos por encima del 15 % exigido. Por contener crema de leche entera y queso crema, la grasa y la grasa saturada por 100 g de producto superan los límites de \"bajo en\"."
+    },
+    {
+      "label": "Sobre la composición lipídica:",
+      "texto": "la crema de leche y el queso crema aportan textura y palatabilidad, además de ácidos grasos saturados (4,8 g por porción), por lo cual se sugiere un consumo moderado en esquemas de restricción lipídica."
+    },
+    {
+      "label": "Sobre la fibra y fitoquímicos:",
+      "texto": "el aporte de fibra es bajo debido al pequeño volumen de vegetal, pero la cebolla de rama aporta compuestos organosulfurados activos."
+    },
+    {
+      "label": "Sobre el potasio y la enfermedad renal:",
+      "texto": "la cebolla de rama contiene potasio de forma natural. Las personas con enfermedad renal o con hiperpotasemia (potasio alto en la sangre) deben vigilar su consumo de potasio y consultar con su nutricionista antes de consumir esta preparación con frecuencia."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. El % VDR indica qué tanto de una recomendación de \"llegar a\" cubre una porción, algo que tiene sentido para nutrientes como las vitaminas. La recomendación de energía, en cambio, es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso las calorías, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF; 2015 [citado 2026 nov 1]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Onions, spring or scallions (includes tops and bulb), raw (FDC #170005). Beltsville (MD): USDA; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Kim SH, Yoon JB, Han J, et al. Green Onion (Allium fistulosum): An Aromatic Vegetable Crop Esteemed for Food, Nutritional and Therapeutic Significance. Foods. 2023;12(24):4503."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/CE01.jpg"
+}

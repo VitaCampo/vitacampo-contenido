@@ -1,0 +1,200 @@
+{
+  "codigo": "TO02",
+  "nombre": "Pasta de tomate casera",
+  "imagenSize": {
+    "width": 600,
+    "height": 192
+  },
+  "imagenCredito": "Imagen: recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Pasta de tomate casera\" del recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈5 cucharadas, ≈107 g)",
+  "tiempo": "30 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de vitamina C"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "49 kcal",
+      "197 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "1,3 g",
+      "5,3 g",
+      "1,8 %",
+      "1,7 %"
+    ],
+    [
+      "Carbohidratos",
+      "8,0 g",
+      "31,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "1,3 g",
+      "5,3 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina C*",
+      "33,5 mg",
+      "133,9 mg",
+      "44,6 %",
+      "37,2 %"
+    ],
+    [
+      "Vitamina A",
+      "96,1 µg ER",
+      "384,5 µg ER",
+      "13,7 %",
+      "10,7 %"
+    ],
+    [
+      "Sodio",
+      "597,1 mg",
+      "2388,4 mg",
+      "43,4 %",
+      "43,4 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Tomate chonto",
+      "60,0 g",
+      "240,0 g",
+      "½ unidad",
+      "2 unidades"
+    ],
+    [
+      "Cebolla",
+      "20,0 g",
+      "80,0 g",
+      "2 cucharadas picada",
+      "⅔ unidad mediana"
+    ],
+    [
+      "Pimentón",
+      "10,0 g",
+      "40,0 g",
+      "1 cucharada",
+      "¼ unidad mediana"
+    ],
+    [
+      "Aceite",
+      "1,0 g (1,0 mL)",
+      "4,0 g (4,0 mL)",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Ajo",
+      "5,0 g",
+      "20,0 g",
+      "1 diente",
+      "4 dientes"
+    ],
+    [
+      "Sal",
+      "1,5 g",
+      "6,0 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Pimienta negra",
+      "1,0 g",
+      "4,0 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Laurel",
+      "—",
+      "—",
+      "1 hoja",
+      "2 hojas"
+    ],
+    [
+      "Tomillo",
+      "—",
+      "—",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Orégano",
+      "0,25 g",
+      "1,0 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Vinagre",
+      "7,5 g (7,5 mL)",
+      "30,0 g (30,0 mL)",
+      "1½ cucharaditas",
+      "2 cucharadas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** las verduras (ver la tarjeta de limpieza y desinfección).",
+    "**Corte** los tomates, la cebolla y el pimentón en trozos medianos.",
+    "En una olla a fuego medio, **añada** el aceite, el ajo y los vegetales previamente preparados. **Agregue** el resto de las especias (sal, pimienta, laurel, tomillo y orégano).",
+    "**Cocine** durante 15 minutos, o hasta que los ingredientes comiencen a deshacerse, y **reserve**.",
+    "**Lleve** a la licuadora los vegetales cocidos y **procese** hasta que se integren todos los ingredientes.",
+    "**Cuele** la mezcla y **lleve** de nuevo a la olla.",
+    "**Agregue** el vinagre y **cocine** a fuego bajo, revolviendo constantemente con una espátula para evitar que se pegue en el fondo.",
+    "**Deje cocinar** hasta obtener una crema densa. **Retire** del fuego y **almacene**."
+  ],
+  "usoSugerido": "Use como base de salsas, pastas o guisos, en lugar de pasta de tomate comercial.",
+  "nutriConsejo": {
+    "icono": "🍅",
+    "titulo": "Pasta de tomate casera: excelente fuente de vitamina C",
+    "cuerpo": "Esta pasta de tomate casera es excelente fuente de vitamina C y una alternativa sin conservantes a la pasta de tomate comercial. Por la sal que lleva, aporta una cantidad considerable de sodio: las personas con hipertensión arterial pueden reducir la sal agregada."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro no especifica el número de porciones y la cantidad es pequeña; se duplicó la receta completa para llegar a 4 porciones VitaCampo razonables, dando 1 porción de ≈107 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque requiere cocinar, licuar, colar y reducir en dos tiempos."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Pasta de tomate casera\", del recetario \"Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos\" (Alcaldía de Medellín, 2025). Imagen oficial del mismo recetario."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta preparación aporta 43,4 % de la ingesta adecuada diaria de sodio por porción. Las personas con hipertensión arterial pueden reducir la sal agregada."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina C se calculó por porción (Res. 810 de 2021), cumpliendo el umbral en ambos sexos."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    },
+    {
+      "label": "Sobre el orégano:",
+      "texto": "la cantidad de orégano se fijó en 1 cucharadita de hojas secas (≈1 g) para toda la receta, una cantidad de condimento. El gramaje y la medida casera se ajustaron para que coincidan."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Vanegas Piedrahíta L. Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos. Medellín: Alcaldía de Medellín, Distrito de Ciencia, Tecnología e Innovación; 2025."
+  ],
+  "imagen": "assets/img/recetas/TO02.png"
+}

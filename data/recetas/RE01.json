@@ -1,0 +1,141 @@
+{
+  "codigo": "RE01",
+  "nombre": "Salsa de remolacha y mora",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Rens D, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa del ingrediente: remolacha)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "3 cucharadas (≈47 g de salsa)",
+  "tiempo": "25 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Buena fuente de fibra",
+    "Libre de grasa",
+    "Bajo en sodio"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "37 kcal",
+      "148 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,4 g",
+      "1,4 g",
+      "0,6 %",
+      "0,5 %"
+    ],
+    [
+      "Carbohidratos",
+      "8,8 g",
+      "35,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,1 g",
+      "0,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total*",
+      "1,8 g",
+      "7,2 g",
+      "6,5 %",
+      "5,5 %"
+    ],
+    [
+      "Potasio",
+      "90,7 mg",
+      "362,6 mg",
+      "1,9 % (AI)",
+      "1,9 % (AI)"
+    ],
+    [
+      "Sodio",
+      "7,8 mg",
+      "31,1 mg",
+      "0,6 % (AI)",
+      "0,6 % (AI)"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Remolacha",
+      "10 g",
+      "40 g",
+      "1 cucharada rallada",
+      "4 cucharadas"
+    ],
+    [
+      "Mora",
+      "30 g",
+      "120 g",
+      "8-10 unidades",
+      "32-40 unidades"
+    ],
+    [
+      "Azúcar",
+      "6 g",
+      "24 g",
+      "1 cucharada + ½ cucharadita",
+      "5 cucharadas"
+    ],
+    [
+      "Jugo de limón",
+      "1 mL",
+      "4 mL",
+      "3 gotas",
+      "12 gotas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y limpie** muy bien la mora y la remolacha (ver la tarjeta de limpieza y desinfección).",
+    "**Ralle** la remolacha por el lado más fino del rallador.",
+    "**Ponga** en una olla o caldero, a fuego medio, la remolacha rallada, la mora y el azúcar. **Revuelva** y **triture** un poco la mora durante la cocción.",
+    "**Cocine** hasta encontrar la consistencia deseada; si lo ve necesario, agregue un poco de agua para mejorar la textura.",
+    "**Agregue** el jugo de limón antes de retirar del fuego.",
+    "**Almacene** en un recipiente hermético, limpio y seco. Refrigere y consuma en máximo 7 días."
+  ],
+  "notaPasos": "Si desea eliminar las semillas de la mora, licúela en un poco de agua y cuele antes de cocinar.",
+  "usoSugerido": "Sirva sobre panqueques, yogur, helados o como acompañamiento de quesos frescos.",
+  "nutriConsejo": {
+    "icono": "🫐",
+    "titulo": "Color natural y fibra de la mora y la remolacha",
+    "cuerpo": "Esta salsa combina dos alimentos con pigmentos naturales de interés: las antocianinas de la mora y las betalaínas de la remolacha, responsables de sus colores característicos. La mora aporta fibra, principalmente insoluble, lo que la hace buena fuente de este nutriente en la preparación terminada. Por su contenido de azúcar añadida, disfrútela con moderación dentro de una alimentación variada."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con 47 g de salsa (≈3 cucharadas)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son 6 pasos con técnicas básicas (rallar, cocinar a fuego medio, revolver), sin equipos especiales."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"buena fuente de fibra\" se declaró por 100 g de producto (3,8 g/100 g); \"libre de grasa\" (0,11 g/100 g) y \"bajo en sodio\" (16,5 mg/100 g) también por 100 g. No se declara ninguna vitamina: ninguna alcanza el 15 % del valor diario recomendado por porción con datos verificados."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. El % VDR indica qué tanto de una recomendación de \"llegar a\" cubre una porción, algo que tiene sentido para nutrientes como las vitaminas. La recomendación de energía, en cambio, es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso las calorías, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/RE01.jpg"
+}

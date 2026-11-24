@@ -1,0 +1,125 @@
+{
+  "codigo": "ZA03",
+  "nombre": "Compota de zanahoria",
+  "imagenSize": {
+    "width": 338,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: Maayan Lepon, Pexels — Licencia Pexels (uso libre). Fotografía \"Creamy Roasted Carrot Soup in Rustic Bowl\": https://www.pexels.com/photo/36468249/ (Imagen ilustrativa de puré de zanahoria)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de la receta de compota de zanahoria del recetario \"Recetas de 10 segundos y guía de usuario\" (Magic Bullet) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈⅓ taza, ≈73 g)",
+  "tiempo": "15 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina A"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "31 kcal",
+      "125 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,7 g",
+      "2,8 g",
+      "1,0 %",
+      "0,9 %"
+    ],
+    [
+      "Carbohidratos",
+      "6,8 g",
+      "27,3 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,1 g",
+      "0,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "2,2 g",
+      "8,6 g",
+      "7,8 %",
+      "6,6 %"
+    ],
+    [
+      "Vitamina A*",
+      "1595,8 µg ER",
+      "6383,0 µg ER",
+      "228,0 %",
+      "177,3 %"
+    ],
+    [
+      "Sodio",
+      "42,9 mg",
+      "171,6 mg",
+      "3,1 %",
+      "3,1 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Zanahoria baby, cocida al vapor",
+      "65,0 g",
+      "260,0 g",
+      "½ taza",
+      "2 tazas"
+    ],
+    [
+      "Agua",
+      "7,5 mL",
+      "30,0 mL",
+      "½ cucharada",
+      "2 cucharadas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** las zanahorias (ver la tarjeta de limpieza y desinfección).",
+    "**Cocine** las zanahorias baby al vapor hasta que estén blandas.",
+    "**Lleve** a la licuadora o procesador. Para una consistencia menos espesa, **agregue** un chorrito de agua.",
+    "**Procese** hasta obtener un puré suave. **Deje enfriar** y **sirva**."
+  ],
+  "usoSugerido": "Sirva como acompañamiento o entrada suave; ideal también como primer alimento para bebés en ablactación, bajo orientación de un profesional de la salud.",
+  "nutriConsejo": {
+    "icono": "🥕",
+    "titulo": "Compota de zanahoria: excelente fuente de vitamina A",
+    "cuerpo": "Esta compota sencilla es excelente fuente de vitamina A, con muy pocas calorías y sin azúcar añadida. Es una preparación versátil, tanto para acompañar comidas como para introducir vegetales a los más pequeños."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro no especifica el número de porciones y la cantidad es pequeña (1 taza); se duplicó la receta completa para llegar a 4 porciones VitaCampo razonables, dando 1 porción de ≈73 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son pasos sencillos de cocinar al vapor y procesar."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de la receta de compota de zanahoria del recetario \"Recetas de 10 segundos y guía de usuario\" (Magic Bullet). El libro original la presenta como una receta para bebés; aquí se mantiene como una compota versátil para toda la familia."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina A se calculó por porción (Res. 810 de 2021), superando ampliamente el umbral en ambos sexos."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Homeland Housewares LLC. Recetas de 10 segundos y guía de usuario (Magic Bullet). [Sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/ZA03.jpg"
+}

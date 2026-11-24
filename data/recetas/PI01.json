@@ -1,0 +1,235 @@
+{
+  "codigo": "PI01",
+  "nombre": "Pimentones rellenos horneados",
+  "imagenSize": {
+    "width": 600,
+    "height": 402
+  },
+  "imagenCredito": "Imagen: Natalia Gusakova, Unsplash — Licencia Unsplash (uso libre) (foto de pimentones rellenos horneados)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026 (ver Conceptos y aclaraciones).",
+  "porcionTexto": "1 pimentón relleno horneado (≈387 g)",
+  "tiempo": "55 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de proteína",
+    "Excelente fuente de vitamina C",
+    "Excelente fuente de zinc"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "552 kcal",
+      "2206 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "25,0 g",
+      "100,0 g",
+      "34,7 %",
+      "32,2 %"
+    ],
+    [
+      "Carbohidratos",
+      "56,3 g",
+      "225,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "25,2 g",
+      "100,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "9,9 g",
+      "39,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "80,0 mg",
+      "319,8 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "3,5 g",
+      "14,0 g",
+      "12,7 %",
+      "10,7 %"
+    ],
+    [
+      "Vitamina C*",
+      "307,9 mg",
+      "1231,4 mg",
+      "410,5 %",
+      "342,1 %"
+    ],
+    [
+      "Vitamina A",
+      "806,9 µg ER",
+      "3227,5 µg ER",
+      "115,3 %",
+      "89,7 %"
+    ],
+    [
+      "Zinc*",
+      "4,9 mg",
+      "19,6 mg",
+      "61,1 %",
+      "34,9 %"
+    ],
+    [
+      "Sodio",
+      "387,6 mg",
+      "1550,6 mg",
+      "28,2 %",
+      "28,2 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Pimentón rojo grande",
+      "175 g",
+      "700 g",
+      "1 pimentón grande",
+      "4 pimentones grandes"
+    ],
+    [
+      "Tomate",
+      "30 g",
+      "120 g",
+      "¼ unidad",
+      "1 unidad mediana"
+    ],
+    [
+      "Cebolla cabezona blanca",
+      "20 g",
+      "80 g",
+      "⅛ unidad",
+      "½ unidad"
+    ],
+    [
+      "Ajo",
+      "2 g",
+      "8 g",
+      "½ diente",
+      "2 dientes"
+    ],
+    [
+      "Arroz blanco (crudo)",
+      "50 g",
+      "200 g",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Aceite de girasol",
+      "3,8 g (4 mL)",
+      "15 g (16 mL)",
+      "¾ cucharadita",
+      "1 cucharada"
+    ],
+    [
+      "Carne de res, molida",
+      "75 g",
+      "300 g",
+      "⅓ taza",
+      "1⅓ taza"
+    ],
+    [
+      "Comino molido",
+      "0,5 g",
+      "2 g",
+      "⅛ cucharadita",
+      "½ cucharadita"
+    ],
+    [
+      "Pimienta negra molida",
+      "0,25 g",
+      "1 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Sal",
+      "0,125 g",
+      "0,5 g",
+      "1 pizca",
+      "1 pizca"
+    ],
+    [
+      "Queso campesino, rallado",
+      "30 g",
+      "120 g",
+      "¼ taza",
+      "1 taza"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** el pimentón, el tomate, la cebolla y el ajo (ver la tarjeta de limpieza y desinfección).",
+    "**Corte** la parte superior de cada pimentón a modo de \"sombrero\" y **retírele** las semillas y las venas internas, dejando el pimentón entero para rellenar.",
+    "**Cocine** el arroz en agua hasta que esté en su punto. Reserve.",
+    "En un sartén con el aceite, **sofría** la cebolla y el ajo picados finamente hasta que estén transparentes.",
+    "**Agregue** la carne molida de res y **cocine**, desmenuzando con una cuchara, hasta que cambie de color por completo.",
+    "**Incorpore** el tomate picado, el comino, la pimienta y la sal, y **cocine** 5 minutos más. **Mezcle** con el arroz cocido.",
+    "**Rellene** cada pimentón con la mezcla, **cubra** con el queso rallado y **hornee** a 180 °C durante 25 minutos, hasta que el pimentón esté tierno y el queso dorado.",
+    "**Sirva** caliente."
+  ],
+  "notaPasos": "Para una versión vegetariana, puede reemplazar la carne molida de res por fríjol cargamanto rojo o lentejas cocidas, en la misma cantidad.",
+  "usoSugerido": "Sirva como plato principal, acompañado de una ensalada verde o un poco de aguacate.",
+  "nutriConsejo": {
+    "icono": "🫑",
+    "titulo": "Pimentones rellenos: el pimentón entero como recipiente comestible",
+    "cuerpo": "Esta receta es excelente fuente de proteína, de vitamina C y de zinc. Al hornear el pimentón entero y usarlo como recipiente del relleno, se aprovecha toda la hortaliza, incluida la piel, sin desperdicio. Una sola porción aporta varias veces la recomendación diaria de vitamina C, gracias al tamaño generoso del pimentón usado."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con 1 pimentón grande relleno y horneado (≈387 g de ingredientes antes de hornear), escalado también a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque combina sofreír y cocinar la carne con hornear el pimentón relleno, dos técnicas que exigen más atención que picar o mezclar."
+    },
+    {
+      "label": "Sobre los ingredientes:",
+      "texto": "el arroz se calculó en su peso crudo (antes de cocinar), siguiendo la cantidad que se cocina aparte antes de mezclarla con el relleno."
+    },
+    {
+      "label": "Sobre los pasos de preparación:",
+      "texto": "cocine la carne molida hasta que cambie completamente de color, sin zonas rosadas, antes de mezclarla con el arroz, y hornee el pimentón relleno a 180 °C durante el tiempo indicado para asegurar una cocción completa y segura."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de proteína (≥20 % del valor de referencia nutricional en ambos sexos), de vitamina C y de zinc (≥30 % VDR en ambos sexos) se calcularon por porción (Res. 810 de 2021). La vitamina A también alcanza el nivel de \"excelente fuente\", pero no se incluyó entre las 3 etiquetas principales para dar variedad."
+    },
+    {
+      "label": "Sobre el colesterol:",
+      "texto": "esta porción aporta 80,0 mg de colesterol, proveniente de la carne y el queso. Personas con dislipidemias pueden considerar la variante vegetariana con fríjol o lentejas, sin colesterol, o reducir la porción de queso."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 387,6 mg de sodio (28,2 % de la ingesta adecuada diaria). Las personas con hipertensión arterial o enfermedad renal pueden reducir la sal agregada."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. El % VDR indica qué tanto de una recomendación de \"llegar a\" cubre una porción, algo que tiene sentido para nutrientes como las vitaminas. La recomendación de energía, en cambio, es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso las calorías, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC). Bogotá: ICBF; 2018."
+  ],
+  "imagen": "assets/img/recetas/PI01.jpg"
+}

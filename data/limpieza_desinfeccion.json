@@ -1,0 +1,158 @@
+{
+ "titulo": "Limpieza y desinfección",
+ "subtitulo": "Tarjeta de inocuidad · parte fija de todas las recetas de VitaCampo",
+ "ideaClave": {
+  "titulo": "Limpiar y desinfectar no es lo mismo.",
+  "texto": "Limpiar quita la suciedad con agua y jabón. Desinfectar elimina los gérmenes con hipoclorito de sodio. Primero se limpia y después se desinfecta."
+ },
+ "desinfectante": {
+  "titulo": "El desinfectante: hipoclorito de sodio",
+  "texto": "Use hipoclorito de sodio al 5,25 % (blanqueador con cloro sin aroma). Prepare cada solución en 5 litros de agua potable. Si su etiqueta dice otro porcentaje, vea \"Sobre otras concentraciones\" al final de esta tarjeta."
+ },
+ "secciones": [
+  {
+   "icono": "🧼",
+   "titulo": "Manos",
+   "texto": "Lávelas con agua y jabón durante 20 segundos antes de cocinar y después de tocar tierra, animales, alimentos crudos o el baño. Séquelas con una toalla limpia."
+  },
+  {
+   "icono": "💧",
+   "titulo": "Agua segura",
+   "texto": "Use agua potable. Si viene de quebrada, aljibe o lluvia, hiérvala a borbotones durante 3 minutos y déjela enfriar tapada."
+  },
+  {
+   "icono": "💉",
+   "titulo": "Cómo medir con jeringa",
+   "pasos": [
+    "Use una jeringa de plástico de 10 o 20 cc, sin aguja (se consigue en droguerías).",
+    "Ascienda el émbolo para que el hipoclorito suba hasta la marca que necesita.",
+    "Empuje el émbolo para vaciar la jeringa en el agua y mezcle.",
+    "Guarde la jeringa solo para el cloro, marcada y lejos de los niños."
+   ]
+  },
+  {
+   "icono": "🥬",
+   "titulo": "Frutas y verduras",
+   "pasos": [
+    "Retire las hojas y partes dañadas.",
+    "Lave con agua potable corriente, frotando. Cepille las duras, como papa, zanahoria y remolacha.",
+    "Sumerja durante 5 minutos en la solución de frutas y verduras.",
+    "Enjuague con agua potable y seque con un paño limpio.",
+    "No use jabón en las frutas y verduras."
+   ],
+   "dosis": "Solución para frutas y verduras: 5 cc (1 cucharadita) de hipoclorito en 5 litros de agua potable. Tiempo: 5 minutos."
+  },
+  {
+   "icono": "🍴",
+   "titulo": "Utensilios y tablas",
+   "pasos": [
+    "Raspe los restos de comida.",
+    "Lave con agua caliente, jabón y cepillo, y enjuague.",
+    "Sumerja durante 8 a 10 minutos en la solución de utensilios.",
+    "Enjuague con agua potable y deje secar al aire.",
+    "Use una tabla para carnes crudas y otra para verduras y alimentos que no se cocinan."
+   ],
+   "dosis": "Solución para utensilios: 15 cc (1 cucharada) de hipoclorito en 5 litros de agua potable. Tiempo: 8 a 10 minutos."
+  },
+  {
+   "icono": "🧽",
+   "titulo": "Mesones y lavaplatos",
+   "pasos": [
+    "Lave con agua y jabón, y enjuague.",
+    "Aplique la solución de mesones y lavaplatos. Déjela actuar de 10 a 15 minutos.",
+    "Enjuague con agua potable y deje secar.",
+    "Tape la basura orgánica, aléjela de la cocina y lave la caneca con frecuencia.",
+    "No permita animales en la cocina."
+   ],
+   "dosis": "Solución para mesones: 20 cc (1 cucharada y 1 cucharadita) de hipoclorito en 5 litros de agua potable. Tiempo: 10 a 15 minutos."
+  },
+  {
+   "icono": "🧺",
+   "titulo": "Paños de cocina",
+   "texto": "Lávelos con frecuencia con agua caliente y jabón."
+  }
+ ],
+ "tablaDosis": {
+  "encabezados": [
+   "Qué desinfectar",
+   "Con jeringa",
+   "Con cuchara",
+   "Tiempo"
+  ],
+  "filas": [
+   [
+    "Frutas y verduras",
+    "5 cc",
+    "1 cucharadita",
+    "5 minutos"
+   ],
+   [
+    "Utensilios y tablas",
+    "15 cc",
+    "1 cucharada",
+    "8 a 10 minutos"
+   ],
+   [
+    "Mesones y lavaplatos",
+    "20 cc",
+    "1 cucharada y 1 cucharadita",
+    "10 a 15 minutos"
+   ]
+  ]
+ },
+ "advertenciaCloro": {
+  "titulo": "⚠️ Con el cloro, tenga cuidado",
+  "puntos": [
+   "Nunca mezcle el desinfectante con jabón, vinagre, limpiavidrios ni otros productos: pueden soltar gases tóxicos.",
+   "Use guantes y guarde el blanqueador lejos de los niños, en su envase original."
+  ]
+ },
+ "conceptos": [
+  {
+   "label": "Sobre \"desinfectar\":",
+   "texto": "limpiar quita la suciedad visible con agua y jabón; desinfectar reduce los gérmenes con un producto químico, agua caliente o vapor (1). Por eso se hace en ese orden: primero se limpia, se enjuaga y después se desinfecta, y al final se enjuaga otra vez con agua potable (3)."
+  },
+  {
+   "label": "Sobre el hipoclorito de sodio:",
+   "texto": "es el ingrediente activo del blanqueador con cloro. Las medidas de esta tarjeta están calculadas para una concentración de 5,25 % (2). Mezclado con vinagre o con amoníaco (presente en algunos limpiavidrios), libera gases tóxicos (12)."
+  },
+  {
+   "label": "Sobre el agua potable:",
+   "texto": "es el agua segura para beber, cocinar, y lavar alimentos, manos y utensilios. Es la que llega de un acueducto aprobado, de bolsas o botellas selladas, o de un carrotanque designado por las autoridades (3). Si no es su caso, se hierve 3 minutos, porque a más de 1000 metros de altitud el agua necesita más tiempo de hervor para volverse segura (11)."
+  },
+  {
+   "label": "Sobre la desinfección de frutas y verduras:",
+   "texto": "la norma sanitaria colombiana para restaurantes y establecimientos gastronómicos exige lavarlas con agua potable y desinfectarlas con productos autorizados (1). Las guías oficiales recomiendan hacerlo con una dosis muy baja de hipoclorito y enjuagar después (2, 3, 4). La FDA de Estados Unidos recomienda solo agua corriente, porque las frutas y verduras pueden absorber residuos de jabones y desinfectantes (7). Por eso la dosis es baja, el tiempo es corto y el enjuague final es necesario."
+  },
+  {
+   "label": "Sobre las dosis:",
+   "texto": "la norma no fija las cantidades de cloro (1); estas salen de guías oficiales. Para frutas y verduras se usa 1 cc por litro, unas 50 ppm (partes de cloro por cada millón de partes de agua), igual que en las guías de Boyacá, la UApA y la UIS (2, 3, 4). Para utensilios, 3 cc por litro, unas 160 ppm (2); el USDA recomienda unas 200 ppm con varios minutos de contacto (10). Para mesones y lavaplatos, 4 cc por litro, unas 210 ppm (2). Estas tablas fueron adoptadas por el ESAN (5)."
+  },
+  {
+   "label": "Sobre otras concentraciones:",
+   "texto": "las medidas de esta tarjeta son para blanqueador al 5,25 %. Si el suyo tiene otro porcentaje, multiplique las cc de la tabla por 5,25 y divida el resultado entre el porcentaje de su producto. Ejemplo: para frutas y verduras con un blanqueador al 3,5 %, serían 5 × 5,25 ÷ 3,5 = 7,5 cc en 5 litros de agua. Es un cálculo proporcional derivado de esta tabla; use solo blanqueador de hipoclorito de sodio sin aroma ni otros aditivos."
+  },
+  {
+   "label": "Sobre \"cc\" y las cucharas:",
+   "texto": "cc significa centímetro cúbico y equivale a 1 mililitro (mL). Las medidas de cuchara se calcularon con 1 cucharadita = 5 cc y 1 cucharada = 15 cc."
+  },
+  {
+   "label": "Sobre otras prácticas de higiene:",
+   "texto": "el lavado de manos por 20 segundos con jabón (8, 9), la separación de tablas para carnes crudas y alimentos que no se cocinan (9), el lavado frecuente de los paños de cocina con agua caliente (8) y la protección de la cocina frente a insectos y animales (6) hacen parte de las recomendaciones de la FDA, los CDC y la OMS. La norma colombiana también prohíbe el ingreso de animales al área de preparación y pide mantener tapados y limpios los recipientes de residuos orgánicos (1)."
+  }
+ ],
+ "bibliografia": [
+  "1. Ministerio de Salud y Protección Social. Resolución 2674 de 2013, por la cual se reglamenta el artículo 126 del Decreto-ley 019 de 2012 y se dictan otras disposiciones. Diario Oficial No. 48.862. Bogotá: Minsalud; 2013.",
+  "2. Gobernación de Boyacá. Recomendaciones de bioseguridad para el alistamiento de los establecimientos turísticos de alimentos y bebidas en Boyacá: restaurante. Tunja: Gobernación de Boyacá; 2020.",
+  "3. Unidad de Alimentos para Aprender. PAE para zonas rurales dispersas: guía para una operación segura. Bogotá: Ministerio de Educación Nacional; 2025.",
+  "4. Universidad Industrial de Santander. Guía de limpieza y desinfección del servicio de comedores y cafetería (GBE.28, versión 01). Bucaramanga: UIS; 2008.",
+  "5. Equipo de Seguridad Alimentaria y Nutricional (ESAN). Recetas de aprovechamiento de alimentos: talleres de experiencias gastronómicas. Medellín: Alcaldía de Medellín; 2025.",
+  "6. World Health Organization. Five keys to safer food manual. Geneva: WHO; 2006.",
+  "7. U.S. Food and Drug Administration. Selecting and serving produce safely. Silver Spring (MD): FDA; 2024.",
+  "8. U.S. Food and Drug Administration. Safe food handling. Silver Spring (MD): FDA; 2024.",
+  "9. Centers for Disease Control and Prevention. Preventing food poisoning. Atlanta (GA): CDC; 2025.",
+  "10. U.S. Department of Agriculture, Food Safety and Inspection Service. Washing food: does it promote food safety? Washington (DC): USDA-FSIS; [fecha de publicación no indicada] [citado 2026 nov 6].",
+  "11. U.S. Environmental Protection Agency. Emergency disinfection of drinking water. Washington (DC): EPA; 2026.",
+  "12. Health Canada. Reduce your risk from toxic gases: never mix bleach with other cleaning products. Ottawa: Government of Canada; 2021."
+ ]
+}

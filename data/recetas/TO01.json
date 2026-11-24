@@ -1,0 +1,166 @@
+{
+  "codigo": "TO01",
+  "nombre": "Tomates secos",
+  "imagenSize": {
+    "width": 587,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: Akhro Rabvo, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa de tomates secos)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "2-3 tomates secos con su aceite (≈8 g)",
+  "tiempo": "1 hora",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "26 kcal",
+      "103 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,4 g",
+      "1,7 g",
+      "0,6 %",
+      "0,5 %"
+    ],
+    [
+      "Carbohidratos",
+      "1,7 g",
+      "6,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "1,9 g",
+      "7,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "0,4 g",
+      "1,5 g",
+      "1,3 %",
+      "1,1 %"
+    ],
+    [
+      "Potasio",
+      "102,8 mg",
+      "411,2 mg",
+      "2,2 % (AI)",
+      "2,2 % (AI)"
+    ],
+    [
+      "Sodio",
+      "448 mg",
+      "1794 mg",
+      "32,6 % (AI)",
+      "32,6 % (AI)"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Tomate chonto (peso en fresco, antes de secar)",
+      "25 g",
+      "100 g",
+      "2 unidades pequeñas",
+      "8 unidades"
+    ],
+    [
+      "Sal",
+      "1 g",
+      "4 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Azúcar",
+      "2 g",
+      "8 g",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ],
+    [
+      "Laurel en escamas",
+      "0,1 g",
+      "0,4 g",
+      "1 pizca",
+      "4 pizcas"
+    ],
+    [
+      "Orégano en escamas",
+      "0,1 g",
+      "0,4 g",
+      "1 pizca",
+      "4 pizcas"
+    ],
+    [
+      "Pimienta molida",
+      "0,1 g",
+      "0,4 g",
+      "1 pizca",
+      "4 pizcas"
+    ],
+    [
+      "Aceite de girasol (para cubrir)",
+      "1,8 g (2 mL)",
+      "7,4 g (8 mL)",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** los tomates (ver la tarjeta de limpieza y desinfección). **Seque** con papel o paño limpio.",
+    "**Corte** los tomates en rodajas no muy gruesas, con ayuda de tabla y cuchillo.",
+    "**Extienda** las rodajas de tomate en una bandeja con papel siliconado o, en su defecto, untada con una capa delgada de aceite.",
+    "**Sazone** las rodajas de tomate con la sal, el azúcar, el laurel, el orégano y la pimienta.",
+    "**Hornee** la bandeja durante aproximadamente 50 minutos a 130 °C.",
+    "**Saque** del horno y **retire** de la bandeja.",
+    "**Almacene** en un recipiente hermético, limpio y seco, cubiertos con aceite de girasol. Puede almacenarse fuera de la nevera."
+  ],
+  "usoSugerido": "Sirva como acompañamiento de quesos, ensaladas, pastas o sobre pan y arepas.",
+  "nutriConsejo": {
+    "icono": "🍅",
+    "titulo": "Concentración de nutrientes al secar",
+    "cuerpo": "El secado concentra el sabor, el azúcar natural y varios minerales del tomate en un producto de menor peso, pero también concentra el sodio de la sal usada para sazonar. El aceite de cobertura ayuda a conservar el producto y a proteger su textura, además de aportar grasas insaturadas. Consuma con moderación si sigue una dieta baja en sodio."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción y el rendimiento:",
+      "texto": "el secado al horno reduce drásticamente el peso del tomate fresco. Se usó una relación de rendimiento de 12 % (dentro del rango de 10-14 % reportado para tomate tipo \"roma\"/\"chonto\" en fuentes especializadas de secado de alimentos), por lo cual 25 g de tomate fresco rinden aproximadamente 3 g de tomate seco. El análisis nutricional se calculó sobre el tomate ya seco, usando la entrada \"Tomates secos (al sol)\" de RINAs, más el aceite y los condimentos añadidos después del secado."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque el secado al horno exige controlar con precisión la temperatura y el tiempo para lograr la textura deseada sin quemar los tomates."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "esta preparación no cumple ningún umbral de declaración de propiedades nutricionales: por 100 g de producto, el sodio (5605 mg/100 g, concentrado por el secado) y la grasa (23,7 g/100 g, por el aceite de cobertura) superan ampliamente los límites de \"bajo en\", y los micronutrientes, en la pequeña porción analizada, no alcanzan el 15 % del valor diario recomendado."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "al concentrarse por el secado y sumarse la sal de sazón, el sodio por 100 g de producto es alto; esta es una preparación para consumir en porciones pequeñas, como un condimento, no como plato principal."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 448 mg de sodio (32,6 % (AI) de la ingesta adecuada diaria). Las personas con hipertensión arterial o enfermedad renal pueden reducir la sal agregada."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Specialty Produce. Sundried Tomatoes Information and Facts (rendimiento de secado 10-14 % en tomate tipo pera/roma). San Diego (CA): Specialty Produce; 2024."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/TO01.jpg"
+}

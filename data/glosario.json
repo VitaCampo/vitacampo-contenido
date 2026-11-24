@@ -1,0 +1,332 @@
+{
+ "titulo": "Glosario de términos de cocina",
+ "intro": "Qué significan las palabras y técnicas que puede encontrar en los pasos de las recetas de VitaCampo. En los pasos, toque una palabra subrayada para ver su significado sin salir de la receta.",
+ "terminos": [
+  {
+   "termino": "A la nieve",
+   "definicion": "Técnica de batir claras de huevo hasta que forman picos firmes y una textura espumosa similar a la nieve, usada en preparaciones como merengues o para aligerar mezclas (3)."
+  },
+  {
+   "termino": "Al dente",
+   "definicion": "Punto de cocción en el que el alimento conserva cierta firmeza al morderlo, es decir, hace resistencia al morder (1, 2)."
+  },
+  {
+   "termino": "Al vapor",
+   "definicion": "Método de cocción por medio del cual el alimento se cocina por acción del vapor de un medio líquido (agua o caldo), sin tener contacto directo con él (1, 4).",
+   "patron": "al vapor"
+  },
+  {
+   "termino": "Aliño",
+   "definicion": "Aquello que sirve para sazonar la comida y darle buen sabor; también, el conjunto de condimentos con que se aliña un alimento (5).",
+   "patron": "ali[ñn]os?"
+  },
+  {
+   "termino": "Almidón",
+   "definicion": "Fécula presente en la semilla de los cereales y en las raíces de los tubérculos como la papa. En la cocina se utiliza para espesar salsas y cremas, elaborar coberturas en repostería o dar consistencia a preparaciones (2)."
+  },
+  {
+   "termino": "Asar",
+   "definicion": "Método de cocción por medio del cual el alimento se cocina por acción directa de fuego o brasas, a través de aire caliente, generalmente sin líquido (1, 4).",
+   "patron": "as(?:e|ar|ado|ada|ados|adas|elas?|elos?|ela)"
+  },
+  {
+   "termino": "Bastones",
+   "definicion": "Corte en forma de bastones rectangulares, más gruesos que la juliana (4)."
+  },
+  {
+   "termino": "Blanquear",
+   "definicion": "Cocción rápida de los alimentos en un medio líquido con duración no superior a cinco minutos, con el fin de reducir la dureza del alimento y realzar sus colores (1).",
+   "patron": "blanque\\p{L}*"
+  },
+  {
+   "termino": "Brunoise",
+   "definicion": "Técnica culinaria que consiste en cortar verduras u hortalizas en pequeños cubos uniformes, de aproximadamente 1 a 2 mm por lado (2).",
+   "patron": "brunoise"
+  },
+  {
+   "termino": "Caldo",
+   "definicion": "Líquido resultante de la cocción de carnes, huesos o vegetales en agua, de sabor más ligero que el fondo (4)."
+  },
+  {
+   "termino": "Caramelización",
+   "definicion": "Proceso mediante el cual algunas verduras adquieren un tono dorado o color caramelo, generalmente al cocinarlas con una pequeña cantidad de agua o mantequilla (2)."
+  },
+  {
+   "termino": "Chiffonade",
+   "definicion": "Corte utilizado para verduras de hoja (como lechuga o albahaca), que consiste en enrollar las hojas sobre sí mismas y luego cortarlas en tiras finas y alargadas (2, 4)."
+  },
+  {
+   "termino": "Chip",
+   "definicion": "Corte fino, que se observa principalmente en los alimentos redondos, donde se realiza el corte de toda la circunferencia (1).",
+   "patron": "chips?"
+  },
+  {
+   "termino": "Choque térmico",
+   "definicion": "Cortar la cocción de un alimento sumergiéndolo en agua fría (1).",
+   "patron": "choque t[eé]rmico"
+  },
+  {
+   "termino": "Cocción",
+   "definicion": "Proceso mediante el cual se somete un alimento a la acción del calor, modificando su sabor, textura, color, aroma y digestibilidad, y eliminando microorganismos (3)."
+  },
+  {
+   "termino": "Coulis",
+   "definicion": "Salsa de vegetales o puré (crema) de frutas crudas que acompaña un postre (5).",
+   "patron": "coulis"
+  },
+  {
+   "termino": "Cucharada y cucharadita",
+   "definicion": "Medidas caseras de volumen: 1 cucharadita (tintera) equivale a 5 mL, y 1 cucharada (sopera) a 15 mL, es decir, 3 cucharaditas (1, 2).",
+   "patron": "cucharad\\p{L}*"
+  },
+  {
+   "termino": "Desglasar (o deglazar)",
+   "definicion": "Técnica que consiste en añadir un líquido (agua, caldo, vino, jugo) a un sartén caliente donde se selló o doró un alimento, para disolver y aprovechar los residuos dorados pegados al fondo, que aportan sabor a la salsa (3, 4)."
+  },
+  {
+   "termino": "Desinfección",
+   "definicion": "Proceso mediante el cual se eliminan o reducen al máximo los microorganismos presentes en frutas y verduras para prevenir enfermedades transmitidas por alimentos (2). Ver la tarjeta de limpieza y desinfección para las dosis y los tiempos exactos."
+  },
+  {
+   "termino": "Desmechar",
+   "definicion": "Deshilachar la carne cocida, es decir, separarla en tiras delgadas y largas (6).",
+   "patron": "desmech\\p{L}*"
+  },
+  {
+   "termino": "Desmoldar",
+   "definicion": "Sacar una preparación del molde en que se hizo (5).",
+   "patron": "desmold\\p{L}*"
+  },
+  {
+   "termino": "Despuntar",
+   "definicion": "Quitar la punta o el extremo de algo (5). En las recetas, por ejemplo, cortar los extremos de las vainas.",
+   "patron": "despunt\\p{L}*"
+  },
+  {
+   "termino": "Dorar",
+   "definicion": "Proceso de cocción que permite obtener una superficie de color dorado en el alimento, mediante la aplicación de calor (2).",
+   "patron": "dor(?:e|ar|ado|ada|ados|adas)\\p{L}*"
+  },
+  {
+   "termino": "Ebullición",
+   "definicion": "Punto en el que un líquido, al calentarse, alcanza su temperatura máxima y comienza a formar burbujas de manera continua (4)."
+  },
+  {
+   "termino": "Empanizar",
+   "definicion": "Cubrir un alimento con pan rallado (empanar), generalmente para freírlo (5).",
+   "patron": "empaniz\\p{L}*|empan(?:e|ar|ado)\\p{L}*"
+  },
+  {
+   "termino": "Emplatar",
+   "definicion": "Llevar todos los componentes de una preparación a un plato, para su degustación o presentación (1)."
+  },
+  {
+   "termino": "Emulsionar",
+   "definicion": "Técnica de cocina que permite unir dos ingredientes que, por naturaleza, no se mezclan fácilmente (como agua y aceite), mediante un agente emulsionante y una acción de batido enérgica (2).",
+   "patron": "emulsion\\p{L}*"
+  },
+  {
+   "termino": "Escalivar",
+   "definicion": "Poner vegetales (pimentón, tomate) al fuego directo o la brasa, con el fin de quitar completamente su piel una vez estén fríos (1).",
+   "patron": "escaliv\\p{L}*"
+  },
+  {
+   "termino": "Escurrir",
+   "definicion": "Dejar que un alimento empapado suelte el líquido que retiene, o quitar los restos de líquido que quedan en un recipiente (5).",
+   "patron": "escurr\\p{L}*"
+  },
+  {
+   "termino": "Especias",
+   "definicion": "Ingredientes de origen vegetal que se utilizan para aportar sabor, aroma y/o color a las preparaciones (2)."
+  },
+  {
+   "termino": "Fondo",
+   "definicion": "Preparación base, líquida y aromática, que se obtiene al cocer en agua ingredientes como huesos, cartílagos o carnes, junto con una guarnición de verduras, especias y/o hierbas; es el primer paso de muchas preparaciones (1, 2, 4)."
+  },
+  {
+   "termino": "Fritura",
+   "definicion": "Técnica de cocción que consiste en sumergir el alimento en aceite o grasa caliente; se recomienda usar el aceite a temperatura adecuada, no recalentarlo muchas veces y escurrir bien el alimento frito sobre papel absorbente antes de servir (3)."
+  },
+  {
+   "termino": "Gratinar",
+   "definicion": "Hacer que un alimento se tueste por encima en el horno (5).",
+   "patron": "gratin\\p{L}*"
+  },
+  {
+   "termino": "Hervir",
+   "definicion": "Llevar un líquido (agua o caldo) a ebullición a fin de cocer los alimentos que se han sumergido en él (1, 4).",
+   "patron": "(?:hierv|herv)\\p{L}*"
+  },
+  {
+   "termino": "Hidratar",
+   "definicion": "Proporcionar humedad a un alimento remojándolo en agua; se usa comúnmente para facilitar la cocción de granos enteros, legumbres o alimentos deshidratados (2).",
+   "patron": "hidrat\\p{L}*"
+  },
+  {
+   "termino": "Homogeneizar",
+   "definicion": "Mezclar los ingredientes de una preparación aplicando presión mecánica, evitando que se separen o se agrupen en la superficie, para dar una textura más uniforme a líquidos y mezclas (2)."
+  },
+  {
+   "termino": "Hornear",
+   "definicion": "Meter un alimento en el horno para asarlo o cocerlo (5).",
+   "patron": "horne\\p{L}*|hornear"
+  },
+  {
+   "termino": "Juliana",
+   "definicion": "Corte en tiras finas y alargadas, de aproximadamente 3 mm de grosor y 6 cm de largo (2, 4).",
+   "patron": "julian\\p{L}*"
+  },
+  {
+   "termino": "Láminas",
+   "definicion": "Corte en piezas delgadas y planas (4)."
+  },
+  {
+   "termino": "Limpieza",
+   "definicion": "Acción que elimina la suciedad visible, tanto orgánica como inorgánica, presente en los alimentos, utensilios y superficies (2). Ver la tarjeta de limpieza y desinfección para el procedimiento completo."
+  },
+  {
+   "termino": "Macerar",
+   "definicion": "Este término se usa con dos sentidos distintos según el recetario: (a) ablandar un alimento a golpes, con elementos físicos como una piedra, un mazo o un tenedor (1, 2); o (b) dejar un alimento en remojo en un líquido —agua, jugo o adobo— para ablandarlo, hidratarlo o darle sabor (4). Revise cuál de los dos sentidos usa el paso de la receta que esté leyendo.",
+   "patron": "macer\\p{L}*"
+  },
+  {
+   "termino": "Mandolina",
+   "definicion": "Utensilio de cocina utilizado para cortar verduras y frutas en julianas, tiras, chips o láminas delgadas; suele tener una placa metálica con láminas o peines afilados y un soporte que protege la mano durante su uso (2)."
+  },
+  {
+   "termino": "Marinar",
+   "definicion": "Sumergir un alimento (generalmente carne) en una mezcla líquida con especias, hierbas, ácidos u otros condimentos, para aportar sabor y aroma, o ablandarlo antes de cocinarlo (3).",
+   "patron": "marin\\p{L}*"
+  },
+  {
+   "termino": "Media luna",
+   "definicion": "Corte para alimentos cilíndricos: se realiza un corte a la mitad, seguido de cortes finos a lo ancho del producto (1)."
+  },
+  {
+   "termino": "Michelar",
+   "definicion": "Técnica de decoración de la boca de un vaso: se humedece el borde con jugo de limón y luego se pasa por un plato con azúcar (o sal, según la preparación) para que quede impregnado (3)."
+  },
+  {
+   "termino": "Nacrar",
+   "definicion": "Saltear ligeramente un cereal (como el arroz) en materia grasa antes de agregar el líquido de cocción, para sellar el grano (1, 4).",
+   "patron": "nacr\\p{L}*"
+  },
+  {
+   "termino": "Olla a presión",
+   "definicion": "Recipiente metálico con cierre hermético que cocina los alimentos rápidamente con el vapor regulado por una válvula (6).",
+   "patron": "olla a presi[oó]n"
+  },
+  {
+   "termino": "Oxidación (oxidar)",
+   "definicion": "Oscurecimiento (y deterioro) que sufre un alimento cortado al entrar en contacto con el oxígeno del aire, por una reacción enzimática (1, 4)."
+  },
+  {
+   "termino": "Pedúnculo",
+   "definicion": "Tallo pequeño que une el fruto a la planta (4)."
+  },
+  {
+   "termino": "Pizca",
+   "definicion": "Cantidad mínima que se toma entre el dedo pulgar y el índice (2).",
+   "patron": "pizcas?"
+  },
+  {
+   "termino": "Pluma",
+   "definicion": "Corte realizado comúnmente a la cebolla, siguiendo las líneas naturales de sus capas, en tiras delgadas y alargadas (1, 4)."
+  },
+  {
+   "termino": "Pocillo",
+   "definicion": "Medida casera equivalente a unos 150 mL (120 a 140 g de alimentos sólidos) (1).",
+   "patron": "pocillos?"
+  },
+  {
+   "termino": "Punto de humo",
+   "definicion": "Momento en que, al calentar el aceite, este inicia el proceso de sobrecalentamiento y comienza la combustión de los aceites (1).",
+   "patron": "punto de humo"
+  },
+  {
+   "termino": "Rectificar",
+   "definicion": "Corregir algo para dejarlo con la exactitud que debe tener (5). En las recetas, probar la preparación y corregir la sal o el sabor si hace falta.",
+   "patron": "rectifi\\p{L}*"
+  },
+  {
+   "termino": "Reducción",
+   "definicion": "Disminuir el volumen de un líquido —un caldo o una salsa— mediante cocción prolongada o evaporación por ebullición, para concentrar su sabor y espesarlo (1, 4).",
+   "patron": "reduc\\p{L}*|reduzc\\p{L}*"
+  },
+  {
+   "termino": "Reservar",
+   "definicion": "Apartar uno o varios ingredientes, mezclas o preparaciones ya utilizados durante la elaboración, para incorporarlos más adelante y completar el plato (2).",
+   "patron": "reserv\\p{L}*|res[eé]rvel\\p{L}*"
+  },
+  {
+   "termino": "Salpimentar",
+   "definicion": "Condimentar un alimento con sal y pimienta (5).",
+   "patron": "salpiment\\p{L}*"
+  },
+  {
+   "termino": "Saltear",
+   "definicion": "Método de cocción que consiste en cocinar el alimento en poco aceite o grasa, a fuego alto y por tiempo corto, moviéndolo constantemente (1, 2, 3, 4).",
+   "patron": "salte\\p{L}*|salteado\\p{L}*"
+  },
+  {
+   "termino": "Sazonar",
+   "definicion": "Dar sazón a la comida, es decir, añadirle condimentos para darle buen sabor (5).",
+   "patron": "sazon\\p{L}*"
+  },
+  {
+   "termino": "Sellar",
+   "definicion": "Dorar rápidamente la superficie de un alimento (generalmente una carne) en aceite muy caliente, para formar una costra que retiene los jugos en el interior durante la cocción posterior (3, 4).",
+   "patron": "sell(?:e|ar|ado)\\p{L}*"
+  },
+  {
+   "termino": "Sofreír",
+   "definicion": "Cocinar un alimento (generalmente cebolla, ajo u otros aromáticos) en poco aceite y a fuego medio-bajo, sin que tome color dorado fuerte, hasta que esté suave y transparente (3).",
+   "patron": "sofr\\p{L}*|sofre\\p{L}*"
+  },
+  {
+   "termino": "Sofrito",
+   "definicion": "Condimento que se añade a un guiso, hecho con varios ingredientes fritos en aceite, especialmente cebolla o ajo (5).",
+   "patron": "sofritos?"
+  },
+  {
+   "termino": "Tamizar",
+   "definicion": "Pasar ingredientes secos por un colador o tamiz para eliminar grumos o impurezas y airearlos (2).",
+   "patron": "tamiz\\p{L}*"
+  },
+  {
+   "termino": "Taza",
+   "definicion": "Medida casera de volumen de 250 mL (220 a 250 g de alimentos sólidos) (1, 2).",
+   "patron": "tazas?"
+  },
+  {
+   "termino": "Textura",
+   "definicion": "Propiedades de un alimento percibidas por el paladar en el momento de su consumo; puede ser blanda, dura, cremosa, crocante, entre otras (2)."
+  },
+  {
+   "termino": "Totopos",
+   "definicion": "Pequeños trozos fritos de tortilla de maíz que se utilizan como guarnición en sopas y otras preparaciones, o como acompañamiento de guacamoles, ensaladas, huevos o salsas (2)."
+  },
+  {
+   "termino": "Triturar",
+   "definicion": "Moler o desmenuzar un alimento sólido sin reducirlo del todo a polvo (5).",
+   "patron": "tritur\\p{L}*"
+  },
+  {
+   "termino": "Trocear",
+   "definicion": "Dividir un alimento en trozos (5).",
+   "patron": "troce\\p{L}*"
+  },
+  {
+   "termino": "Vinagretas",
+   "definicion": "Salsas frías a base de un ácido (vinagre, limón) emulsionado con aceite, usadas para aderezar ensaladas; se logran incorporando el aceite poco a poco mientras se bate o licúa el resto de ingredientes, para que la mezcla espese y no se separe. Una variante incorpora yema de huevo como agente emulsionante adicional, para dar mayor cuerpo y estabilidad (3)."
+  }
+ ],
+ "bibliografia": [
+  "1. Alcaldía de Medellín, Distrito de Ciencia, Tecnología e Innovación, Equipo de Seguridad Alimentaria y Nutricional (ESAN). Alimentación y nutrición con sabor: recetario. 1a ed. Medellín: Alcaldía de Medellín; 2022.",
+  "2. Vanegas Piedrahíta L. Tesoros en la cocina: recetas creativas para reducir el desperdicio de alimentos. Medellín: Alcaldía de Medellín, Distrito de Ciencia, Tecnología e Innovación; 2025.",
+  "3. Agencia Presidencial para la Acción Social y la Cooperación Internacional (Acción Social), Red de Seguridad Alimentaria (ReSA), Proyecto de Fortalecimiento a la Seguridad Alimentaria y Nutricional (PROSEAN), Universidad de Antioquia, Alcaldía de Medellín (Secretaría de Bienestar Social). Preparaciones: cocinando ando... ando cocinando... Libreta 1. Medellín: Acción Social; 2010.",
+  "4. Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos, Equipo de Seguridad Alimentaria. Preparaciones semillas ancestrales. Medellín: Alcaldía de Medellín.",
+  "5. Real Academia Española. Diccionario de la lengua española [Internet]. 23.ª ed. Madrid: RAE; 2014- [citado 2026 nov 6]. Disponible en: https://dle.rae.es",
+  "6. Asociación de Academias de la Lengua Española. Diccionario de americanismos [Internet]. Lima: ASALE; 2010 [citado 2026 nov 6]. Disponible en: https://www.asale.org/damer"
+ ]
+}

@@ -1,0 +1,185 @@
+{
+  "codigo": "CA03",
+  "nombre": "Crema de calabacín",
+  "imagenSize": {
+    "width": 600,
+    "height": 381
+  },
+  "imagenCredito": "Imagen: recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos, Equipo de Seguridad Alimentaria)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de la \"Crema de calabacín\" del recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 taza, ≈236 g)",
+  "tiempo": "25 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Buena fuente de vitamina A"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "204 kcal",
+      "815 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "3,9 g",
+      "15,5 g",
+      "5,4 %",
+      "5,0 %"
+    ],
+    [
+      "Carbohidratos",
+      "8,4 g",
+      "33,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "17,2 g",
+      "68,9 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "10,1 g",
+      "40,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina A*",
+      "219,8 µg ER",
+      "879,4 µg ER",
+      "31,4 %",
+      "24,4 %"
+    ],
+    [
+      "Vitamina C",
+      "13,2 mg",
+      "52,8 mg",
+      "17,6 %",
+      "14,7 %"
+    ],
+    [
+      "Calcio",
+      "101,3 mg",
+      "405,3 mg",
+      "9,2 %",
+      "9,7 %"
+    ],
+    [
+      "Sodio",
+      "244,1 mg",
+      "976,5 mg",
+      "17,8 %",
+      "17,8 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Cebolla blanca",
+      "7,5 g",
+      "30,0 g",
+      "1 cucharadita picada",
+      "2 cucharadas picadas"
+    ],
+    [
+      "Ajo",
+      "2,5 g",
+      "10,0 g",
+      "1 diente pequeño",
+      "3-4 dientes pequeños"
+    ],
+    [
+      "Calabacín",
+      "125,0 g",
+      "500,0 g",
+      "½ unidad mediana",
+      "2 unidades medianas"
+    ],
+    [
+      "Leche",
+      "62,5 mL",
+      "250,0 mL",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Crema de leche",
+      "37,5 g",
+      "150,0 g",
+      "2½ cucharadas",
+      "10 cucharadas"
+    ],
+    [
+      "Sal",
+      "0,5 g",
+      "2,0 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Pimienta negra",
+      "0,5 g",
+      "2,0 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** la cebolla, el ajo y el calabacín (ver la tarjeta de limpieza y desinfección).",
+    "**Pique** la cebolla en cubos y **corte** el calabacín en trozos del mismo tamaño.",
+    "**Caliente** aceite en una olla profunda y **sofría** la cebolla, el ajo y el calabacín a fuego alto, revolviendo constantemente para que no se quemen. Cuando tomen color dorado, **baje** el fuego.",
+    "**Vierta** la leche en la olla, sin retirar los vegetales, y **cocine** durante 10 minutos.",
+    "**Retire** del fuego y **licue**.",
+    "**Cocine** de nuevo la mezcla licuada hasta que espese.",
+    "**Agregue** la crema de leche para suavizar la preparación y **salpimente**."
+  ],
+  "usoSugerido": "Sirva como entrada caliente, puede acompañarse con crocantes de queso o arepa.",
+  "nutriConsejo": {
+    "icono": "🥒",
+    "titulo": "Crema de calabacín: suave y buena fuente de vitamina A",
+    "cuerpo": "Esta crema suave y cremosa es buena fuente de vitamina A gracias al calabacín. Por la leche y la crema de leche que lleva, aporta una cantidad considerable de grasa saturada: las personas con dislipidemias o enfermedad cardiovascular pueden tenerlo en cuenta dentro de su consumo diario."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica \"2 personas\"; se escaló a 4 porciones VitaCampo con un factor de 2, dando 1 porción de ≈236 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque combina sofreír, cocer y licuar en dos tiempos."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada del componente \"Crema de calabacín\" de la receta \"Crema de calabacín con ensalada caliente\" (receta 5) del recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín). La receta original del libro trae además una ensalada caliente, un puré de papa parmesano y un jugo de uchuva como acompañantes; aquí se adaptó únicamente el componente de la crema, que es el protagonista del calabacín."
+    },
+    {
+      "label": "Sobre el aceite para sofreír:",
+      "texto": "el paso a paso del libro menciona \"calentar aceite\" para sofreír la cebolla, el ajo y el calabacín, pero la lista de ingredientes no especifica la cantidad. Para no inventar un dato, el aceite no se incluyó en el cálculo nutricional; el aporte real de grasa de esta preparación es, por lo tanto, un poco mayor al mostrado aquí."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"buena fuente\" de vitamina A se calculó por porción (Res. 810 de 2021): llega a 31,4 % VDR en mujeres (umbral de \"excelente\") pero solo 24,4 % en hombres, por lo que se declara el nivel que cumplen ambos sexos. La vitamina C queda muy cerca del umbral de \"buena fuente\" en hombres (14,7 %, bajo el 15 % requerido) y no se declara, por margen insuficiente."
+    },
+    {
+      "label": "Sobre la grasa saturada:",
+      "texto": "la leche y la crema de leche aportan 10,1 g de grasa saturada por porción. Las personas con dislipidemias o enfermedad cardiovascular pueden tenerlo en cuenta dentro de su consumo diario, en conjunto con hábitos alimentarios y estilos de vida saludables."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos, Equipo de Seguridad Alimentaria. Preparaciones semillas ancestrales. Medellín: Alcaldía de Medellín [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/CA03.jpg"
+}

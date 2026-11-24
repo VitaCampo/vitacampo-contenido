@@ -1,0 +1,153 @@
+{
+  "codigo": "AI02",
+  "nombre": "Ají de borojó",
+  "imagenSize": {
+    "width": 451,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: Tridib Mal, Pexels — Licencia Pexels (uso libre). Fotografía \"Close-Up of Vibrant Red Dried Chili Peppers\": https://www.pexels.com/photo/36902986/ (Imagen ilustrativa del ingrediente: ají seco)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Ají de borojó\" del recetario \"Rescate de memoria productiva y gastronómica: Departamento de Putumayo\" (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1¼ cucharada, ≈19 g)",
+  "tiempo": "15 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Buena fuente de vitamina C"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "22 kcal",
+      "90 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,2 g",
+      "0,8 g",
+      "0,3 %",
+      "0,3 %"
+    ],
+    [
+      "Carbohidratos",
+      "2,4 g",
+      "9,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "1,4 g",
+      "5,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina C*",
+      "16,0 mg",
+      "64,1 mg",
+      "21,4 %",
+      "17,8 %"
+    ],
+    [
+      "Vitamina A",
+      "85,2 µg ER",
+      "340,7 µg ER",
+      "12,2 %",
+      "9,5 %"
+    ],
+    [
+      "Sodio",
+      "1,4 mg",
+      "5,7 mg",
+      "0,1 %",
+      "0,1 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Pimentón picado",
+      "8,0 g",
+      "32,0 g",
+      "1 cucharada",
+      "¼ unidad mediana"
+    ],
+    [
+      "Zanahoria",
+      "1,3 g",
+      "5,3 g",
+      "1 pizca picada",
+      "1 cucharadita picada"
+    ],
+    [
+      "Aceite",
+      "1,3 g (1,3 mL)",
+      "5,3 g (5,3 mL)",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Cilantro picado",
+      "0,7 g",
+      "2,7 g",
+      "1 pizca",
+      "½ cucharadita"
+    ],
+    [
+      "Ají jalapeño macerado",
+      "1,0 g",
+      "4,0 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Dulce de borojó",
+      "6,7 g",
+      "26,7 g",
+      "1 cucharadita",
+      "1 cucharada + 2 cucharaditas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** el pimentón, la zanahoria y el cilantro (ver la tarjeta de limpieza y desinfección).",
+    "**Pique** en cuadros el pimentón y la zanahoria, y **fría** con el aceite por 3 minutos.",
+    "**Pique** el cilantro y el ají en cuadros.",
+    "**Revuelva** con los demás ingredientes (el dulce de borojó) y **sirva**."
+  ],
+  "usoSugerido": "Sirva como acompañamiento picante de carnes, pescado o arroz, en pequeñas cantidades.",
+  "nutriConsejo": {
+    "icono": "🌶️",
+    "titulo": "Ají de borojó: un condimento tradicional del Putumayo",
+    "cuerpo": "Este ají combina el borojó, fruta amazónica tradicional, con pimentón y ají jalapeño. Es buena fuente de vitamina C. Al ser un condimento de uso en pequeñas cantidades, su aporte de otros nutrientes por porción es modesto."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica 15 porciones; se escaló a 4 porciones VitaCampo con un factor de 4/15, dando 1 porción de ≈19 g (≈1¼ cucharada)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son pasos sencillos de picar, sofreír brevemente y mezclar."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Ají de borojó\", del recetario \"Rescate de memoria productiva y gastronómica: Departamento de Putumayo\", que recopila preparaciones tradicionales de esa región. Esta receta usa ají jalapeño como ingrediente central del condimento."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"buena fuente\" de vitamina C se calculó por porción (Res. 810 de 2021), cumpliendo el umbral en ambos sexos."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos. Rescate de memoria productiva y gastronómica: Departamento de Putumayo. Medellín: Alcaldía de Medellín [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/AI02.jpg"
+}

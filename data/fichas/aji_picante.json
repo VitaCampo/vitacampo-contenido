@@ -1,0 +1,122 @@
+{
+  "slug": "aji_picante",
+  "nombreComun": "Ají picante",
+  "nombreCientifico": "Capsicum annuum L.",
+  "subtitulo": "El picante que los pueblos originarios ya usaban antes de la llegada de los europeos",
+  "imagen": "assets/img/fichas/aji_picante.jpg",
+  "creditoImagen": "Tomada de Pixabay, licencia gratuita. Enlace: https://pixabay.com/es/photos/chili-pepper-fruta-planta-pimienta-1783761/",
+  "introduccion": "El ají picante es un fruto originario de América, cultivado y usado como condimento en la gastronomía colombiana desde épocas prehispánicas. Su compuesto activo, la capsaicina (responsable de la sensación de picor), ha sido objeto de estudio científico por sus posibles efectos sobre la salud.",
+  "porcionReferencia": "1 cucharada sopera de ají picante rojo fresco, picado (15 g)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "7,2 kcal",
+      "vdrMujer": "0,4%",
+      "vdrHombre": "0,3%"
+    },
+    {
+      "nutriente": "Vitamina C",
+      "cantidad": "36,5 mg",
+      "vdrMujer": "48,7%",
+      "vdrHombre": "40,6%"
+    },
+    {
+      "nutriente": "Vitamina A",
+      "cantidad": "161,3 mcg ER",
+      "vdrMujer": "23,0%",
+      "vdrHombre": "17,9%"
+    },
+    {
+      "nutriente": "Cobre",
+      "cantidad": "25,5 mcg",
+      "vdrMujer": "2,83%",
+      "vdrHombre": "2,83%"
+    },
+    {
+      "nutriente": "Vitamina B6",
+      "cantidad": "0,042 mg",
+      "vdrMujer": "3,0%",
+      "vdrHombre": "2,8%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "los datos corresponden a ají picante rojo fresco, crudo y picado, según las RINAs (parte comestible: 73%). La porción de 1 cucharada sopera (15 g) corresponde a una cantidad de uso habitual como condimento. El ají picante no figura en la Lista de Intercambio de Alimentos de la Universidad de Antioquia (5.ª ed., 2023)."
+    },
+    {
+      "titulo": "Sobre la porción y su consumo en Colombia",
+      "texto": "a diferencia de países como México, donde el ají/chile se consume en porciones más grandes como parte central de muchas preparaciones, en Colombia el ají picante se usa principalmente como condimento en cantidades pequeñas. Por eso, aunque esta porción (15 g) es representativa del uso real, varios micronutrientes —como el cobre y la vitamina B6— aparecen con un aporte modesto frente al requerimiento diario; esto refleja el patrón de consumo típico colombiano, no una limitación de los datos."
+    },
+    {
+      "titulo": "Sobre la fibra",
+      "texto": "la TCAC-ICBF y las RINAs no desagregan fibra soluble e insoluble para este alimento. Según la estructura de la pared celular de los frutos del género Capsicum, la fracción predominante sería la fibra insoluble. Dado que esta porción aporta solo 0,2 g de fibra (menos del 1% del requerimiento diario), no se incluyó como nutriente destacado en la tabla."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía que 1 cucharada sopera (15 g) de ají picante rojo fresco aporta 36,5 mg de vitamina C, cubriendo cerca del 49% de la recomendación diaria para mujeres y el 41% para hombres adultos?"
+  },
+  "descripcion": "El ají picante contiene capsaicina, el compuesto responsable de la sensación de picor, concentrado especialmente en las venas internas y las semillas del fruto, no tanto en la pulpa. El nivel de picor varía enormemente según la variedad — se mide en unidades Scoville, una escala que va desde el pimentón dulce (0 unidades) hasta variedades extremadamente picantes con más de un millón de unidades.",
+  "beneficios": [
+    {
+      "icono": "🛡️",
+      "titulo": "Defensas",
+      "texto": "su vitamina C contribuye al funcionamiento normal del sistema inmunitario."
+    },
+    {
+      "icono": "👁️",
+      "titulo": "Visión y tejidos",
+      "texto": "su vitamina A contribuye a mantener la visión y la salud de los tejidos."
+    },
+    {
+      "icono": "🩸",
+      "titulo": "Formación de glóbulos rojos",
+      "texto": "su cobre participa en la formación de glóbulos rojos y en el funcionamiento del sistema nervioso."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "capsula",
+      "titulo": "Capsaicina y salud cardiovascular",
+      "texto": "La capsaicina se ha estudiado por sus posibles efectos sobre la circulación sanguínea y el metabolismo de las grasas en la sangre. Algunos estudios en personas encontraron una reducción modesta del colesterol total y del colesterol LDL con su consumo regular, aunque la mayoría de esta evidencia proviene de suplementos concentrados de capsaicina, no de las cantidades que se consumen normalmente al usar el ají como condimento. No se trata de un efecto garantizado ni de una alternativa a un manejo médico del colesterol."
+    },
+    {
+      "tipo": "verdad",
+      "titulo": "¿El ají picante acelera el metabolismo y ayuda a bajar de peso?",
+      "texto": "Es una creencia muy popular, y sorprendentemente sí tiene algo de respaldo científico — aunque el efecto es mucho más modesto de lo que se suele creer. Un metaanálisis de ensayos clínicos en personas con sobrepeso u obesidad encontró que la suplementación con capsaicina se asoció con una reducción pequeña de peso corporal (en promedio, medio kilogramo) y de la circunferencia de cintura. El problema es que estos estudios usaron suplementos concentrados de capsaicina, no las cantidades de ají que se consumen normalmente en la comida — así que no se puede esperar un efecto real y notorio solo por agregarle ají a los platos."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Precauciones para poblaciones específicas",
+      "texto": "En personas con gastritis, reflujo gastroesofágico o síndrome de colon irritable, el consumo de ají picante puede generar irritación digestiva y empeorar los síntomas. Si tiene alguna de estas condiciones, mantenga un consumo restringido y consulte con un profesional de la salud sobre la cantidad adecuada para usted."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo aprovecharlo, conservarlo y prepararlo",
+      "texto": "El ají picante fresco se conserva bien hasta por 1-2 semanas en el cajón de verduras de la nevera. Para conservarlo por más tiempo, puede secarlo al sol o en el horno a baja temperatura y molerlo, o congelarlo entero o picado en bolsas herméticas — ambos métodos conservan bien su sabor y capsaicina. Si va a manipular ají muy picante, use guantes y evite tocarse los ojos, ya que la capsaicina puede irritar la piel y las mucosas incluso en quienes lo preparan con frecuencia."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "El propio ají como repelente natural de plagas",
+      "texto": "La capsaicina no solo protege al fruto de depredadores en la naturaleza — también puede aprovecharse como repelente e insecticida natural para proteger otros cultivos. Es un bioinsecticida reconocido internacionalmente desde 1962, efectivo contra plagas de cuerpo blando como áfidos, mosca blanca, ácaros y trips: al entrar en contacto con el insecto, altera su sistema nervioso y daña sus membranas celulares, sin representar un riesgo tóxico para las personas. Se puede preparar un biopreparado casero macerando ají picante en agua y aplicándolo rociado sobre las hojas de las plantas a proteger — aunque conviene recordar que también puede afectar a insectos benéficos como las abejas, así que se recomienda aplicarlo con cuidado y no durante la floración."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF; 2015 [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAS. Medellín: Escuela de Nutrición y Dietética, Universidad de Antioquia; 2019.",
+    "3. Universidad de Antioquia - Grupo de Investigación Alimentación y Nutrición Humana (GIANH). Lista de intercambios de alimentos. 5.ª ed. Medellín: Universidad de Antioquia; 2023.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes - RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "5. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021.",
+    "6. Wang N, Zhou X, Zhang T, Jian W, Sun Z, Qi P, et al. Capsaicin from chili peppers and its analogues and their valued applications: An updated literature review. Food Res Int. 2025;208:116034.",
+    "7. Ao Z, Huang Z, Liu H. Spicy food and chili peppers and multiple health outcomes: umbrella review. Mol Nutr Food Res. 2022;66(23):e2200167.",
+    "8. Zhang W, Zhang Q, Wang L, Zhou Q, Wang P, Qing Y, et al. The effects of capsaicin intake on weight loss among overweight and obese subjects: a systematic review and meta-analysis of randomised controlled trials. Br J Nutr. 2023;130(9):1645-1656.",
+    "9. PlantwisePlus Knowledge Bank. Chilli pepper extract for the management of insect pests [Internet]. CABI; 2019."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

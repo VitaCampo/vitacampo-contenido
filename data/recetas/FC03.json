@@ -1,0 +1,207 @@
+{
+  "codigo": "FC03",
+  "nombre": "Torta de frijol cargamanto",
+  "imagenSize": {
+    "width": 515,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta del recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 torta (≈159 g)",
+  "tiempo": "70 minutos (más remojo del frijol desde el día anterior)",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de proteína",
+    "Excelente fuente de hierro",
+    "Excelente fuente de zinc"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "467 kcal",
+      "1869 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "30,6 g",
+      "122,3 g",
+      "42,4 %",
+      "39,4 %"
+    ],
+    [
+      "Carbohidratos",
+      "77,4 g",
+      "309,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "4,0 g",
+      "15,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,9 g",
+      "3,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "53,1 mg",
+      "212,5 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "31,4 g",
+      "125,7 g",
+      "114,3 %",
+      "96,1 %"
+    ],
+    [
+      "Hierro*",
+      "6,6 mg",
+      "26,3 mg",
+      "33,7 %",
+      "50,6 %"
+    ],
+    [
+      "Zinc*",
+      "4,7 mg",
+      "18,9 mg",
+      "59,0 %",
+      "33,7 %"
+    ],
+    [
+      "Folato (B9)",
+      "764,2 µg",
+      "3056,8 µg",
+      "191,1 %",
+      "191,1 %"
+    ],
+    [
+      "Sodio",
+      "124,1 mg",
+      "496,4 mg",
+      "9,0 %",
+      "9,0 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Frijol cargamanto rojo, seco",
+      "125 g",
+      "500 g",
+      "¼ libra",
+      "1 libra"
+    ],
+    [
+      "Zanahoria",
+      "10 g",
+      "40 g",
+      "¼ trozo pequeño",
+      "1 trozo pequeño"
+    ],
+    [
+      "Cebolla cabezona blanca",
+      "10 g",
+      "40 g",
+      "⅛ unidad",
+      "½ unidad"
+    ],
+    [
+      "Huevo",
+      "12,5 g",
+      "50 g",
+      "¼ unidad",
+      "1 unidad"
+    ],
+    [
+      "Aceite de girasol",
+      "1,15 g (1,25 mL)",
+      "4,6 g (5 mL)",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Ajo",
+      "0,25 g",
+      "1 g",
+      "¼ diente",
+      "1 diente"
+    ],
+    [
+      "Sal",
+      "0,25 g",
+      "1 g",
+      "1 pizca",
+      "1 pizca"
+    ],
+    [
+      "Pimienta negra molida",
+      "0,25 g",
+      "1 g",
+      "1 pizca",
+      "1 pizca"
+    ]
+  ],
+  "pasos": [
+    "Desde el día anterior, **remoje** el frijol cargamanto en suficiente agua.",
+    "Al día siguiente, **descarte** el agua del remojo. En una olla a presión, **cocine** el frijol con un poco de sal durante 45 minutos.",
+    "**Lave y desinfecte** la cebolla y el ajo (ver la tarjeta de limpieza y desinfección), **píquelos** finamente y **sofríalos** hasta que estén dorados. **Agregue** la zanahoria rallada a la misma sartén.",
+    "**Triture** el frijol cocido hasta obtener textura de puré. **Adicione** el huevo y el sofrito de cebolla, ajo y zanahoria; **mezcle** con la sal y la pimienta restantes hasta obtener una masa uniforme.",
+    "**Forme** tortas con la masa y **sofríalas** en una sartén caliente con el aceite hasta que doren por ambos lados. Reserve."
+  ],
+  "notaPasos": "Esta ficha cubre solo la torta de frijol; el libro original la presenta en un plato combinado junto con una ensalada verde, papa al pimentón y jugo de níspero y mandarina, que son preparaciones aparte.",
+  "usoSugerido": "Sirva como plato principal, acompañada de una ensalada de hojas verdes o de una porción de arroz.",
+  "nutriConsejo": {
+    "icono": "🫘",
+    "titulo": "Torta de frijol cargamanto: proteína vegetal concentrada",
+    "cuerpo": "Esta torta es excelente fuente de proteína, de hierro y de zinc, y también excelente fuente de folato — minerales y vitaminas en los que el frijol cargamanto es particularmente fuerte. Es una alternativa vegetariana de alto contenido proteico para quienes buscan reducir el consumo de carne."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 torta (≈159 g), escalada también a 4 porciones. El libro presenta esta receta \"para 2 personas\" junto con 3 preparaciones adicionales (ensalada verde, papa al pimentón y jugo montañero) como un plato combinado completo; esta ficha cubre solo el componente de la torta de frijol. Se tomó el total de ingredientes del libro como equivalente a las 4 porciones de VitaCampo (no se duplicó la receta), porque el paso a paso forma \"tortas\" en plural con esa cantidad; duplicar la receta habría dado una porción individual con 250 g de frijol seco, poco realista para un solo plato."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\", aunque requiere remojo desde el día anterior y cocción larga del frijol."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de \"Torta de frijol cargamanto mocho con ensalada verde y papa al pimentón\" (Receta 17) del recetario \"Preparaciones semillas ancestrales\" (Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos) (ver bibliografía)."
+    },
+    {
+      "label": "Sobre la hoja de laurel:",
+      "texto": "el libro lista \"hoja de laurel\" entre los ingredientes de la torta, pero el paso a paso de preparación no indica explícitamente en qué momento se usa. Siguiendo la práctica culinaria estándar (la hoja entera aromatiza y se retira, no se come), no se incluyó en el cálculo nutricional."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de proteína (≥20 % del valor de referencia nutricional), de hierro y de zinc (≥30 % VDR en ambos sexos) se calcularon por porción (Res. 810 de 2021). El folato alcanza un valor muy alto (191,1 % VDR), pero no se incluyó entre las 3 etiquetas principales."
+    },
+    {
+      "label": "Sobre el colesterol:",
+      "texto": "esta porción aporta 53,1 mg de colesterol, proveniente del huevo. Las personas con dislipidemias pueden tenerlo en cuenta dentro de su consumo diario."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos, Equipo de Seguridad Alimentaria. Preparaciones semillas ancestrales. Medellín: Alcaldía de Medellín [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/FC03.jpg"
+}

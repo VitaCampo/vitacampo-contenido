@@ -1,0 +1,222 @@
+{
+  "codigo": "PA03",
+  "nombre": "Sopa de las dos papas",
+  "imagenSize": {
+    "width": 600,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: verme0500, Pixabay — Licencia de contenido de Pixabay (uso libre) (Imagen ilustrativa de los ingredientes)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta del recetario \"Deliciosas y nutritivas recetas\" (PDSAN, Gobernación de Antioquia) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 pocillo, ≈158 g sin el agua de cocción)",
+  "tiempo": "40 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina A",
+    "Buena fuente de vitamina C",
+    "Bajo en grasa"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "118 kcal",
+      "471 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "3,1 g",
+      "12,4 g",
+      "4,3 %",
+      "4,0 %"
+    ],
+    [
+      "Carbohidratos",
+      "25,7 g",
+      "102,9 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "0,2 g",
+      "0,9 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,0 g",
+      "0,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "0,0 mg",
+      "0,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "2,7 g",
+      "10,7 g",
+      "9,8 %",
+      "8,2 %"
+    ],
+    [
+      "Vitamina A*",
+      "438,2 µg ER",
+      "1752,9 µg ER",
+      "62,6 %",
+      "48,7 %"
+    ],
+    [
+      "Vitamina C*",
+      "26,4 mg",
+      "105,5 mg",
+      "35,2 %",
+      "29,3 %"
+    ],
+    [
+      "Folato (B9)",
+      "23,3 µg",
+      "93,1 µg",
+      "5,8 %",
+      "5,8 %"
+    ],
+    [
+      "Potasio",
+      "756,7 mg",
+      "3026,6 mg",
+      "16,1 %",
+      "16,1 %"
+    ],
+    [
+      "Sodio",
+      "403,0 mg",
+      "1612,0 mg",
+      "29,3 %",
+      "29,3 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Agua",
+      "200 mL",
+      "800 mL",
+      "1 taza",
+      "4 tazas"
+    ],
+    [
+      "Sal",
+      "1 g",
+      "4 g",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Ajo",
+      "1 g",
+      "4 g",
+      "¼ diente",
+      "1 diente"
+    ],
+    [
+      "Tomate chonto",
+      "15 g",
+      "60 g",
+      "⅛ unidad pequeña",
+      "½ unidad pequeña"
+    ],
+    [
+      "Cebolla de rama",
+      "5 g",
+      "20 g",
+      "1 ramita pequeña",
+      "4 ramitas pequeñas"
+    ],
+    [
+      "Papa",
+      "60 g",
+      "240 g",
+      "1 papa pequeña",
+      "4 papas pequeñas"
+    ],
+    [
+      "Zanahoria",
+      "15 g",
+      "60 g",
+      "¼ unidad pequeña",
+      "1 unidad pequeña"
+    ],
+    [
+      "Papa criolla",
+      "60 g",
+      "240 g",
+      "8 papas criollas pequeñas",
+      "32 papas criollas pequeñas"
+    ],
+    [
+      "Cilantro",
+      "1 g",
+      "4 g",
+      "¼ cucharadita picada",
+      "1 cucharadita picada"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** las papas, la papa criolla, la zanahoria, el tomate, la cebolla de rama, el ajo y el cilantro (ver la tarjeta de limpieza y desinfección).",
+    "Sobre una tabla, **pele** y **pique** la papa, la zanahoria y la papa criolla en trozos medianos. **Pique** finamente el tomate, la cebolla de rama, el ajo y el cilantro.",
+    "En una olla, **hierva** el agua. **Agregue** la sal, el ajo picado, el tomate y la cebolla de rama.",
+    "**Agregue** la papa y la zanahoria, y **deje cocinar** a fuego medio-alto durante 10 minutos.",
+    "**Baje** el fuego a medio, **agregue** la papa criolla y **deje cocinar** entre 15 y 20 minutos más, hasta que todas las papas estén blandas. La papa criolla se agrega después para que no se deshaga.",
+    "**Agregue** el cilantro picado, **baje** a fuego lento y **cocine** 10 minutos más. **Retire** del fuego y **sirva** caliente."
+  ],
+  "notaPasos": "Si desea una sopa más espesa, puede machacar ligeramente algunos trozos de papa contra la olla antes de servir. Sirva recién hecha, acompañada de arroz o una porción de proteína.",
+  "usoSugerido": "Sirva como plato principal en el almuerzo, acompañada de arroz blanco, aguacate o una porción de proteína magra.",
+  "nutriConsejo": {
+    "icono": "🍲",
+    "titulo": "Sopa de las dos papas: un clásico campesino",
+    "cuerpo": "Esta sopa es excelente fuente de vitamina A (por la zanahoria) y buena fuente de vitamina C, y es baja en grasa. Por llevar dos tipos de papa, aporta una cantidad considerable de potasio (757 mg por porción). Las personas con enfermedad renal, especialmente quienes deben vigilar o restringir el potasio, deben consultar con su nutricionista antes de consumir esta sopa con frecuencia; una opción es pelar y remojar o doble-hervir las papas, técnica que puede ayudar a reducir su contenido de potasio. El sodio proviene de la sal agregada: las personas con hipertensión arterial pueden reducir la cantidad."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción de sopa (≈158 g de ingredientes sólidos, sin contar el agua de cocción que se absorbe parcialmente), con los ingredientes escalados también a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\" porque las técnicas de base (pelar, picar, hervir) son sencillas y no requieren técnicas de cocción complejas."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de \"Sopa de las dos papas\", receta del recetario \"Deliciosas y nutritivas recetas\", del Plan Departamental de Seguridad Alimentaria y Nutricional (PDSAN) de la Gobernación de Antioquia (ver bibliografía), ajustando las medidas caseras al estándar de porción de VitaCampo."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina A (≥30 % VDR en ambos sexos) y \"buena fuente\" de vitamina C (≥15 % VDR en ambos sexos) se calcularon por porción (Res. 810 de 2021). \"Bajo en grasa\" se calculó por 100 g de producto (0,14 g de grasa por 100 g), muy por debajo del límite de esa declaración. No aplica \"bajo en sodio\": por 100 g de producto (255 mg de sodio), supera ese límite, principalmente por la sal agregada."
+    },
+    {
+      "label": "Sobre el potasio y la enfermedad renal:",
+      "texto": "esta sopa lleva dos tipos de papa (papa y papa criolla), ambas naturalmente ricas en potasio, por lo que una porción aporta cerca de 757 mg (16 % de la ingesta adecuada diaria). No se declaró como \"buena fuente de potasio\" en las etiquetas nutricionales, para evitar un mensaje contradictorio con la advertencia que sigue: las personas con enfermedad renal avanzada o hiperpotasemia deben vigilar su consumo de potasio y consultar con su nutricionista antes de consumir esta sopa con frecuencia."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 403 mg de sodio (29 % de la ingesta adecuada diaria), principalmente por la sal agregada para toda la olla. Las personas con hipertensión arterial o enfermedad renal pueden reducir la cantidad de sal."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Gobernación de Antioquia, Dirección Seccional de Salud de Antioquia; Universidad de Antioquia, Escuela de Nutrición y Dietética. Deliciosas y nutritivas recetas. Plan Departamental de Seguridad Alimentaria y Nutricional (PDSAN). Medellín: Gobernación de Antioquia; [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/PA03.jpg"
+}

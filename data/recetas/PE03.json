@@ -1,0 +1,152 @@
+{
+  "codigo": "PE03",
+  "nombre": "Salsa vizcaína",
+  "imagenSize": {
+    "width": 300,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: Lalada ., Pexels — Licencia Pexels (uso libre). Fotografía \"Close-up of Person Stirring the Sauce in a Bowl\": https://www.pexels.com/photo/19359973/ (Imagen ilustrativa de una salsa de pimentón con perejil)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Salsa vizcaína\" del recetario \"Rescate de memoria productiva y gastronómica: Departamento de Putumayo\" (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈2½ cucharadas, ≈38 g)",
+  "tiempo": "20 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina C"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "61 kcal",
+      "243 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,7 g",
+      "2,7 g",
+      "1,0 %",
+      "0,9 %"
+    ],
+    [
+      "Carbohidratos",
+      "3,0 g",
+      "11,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "5,1 g",
+      "20,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina C*",
+      "33,7 mg",
+      "134,7 mg",
+      "44,9 %",
+      "37,4 %"
+    ],
+    [
+      "Vitamina A",
+      "109,0 µg ER",
+      "436,0 µg ER",
+      "15,6 %",
+      "12,1 %"
+    ],
+    [
+      "Sodio",
+      "203,0 mg",
+      "812,1 mg",
+      "14,8 %",
+      "14,8 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Aceite",
+      "5,0 g (5,0 mL)",
+      "20,0 g (20,0 mL)",
+      "1 cucharadita",
+      "1 cucharada + 1 cucharadita"
+    ],
+    [
+      "Pimentón picado",
+      "10,0 g",
+      "40,0 g",
+      "1 cucharada",
+      "¼ unidad mediana"
+    ],
+    [
+      "Cebolla cabezona",
+      "10,0 g",
+      "40,0 g",
+      "1 cucharada picada",
+      "⅓ unidad mediana"
+    ],
+    [
+      "Ajo",
+      "2,5 g",
+      "10,0 g",
+      "1 diente pequeño",
+      "3 dientes pequeños"
+    ],
+    [
+      "Perejil",
+      "10,0 g",
+      "40,0 g",
+      "2 cucharadas",
+      "¼ pocillo"
+    ],
+    [
+      "Sal",
+      "0,5 g",
+      "2,0 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** el pimentón, la cebolla, el ajo y el perejil (ver la tarjeta de limpieza y desinfección).",
+    "**Caliente** el aceite y **sofría** el pimentón, la cebolla, el ajo y el perejil picados. **Deje reposar**.",
+    "**Licue** la mezcla y **lleve** de nuevo a fuego, **revolviendo** hasta obtener una salsa homogénea."
+  ],
+  "usoSugerido": "Sirva como salsa de acompañamiento para carnes, pescado o arroz.",
+  "nutriConsejo": {
+    "icono": "🌶️",
+    "titulo": "Salsa vizcaína: excelente fuente de vitamina C",
+    "cuerpo": "Esta salsa tradicional del Putumayo es excelente fuente de vitamina C, gracias al pimentón y al perejil en cantidades generosas. Es una forma sabrosa de incorporar hortalizas frescas como condimento."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica 20 porciones; se escaló a 4 porciones VitaCampo con un factor de 4/20, dando 1 porción de ≈38 g (≈2½ cucharadas)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son pasos sencillos de sofreír y licuar."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Salsa vizcaína\", del recetario \"Rescate de memoria productiva y gastronómica: Departamento de Putumayo\". En esta receta, el perejil es co-protagonista real: se usa en la misma cantidad que el pimentón y la cebolla (200 g cada uno en la receta original de 20 porciones), no como un simple adorno."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina C se calculó por porción (Res. 810 de 2021), cumpliendo el umbral en ambos sexos. La vitamina A llega a 15,6 % VDR en mujeres (umbral de \"buena fuente\") pero solo 12,1 % en hombres, por lo que no se declara."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos. Rescate de memoria productiva y gastronómica: Departamento de Putumayo. Medellín: Alcaldía de Medellín [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/PE03.jpg"
+}

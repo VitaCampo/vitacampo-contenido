@@ -1,0 +1,199 @@
+{
+  "codigo": "FC04",
+  "nombre": "Paté de fríjol cargamanto con pimentón asado",
+  "imagenSize": {
+    "width": 600,
+    "height": 373
+  },
+  "imagenCredito": "Imagen: Zoshua Colah, Unsplash — Licencia Unsplash (uso libre) (imagen ilustrativa del ingrediente: fríjol rojo, variedad kidney bean, visualmente similar al cargamanto rojo)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026 (ver Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈100 g, aprox. 6-7 cucharadas colmadas)",
+  "tiempo": "25 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de vitamina C",
+    "Excelente fuente de folato (B9)",
+    "Excelente fuente de fibra"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "144 kcal",
+      "576 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "6,0 g",
+      "24,0 g",
+      "8,3 %",
+      "7,7 %"
+    ],
+    [
+      "Carbohidratos",
+      "17,8 g",
+      "71,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "5,4 g",
+      "21,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,8 g",
+      "3,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total*",
+      "6,4 g",
+      "25,8 g",
+      "23,4 %",
+      "19,7 %"
+    ],
+    [
+      "Vitamina C*",
+      "54,1 mg",
+      "216,4 mg",
+      "72,1 %",
+      "60,1 %"
+    ],
+    [
+      "Folato (B9)*",
+      "129,7 µg",
+      "518,9 µg",
+      "32,4 %",
+      "32,4 %"
+    ],
+    [
+      "Hierro",
+      "1,6 mg",
+      "6,5 mg",
+      "8,3 %",
+      "12,5 %"
+    ],
+    [
+      "Sodio",
+      "98,8 mg",
+      "395,3 mg",
+      "7,2 %",
+      "7,2 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Pimentón rojo",
+      "30 g",
+      "120 g",
+      "¼ unidad mediana",
+      "1 unidad mediana"
+    ],
+    [
+      "Ajo",
+      "1,5 g",
+      "6 g",
+      "½ diente pequeño",
+      "2 dientes pequeños"
+    ],
+    [
+      "Fríjol cargamanto rojo, cocido",
+      "60 g",
+      "240 g",
+      "⅓ taza",
+      "1⅓ taza"
+    ],
+    [
+      "Jugo de limón",
+      "5 g (5 mL)",
+      "20 g (20 mL)",
+      "1 cucharadita",
+      "1 cucharada + 1 cucharadita"
+    ],
+    [
+      "Aceite de oliva",
+      "5 g (5,4 mL)",
+      "20 g (21,7 mL)",
+      "1 cucharadita",
+      "1 cucharada + 1 cucharadita"
+    ],
+    [
+      "Comino molido",
+      "0,25 g",
+      "1 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Sal",
+      "0,25 g",
+      "1 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** el pimentón y el ajo (ver la tarjeta de limpieza y desinfección).",
+    "**Ase** el pimentón entero directamente sobre la llama de la estufa o en el horno, hasta que la piel quede completamente negra.",
+    "**Lleve** el pimentón asado a una bolsa o recipiente con tapa durante 5 minutos; luego **retírele** la piel quemada, el tallo y las semillas.",
+    "**Incorpore** en el vaso de la licuadora o el procesador el fríjol cargamanto cocido, el pimentón asado, el ajo, el jugo de limón, el aceite de oliva, el comino y la sal.",
+    "**Licúe o machaque** hasta obtener una textura de paté, uniforme pero con un poco de cuerpo.",
+    "**Pruebe** y **ajuste** de sal o limón si lo desea. Sirva frío o a temperatura ambiente."
+  ],
+  "notaPasos": "Si parte de fríjol cargamanto seco, cocínelo con suficiente agua y sin sal hasta que esté muy blando, y déjelo enfriar antes de usarlo en esta receta.",
+  "usoSugerido": "Unte en arepa o pan integral, o sirva como dip con palitos de zanahoria, pepino o apio.",
+  "nutriConsejo": {
+    "icono": "🫘",
+    "titulo": "Vitamina C y hierro: una combinación que puede favorecer la absorción",
+    "cuerpo": "Este paté combina el fríjol cargamanto rojo, fuente vegetal de hierro no hemo, con el pimentón asado, excelente fuente de vitamina C. La vitamina C puede contribuir a mejorar la absorción del hierro no hemo de origen vegetal cuando ambos se consumen en una misma comida, aunque el efecto real depende de la dieta completa y de otros factores individuales. Esta porción es también excelente fuente de folato y de fibra, gracias al fríjol cargamanto."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción (≈100 g, aproximadamente 6-7 cucharadas colmadas), escalada también a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque asar y pelar el pimentón (escalivado) exige más atención que licuar o mezclar, aunque no requiere equipos especiales."
+    },
+    {
+      "label": "Sobre los ingredientes:",
+      "texto": "el fríjol cargamanto rojo se usó ya cocido, no en peso seco. Si parte de fríjol seco, cocínelo primero sin sal añadida y déjelo enfriar antes de usarlo."
+    },
+    {
+      "label": "Sobre los pasos de preparación:",
+      "texto": "esta receta no lleva cocción final de la mezcla; solo se asa el pimentón antes de licuar. Por eso es importante usar fríjol ya bien cocido y enfriado, y conservar el paté en refrigeración, en un recipiente limpio y tapado, por máximo 3 a 4 días."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina C y de folato (≥30 % VDR en ambos sexos) se calcularon por porción (Res. 810 de 2021); \"excelente fuente\" de fibra se calculó por 100 g de producto (≥6 g de fibra por 100 g). El hierro no alcanza el umbral de \"buena fuente\" (≥15 % VDR en ambos sexos) en esta porción, aunque sí aporta hierro no hemo — ver Nutri Consejo."
+    },
+    {
+      "label": "Sobre las leguminosas y la enfermedad renal:",
+      "texto": "el fríjol cargamanto también aporta potasio y fósforo; personas con enfermedad renal que deben vigilar estos minerales pueden consultar con su profesional de salud el tamaño de porción más adecuado para su caso."
+    },
+    {
+      "label": "Sobre las leguminosas y el síndrome de colon irritable:",
+      "texto": "el fríjol, como otras leguminosas, contiene carbohidratos fermentables (FODMAP) que en algunas personas con síndrome de colon irritable pueden asociarse con gases, hinchazón o molestia abdominal. Las personas con este diagnóstico pueden empezar con una porción pequeña para evaluar su tolerancia, o consultar con su profesional de salud."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Hurrell R, Egli I. Iron bioavailability and dietary reference values. Am J Clin Nutr. 2010;91(5):1461S-1467S.",
+    "Halmos EP, Power VA, Shepherd SJ, Gibson PR, Muir JG. A diet low in FODMAPs reduces symptoms of irritable bowel syndrome. Gastroenterology. 2014;146(1):67-75.e5."
+  ],
+  "imagen": "assets/img/recetas/FC04.jpg"
+}

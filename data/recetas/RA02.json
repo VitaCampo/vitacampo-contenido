@@ -1,0 +1,155 @@
+{
+  "codigo": "RA02",
+  "nombre": "Malteada de rábano",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Nadin Trosh, Pexels — Licencia Pexels (uso libre). Fotografía \"Bright raw radishes on plate in rustic house\": https://www.pexels.com/photo/4453849/ (Imagen ilustrativa del ingrediente: rábanos frescos)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Malteada de rábano\" del recetario \"Rescate de memoria productiva y gastronómica: Departamento de Putumayo\" (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 vaso grande, ≈314 g)",
+  "tiempo": "25 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Buena fuente de vitamina C",
+    "Buena fuente de calcio"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "234 kcal",
+      "935 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "7,1 g",
+      "28,6 g",
+      "9,8 %",
+      "9,1 %"
+    ],
+    [
+      "Carbohidratos",
+      "35,4 g",
+      "141,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "7,1 g",
+      "28,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "4,2 g",
+      "16,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Vitamina C*",
+      "22,9 mg",
+      "91,5 mg",
+      "30,5 %",
+      "25,4 %"
+    ],
+    [
+      "Calcio*",
+      "257,3 mg",
+      "1029,2 mg",
+      "23,4 %",
+      "24,5 %"
+    ],
+    [
+      "Sodio",
+      "120,0 mg",
+      "480,1 mg",
+      "8,7 %",
+      "8,7 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Rábano",
+      "90,8 g",
+      "363,2 g",
+      "1 taza en cuadritos",
+      "4 tazas en cuadritos"
+    ],
+    [
+      "Azúcar",
+      "22,7 g",
+      "90,8 g",
+      "2 cucharadas",
+      "½ taza"
+    ],
+    [
+      "Canela (astillas)",
+      "0,8 g",
+      "3,0 g",
+      "¼ astilla",
+      "1 astilla"
+    ],
+    [
+      "Leche",
+      "200,0 mL",
+      "800,0 mL",
+      "¾ taza + 1 cucharada",
+      "3¼ tazas"
+    ],
+    [
+      "Esencia de vainilla",
+      "2,5 mL",
+      "10,0 mL",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** los rábanos (ver la tarjeta de limpieza y desinfección).",
+    "**Corte** en cuadritos los rábanos, sin pelar.",
+    "**Lleve** al fuego con el azúcar, la canela y la leche, hasta que estén blandos.",
+    "**Retire** del fuego y **deje reposar**. **Licue**.",
+    "**Adicione** la esencia de vainilla y **sirva** bien frío."
+  ],
+  "usoSugerido": "Sirva frío, como bebida entre comidas.",
+  "nutriConsejo": {
+    "icono": "🥛",
+    "titulo": "Malteada de rábano: una bebida tradicional con calcio",
+    "cuerpo": "Esta bebida tradicional del Putumayo es buena fuente de vitamina C y de calcio, gracias a la leche. Al llevar azúcar añadida, las personas con diabetes pueden ajustar la porción, en conjunto con hábitos alimentarios y estilos de vida saludables."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica 20 porciones para una preparación grande (4 libras de rábano, 4 litros de leche); se escaló a 4 porciones VitaCampo con un factor de 4/20, dando 1 porción de ≈314 g (≈1 vaso grande)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Baja\" porque son técnicas básicas (cocinar, licuar)."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Malteada de rábano\", del recetario \"Rescate de memoria productiva y gastronómica: Departamento de Putumayo\", que recopila preparaciones tradicionales de esa región. El rábano cocido en leche pierde buena parte de su picor característico, dando una bebida suave."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"buena fuente\" de vitamina C y de calcio se calcularon por porción (Res. 810 de 2021). La vitamina C llega a 30,5 % VDR en mujeres (umbral de \"excelente\") pero solo 25,4 % en hombres, por lo que se declara el nivel que cumplen ambos sexos."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Secretaría de Inclusión Social, Familia y Derechos Humanos. Rescate de memoria productiva y gastronómica: Departamento de Putumayo. Medellín: Alcaldía de Medellín [sin fecha de publicación identificada en el documento]."
+  ],
+  "imagen": "assets/img/recetas/RA02.jpg"
+}

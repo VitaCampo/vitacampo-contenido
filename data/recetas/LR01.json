@@ -1,0 +1,206 @@
+{
+  "codigo": "LR01",
+  "nombre": "Ensalada César casera aligerada",
+  "imagenSize": {
+    "width": 473,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: BlackRiv, Pixabay — Licencia de contenido de Pixabay (uso libre) (Imagen ilustrativa del ingrediente)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación saludable de la ensalada César clásica (ver bibliografía).",
+  "porcionTexto": "1 porción (≈112 g)",
+  "tiempo": "15 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Buena fuente de vitamina A",
+    "Buena fuente de vitamina C",
+    "Buena fuente de folato"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "142 kcal",
+      "569 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "6,6 g",
+      "26,5 g",
+      "9,1 %",
+      "8,5 %"
+    ],
+    [
+      "Carbohidratos",
+      "10,9 g",
+      "43,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "8,0 g",
+      "32,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "2,5 g",
+      "9,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "7,2 mg",
+      "28,9 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "2,1 g",
+      "8,4 g",
+      "7,6 %",
+      "6,4 %"
+    ],
+    [
+      "Vitamina A*",
+      "172,3 µg ER",
+      "689,4 µg ER",
+      "24,6 %",
+      "19,1 %"
+    ],
+    [
+      "Vitamina C*",
+      "17,2 mg",
+      "68,6 mg",
+      "22,9 %",
+      "19,1 %"
+    ],
+    [
+      "Folato (B9)*",
+      "92,1 µg",
+      "368,3 µg",
+      "23,0 %",
+      "23,0 %"
+    ],
+    [
+      "Sodio",
+      "288,5 mg",
+      "1154,1 mg",
+      "21,0 %",
+      "21,0 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Lechuga romana",
+      "60 g",
+      "240 g",
+      "6 hojas medianas",
+      "24 hojas medianas"
+    ],
+    [
+      "Pan integral",
+      "15 g",
+      "60 g",
+      "½ tajada",
+      "2 tajadas"
+    ],
+    [
+      "Ajo",
+      "1 g",
+      "4 g",
+      "¼ diente",
+      "1 diente"
+    ],
+    [
+      "Yogur natural bajo en grasa",
+      "15 g",
+      "60 g",
+      "1 cucharada",
+      "4 cucharadas"
+    ],
+    [
+      "Aceite de oliva",
+      "4,6 g (5 mL)",
+      "18,4 g (20 mL)",
+      "1 cucharadita",
+      "4 cucharaditas"
+    ],
+    [
+      "Limón, jugo",
+      "5 g (5 mL)",
+      "20 g (20 mL)",
+      "1 cucharadita",
+      "4 cucharaditas"
+    ],
+    [
+      "Mostaza preparada",
+      "3 g",
+      "12 g",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ],
+    [
+      "Queso parmesano rallado",
+      "8 g",
+      "32 g",
+      "1 cucharada colmada",
+      "4 cucharadas colmadas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** las hojas de lechuga romana una por una, separándolas del tallo (ver la tarjeta de limpieza y desinfección). **Lave** también el limón y el ajo.",
+    "**Trocee** la lechuga en tiras gruesas y **resérvela** en un recipiente amplio.",
+    "Sobre una tabla, **corte** el pan integral en cubos pequeños.",
+    "En un sartén, sin aceite adicional, **tueste** los cubos de pan a fuego medio, moviendo con frecuencia, hasta que estén dorados y crocantes (unos 5 minutos). **Retírelos** del fuego y **déjelos enfriar**.",
+    "**Pique** finamente el ajo.",
+    "En un recipiente pequeño, **mezcle** el yogur, el aceite de oliva, el jugo de limón, la mostaza, el ajo picado y la mitad del queso parmesano, hasta obtener un aderezo homogéneo.",
+    "**Vierta** el aderezo sobre la lechuga y **mezcle** bien.",
+    "**Agregue** los crutones y el queso parmesano restante justo antes de servir, para que los crutones no se ablanden."
+  ],
+  "notaPasos": "Prepare el aderezo y tueste los crutones con anticipación si lo desea, pero mezcle todo justo antes de servir: la lechuga se marchita y los crutones pierden su textura crocante si quedan mucho tiempo con el aderezo.",
+  "usoSugerido": "Sirva como entrada o como plato principal ligero, acompañada de una porción de proteína a la plancha (pollo, carne magra, huevo o leguminosas como el fríjol cargamanto) para una comida más completa.",
+  "nutriConsejo": {
+    "icono": "🥬",
+    "titulo": "Lechuga romana, folato y vitaminas",
+    "cuerpo": "La lechuga romana es buena fuente de folato (vitamina B9, que se asocia con la formación de células nuevas, con especial relevancia en el embarazo), vitamina A y vitamina C. El aderezo de esta receta lleva mostaza y queso parmesano, dos ingredientes que aportan sodio; las personas con hipertensión arterial o enfermedad renal deben consumirla con moderación y, de ser necesario, pueden reducir la cantidad de mostaza y queso o reemplazar la sal de la mostaza por hierbas frescas."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción individual de ensalada (≈112 g en total, incluido el aderezo), con los ingredientes escalados también a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque, aunque las técnicas de base son sencillas (lavar, trocear, mezclar), incluye tostar el pan sin que se queme y emulsionar un aderezo, que exigen más atención que una ensalada simplemente mezclada."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se inspira en la ensalada César clásica, cuya invención se atribuye al inmigrante italiano Caesar Cardini en Tijuana, México, el 4 de julio de 1924, según el historiador local Fernando Escobedo de la Torre (ver bibliografía); el propio historiador advierte que el origen no está completamente documentado en archivos. La versión de VitaCampo es una adaptación propia: usa yogur natural bajo en grasa en vez de huevo crudo y mayonesa (para evitar el riesgo de Salmonella del huevo crudo) y pan integral en vez de pan blanco."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"buena fuente\" de vitamina A, vitamina C y folato se calcularon por porción y cumplen el umbral de 15 % del VDR en ambos sexos (Res. 810 de 2021). El calcio se acercó al umbral (15,6 % en mujeres, 16,4 % en hombres) pero no se declaró como \"buena fuente\" por el margen insuficiente sobre el 15 % mínimo. No aplican declaraciones \"bajo en\" de grasa, grasa saturada o sodio: calculados por 100 g de producto, los tres superan los límites de esas declaraciones (principalmente por el queso parmesano y la mostaza)."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "aunque no se declara como etiqueta (no existe una categoría \"alto en\" en el rotulado nutricional), esta porción aporta cerca de 289 mg de sodio (21 % de la ingesta adecuada diaria), sobre todo por la mostaza y el queso parmesano. Se documenta aquí por transparencia y se explica en el Nutri Consejo la recomendación para personas con hipertensión o enfermedad renal."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Becerril G. La ensalada César cumple 101 años: conoce la historia y receta de este platillo mexicano [Internet]. UnoTV; 2025 jul 4 [citado 2026 nov 1]. Disponible en: https://www.unotv.com/estilo-de-vida/gastronomia/la-ensalada-cesar-cumple-101-anos-conoce-la-historia-y-receta-de-este-platillo-mexicano/"
+  ],
+  "imagen": "assets/img/recetas/LR01.png"
+}

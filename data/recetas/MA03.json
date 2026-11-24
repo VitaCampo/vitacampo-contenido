@@ -1,0 +1,201 @@
+{
+  "codigo": "MA03",
+  "nombre": "Sorbete mas (bebida de maíz, guayaba y banano)",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: umberto dez, Pexels — Licencia Pexels (uso libre). Fotografía \"Close-up of Fresh Yellow Corn Kernels\": https://www.pexels.com/photo/38802738/ (Imagen ilustrativa del ingrediente)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta del recetario \"Preparaciones: cocinando ando... ando cocinando...\" (Libreta 1, 2010) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 vaso grande, ≈220 g de ingredientes activos antes de agregar el agua de licuado)",
+  "tiempo": "20 minutos (más el tiempo de enfriado)",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina C",
+    "Buena fuente de fibra",
+    "Bajo en grasa"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "158 kcal",
+      "631 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "3,6 g",
+      "14,4 g",
+      "5,0 %",
+      "4,6 %"
+    ],
+    [
+      "Carbohidratos",
+      "31,3 g",
+      "125,1 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "2,0 g",
+      "8,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,4 g",
+      "1,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "0,0 mg",
+      "0,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total*",
+      "7,1 g",
+      "28,3 g",
+      "25,7 %",
+      "21,6 %"
+    ],
+    [
+      "Vitamina C*",
+      "148,3 mg",
+      "593,3 mg",
+      "197,8 %",
+      "164,8 %"
+    ],
+    [
+      "Folato (B9)",
+      "40,6 µg",
+      "162,6 µg",
+      "10,2 %",
+      "10,2 %"
+    ],
+    [
+      "Potasio",
+      "617,3 mg",
+      "2469,1 mg",
+      "13,1 %",
+      "13,1 %"
+    ],
+    [
+      "Sodio",
+      "13,6 mg",
+      "54,3 mg",
+      "1,0 %",
+      "1,0 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Maíz amarillo tierno (choclo), desgranado",
+      "25 g",
+      "100 g",
+      "2 cucharadas",
+      "½ taza"
+    ],
+    [
+      "Maíz blanco tierno (choclo), desgranado",
+      "12,5 g",
+      "50 g",
+      "1 cucharada",
+      "¼ taza"
+    ],
+    [
+      "Guayaba",
+      "75 g",
+      "300 g",
+      "1 unidad mediana",
+      "4 unidades medianas"
+    ],
+    [
+      "Banano maduro",
+      "60 g",
+      "240 g",
+      "½ unidad mediana",
+      "2 unidades medianas"
+    ],
+    [
+      "Bebida de soya",
+      "42 g (42 mL)",
+      "168 g (168 mL)",
+      "3 cucharadas",
+      "¾ taza"
+    ],
+    [
+      "Limón, jugo",
+      "5 g (5 mL)",
+      "20 g (20 mL)",
+      "1 cucharadita",
+      "4 cucharaditas"
+    ],
+    [
+      "Agua",
+      "125 mL",
+      "500 mL",
+      "½ taza",
+      "2 tazas"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** el maíz (desgránelo si está en mazorca), las guayabas, el banano y el limón (ver la tarjeta de limpieza y desinfección).",
+    "**Licue** el maíz amarillo y el maíz blanco desgranados junto con la bebida de soya, hasta obtener una mezcla homogénea.",
+    "**Pase** la mezcla a un sartén y **cocine** a fuego medio, revolviendo constantemente, hasta que espese un poco. **Retire** del fuego y **deje enfriar**.",
+    "Aparte, **licue** las guayabas y el banano maduro junto con el agua y el jugo de limón, durante unos 5 minutos.",
+    "**Mezcle** las dos preparaciones y **licue** brevemente de nuevo para integrarlas.",
+    "**Cuele** la mezcla para retirar las semillas de guayaba, **enfríe** en la nevera y **sirva** bien frío."
+  ],
+  "notaPasos": "Sirva recién colado y frío, idealmente el mismo día. También puede llevarlo a congelación parcial para una textura tipo sorbete.",
+  "usoSugerido": "Sirva como bebida refrescante o postre ligero, en el desayuno o como merienda.",
+  "nutriConsejo": {
+    "icono": "🍹",
+    "titulo": "Sorbete mas: una bebida de maíz y frutas de cosecha",
+    "cuerpo": "Esta bebida es excelente fuente de vitamina C (aportada principalmente por la guayaba) y buena fuente de fibra, y es baja en grasa. Es una opción refrescante para aprovechar el maíz tierno junto con frutas de cosecha."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción (≈1 vaso grande, ≈220 g de maíz y frutas antes de agregar el agua de licuado), con los ingredientes escalados también a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\" porque las técnicas de base (licuar, cocinar brevemente, colar) son sencillas y no requieren técnicas de cocción complejas."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de \"Sorbete mas\", receta de la sección \"Maíz\" del recetario \"Preparaciones: cocinando ando... ando cocinando...\" (Libreta 1, 2010) (ver bibliografía), ajustando las medidas caseras originales al estándar de porción de VitaCampo. El \"jugo de soya\" del original se interpretó como bebida de soya líquida (bebida vegetal de soya), por ser el producto comercial habitual con ese nombre coloquial en recetarios colombianos, y no como salsa de soya."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina C (≥30 % VDR en ambos sexos, principalmente por la guayaba) y \"buena fuente\" de fibra (≥15 % VDR en ambos sexos) se calcularon por porción (Res. 810 de 2021). \"Bajo en grasa\" se calculó por 100 g de producto (0,91 g de grasa por 100 g), muy por debajo del límite de esa declaración."
+    },
+    {
+      "label": "Sobre el tipo de fibra:",
+      "texto": "el maíz aporta principalmente fibra insoluble, mientras que el banano maduro y la guayaba aportan también fibra soluble (pectina). En conjunto, esta bebida es buena fuente de fibra mixta."
+    },
+    {
+      "label": "Sobre el potasio:",
+      "texto": "esta porción aporta una cantidad moderada de potasio (617,3 mg, 13,1 % de la ingesta adecuada diaria), principalmente por el banano y el maíz. No alcanza el umbral para declararse \"fuente de potasio\" en las etiquetas, pero las personas con enfermedad renal que deben vigilar este mineral pueden tenerlo en cuenta."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Agencia Presidencial para la Acción Social y la Cooperación Internacional (Acción Social), Red de Seguridad Alimentaria (ReSA), Proyecto de Fortalecimiento a la Seguridad Alimentaria y Nutricional (PROSEAN), Universidad de Antioquia, Alcaldía de Medellín (Secretaría de Bienestar Social). Preparaciones: cocinando ando... ando cocinando... Libreta 1. Medellín: Acción Social; 2010. ISBN 978-958-98962-8-0."
+  ],
+  "imagen": "assets/img/recetas/MA03.jpg"
+}

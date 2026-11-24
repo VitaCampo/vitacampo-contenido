@@ -1,0 +1,191 @@
+{
+  "codigo": "CE03",
+  "nombre": "Cebolla de rama asada a la parrilla",
+  "imagenSize": {
+    "width": 600,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: Joan Mora Peralta, Pexels — Licencia Pexels (uso libre). Fotografía \"Close Up Shot of Onion Leeks\": https://www.pexels.com/photo/6777714/",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta del American College of Culinary Medicine (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (2 ramas enteras asadas, ≈31 g)",
+  "tiempo": "10 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Baja",
+  "etiquetas": [
+    "Excelente fuente de vitamina K",
+    "Bajo en grasa saturada"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "23 kcal",
+      "92 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "0,5 g",
+      "2,0 g",
+      "0,7 %",
+      "0,6 %"
+    ],
+    [
+      "Carbohidratos",
+      "2,2 g",
+      "8,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "1,2 g",
+      "4,9 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "0,2 g",
+      "0,6 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "0,0 mg",
+      "0,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "0,7 g",
+      "2,6 g",
+      "2,4 %",
+      "2,0 %"
+    ],
+    [
+      "Vitamina A",
+      "18,0 µg ER",
+      "72,1 µg ER",
+      "2,6 %",
+      "2,0 %"
+    ],
+    [
+      "Vitamina C",
+      "4,5 mg",
+      "18,1 mg",
+      "6,0 %",
+      "5,0 %"
+    ],
+    [
+      "Folato (B9)",
+      "19,2 µg",
+      "76,8 µg",
+      "4,8 %",
+      "4,8 %"
+    ],
+    [
+      "Vitamina K*",
+      "62,1 µg",
+      "248,4 µg",
+      "103,5 %",
+      "88,7 %"
+    ],
+    [
+      "Sodio",
+      "82,0 mg",
+      "328,0 mg",
+      "6,0 %",
+      "6,0 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Cebolla de rama",
+      "30 g",
+      "120 g",
+      "2 ramas medianas enteras",
+      "8 ramas medianas enteras"
+    ],
+    [
+      "Aceite de oliva",
+      "1,15 g (1,25 mL)",
+      "4,6 g (5 mL)",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ],
+    [
+      "Sal",
+      "0,2 g",
+      "0,75 g",
+      "1 pizca pequeña",
+      "⅛ cucharadita"
+    ],
+    [
+      "Pimienta negra molida",
+      "0,075 g",
+      "0,3 g",
+      "1 pizca pequeña",
+      "⅛ cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** las ramas de cebolla de rama enteras, sin separar las hojas de la parte blanca (ver la tarjeta de limpieza y desinfección).",
+    "En un plato o bandeja, **frote** las ramas de cebolla con el aceite de oliva, la sal y la pimienta, hasta cubrirlas bien por todos lados.",
+    "**Caliente** una parrilla, plancha o sartén de hierro a fuego medio.",
+    "**Ase** las ramas de cebolla hasta que estén ligeramente doradas y marcadas, unos 2 minutos por lado.",
+    "**Retire** de la parrilla, **corte** cada rama por la mitad a lo largo y **sirva** de inmediato."
+  ],
+  "notaPasos": "Ase la cebolla de rama justo antes de servir, para que conserve su textura. Puede asar varias ramas al tiempo junto con una proteína a la plancha, aprovechando la misma parrilla.",
+  "usoSugerido": "Sirva como acompañante de carnes, pescado o leguminosas a la plancha, o como parte de una comida con otras verduras asadas.",
+  "nutriConsejo": {
+    "icono": "🔥",
+    "titulo": "Cebolla de rama asada: concentrado de vitamina K",
+    "cuerpo": "Esta preparación es excelente fuente de vitamina K, un nutriente clave para la coagulación de la sangre y la salud ósea, y es baja en grasa saturada. Si usted toma medicamentos anticoagulantes (como la warfarina), mantenga un consumo controlado y constante de hortalizas verdes ricas en vitamina K, y consulte con su profesional de la salud: cambios bruscos en su consumo pueden afectar el efecto del medicamento. Por su contenido de potasio, las personas con enfermedad renal deben consultar con su nutricionista antes de consumirla con frecuencia."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción de 2 ramas enteras de cebolla de rama asadas (≈31 g), con los ingredientes escalados también a 4 porciones (8 ramas)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Fácil\" porque la técnica (frotar con aceite y condimentos, asar pocos minutos por lado) es sencilla y similar a la usada en otras recetas a la parrilla de VitaCampo."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de la receta \"Grilled Scallions\" del American College of Culinary Medicine, un programa académico de medicina culinaria (ver bibliografía), ajustando las medidas caseras al estándar de porción de VitaCampo y usando cebolla de rama colombiana como ingrediente principal."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de vitamina K (≥30 % VDR en ambos sexos) se calculó por porción (Res. 810 de 2021); con 88,7-103,5 % del VDR, esta porción por sí sola casi cubre o supera la recomendación diaria completa de vitamina K. \"Bajo en grasa saturada\" se calculó por 100 g de producto (0,5 g por 100 g), muy por debajo del límite de esa declaración. No aplica \"bajo en sodio\": por el peso tan pequeño de la porción (31 g), el sodio de la sal agregada representa 262 mg por 100 g de producto, por encima del límite de esa declaración, aunque en términos absolutos la porción aporta poco sodio (ver más abajo)."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 82 mg de sodio (6 % de la ingesta adecuada diaria), una cantidad modesta en términos absolutos. El cálculo \"por 100 g de producto\" que exige el rotulado nutricional da una cifra más alta porque la porción misma es pequeña en peso; se documenta ambas cifras por transparencia."
+    },
+    {
+      "label": "Sobre la cebolla de rama:",
+      "texto": "la cebolla de rama es una especie distinta de la cebolla cabezona (la de bulbo); no se reemplazan una por otra en esta receta sin cambiar el sabor."
+    },
+    {
+      "label": "Sobre el potasio y la enfermedad renal:",
+      "texto": "la cebolla de rama contiene potasio de forma natural. Las personas con enfermedad renal o con hiperpotasemia (potasio alto en la sangre) deben vigilar su consumo de potasio y consultar con su nutricionista antes de consumir esta preparación con frecuencia."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF; 2015 [citado 2026 nov 1]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Onions, spring or scallions (includes tops and bulb), raw (FDC #170005). Beltsville (MD): USDA; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "American College of Culinary Medicine. Grilled Scallions [Internet]. 2024 jun 2 [citado 2026 nov 1]. Disponible en: https://mds.culinarymedicine.org/?p=18788"
+  ],
+  "imagen": "assets/img/recetas/CE03.jpg"
+}

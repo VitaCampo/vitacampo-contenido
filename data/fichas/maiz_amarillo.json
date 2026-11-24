@@ -1,0 +1,162 @@
+{
+  "slug": "maiz_amarillo",
+  "nombreComun": "Maíz Amarillo",
+  "nombreCientifico": "Zea mays L.",
+  "subtitulo": "El grano que ya era tesoro antes de que llegara el oro",
+  "imagen": "assets/img/fichas/maiz_amarillo.jpg",
+  "creditoImagen": "Tomada de Pixabay, licencia gratuita. https://pixabay.com/es/photos/ma%C3%ADz-ma%C3%ADz-en-la-mazorca-comida-2691456/",
+  "introduccion": "El maíz llevaba domesticado y cultivado por los pueblos originarios de América durante unos 9.000 años cuando llegaron los colonizadores españoles en busca de oro y riquezas. Lo que encontraron, sin buscarlo, fue un alimento que terminaría siendo mucho más determinante para la historia mundial que cualquier metal precioso: el maíz se convirtió en uno de los protagonistas del “Intercambio Colombino”, el intercambio de plantas, animales y alimentos entre América y el resto del mundo tras 1492, y hoy es uno de los cereales más cultivados del planeta.",
+  "porcionReferencia": "162 gramos (1 taza cocida)",
+  "tabla": [
+    {
+      "nutriente": "Energía",
+      "cantidad": "179,4 kcal",
+      "vdrMujer": "9,12%",
+      "vdrHombre": "7,68%"
+    },
+    {
+      "nutriente": "Carbohidratos",
+      "cantidad": "24,88 g",
+      "vdrMujer": "19,14%",
+      "vdrHombre": "19,14%"
+    },
+    {
+      "nutriente": "Vitamina K",
+      "cantidad": "12,15 mcg",
+      "vdrMujer": "20,25%",
+      "vdrHombre": "17,4%"
+    },
+    {
+      "nutriente": "Folato",
+      "cantidad": "49,2 mcg EFD",
+      "vdrMujer": "12,3%",
+      "vdrHombre": "12,3%"
+    },
+    {
+      "nutriente": "Vitamina A",
+      "cantidad": "106,5 mcg ER",
+      "vdrMujer": "15,2%",
+      "vdrHombre": "11,8%"
+    },
+    {
+      "nutriente": "Fósforo",
+      "cantidad": "75,2 mg",
+      "vdrMujer": "10,74%",
+      "vdrHombre": "10,74%"
+    },
+    {
+      "nutriente": "Fibra dietética",
+      "cantidad": "2,60 g",
+      "vdrMujer": "9,45%",
+      "vdrHombre": "7,95%"
+    }
+  ],
+  "conceptos": [
+    {
+      "titulo": "¿Qué significa el %VDR?",
+      "texto": "%VDR significa Valor de Referencia Diario; este término hace alusión al cubrimiento de la energía o el nutriente en mención, según las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Para esto, se hizo un promedio de las recomendaciones de energía y nutrientes de la Resolución 3803 de 2016 (RIEN) del grupo de personas de 19 años en adelante. Por lo tanto, la tabla nutricional está dirigida a personas sanas, mayores de edad."
+    },
+    {
+      "titulo": "Sobre la porción",
+      "texto": "el maíz amarillo seco no está en la Lista de Intercambios UdeA (que solo registra choclo enlatado). Se usó 162 g (1 taza cocida) según USDA FoodData Central (“Corn, Dried, Cooked”, FDC #788178)."
+    },
+    {
+      "titulo": "Sobre las fuentes de los datos",
+      "texto": "los valores de esta tabla provienen de USDA FoodData Central, ya que ni el TCAC-ICBF ni las RINAs reportan maíz amarillo seco en su forma cocida (solo crudo)."
+    },
+    {
+      "titulo": "Sobre la diferencia entre TCAC-ICBF y RINAs (grano crudo)",
+      "texto": "existe una discrepancia notable en fibra (7,3 g en TCAC-ICBF vs. 15,6 g en RINAs, por 100 g) — una diferencia mayor a la habitual entre estas dos fuentes, probablemente relacionada con diferencias varietales o metodológicas."
+    },
+    {
+      "titulo": "Sobre el sodio",
+      "texto": "esta porción aporta 357,5 mg de sodio (26% del VDR), un valor sorprendentemente alto para maíz. Esto refleja que la base de datos USDA utilizada registra preparaciones tal como las reportan las personas en encuestas dietéticas (que suelen incluir sal añadida durante la cocción), y no representa una propiedad natural del maíz sin sal agregada."
+    },
+    {
+      "titulo": "Sobre los carbohidratos",
+      "texto": "esta porción aporta 24,88 g de carbohidratos, equivalentes al 19,14% del requerimiento diario según el RIEN (130 g/día, igual para ambos sexos) — un aporte moderado-alto, coherente con el rol del maíz como cereal energético base de la dieta."
+    },
+    {
+      "titulo": "Sobre los tipos de fibra",
+      "texto": "la fibra dietética tiene dos tipos principales, cada uno con una función distinta en el cuerpo. La fibra insoluble no se disuelve en agua y actúa como una especie de “escoba natural” en el intestino: aumenta el volumen de las heces y acelera el tránsito intestinal, ayudando a prevenir el estreñimiento. La fibra soluble, en cambio, sí se disuelve en agua formando una sustancia similar a un gel, y se ha asociado con una absorción más lenta de azúcares y grasas. A diferencia de leguminosas como el frijol, el maíz aporta principalmente fibra insoluble (aproximadamente 88% del total), con una proporción mucho menor de fibra soluble (12%)."
+    },
+    {
+      "titulo": "Sobre la luteína y zeaxantina",
+      "texto": "esta porción aporta aproximadamente 935 mcg de estos carotenoides — un valor cuantificado real, aunque sin declaración formal por no contar con una referencia de ingesta diaria en el RIEN para este compuesto."
+    },
+    {
+      "titulo": "Sobre el fósforo",
+      "texto": "este mineral trabaja junto con el calcio en la formación y el mantenimiento de huesos y dientes, y participa en los procesos que el cuerpo usa para producir energía a nivel celular."
+    },
+    {
+      "titulo": "Sobre las declaraciones",
+      "texto": "según la Resolución 810 de 2021, esta porción califica como “buena fuente” (≥15% VRN) de Vitamina K. Ningún nutriente alcanza el umbral de “excelente fuente” (≥30% VRN) — el maíz amarillo se perfila como una fuente energética moderada con aportes discretos de varios micronutrientes."
+    }
+  ],
+  "nutriDato": {
+    "tipo": "dato",
+    "titulo": "Nutri Dato",
+    "texto": "¿Sabía usted que las crispetas (palomitas de maíz) son, en realidad, un grano entero al 100% — uno de los pocos snacks que se consumen así, sin refinar ni quitarles ninguna parte del grano? Además, algunos de sus compuestos naturales forman estructuras junto con el almidón que hacen su digestión más lenta, lo que puede ayudar a evitar subidas rápidas de azúcar en sangre después de comer. Preparadas sin exceso de grasa o azúcar añadida, pueden ser una opción de snack más interesante nutricionalmente de lo que muchas personas piensan."
+  },
+  "descripcion": "El maíz amarillo aporta carbohidratos complejos, fibra —principalmente insoluble (ver aclaraciones)— y proteínas vegetales llamadas prolaminas y glutelinas (dos tipos de proteína propias de los cereales, distintas a las que aporta la carne o los lácteos). Aunque hoy pensamos en “maíz amarillo” como si fuera un solo alimento, en realidad existen cientos de variedades con colores, texturas y usos distintos — una diversidad que en Colombia está cada vez más amenazada, y que profundizamos más adelante en esta ficha.",
+  "beneficios": [
+    {
+      "icono": "🦴",
+      "titulo": "Coagulación y huesos",
+      "texto": "su vitamina K participa en el proceso que detiene un sangrado y contribuye a la salud ósea."
+    },
+    {
+      "icono": "👁️",
+      "titulo": "Visión",
+      "texto": "su vitamina A contribuye al funcionamiento normal de la visión."
+    },
+    {
+      "icono": "🧬",
+      "titulo": "Formación de células",
+      "texto": "su folato favorece la formación de nuevas células, clave en embarazo y crecimiento."
+    }
+  ],
+  "tarjetas": [
+    {
+      "tipo": "capsula",
+      "titulo": "Maíz y salud ocular",
+      "texto": "El maíz amarillo debe su color a la luteína y la zeaxantina, dos carotenoides (pigmentos naturales de las plantas) que el cuerpo no puede producir por sí solo y que deben obtenerse de la alimentación. Estos compuestos se acumulan en la mácula (una zona central de la retina, la capa del ojo sensible a la luz), donde actúan como una especie de filtro natural: absorben parte de la luz que llega al ojo y ayudan a protegerlo del desgaste con el tiempo. Se concentran especialmente en las variedades amarillas de maíz, más que en otras. Se han estudiado por su posible papel en la salud visual a largo plazo, aunque esto no reemplaza el control oftalmológico regular."
+    },
+    {
+      "tipo": "verdad",
+      "titulo": "¿Todo el maíz es amarillo?",
+      "texto": "No. Existen variedades de maíz azul, morado, rojo y casi negro, cuyo color se debe a las antocianinas — los mismos compuestos antioxidantes que le dan color a los arándanos y las moras. Estas variedades pigmentadas son distintas al maíz amarillo que consumimos habitualmente, y sus compuestos se concentran principalmente en la capa externa del grano."
+    },
+    {
+      "tipo": "consejo",
+      "titulo": "Cómo guardar el maíz para evitar la aparición de micotoxinas",
+      "texto": "El maíz almacenado en condiciones de humedad o mal secado es propenso a desarrollar micotoxinas (sustancias tóxicas producidas por hongos, como las aflatoxinas), que no se eliminan por completo con la cocción y pueden afectar la salud si se consumen de forma repetida. No se trata de un riesgo del maíz en sí, sino de cómo se seca y se guarda después de la cosecha. Para prevenirlo, guárdelo en un lugar fresco, seco y ventilado, en un recipiente cerrado que lo proteja de la humedad y de insectos; evite las bolsas plásticas cerradas sin ventilación, ya que retienen humedad y favorecen la aparición de hongos. Revise periódicamente que no haya grano húmedo, oscurecido o con olor a humedad, y si nota moho, manchas oscuras o un olor extraño, no lo consuma."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Una técnica ancestral: el maíz cocido con cal",
+      "texto": "Cocinar el maíz con cal —la técnica detrás de la arepa— es una práctica que viene de los pueblos originarios de América, incluida la cultura Muisca en la sabana de Cundinamarca y Boyacá. No es solo una costumbre: esta cocción afloja la cáscara del grano, facilita molerlo, y hace que la masa quede firme y moldeable, ideal para dar forma a la arepa. Además de mejorar la textura, esta técnica aumenta el calcio disponible del maíz y ayuda a eliminar buena parte de las sustancias tóxicas que a veces produce el grano mal almacenado — una muestra de cómo el conocimiento tradicional resolvió, sin saberlo en términos científicos, varios problemas a la vez."
+    },
+    {
+      "tipo": "agro",
+      "titulo": "Las semillas que estamos dejando de sembrar",
+      "texto": "Colombia identificó originalmente 23 razas nativas de maíz, adaptadas durante generaciones a las condiciones particulares de cada región del país. Hoy, buena parte de esa diversidad está en riesgo: el predominio de híbridos comerciales y los cambios en los hábitos de consumo han llevado a que muchas variedades criollas se dejen de sembrar. Programas de recuperación de semillas nativas, liderados por comunidades indígenas y campesinas junto con instituciones agrícolas, buscan conservar este patrimonio. Una condición que todas las variedades comparten es su necesidad de luz: el maíz es una planta de fotosíntesis C4, muy eficiente convirtiendo luz solar en energía, y requiere entre 6 y 8 horas de sol directo al día — no tolera la sombra, y si crece con poca luz sus tallos se alargan buscándola, quedando más delgados y propensos a quebrarse. Una práctica agroecológica tradicional que aprovecha justamente esta necesidad es la milpa: sembrar maíz junto con fríjol y calabaza. El fríjol trepa por el tallo del maíz para alcanzar el sol y fija nitrógeno en el suelo a través de sus raíces (ver Ficha de Frijol Cargamanto), mientras las hojas anchas de la calabaza cubren el suelo, conservando la humedad y evitando el crecimiento de maleza — tres cultivos beneficiándose mutuamente en el mismo espacio."
+    }
+  ],
+  "bibliografia": [
+    "1. Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de composición de alimentos colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF [citado 2026]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "2. Correa Vélez NR, Manjarrés Correa LM. Recopilación de información nutricional de alimentos (RINAs). Medellín: Universidad de Antioquia; 2019.",
+    "3. Ministerio de Salud y Protección Social, Colombia. Resolución 3803 de 2016, por la cual se establecen las RIEN para la población colombiana. Bogotá: Minsalud; 2016.",
+    "4. Ministerio de Salud y Protección Social, Colombia. Resolución 810 de 2021, por la cual se establece el reglamento técnico sobre los requisitos de etiquetado nutricional y frontal. Bogotá: Minsalud; 2021.",
+    "5. U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Corn, Dried, Cooked (FDC #788178) [Internet]. Beltsville: USDA; 2019 [citado 2026].",
+    "6. Food and Agriculture Organization of the United Nations (FAO). El maíz en la nutrición humana. Roma: FAO; 1992. (Colección FAO: Alimentación y Nutrición, N.º 25). Disponible en: https://www.fao.org/4/t0395s/T0395S00.htm",
+    "7. Urango ML. Algunos componentes generales, particulares y singulares del maíz en Colombia y México: Componentes del maíz en la nutrición humana. Medellín: Universidad de Antioquia; 2017. p. 135-155.",
+    "8. Li JS. The Columbian exchange: maize's global journey and ecological impact. Maize Genomics and Genetics. 2024;15(3):102-110.",
+    "9. Sánchez-Nuño YA, Zermeño-Ruiz M, Vázquez-Paulino OD, Nuño K, Villarruel-López A. Bioactive Compounds from Pigmented Corn (Zea mays L.) and Their Effect on Health. Biomolecules. 2024;14(3):338.",
+    "10. González-Nimi ED, Gutiérrez-Uribe JA, Monribot-Villanueva JL, Preciado-Ortiz RE, Escalante-Aburto A. Effect of the phytochemical profile from yellow corn on the formation of complex structures that affect starch accessibility and digestion of popcorn (Zea mays var. ‘Everta’). Food Chem. 2026;498:147233.",
+    "11. Acuña CA, Díaz GJ, Espitia ME. Aflatoxinas en maíz: reporte de caso en la costa atlántica colombiana. Rev Med Vet Zoot. 2005;52:156-162.",
+    "12. Ramírez Durán J, Hernández Nopsa JF, Rincón Manrique LF, Osorio Guerrero KV, Guzmán Hernández MA, Barreto Rojas JA. La Rematriación de maíz (Zea mays L.) nativo para el pueblo indígena Kamëntsá-biyá, en el departamento del Putumayo, Colombia. Av Cienc Ing. 2024;16(2):e3381.",
+    "13. Casas Hinestroza JL, Joya Cárdenas LP, Arrieta Palomino JA. Etnoquímica en los saberes ancestrales sobre los alimentos en la región cundiboyacense: un diálogo entre pasado y presente. Rev Interam Investig Educ Pedagog. 2025;18(1):267-291."
+  ],
+  "autor": "Alejandra Madrigal Buitrago · Practicante ESAN · Universidad de Antioquia · 2026"
+}

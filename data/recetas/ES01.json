@@ -1,0 +1,186 @@
+{
+  "codigo": "ES01",
+  "nombre": "Arroz con espinaca",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Keesha's Kitchen, Unsplash — Licencia Unsplash (uso libre) (Imagen ilustrativa de arroz con espinaca; el pescado es una guarnición decorativa que no hace parte de la receta)",
+  "fuenteTexto": "Fuente: elaborada en colaboración con los profesionales técnicos de la Estrategia de Experiencias Gastronómicas y Aprovechamiento de Alimentos, Equipo de Seguridad Alimentaria y Nutricional del Distrito Especial de Ciencia, Tecnología e Innovación (ESAN – Distrito de Medellín), 2026.",
+  "porcionTexto": "1 taza y media (≈260 g)",
+  "tiempo": "35 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de vitamina A",
+    "Buena fuente de folato",
+    "Bajo en grasa"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "233 kcal",
+      "933 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "5,5 g",
+      "21,8 g",
+      "7,6 %",
+      "7,1 %"
+    ],
+    [
+      "Carbohidratos",
+      "44,0 g",
+      "176,2 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "3,9 g",
+      "15,7 g",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "2,4 g",
+      "9,6 g",
+      "8,7 %",
+      "7,3 %"
+    ],
+    [
+      "Vitamina A*",
+      "507,8 µg ER",
+      "2031,1 µg ER",
+      "72,5 %",
+      "56,4 %"
+    ],
+    [
+      "Folato (B9)*",
+      "97,7 µg",
+      "391,0 µg",
+      "24,4 %",
+      "24,4 %"
+    ],
+    [
+      "Hierro",
+      "2,7 mg",
+      "10,7 mg",
+      "13,7 %",
+      "20,6 %"
+    ],
+    [
+      "Sodio",
+      "831,4 mg",
+      "3325,6 mg",
+      "60,5 % (AI)",
+      "60,5 % (AI)"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Espinaca",
+      "62 g",
+      "248 g",
+      "1 taza picada",
+      "4 tazas"
+    ],
+    [
+      "Cebolla cabezona blanca",
+      "18 g",
+      "72 g",
+      "2 cucharadas picadas",
+      "8 cucharadas"
+    ],
+    [
+      "Ajo",
+      "0,6 g",
+      "2,4 g",
+      "1 pizca",
+      "1 diente pequeño"
+    ],
+    [
+      "Agua",
+      "125 mL",
+      "500 mL",
+      "½ taza",
+      "2 tazas"
+    ],
+    [
+      "Arroz blanco (crudo)",
+      "50 g",
+      "200 g",
+      "¼ taza",
+      "1 taza"
+    ],
+    [
+      "Aceite de girasol",
+      "3,4 g (3,7 mL)",
+      "13,6 g (14,8 mL)",
+      "¾ cucharadita",
+      "1 cucharada"
+    ],
+    [
+      "Sal",
+      "2 g",
+      "8 g",
+      "½ cucharadita",
+      "2 cucharaditas"
+    ]
+  ],
+  "pasos": [
+    "**Lave, limpie y desinfecte** la espinaca, la cebolla y el ajo (ver la tarjeta de limpieza y desinfección). **Seque** con papel o paño limpio.",
+    "**Pique** finamente la cebolla y el ajo con ayuda de tabla y cuchillo.",
+    "**Licúe** las hojas de espinaca en la mitad del agua. Reserve.",
+    "En una olla o caldero grueso, a fuego medio, **sofría** el ajo, la cebolla y el arroz con el aceite, hasta que el arroz esté transparente, sin dejarlo quemar.",
+    "**Agregue** la espinaca licuada y el resto del agua al arroz, y **adicione** la sal.",
+    "**Continúe** la cocción sin tapar y sin revolver demasiado, hasta que se seque el arroz.",
+    "**Tape** y **cocine** a temperatura baja por 8 a 10 minutos.",
+    "**Apague** y **deje reposar** unos minutos antes de servir, para que sea más fácil de servir."
+  ],
+  "notaPasos": "Los tallos de la espinaca se pueden picar y aprovechar en una sopa de verduras, en una crema, o sofritos como parte de unos huevos revueltos con aliños.",
+  "usoSugerido": "Sirva como acompañamiento de carnes, huevos o fríjoles, o como plato principal vegetariano ligero.",
+  "nutriConsejo": {
+    "icono": "🌾",
+    "titulo": "Espinaca, vitamina A y hierro",
+    "cuerpo": "La espinaca es fuente importante de betacaroteno (precursor de vitamina A) y de folato, nutriente clave en la formación de glóbulos rojos y en el embarazo. También aporta hierro no hemo; consumirla junto con una fuente de vitamina C (como un jugo de limón o de fruta) puede favorecer su absorción. Por su aporte de sodio, las personas con hipertensión o enfermedad renal deben moderar la cantidad de sal añadida."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó con 260 g de arroz con espinaca ya cocido (≈1 taza y media)."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque, además de las técnicas básicas, requiere el punto de cocción típico del arroz colombiano (sofreír o \"nacarar\" el grano, no revolver de más y ajustar el fuego), una técnica que toma práctica."
+    },
+    {
+      "label": "Sobre la cantidad de arroz:",
+      "texto": "la receta original no especificaba la cantidad de arroz, solo el agua de cocción (paso 4 de la preparación menciona el arroz, pero la lista de ingredientes no lo cuantificaba). Se estimó la cantidad de arroz crudo a partir de la proporción estándar colombiana de 1 taza de arroz por 2 tazas de agua (1:2 por volumen); con 125 mL de agua por porción, esto equivale a aproximadamente 50 g de arroz crudo por porción. Esta es una estimación declarada de proporción, no un dato de la receta original."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "las vitaminas y minerales se calcularon por porción. El hierro llega a 20,6 % del valor diario recomendado en hombres y a 13,7 % en mujeres; como no alcanza el 15 % en ambos sexos, no se declara como etiqueta. \"Bajo en grasa\" se calculó por 100 g de producto (1,5 g/100 g)."
+    },
+    {
+      "label": "Sobre el hierro:",
+      "texto": "la recomendación de hierro es más alta en mujeres en edad reproductiva (19,5 mg/día) que en hombres (13 mg/día) según la Res. 3803 de 2016, por lo que un mismo aporte de hierro puede calificar como \"buena fuente\" en hombres y no alcanzar el umbral en mujeres."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Arroz Supremo. Receta de arroz blanco: proporción de 1 taza de arroz por 2 tazas de agua. Cali: Arroz Supremo; 2024."
+  ],
+  "fuenteCorta": "Fuente: elaborada con el equipo de gastrónomos del ESAN, 2026.",
+  "imagen": "assets/img/recetas/ES01.jpg"
+}

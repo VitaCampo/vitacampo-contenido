@@ -1,0 +1,249 @@
+{
+  "codigo": "MA02",
+  "nombre": "Torta kikirikí (croquetas de pollo y maíz)",
+  "imagenSize": {
+    "width": 600,
+    "height": 400
+  },
+  "imagenCredito": "Imagen: Towfiqu barbhuiya, Pexels — Licencia Pexels (uso libre). Fotografía \"Yellow Corn Kernels in White Ceramic Bowl\": https://www.pexels.com/photo/12408945/ (Imagen ilustrativa del ingrediente)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de una receta del recetario \"Preparaciones: cocinando ando... ando cocinando...\" (Libreta 1, 2010) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (2 bolitas horneadas, ≈119 g)",
+  "tiempo": "35 minutos",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [
+    "Excelente fuente de proteína",
+    "Buena fuente de niacina (B3)"
+  ],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "213 kcal",
+      "850 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína*",
+      "18,0 g",
+      "71,8 g",
+      "24,9 %",
+      "23,1 %"
+    ],
+    [
+      "Carbohidratos",
+      "5,3 g",
+      "21,0 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "13,3 g",
+      "53,3 g",
+      "—",
+      "—"
+    ],
+    [
+      "— Grasa saturada",
+      "3,6 g",
+      "14,5 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "52,5 mg",
+      "210,0 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Fibra total",
+      "1,0 g",
+      "3,8 g",
+      "3,5 %",
+      "2,9 %"
+    ],
+    [
+      "Niacina (B3)*",
+      "3,7 mg",
+      "15,0 mg",
+      "26,7 %",
+      "23,4 %"
+    ],
+    [
+      "Vitamina K",
+      "5,2 µg",
+      "20,7 µg",
+      "8,6 %",
+      "7,4 %"
+    ],
+    [
+      "Folato (B9)",
+      "15,1 µg",
+      "60,5 µg",
+      "3,8 %",
+      "3,8 %"
+    ],
+    [
+      "Hierro",
+      "1,1 mg",
+      "4,3 mg",
+      "5,6 %",
+      "8,3 %"
+    ],
+    [
+      "Sodio",
+      "247,5 mg",
+      "990,0 mg",
+      "18,0 %",
+      "18,0 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Carne de pollo, molida",
+      "75 g",
+      "300 g",
+      "½ taza",
+      "2 tazas"
+    ],
+    [
+      "Maíz amarillo tierno (choclo), desgranado",
+      "6 g",
+      "24 g",
+      "1 cucharadita",
+      "1½ cucharadas"
+    ],
+    [
+      "Maíz blanco tierno (choclo), desgranado",
+      "6 g",
+      "24 g",
+      "1 cucharadita",
+      "1½ cucharadas"
+    ],
+    [
+      "Cebolla de rama",
+      "2,5 g",
+      "10 g",
+      "¼ ramita",
+      "1 ramita pequeña"
+    ],
+    [
+      "Cebolla cabezona blanca",
+      "27 g",
+      "108 g",
+      "2 cucharadas picada",
+      "½ taza picada"
+    ],
+    [
+      "Ajo",
+      "1 g",
+      "4 g",
+      "¼ diente",
+      "1 diente"
+    ],
+    [
+      "Tomillo fresco",
+      "0,2 g",
+      "0,8 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Cilantro",
+      "0,3 g",
+      "1,2 g",
+      "1 pizca",
+      "¼ cucharadita picada"
+    ],
+    [
+      "Perejil",
+      "0,3 g",
+      "1,2 g",
+      "1 pizca",
+      "¼ cucharadita picada"
+    ],
+    [
+      "Sal",
+      "0,5 g",
+      "2 g",
+      "1 pizca",
+      "¼ cucharadita"
+    ],
+    [
+      "Pimienta negra molida",
+      "0,1 g",
+      "0,4 g",
+      "1 pizca",
+      "1 pizca generosa"
+    ],
+    [
+      "Aceite de girasol",
+      "0,5 mL",
+      "2 mL",
+      "¼ cucharadita",
+      "1 cucharadita"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** la cebolla de rama, la cebolla cabezona, el ajo, el tomillo, el cilantro y el perejil (ver la tarjeta de limpieza y desinfección).",
+    "**Pique** finamente la cebolla de rama, la cebolla cabezona, el ajo y el tomillo.",
+    "En un sartén con el aceite, **sofría** la cebolla de rama, la cebolla cabezona, el ajo y el tomillo a fuego alto, sazonando con parte de la sal y la pimienta, hasta que doren ligeramente. **Retire** y **deje enfriar** unos 5 minutos.",
+    "Aparte, en el mismo sartén, **saltee** los granos de maíz amarillo y blanco hasta que se tuesten un poco.",
+    "**Mezcle** en un recipiente el pollo molido con el sofrito de cebolla, el maíz tostado, el cilantro, el perejil y la sal y la pimienta restantes. **Combine** bien.",
+    "Con las manos húmedas, **forme** pequeñas bolitas aplanadas con la mezcla.",
+    "**Engrase** una lata (o use papel para hornear) y **hornee** a 180 °C entre 12 y 15 minutos, hasta que estén bien cocidas. También puede asarlas en sartén, plancha o parrilla."
+  ],
+  "notaPasos": "Sirva recién horneadas, acompañadas de una ensalada o una porción de carbohidrato.",
+  "usoSugerido": "Sirva como plato principal en el almuerzo o la cena, acompañado de ensalada fresca o arroz.",
+  "nutriConsejo": {
+    "icono": "🍗",
+    "titulo": "Torta kikirikí: croquetas de pollo y maíz",
+    "cuerpo": "Estas croquetas son excelente fuente de proteína y buena fuente de niacina (vitamina B3), ambas aportadas principalmente por el pollo. Por llevar carne de pollo molida, también aportan colesterol (cerca de 52 mg por porción): las personas con dislipidemias pueden vigilar su consumo. El sodio proviene principalmente de la sal agregada: las personas con hipertensión arterial pueden reducir la cantidad."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "se calculó para 1 porción (2 bolitas horneadas, ≈119 g), con los ingredientes escalados también a 4 porciones."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque, aunque cada técnica (sofreír, tostar, mezclar, formar, hornear) es sencilla por separado, la receta tiene varios pasos y componentes que se preparan por separado antes de combinarse."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "se adaptó de \"Torta kikirikí\", receta de la sección \"Maíz\" del recetario \"Preparaciones: cocinando ando... ando cocinando...\" (Libreta 1, 2010) (ver bibliografía), ajustando las medidas caseras originales al estándar de porción de VitaCampo. Se conservó la combinación de maíz tierno blanco y amarillo del original."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "\"excelente fuente\" de proteína (≥20 % del valor de referencia nutricional en ambos sexos, principalmente por el pollo) y \"buena fuente\" de niacina B3 (≥15 % y <30 % VDR en ambos sexos) se calcularon por porción (Res. 810 de 2021). No aplican declaraciones \"bajo en\" de grasa, grasa saturada ni sodio: calculadas por 100 g de producto (11,2 g de grasa, 3,0 g de grasa saturada y 207 mg de sodio), las tres superan esos límites."
+    },
+    {
+      "label": "Sobre el colesterol:",
+      "texto": "la carne de pollo molida aporta colesterol (52,5 mg por porción, 210,0 mg para 4 porciones). Las personas con dislipidemias pueden considerar sustituirla por pechuga de pollo sin piel, una opción más magra."
+    },
+    {
+      "label": "Sobre el sodio:",
+      "texto": "esta porción aporta cerca de 247,5 mg de sodio (18,0 % de la ingesta adecuada diaria), principalmente por la sal agregada. Las personas con hipertensión arterial o enfermedad renal pueden reducir la cantidad de sal."
+    },
+    {
+      "label": "Sobre la proteína:",
+      "texto": "la Res. 3803 de 2016 expresa la recomendación de proteína por kilo de peso (1,11 g por kg al día). Para calcular el porcentaje se usó un peso de referencia de 70 kg para hombres (77,7 g al día) y de 65 kg para mujeres (72,15 g al día). Por eso este porcentaje es una estimación y cambia según el peso de cada persona."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Instituto Colombiano de Bienestar Familiar (ICBF). Tabla de Composición de Alimentos Colombianos (TCAC) [Internet]. Bogotá, D.C.: ICBF; 2015 [citado 2026 nov 1]. Disponible en: https://www.icbf.gov.co/system/files/tcac_web.pdf",
+    "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Onions, spring or scallions (includes tops and bulb), raw (FDC #170005). Beltsville (MD): USDA; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Agencia Presidencial para la Acción Social y la Cooperación Internacional (Acción Social), Red de Seguridad Alimentaria (ReSA), Proyecto de Fortalecimiento a la Seguridad Alimentaria y Nutricional (PROSEAN), Universidad de Antioquia, Alcaldía de Medellín (Secretaría de Bienestar Social). Preparaciones: cocinando ando... ando cocinando... Libreta 1. Medellín: Acción Social; 2010. ISBN 978-958-98962-8-0."
+  ],
+  "imagen": "assets/img/recetas/MA02.jpg"
+}

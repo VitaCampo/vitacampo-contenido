@@ -1,0 +1,179 @@
+{
+  "codigo": "RE02",
+  "nombre": "Mousse de remolacha",
+  "imagenSize": {
+    "width": 327,
+    "height": 450
+  },
+  "imagenCredito": "Imagen: recetario \"Alimentación y nutrición con sabor\" (Alcaldía de Medellín, ESAN, 2022)",
+  "fuenteTexto": "Fuente: elaboración propia VitaCampo, 2026, adaptación de \"Mousse de remolacha\" del recetario \"Alimentación y nutrición con sabor\" (Alcaldía de Medellín, ESAN, 2022) (ver bibliografía o Conceptos y aclaraciones).",
+  "porcionTexto": "1 porción (≈1 vaso pequeño, ≈153 g)",
+  "tiempo": "30 minutos + refrigeración",
+  "porciones": "4 porciones",
+  "dificultad": "Media",
+  "etiquetas": [],
+  "analisisNutricional": [
+    [
+      "Energía",
+      "159 kcal",
+      "634 kcal",
+      "—",
+      "—"
+    ],
+    [
+      "Proteína",
+      "5,5 g",
+      "22,1 g",
+      "7,6 %",
+      "7,1 %"
+    ],
+    [
+      "Carbohidratos",
+      "26,9 g",
+      "107,4 g",
+      "—",
+      "—"
+    ],
+    [
+      "Grasa total",
+      "3,2 g",
+      "12,8 g",
+      "—",
+      "—"
+    ],
+    [
+      "Colesterol",
+      "55,9 mg",
+      "223,6 mg",
+      "—",
+      "—"
+    ],
+    [
+      "Folato (B9)",
+      "52,5 µg",
+      "210,1 µg",
+      "13,1 %",
+      "13,1 %"
+    ],
+    [
+      "Calcio",
+      "139,2 mg",
+      "556,8 mg",
+      "12,7 %",
+      "13,3 %"
+    ],
+    [
+      "Sodio",
+      "94,9 mg",
+      "379,7 mg",
+      "6,9 %",
+      "6,9 %"
+    ]
+  ],
+  "ingredientes": [
+    [
+      "Remolacha",
+      "37,5 g",
+      "150,0 g",
+      "¼ unidad mediana",
+      "1 unidad mediana"
+    ],
+    [
+      "Panela en polvo",
+      "7,0 g",
+      "28,0 g",
+      "1½ cucharaditas",
+      "2 cucharadas"
+    ],
+    [
+      "Yema de huevo",
+      "11,2 g",
+      "45,0 g",
+      "1 yema",
+      "3 yemas"
+    ],
+    [
+      "Yogur de durazno",
+      "45,0 mL",
+      "180,0 mL",
+      "¼ vaso",
+      "1 vaso"
+    ],
+    [
+      "Leche",
+      "45,0 mL",
+      "180,0 mL",
+      "¼ vaso",
+      "1 vaso"
+    ],
+    [
+      "Maicena (fécula de maíz)",
+      "7,0 g",
+      "28,0 g",
+      "1½ cucharaditas",
+      "2 cucharadas"
+    ],
+    [
+      "Endulzante",
+      "0,4 g",
+      "1,8 g",
+      "½ cucharadita (al gusto)",
+      "½ cucharada (al gusto)"
+    ]
+  ],
+  "pasos": [
+    "**Lave y desinfecte** la remolacha (ver la tarjeta de limpieza y desinfección).",
+    "**Coulis** (salsa espesa) de remolacha: en una olla con suficiente agua, **cocine** la remolacha hasta que ablande muy bien. **Deje enfriar** un poco.",
+    "**Lleve** la remolacha a una licuadora junto con la panela y un poco de agua, y **procese** muy bien.",
+    "**Incorpore** el licuado en una sartén y **cocine** hasta obtener una salsa homogénea. **Retire** del fuego y **deje enfriar**.",
+    "Crema pastelera: en un recipiente, **mezcle** la yema de huevo, la leche, el yogur y la maicena.",
+    "**Lleve** la mezcla a una olla y **cocine** a fuego bajo, **revolviendo** constantemente con un batidor o espátula, sin dejar que se formen grumos, hasta obtener una crema densa, suave y homogénea.",
+    "**Retire** del fuego y **deje enfriar** un poco.",
+    "En un molde o vaso, **incorpore** parte de la crema pastelera, luego el coulis de remolacha, y **repita** 2 capas más. **Lleve** a refrigeración.",
+    "Una vez compacte, **sirva** y **consuma**."
+  ],
+  "usoSugerido": "Sirva frío, como postre. Puede decorar con hierbabuena o fruta.",
+  "nutriConsejo": {
+    "icono": "🍮",
+    "titulo": "Mousse de remolacha: un postre con menos azúcar añadida",
+    "cuerpo": "Este mousse usa remolacha y panela en lugar de azúcar refinada y colorantes artificiales. La panela pasa por menos procesamiento industrial, pero sigue siendo azúcar añadida y debe consumirse con moderación, igual que el azúcar refinada; en cantidades comparables, no hay evidencia de que sea nutricionalmente superior. Por el huevo que lleva, aporta colesterol: las personas con dislipidemias pueden tenerlo en cuenta dentro de su consumo diario."
+  },
+  "conceptos": [
+    {
+      "label": "Sobre la porción:",
+      "texto": "el libro indica \"4 personas\"; se tomó directamente como 4 porciones VitaCampo, dando 1 porción de ≈153 g."
+    },
+    {
+      "label": "Sobre la dificultad:",
+      "texto": "se clasifica como \"Media\" porque requiere cocinar la crema pastelera sin que se formen grumos y armar las capas antes de refrigerar."
+    },
+    {
+      "label": "Sobre el origen de esta receta:",
+      "texto": "adaptada de \"Mousse de remolacha\", del recetario \"Alimentación y nutrición con sabor\" (Alcaldía de Medellín, ESAN, 2022). Imagen oficial del mismo recetario."
+    },
+    {
+      "label": "Sobre las etiquetas nutricionales:",
+      "texto": "en esta porción, ningún nutriente alcanza el 15 % del valor diario recomendado, por lo que la ficha no lleva insignias de \"fuente\"."
+    },
+    {
+      "label": "Sobre el colesterol:",
+      "texto": "la yema de huevo aporta 55,9 mg de colesterol por porción. Las personas con dislipidemias pueden tenerlo en cuenta dentro de su consumo diario."
+    },
+    {
+      "label": "Sobre la cocción segura:",
+      "texto": "cocine el huevo hasta que la clara y la yema estén firmes; no consuma huevo crudo ni poco cocido (Organización Mundial de la Salud, ver bibliografía)."
+    },
+    {
+      "label": "Sobre el % VDR de la energía:",
+      "texto": "las calorías no llevan un porcentaje del valor diario de referencia, a diferencia de las vitaminas y los minerales. La recomendación de energía es la referencia de cuánto necesita consumir una persona en todo el día, no un aporte que cada alimento deba cubrir en cierto porcentaje. Por eso la energía, la proteína, los carbohidratos y la grasa se muestran en sus unidades (kcal o gramos), sin columna de %."
+    }
+  ],
+  "bibliografia": [
+    "Correa N, Manjarrés LM. Recopilación de información de nutrientes en los alimentos – RINAs. Medellín: Universidad de Antioquia; 2019.",
+    "Ministerio de Salud y Protección Social. Resolución 3803 de 2016, por la cual se establecen las Recomendaciones de Ingesta de Energía y Nutrientes (RIEN) para la población colombiana. Bogotá: Minsalud; 2016.",
+    "Ministerio de Salud y Protección Social. Resolución 810 de 2021, por la cual se modifica la Resolución 333 de 2011 sobre el reglamento técnico de rotulado o etiquetado nutricional que deben cumplir los alimentos envasados para consumo humano. Bogotá: Minsalud; 2021.",
+    "Alcaldía de Medellín, Distrito de Ciencia, Tecnología e Innovación, Equipo de Seguridad Alimentaria y Nutricional (ESAN). Alimentación y nutrición con sabor: recetario. 1a ed. Medellín: Alcaldía de Medellín; 2022.",
+    "World Health Organization. Five keys to safer food manual. Geneva: WHO; 2006."
+  ],
+  "imagen": "assets/img/recetas/RE02.jpg"
+}
